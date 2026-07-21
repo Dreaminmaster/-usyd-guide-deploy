@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuild and verify the published USYD Bible static HTML payload."""
+"""Rebuild, enrich and verify the published USYD Bible static site."""
 from __future__ import annotations
 
 import argparse
@@ -7,7 +7,20 @@ import base64
 import gzip
 import hashlib
 import json
+import shutil
 from pathlib import Path
+
+
+def sha256(data: bytes) -> str:
+    return hashlib.sha256(data).hexdigest()
+
+
+def require_bytes(label: str, data: bytes, expected_bytes: int, expected_sha: str) -> None:
+    if len(data) != int(expected_bytes):
+        raise RuntimeError(f"{label} bytes: expected {expected_bytes}, got {len(data)}")
+    actual = sha256(data)
+    if actual != expected_sha:
+        raise RuntimeError(f"{label} sha256: expected {expected_sha}, got {actual}")
 
 
 def main() -> None:
@@ -28,7 +41,7 @@ def main() -> None:
     for index, path in enumerate(parts):
         clean = "".join(path.read_text(encoding="utf-8").split())
         clean_parts.append(clean)
-        actual = hashlib.sha256(clean.encode("ascii")).hexdigest()
+        actual = sha256(clean.encode("ascii"))
         expected = expected_hashes[index]
         if actual != expected:
             mismatches.append(f"{path}: expected {expected}, got {actual}, chars={len(clean)}")
@@ -43,30 +56,64 @@ def main() -> None:
     if len(packed) != int(manifest["gzip_bytes"]):
         raise RuntimeError(f"gzip bytes: expected {manifest['gzip_bytes']}, got {len(packed)}")
 
-    html = gzip.decompress(packed)
-    if len(html) != int(manifest["html_bytes"]):
-        raise RuntimeError(f"html bytes: expected {manifest['html_bytes']}, got {len(html)}")
-
-    digest = hashlib.sha256(html).hexdigest()
-    if digest != manifest["sha256"]:
-        raise RuntimeError(f"sha256: expected {manifest['sha256']}, got {digest}")
-
-    text = html.decode("utf-8")
-    markers = (
+    base_html = gzip.decompress(packed)
+    require_bytes(
+        "payload html",
+        base_html,
+        manifest["payload_html_bytes"],
+        manifest["payload_sha256"],
+    )
+    base_text = base_html.decode("utf-8")
+    for marker in (
         "USYD Bible · 悉尼大学新生终极手册",
         "找到官方答案",
         "数字学生证加入 Apple Wallet",
         "Card Management",
         "Tracking totals",
         "国际学生抵达后必须更新",
-    )
-    missing = [marker for marker in markers if marker not in text]
-    if missing:
-        raise RuntimeError(f"missing content markers: {missing}")
+    ):
+        if marker not in base_text:
+            raise RuntimeError(f"missing base content marker: {marker}")
+
+    assets = manifest["assets"]
+    asset_data: dict[str, bytes] = {}
+    for asset in assets:
+        path = Path(asset["path"])
+        data = path.read_bytes()
+        require_bytes(str(path), data, asset["bytes"], asset["sha256"])
+        asset_data[str(path)] = data
+
+    css_tag = '<link rel="stylesheet" href="assets/source-labels.css">\n'
+    js_tag = '<script src="assets/source-labels.js"></script>\n'
+    if "assets/source-labels.css" in base_text or "assets/source-labels.js" in base_text:
+        raise RuntimeError("source-label assets already injected into payload")
+    final_text = base_text.replace("</head>", css_tag + "</head>", 1)
+    final_text = final_text.replace("</body>", js_tag + "</body>", 1)
+    final_html = final_text.encode("utf-8")
+    require_bytes("published html", final_html, manifest["html_bytes"], manifest["sha256"])
+
+    js_text = asset_data["assets/source-labels.js"].decode("utf-8")
+    for marker in (
+        "内容留在本站，来源清楚标注",
+        "官方事实",
+        "官方系统路径",
+        "学生经验",
+        "编辑整理",
+        "展开原始页面链接",
+        "第六步：手机丢失或被盗时",
+    ):
+        if marker not in js_text:
+            raise RuntimeError(f"missing provenance marker: {marker}")
 
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_bytes(html)
+    output.write_bytes(final_html)
+    for asset in assets:
+        source = Path(asset["path"])
+        destination = output.parent / asset["path"]
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(source, destination)
+
     print(json.dumps({
         "status": "verified",
         "edition": manifest["edition"],
@@ -74,8 +121,10 @@ def main() -> None:
         "parts": len(parts),
         "base64_chars": len(encoded),
         "gzip_bytes": len(packed),
-        "html_bytes": len(html),
-        "sha256": digest,
+        "payload_html_bytes": len(base_html),
+        "html_bytes": len(final_html),
+        "sha256": sha256(final_html),
+        "assets": [asset["path"] for asset in assets],
         "output": str(output),
     }, ensure_ascii=False))
 
