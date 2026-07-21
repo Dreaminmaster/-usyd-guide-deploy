@@ -108,16 +108,29 @@ def main() -> None:
 
     js_text = asset_data["assets/source-labels.js"].decode("utf-8")
     for marker in (
-        "内容留在本站，来源清楚标注",
         "官方事实",
         "官方系统路径",
         "学生经验",
-        "编辑整理",
+        "实操整理",
+        "来源标识",
+        "查看原始页面",
+        "手机丢失、换机或需要停用",
+        "My Studies",
+        "学生证与校园卡",
+    ):
+        if marker not in js_text:
+            raise RuntimeError(f"missing concise-content marker: {marker}")
+
+    for forbidden in (
+        "内容留在本站，来源清楚标注",
+        "正文内阅读",
+        "你不需要跳到别的网站",
+        "正文已在本站",
         "展开原始页面链接",
         "第六步：手机丢失或被盗时",
     ):
-        if marker not in js_text:
-            raise RuntimeError(f"missing provenance marker: {marker}")
+        if forbidden in js_text:
+            raise RuntimeError(f"obsolete meta copy remains: {forbidden}")
 
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
