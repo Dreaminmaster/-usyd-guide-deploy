@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuild and verify the final USYD Bible static HTML payload."""
+"""Rebuild and verify the published USYD Bible static HTML payload."""
 from __future__ import annotations
 
 import argparse
@@ -16,7 +16,8 @@ def main() -> None:
     args = parser.parse_args()
 
     manifest = json.loads(Path("content-manifest.json").read_text(encoding="utf-8"))
-    parts = sorted(Path("payload").glob("part-*.b64"))
+    payload_dir = Path(manifest.get("payload_dir", "payload"))
+    parts = sorted(payload_dir.glob("part-*.b64"))
     expected_parts = int(manifest["payload_parts"])
     if len(parts) != expected_parts:
         raise RuntimeError(f"payload parts: expected {expected_parts}, got {len(parts)}")
@@ -53,10 +54,11 @@ def main() -> None:
     text = html.decode("utf-8")
     markers = (
         "USYD Bible · 悉尼大学新生终极手册",
+        "找到官方答案",
         "数字学生证加入 Apple Wallet",
-        "浏览完整知识库",
-        "打开我的入学清单",
-        "官方渠道提交 enquiry",
+        "Card Management",
+        "Tracking totals",
+        "国际学生抵达后必须更新",
     )
     missing = [marker for marker in markers if marker not in text]
     if missing:
@@ -67,6 +69,8 @@ def main() -> None:
     output.write_bytes(html)
     print(json.dumps({
         "status": "verified",
+        "edition": manifest["edition"],
+        "payload_dir": str(payload_dir),
         "parts": len(parts),
         "base64_chars": len(encoded),
         "gzip_bytes": len(packed),

@@ -1,30 +1,40 @@
-# Final QA · 2026-07-21
+# Final QA · Official-first redesign · 2026-07-21
 
 ## Content integrity
 
-- Searchable topics: 417
-- Guides: 274
+- Edition: official-first-redesign-2026
+- Searchable topics: 423
+- Guides: 280
 - FAQs: 51
 - Checklist items: 92
-- Official sources: 45
-- Final HTML bytes: 264,614
-- Gzip bytes: 51,649
-- Final SHA-256: `49780e25289d6729302b50e73e34216ebbcdec4483376557df4877106ba62fbb`
-- Payload reconstruction: passed
-- Per-part SHA-256 validation: passed
+- Official / authority sources: 50
+- Final HTML bytes: 333,135
+- Gzip bytes: 61,973
+- Final SHA-256: `870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf`
+- Payload reconstruction: passed locally
+- Per-part SHA-256 validation: passed locally
+
+## Source and detail acceptance
+
+- First-party source metadata and checked dates: passed
+- Apple Wallet walkthrough contains prerequisites, exact flow, activation waits, Card Management and three official links: passed
+- Detailed enrolment, unit selection, international arrival update, digital setup and timetable walkthroughs: passed
+- Warnings and troubleshooting are searchable: passed
 
 ## Browser acceptance
 
 Validated in Chromium at desktop and mobile viewport sizes:
 
-- Home page rendering: passed
-- Whole-site search: passed; test query `Apple Wallet` returned 19 results
-- Article drawer and deep-link opening: passed
+- School-style home page rendering: passed
+- Natural-language instant search: passed
+- Query `Apple Wallet`: 8 suggestions; correct guide ranked first
+- Detailed article drawer and deep-link opening: passed
+- Apple Wallet article: 7 sections, 3 source links and Card Management troubleshooting
 - Checklist persistence: passed; progress changed from 0/92 to 1/92
 - Light/dark theme switching: passed
 - Mobile navigation and responsive layout: passed
-- Console errors: 0
+- Console/page errors: 0
 
 ## Release gate
 
-GitHub Pages deployment may proceed only when `scripts/verify_payload.py` reconstructs the exact final HTML and matches the content manifest. A failed verification records `BUILD_STATUS.md` and does not replace the existing live site.
+GitHub Pages deployment may proceed only when `scripts/verify_payload.py` reconstructs the exact final HTML and matches the content manifest. Public Pages must then return exactly 333,135 bytes with the expected SHA-256 before the release is accepted.

@@ -6,16 +6,16 @@
 <title>USYD Bible · 悉尼大学新生终极手册</title>
 <meta name="theme-color" content="#ffffff">
 <style>
-html,body{height:100%;margin:0;background:#f6f7f9;color:#17191e;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}.loading{height:100%;display:grid;place-items:center;text-align:center;padding:24px;box-sizing:border-box}.mark{width:56px;height:56px;margin:0 auto 18px;border-radius:18px;display:grid;place-items:center;background:#9d1726;color:#fff;font:bold 25px Georgia}.loading p{color:#626975;line-height:1.7}.error{color:#9d1726;max-width:600px;line-height:1.8}
+html,body{height:100%;margin:0;background:#f6f7f9;color:#17191e;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}.loading{height:100%;display:grid;place-items:center;text-align:center;padding:24px;box-sizing:border-box}.mark{width:56px;height:56px;margin:0 auto 18px;border-radius:8px;display:grid;place-items:center;background:#9d1726;color:#fff;font:bold 25px Georgia}.loading p{color:#626975;line-height:1.7}.error{color:#9d1726;max-width:600px;line-height:1.8}
 </style>
 </head>
 <body>
-<div class="loading" id="loading"><div><div class="mark">US</div><strong>正在打开 USYD Bible</strong><p>正在校验并加载最终版新生手册。</p></div></div>
+<div class="loading" id="loading"><div><div class="mark">US</div><strong>正在打开 USYD Bible</strong><p>正在校验并加载官方资料优先版。</p></div></div>
 <script>
 (async()=>{
-  const expected='49780e25289d6729302b50e73e34216ebbcdec4483376557df4877106ba62fbb';
-  const names=['00','01','02','03a','03b','04','05','06','07'];
-  const parts=names.map(name=>`./payload/part-${name}.b64`);
+  const expected='870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf';
+  const names=['00','01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20'];
+  const parts=names.map(name=>`./payload-v2/part-${name}.b64`);
   try{
     if(!('DecompressionStream' in window)) throw new Error('当前浏览器版本过旧，请使用最新版 Safari、Chrome 或 Edge。');
     const encoded=(await Promise.all(parts.map(url=>fetch(url,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(`内容分片读取失败：${url}`);return r.text()})))).join('').replace(/\s/g,'');
