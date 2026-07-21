@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-07-21",
-  "edition": "source-labelled-redesign-2026",
+  "edition": "concise-source-labelled-2026",
   "payload_dir": "payload-v2",
   "payload_parts": 22,
   "part_sha256": [
@@ -46,7 +46,7 @@
     },
     {
       "path": "assets/source-labels.js",
-      "bytes": 15993,
+      "bytes": 12330,
       "sha256": null,
       "validation": "node-check-and-markers"
     }
