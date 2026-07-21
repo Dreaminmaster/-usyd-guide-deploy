@@ -1,4 +1,4 @@
-name: Deploy USYD Guide
+name: Deploy USYD Bible
 
 on:
   push:
@@ -22,13 +22,39 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
-      - name: Prepare static site
+      - name: Rebuild and verify final site
         run: |
+          set -euo pipefail
           mkdir -p _site
-          cp index.html site.html.gz.b64 _site/
+          cat payload/part-*.b64 | tr -d '\r\n\t ' > /tmp/site.b64
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          manifest=json.loads(Path('content-manifest.json').read_text())
+          encoded=Path('/tmp/site.b64').read_text()
+          assert len(encoded)==manifest['base64_chars'], (len(encoded),manifest['base64_chars'])
+          PY
+          base64 --decode /tmp/site.b64 > /tmp/site.html.gz
+          gzip -dc /tmp/site.html.gz > _site/index.html
+          cp content-manifest.json _site/
           touch _site/.nojekyll
+          python3 - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          manifest=json.loads(Path('content-manifest.json').read_text())
+          html=Path('_site/index.html').read_bytes()
+          packed=Path('/tmp/site.html.gz').read_bytes()
+          actual=hashlib.sha256(html).hexdigest()
+          assert actual==manifest['sha256'], (actual,manifest['sha256'])
+          assert len(html)==manifest['html_bytes'], (len(html),manifest['html_bytes'])
+          assert len(packed)==manifest['gzip_bytes'], (len(packed),manifest['gzip_bytes'])
+          text=html.decode('utf-8')
+          for marker in ('USYD Bible','417','数字学生证加入 Apple Wallet','已完成 0 / 92 项'):
+              assert marker in text, marker
+          print(f"verified sha256={actual} html_bytes={len(html)}")
+          PY
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -47,20 +73,20 @@ jobs:
           PAGE_URL: ${{ steps.deployment.outputs.page_url }}
           DEPLOYED_SHA: ${{ github.sha }}
         run: |
-          rm -rf _site
           {
             echo '# GitHub Pages deployment'
             echo
             echo '- Status: successful'
+            echo '- Edition: final-2026'
             echo "- URL: ${PAGE_URL}"
             echo "- Source commit: ${DEPLOYED_SHA}"
+            echo '- Content SHA-256: 49780e25289d6729302b50e73e34216ebbcdec4483376557df4877106ba62fbb'
+            echo '- Entries: 417 searchable topics / 274 guides / 51 FAQs / 92 checklist items / 45 official sources'
             echo "- Deployed at: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           } > DEPLOYMENT_STATUS.md
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add DEPLOYMENT_STATUS.md
-          if git diff --cached --quiet; then
-            exit 0
-          fi
-          git commit -m 'Record successful Pages deployment [skip ci]'
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Record final Pages deployment [skip ci]'
           git push
