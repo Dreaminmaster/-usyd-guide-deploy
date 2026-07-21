@@ -25,24 +25,34 @@ jobs:
         run: |
           python3 - <<'PY' 2>&1 | tee /tmp/online-qa.log
           import hashlib,time,urllib.request
-          url='https://dreaminmaster.github.io/-usyd-guide-deploy/'
-          expected='870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf'
+          root='https://dreaminmaster.github.io/-usyd-guide-deploy/'
+          targets={
+              'index.html':(333239,'5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31'),
+              'assets/source-labels.css':(3220,'e785547a0bf5faef6a18551fc8b807c48f4b124ea172cdb1822490f782e138bd'),
+              'assets/source-labels.js':(15994,'2f42e968eba1ef50ff616ab563d1c17b13dd4076b38c4d55c8defddb89745bcf'),
+          }
           last=None
           for attempt in range(1,19):
               try:
-                  request=urllib.request.Request(url,headers={'User-Agent':'USYD-Bible-QA/2.0','Cache-Control':'no-cache'})
-                  with urllib.request.urlopen(request,timeout=30) as response:
-                      body=response.read()
-                      status=response.status
-                  digest=hashlib.sha256(body).hexdigest()
-                  print(f'attempt={attempt} status={status} bytes={len(body)} sha256={digest}')
-                  if status==200 and len(body)==333135 and digest==expected:
-                      text=body.decode('utf-8')
-                      for marker in ('找到官方答案','数字学生证加入 Apple Wallet','新生数字系统第一次设置'):
-                          assert marker in text, marker
-                      print('LIVE_QA_SUCCESS')
-                      break
-                  last=f'unexpected response status={status} bytes={len(body)} sha256={digest}'
+                  bodies={}
+                  for path,(expected_bytes,expected_sha) in targets.items():
+                      url=root if path=='index.html' else root+path
+                      request=urllib.request.Request(url,headers={'User-Agent':'USYD-Bible-QA/3.0','Cache-Control':'no-cache'})
+                      with urllib.request.urlopen(request,timeout=30) as response:
+                          body=response.read(); status=response.status
+                      digest=hashlib.sha256(body).hexdigest()
+                      print(f'attempt={attempt} path={path} status={status} bytes={len(body)} sha256={digest}')
+                      if status!=200 or len(body)!=expected_bytes or digest!=expected_sha:
+                          raise RuntimeError(f'unexpected {path}: status={status} bytes={len(body)} sha256={digest}')
+                      bodies[path]=body
+                  html=bodies['index.html'].decode('utf-8')
+                  script=bodies['assets/source-labels.js'].decode('utf-8')
+                  for marker in ('assets/source-labels.css','assets/source-labels.js','找到官方答案','数字学生证加入 Apple Wallet'):
+                      assert marker in html, marker
+                  for marker in ('内容留在本站，来源清楚标注','官方事实','官方系统路径','学生经验','编辑整理','展开原始页面链接','第六步：手机丢失或被盗时'):
+                      assert marker in script, marker
+                  print('LIVE_QA_SUCCESS')
+                  break
               except Exception as error:
                   last=repr(error)
                   print(f'attempt={attempt} error={last}')
@@ -63,10 +73,11 @@ jobs:
             else
               echo '- Status: failed'
             fi
-            echo '- Edition: official-first-redesign-2026'
+            echo '- Edition: source-labelled-redesign-2026'
             echo '- URL: https://dreaminmaster.github.io/-usyd-guide-deploy/'
-            echo '- Expected bytes: 333135'
-            echo '- Expected SHA-256: 870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf'
+            echo '- Expected HTML bytes: 333239'
+            echo '- Expected HTML SHA-256: 5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31'
+            echo '- Verified assets: source-labels.css and source-labels.js'
             echo "- Checked at: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             echo
             echo '```text'
@@ -76,6 +87,6 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add ONLINE_QA.md
-          git commit -m 'Record online official-first USYD Bible QA [skip ci]' || true
+          git commit -m 'Record online source-labelled USYD Bible QA [skip ci]' || true
           git push
           test '${{ steps.live.outcome }}' = 'success'
