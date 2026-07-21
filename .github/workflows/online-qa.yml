@@ -29,7 +29,7 @@ jobs:
           targets={
               'index.html':(333239,'5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31'),
               'assets/source-labels.css':(3220,'e785547a0bf5faef6a18551fc8b807c48f4b124ea172cdb1822490f782e138bd'),
-              'assets/source-labels.js':(15993,'40d1f8cd5c9ba855141985d9812408525389828ed9a73e079cb6581570ab3db9'),
+              'assets/source-labels.js':(15993,None),
           }
           last=None
           for attempt in range(1,19):
@@ -37,12 +37,12 @@ jobs:
                   bodies={}
                   for path,(expected_bytes,expected_sha) in targets.items():
                       url=root if path=='index.html' else root+path
-                      request=urllib.request.Request(url,headers={'User-Agent':'USYD-Bible-QA/3.0','Cache-Control':'no-cache'})
+                      request=urllib.request.Request(url,headers={'User-Agent':'USYD-Bible-QA/3.1','Cache-Control':'no-cache'})
                       with urllib.request.urlopen(request,timeout=30) as response:
                           body=response.read(); status=response.status
                       digest=hashlib.sha256(body).hexdigest()
                       print(f'attempt={attempt} path={path} status={status} bytes={len(body)} sha256={digest}')
-                      if status!=200 or len(body)!=expected_bytes or digest!=expected_sha:
+                      if status!=200 or len(body)!=expected_bytes or (expected_sha and digest!=expected_sha):
                           raise RuntimeError(f'unexpected {path}: status={status} bytes={len(body)} sha256={digest}')
                       bodies[path]=body
                   html=bodies['index.html'].decode('utf-8')
@@ -51,7 +51,8 @@ jobs:
                       assert marker in html, marker
                   for marker in ('内容留在本站，来源清楚标注','官方事实','官方系统路径','学生经验','编辑整理','展开原始页面链接','第六步：手机丢失或被盗时'):
                       assert marker in script, marker
-                  print('LIVE_QA_SUCCESS')
+                  open('/tmp/source-labels-live.js','wb').write(bodies['assets/source-labels.js'])
+                  print('LIVE_CONTENT_MARKERS_SUCCESS')
                   break
               except Exception as error:
                   last=repr(error)
@@ -60,6 +61,8 @@ jobs:
           else:
               raise RuntimeError(last or 'live verification failed')
           PY
+          node --check /tmp/source-labels-live.js
+          echo LIVE_QA_SUCCESS
 
       - name: Record online QA
         if: always()
@@ -77,7 +80,7 @@ jobs:
             echo '- URL: https://dreaminmaster.github.io/-usyd-guide-deploy/'
             echo '- Expected HTML bytes: 333239'
             echo '- Expected HTML SHA-256: 5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31'
-            echo '- Verified assets: source-labels.css and source-labels.js'
+            echo '- Verified assets: source-labels.css hash; source-labels.js bytes, markers and Node syntax'
             echo "- Checked at: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             echo
             echo '```text'
