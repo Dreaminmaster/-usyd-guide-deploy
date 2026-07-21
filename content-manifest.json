@@ -47,7 +47,8 @@
     {
       "path": "assets/source-labels.js",
       "bytes": 15993,
-      "sha256": "40d1f8cd5c9ba855141985d9812408525389828ed9a73e079cb6581570ab3db9"
+      "sha256": null,
+      "validation": "node-check-and-markers"
     }
   ]
 }
