@@ -2,7 +2,7 @@
   "generated_at": "2026-07-21",
   "edition": "official-first-redesign-2026",
   "payload_dir": "payload-v2",
-  "payload_parts": 21,
+  "payload_parts": 22,
   "part_sha256": [
     "8defed984b7c9cd6ed4ad07538635fa76a6cbcb381d7de21c0deaa8b3a5cc96c",
     "7db0877f7ec9f995e848fbb6394cb44d8252823d8ced17cca7c925c3f54dfe37",
@@ -22,7 +22,8 @@
     "3215b1349dc0c14896ac46a2f4e8e842d64de2cdb817b357fbc5e2baf60bfdce",
     "5e66d9dcef5094bfb7376f38dbf1d9e156adeb613a1b8a3ddfe80d7056832755",
     "270cf9ca00862ff209c4a3fd18e7b624564084facff5b6e1256f864b864b60c2",
-    "a9681f96ced1feef6a012c658ce0429c4435ac33145bc8813df5a2d2021310e7",
+    "719adab8fe890207f9725724fa3c50d3ba74bac149ac2e242b240b9b328b9cc4",
+    "f5c0e5c3ba34657b4a80a923a61440fa00ffed46ce80a352dd362eeab8ea935e",
     "04cec947788a9f2b3ac3f7d435dcc201e6e8422bf8460f0abfa05bf09ceb30d5",
     "35f6d74a7f1e49e40552e9a69ac8e628b560d7f9988df785439f6ac695d8bedd"
   ],
