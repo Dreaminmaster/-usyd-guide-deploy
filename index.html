@@ -3,27 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>USYD 新生手册</title>
-<meta name="theme-color" content="#101216">
+<title>USYD Bible · 悉尼大学新生终极手册</title>
+<meta name="theme-color" content="#ffffff">
 <style>
-html,body{height:100%;margin:0;background:#0e1014;color:#f4f5f7;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}.loading{height:100%;display:grid;place-items:center;text-align:center;padding:24px;box-sizing:border-box}.mark{width:52px;height:52px;margin:0 auto 18px;border-radius:16px;display:grid;place-items:center;background:#e1ad4d;color:#1b160d;font:bold 28px Georgia}.loading p{color:#9fa5af}.error{color:#ff8797;max-width:560px;line-height:1.8}
+html,body{height:100%;margin:0;background:#f6f7f9;color:#17191e;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}.loading{height:100%;display:grid;place-items:center;text-align:center;padding:24px;box-sizing:border-box}.mark{width:56px;height:56px;margin:0 auto 18px;border-radius:18px;display:grid;place-items:center;background:#9d1726;color:#fff;font:bold 25px Georgia}.loading p{color:#626975;line-height:1.7}.error{color:#9d1726;max-width:600px;line-height:1.8}
 </style>
 </head>
 <body>
-<div class="loading" id="loading"><div><div class="mark">U</div><strong>正在打开 USYD 新生手册</strong><p>首次加载需要解压网站内容。</p></div></div>
+<div class="loading" id="loading"><div><div class="mark">US</div><strong>正在打开 USYD Bible</strong><p>正在校验并加载最终版新生手册。</p></div></div>
 <script>
 (async()=>{
+  const expected='49780e25289d6729302b50e73e34216ebbcdec4483376557df4877106ba62fbb';
+  const parts=Array.from({length:8},(_,i)=>`./payload/part-${String(i).padStart(2,'0')}.b64`);
   try{
     if(!('DecompressionStream' in window)) throw new Error('当前浏览器版本过旧，请使用最新版 Safari、Chrome 或 Edge。');
-    const encoded=(await fetch('./site.html.gz.b64',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('网站内容文件读取失败');return r.text()})).replace(/\s/g,'');
-    const binary=atob(encoded);
-    const bytes=new Uint8Array(binary.length);
+    const encoded=(await Promise.all(parts.map(url=>fetch(url,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(`内容分片读取失败：${url}`);return r.text()})))).join('').replace(/\s/g,'');
+    const binary=atob(encoded),bytes=new Uint8Array(binary.length);
     for(let i=0;i<binary.length;i++)bytes[i]=binary.charCodeAt(i);
-    const stream=new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));
-    const html=await new Response(stream).text();
+    const html=await new Response(new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'))).text();
+    const digest=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(html)))).map(b=>b.toString(16).padStart(2,'0')).join('');
+    if(digest!==expected)throw new Error('内容完整性校验失败，请刷新后重试。');
     document.open();document.write(html);document.close();
   }catch(error){
-    document.getElementById('loading').innerHTML='<div class="error"><div class="mark">!</div><strong>网站加载失败</strong><p>'+String(error.message||error)+'</p><p>请刷新页面，或在 GitHub 仓库中提交问题。</p></div>';
+    document.getElementById('loading').innerHTML='<div class="error"><div class="mark">!</div><strong>网站加载失败</strong><p>'+String(error.message||error)+'</p><p>可前往 GitHub 仓库查看部署状态。</p></div>';
   }
 })();
 </script>
