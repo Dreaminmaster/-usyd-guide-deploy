@@ -15,14 +15,26 @@ def main() -> None:
     parser.add_argument("--output", default="_site/index.html")
     args = parser.parse_args()
 
-    manifest_path = Path("content-manifest.json")
-    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    manifest = json.loads(Path("content-manifest.json").read_text(encoding="utf-8"))
     parts = sorted(Path("payload").glob("part-*.b64"))
     expected_parts = int(manifest["payload_parts"])
     if len(parts) != expected_parts:
         raise RuntimeError(f"payload parts: expected {expected_parts}, got {len(parts)}")
 
-    encoded = "".join("".join(path.read_text(encoding="utf-8").split()) for path in parts)
+    expected_hashes = manifest["part_sha256"]
+    clean_parts: list[str] = []
+    mismatches: list[str] = []
+    for index, path in enumerate(parts):
+        clean = "".join(path.read_text(encoding="utf-8").split())
+        clean_parts.append(clean)
+        actual = hashlib.sha256(clean.encode("ascii")).hexdigest()
+        expected = expected_hashes[index]
+        if actual != expected:
+            mismatches.append(f"{path}: expected {expected}, got {actual}, chars={len(clean)}")
+    if mismatches:
+        raise RuntimeError("payload part integrity failed:\n" + "\n".join(mismatches))
+
+    encoded = "".join(clean_parts)
     if len(encoded) != int(manifest["base64_chars"]):
         raise RuntimeError(f"base64 chars: expected {manifest['base64_chars']}, got {len(encoded)}")
 
