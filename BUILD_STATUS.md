@@ -1,8 +1,8 @@
 # USYD Bible build verification
 
 - Status: failed
-- Source commit: f706c156f9ae4b0213c258ae291bd319f194fcf6
-- Checked at: 2026-07-21T11:28:33Z
+- Source commit: f9282c8c3a7c23498e166a76d848963397bcf921
+- Checked at: 2026-07-21T11:29:30Z
 
 ```text
 Traceback (most recent call last):
