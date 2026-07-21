@@ -1,9 +1,10 @@
 # GitHub Pages deployment
 
 - Status: successful
-- Edition: official-first-redesign-2026
+- Edition: source-labelled-redesign-2026
 - URL: https://dreaminmaster.github.io/-usyd-guide-deploy/
-- Source commit: ed016941dc3999fb9275c2d532a66210fa7560ee
-- Content SHA-256: 870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf
-- Entries: 423 searchable topics / 280 guides / 51 FAQs / 92 checklist items / 50 official sources
-- Deployed at: 2026-07-21T12:06:18Z
+- Source commit: 92c9c540c6b0fa8f864f2d39f5b050c2c1cd6f56
+- Content SHA-256: 5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31
+- Assets: readable provenance CSS and JavaScript verified separately
+- Entries: 423 searchable topics / 280 guides / 51 FAQs / 92 checklist items / 50 original sources
+- Deployed at: 2026-07-21T12:44:24Z
