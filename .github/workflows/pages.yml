@@ -84,16 +84,16 @@ jobs:
             echo '# GitHub Pages deployment'
             echo
             echo '- Status: successful'
-            echo '- Edition: source-labelled-redesign-2026'
+            echo '- Edition: concise-source-labelled-2026'
             echo "- URL: ${PAGE_URL}"
             echo "- Source commit: ${DEPLOYED_SHA}"
             echo '- Content SHA-256: 5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31'
-            echo '- Assets: readable provenance CSS and JavaScript verified separately'
+            echo '- Assets: concise content layer and source labels verified separately'
             echo '- Entries: 423 searchable topics / 280 guides / 51 FAQs / 92 checklist items / 50 original sources'
             echo "- Deployed at: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           } > DEPLOYMENT_STATUS.md
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A BUILD_STATUS.md DEPLOYMENT_STATUS.md
-          git commit -m 'Record source-labelled USYD Bible deployment [skip ci]' || true
+          git commit -m 'Record concise USYD Bible deployment [skip ci]' || true
           git push
