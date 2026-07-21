@@ -1,0 +1,80 @@
+name: Verify live USYD Bible
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: online-qa
+  cancel-in-progress: true
+
+jobs:
+  verify-live-site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify public Pages response
+        id: live
+        continue-on-error: true
+        run: |
+          python3 - <<'PY' 2>&1 | tee /tmp/online-qa.log
+          import hashlib,time,urllib.request
+          url='https://dreaminmaster.github.io/-usyd-guide-deploy/'
+          expected='49780e25289d6729302b50e73e34216ebbcdec4483376557df4877106ba62fbb'
+          last=None
+          for attempt in range(1,13):
+              try:
+                  request=urllib.request.Request(url,headers={'User-Agent':'USYD-Bible-QA/1.0','Cache-Control':'no-cache'})
+                  with urllib.request.urlopen(request,timeout=30) as response:
+                      body=response.read()
+                      status=response.status
+                  digest=hashlib.sha256(body).hexdigest()
+                  print(f'attempt={attempt} status={status} bytes={len(body)} sha256={digest}')
+                  if status==200 and len(body)==264614 and digest==expected:
+                      text=body.decode('utf-8')
+                      for marker in ('USYD Bible · 悉尼大学新生终极手册','数字学生证加入 Apple Wallet','浏览完整知识库'):
+                          assert marker in text, marker
+                      print('LIVE_QA_SUCCESS')
+                      break
+                  last=f'unexpected response status={status} bytes={len(body)} sha256={digest}'
+              except Exception as error:
+                  last=repr(error)
+                  print(f'attempt={attempt} error={last}')
+              time.sleep(10)
+          else:
+              raise RuntimeError(last or 'live verification failed')
+          PY
+
+      - name: Record online QA
+        if: always()
+        run: |
+          git pull --rebase origin main
+          {
+            echo '# Online release QA'
+            echo
+            if [ '${{ steps.live.outcome }}' = 'success' ]; then
+              echo '- Status: successful'
+            else
+              echo '- Status: failed'
+            fi
+            echo '- URL: https://dreaminmaster.github.io/-usyd-guide-deploy/'
+            echo '- Expected bytes: 264614'
+            echo '- Expected SHA-256: 49780e25289d6729302b50e73e34216ebbcdec4483376557df4877106ba62fbb'
+            echo "- Checked at: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo
+            echo '```text'
+            cat /tmp/online-qa.log
+            echo '```'
+          } > ONLINE_QA.md
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add ONLINE_QA.md
+          git commit -m 'Record online USYD Bible QA [skip ci]' || true
+          git push
+          test '${{ steps.live.outcome }}' = 'success'
