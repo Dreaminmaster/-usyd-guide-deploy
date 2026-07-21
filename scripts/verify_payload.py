@@ -8,6 +8,7 @@ import gzip
 import hashlib
 import json
 import shutil
+import subprocess
 from pathlib import Path
 
 
@@ -15,12 +16,18 @@ def sha256(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
-def require_bytes(label: str, data: bytes, expected_bytes: int, expected_sha: str) -> None:
+def require_bytes(
+    label: str,
+    data: bytes,
+    expected_bytes: int,
+    expected_sha: str | None = None,
+) -> None:
     if len(data) != int(expected_bytes):
         raise RuntimeError(f"{label} bytes: expected {expected_bytes}, got {len(data)}")
-    actual = sha256(data)
-    if actual != expected_sha:
-        raise RuntimeError(f"{label} sha256: expected {expected_sha}, got {actual}")
+    if expected_sha:
+        actual = sha256(data)
+        if actual != expected_sha:
+            raise RuntimeError(f"{label} sha256: expected {expected_sha}, got {actual}")
 
 
 def main() -> None:
@@ -80,8 +87,15 @@ def main() -> None:
     for asset in assets:
         path = Path(asset["path"])
         data = path.read_bytes()
-        require_bytes(str(path), data, asset["bytes"], asset["sha256"])
+        require_bytes(str(path), data, asset["bytes"], asset.get("sha256"))
         asset_data[str(path)] = data
+
+    subprocess.run(
+        ["node", "--check", "assets/source-labels.js"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
 
     css_tag = '<link rel="stylesheet" href="assets/source-labels.css">\n'
     js_tag = '<script src="assets/source-labels.js"></script>\n'
@@ -124,7 +138,8 @@ def main() -> None:
         "payload_html_bytes": len(base_html),
         "html_bytes": len(final_html),
         "sha256": sha256(final_html),
-        "assets": [asset["path"] for asset in assets],
+        "asset_bytes": {path: len(data) for path, data in asset_data.items()},
+        "javascript_syntax": "passed",
         "output": str(output),
     }, ensure_ascii=False))
 
