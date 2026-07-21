@@ -25,54 +25,61 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Rebuild and verify final site
+        id: build
+        continue-on-error: true
         run: |
-          set -euo pipefail
+          set -o pipefail
+          rm -rf _site
           mkdir -p _site
-          cat payload/part-*.b64 | tr -d '\r\n\t ' > /tmp/site.b64
-          python3 - <<'PY'
-          import json
-          from pathlib import Path
-          manifest=json.loads(Path('content-manifest.json').read_text())
-          encoded=Path('/tmp/site.b64').read_text()
-          assert len(encoded)==manifest['base64_chars'], (len(encoded),manifest['base64_chars'])
-          PY
-          base64 --decode /tmp/site.b64 > /tmp/site.html.gz
-          gzip -dc /tmp/site.html.gz > _site/index.html
+          python3 scripts/verify_payload.py --output _site/index.html 2>&1 | tee /tmp/payload-verification.log
           cp content-manifest.json _site/
           touch _site/.nojekyll
-          python3 - <<'PY'
-          import hashlib,json
-          from pathlib import Path
-          manifest=json.loads(Path('content-manifest.json').read_text())
-          html=Path('_site/index.html').read_bytes()
-          packed=Path('/tmp/site.html.gz').read_bytes()
-          actual=hashlib.sha256(html).hexdigest()
-          assert actual==manifest['sha256'], (actual,manifest['sha256'])
-          assert len(html)==manifest['html_bytes'], (len(html),manifest['html_bytes'])
-          assert len(packed)==manifest['gzip_bytes'], (len(packed),manifest['gzip_bytes'])
-          text=html.decode('utf-8')
-          for marker in ('USYD Bible','417','数字学生证加入 Apple Wallet','已完成 0 / 92 项'):
-              assert marker in text, marker
-          print(f"verified sha256={actual} html_bytes={len(html)}")
-          PY
+
+      - name: Record verification failure
+        if: steps.build.outcome != 'success'
+        run: |
+          git pull --rebase origin main
+          {
+            echo '# USYD Bible build verification'
+            echo
+            echo '- Status: failed'
+            echo "- Source commit: ${{ github.sha }}"
+            echo "- Checked at: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo
+            echo '```text'
+            cat /tmp/payload-verification.log
+            echo '```'
+          } > BUILD_STATUS.md
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add BUILD_STATUS.md
+          git commit -m 'Record failed USYD Bible verification [skip ci]' || true
+          git push
+          exit 1
 
       - name: Configure GitHub Pages
+        if: steps.build.outcome == 'success'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: steps.build.outcome == 'success'
         uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
       - name: Deploy to GitHub Pages
+        if: steps.build.outcome == 'success'
         id: deployment
         uses: actions/deploy-pages@v4
 
       - name: Record successful deployment
+        if: steps.build.outcome == 'success'
         env:
           PAGE_URL: ${{ steps.deployment.outputs.page_url }}
           DEPLOYED_SHA: ${{ github.sha }}
         run: |
+          git pull --rebase origin main
+          rm -f BUILD_STATUS.md
           {
             echo '# GitHub Pages deployment'
             echo
@@ -86,7 +93,6 @@ jobs:
           } > DEPLOYMENT_STATUS.md
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add DEPLOYMENT_STATUS.md
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'Record final Pages deployment [skip ci]'
+          git add -A BUILD_STATUS.md DEPLOYMENT_STATUS.md
+          git commit -m 'Record final USYD Bible deployment [skip ci]' || true
           git push
