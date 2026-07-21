@@ -1,8 +1,8 @@
 # USYD Bible build verification
 
 - Status: failed
-- Source commit: 5163c0dfe03bc8e271424eb7aa45840b8744747b
-- Checked at: 2026-07-21T12:42:54Z
+- Source commit: c3cecdd1c272a1b0be9d2d376a7ca74143443717
+- Checked at: 2026-07-21T12:43:50Z
 
 ```text
 Traceback (most recent call last):
@@ -12,5 +12,5 @@ Traceback (most recent call last):
     require_bytes(str(path), data, asset["bytes"], asset["sha256"])
   File "/home/runner/work/-usyd-guide-deploy/-usyd-guide-deploy/scripts/verify_payload.py", line 23, in require_bytes
     raise RuntimeError(f"{label} sha256: expected {expected_sha}, got {actual}")
-RuntimeError: assets/source-labels.js sha256: expected 40d1f8cd5c9ba855141985d9812408525389828ed9a73e079cb6581570ab3db9, got 94a898c786145a5cdf20c0a7c0d08533a43a267f102ee8f4181ff08ba536e310
+RuntimeError: assets/source-labels.js sha256: expected None, got 94a898c786145a5cdf20c0a7c0d08533a43a267f102ee8f4181ff08ba536e310
 ```
