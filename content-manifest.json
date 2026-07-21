@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-07-21",
-  "edition": "official-first-redesign-2026",
+  "edition": "source-labelled-redesign-2026",
   "payload_dir": "payload-v2",
   "payload_parts": 22,
   "part_sha256": [
@@ -32,8 +32,22 @@
   "faq_count": 51,
   "checklist_count": 92,
   "source_count": 50,
-  "html_bytes": 333135,
+  "payload_html_bytes": 333135,
+  "payload_sha256": "870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf",
   "gzip_bytes": 61973,
   "base64_chars": 82632,
-  "sha256": "870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf"
+  "html_bytes": 333239,
+  "sha256": "5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31",
+  "assets": [
+    {
+      "path": "assets/source-labels.css",
+      "bytes": 3220,
+      "sha256": "e785547a0bf5faef6a18551fc8b807c48f4b124ea172cdb1822490f782e138bd"
+    },
+    {
+      "path": "assets/source-labels.js",
+      "bytes": 15994,
+      "sha256": "2f42e968eba1ef50ff616ab563d1c17b13dd4076b38c4d55c8defddb89745bcf"
+    }
+  ]
 }
