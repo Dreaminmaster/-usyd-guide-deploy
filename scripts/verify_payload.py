@@ -52,11 +52,11 @@ def main() -> None:
 
     text = html.decode("utf-8")
     markers = (
-        "USYD Bible",
-        "417",
+        "USYD Bible · 悉尼大学新生终极手册",
         "数字学生证加入 Apple Wallet",
-        "已完成 0 / 92 项",
-        "content-manifest",
+        "浏览完整知识库",
+        "打开我的入学清单",
+        "官方渠道提交 enquiry",
     )
     missing = [marker for marker in markers if marker not in text]
     if missing:
