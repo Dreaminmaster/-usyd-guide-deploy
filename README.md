@@ -15,9 +15,9 @@
 
 ## 网站
 
-GitHub Pages 部署成功后：
-
 https://dreaminmaster.github.io/-usyd-guide-deploy/
+
+Pages 发布源已设为 GitHub Actions；推送到 `main` 后自动重新部署。
 
 ## 维护
 
