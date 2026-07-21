@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-07-21",
+  "edition": "final-2026",
+  "payload_parts": 8,
+  "topic_count": 417,
+  "guide_count": 274,
+  "faq_count": 51,
+  "checklist_count": 92,
+  "source_count": 45,
+  "html_bytes": 264614,
+  "gzip_bytes": 51649,
+  "base64_chars": 68868,
+  "sha256": "49780e25289d6729302b50e73e34216ebbcdec4483376557df4877106ba62fbb"
+}
