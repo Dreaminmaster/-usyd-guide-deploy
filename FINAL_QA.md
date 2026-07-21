@@ -1,40 +1,52 @@
-# Final QA · Official-first redesign · 2026-07-21
+# Final QA · Source-labelled redesign · 2026-07-21
 
 ## Content integrity
 
-- Edition: official-first-redesign-2026
+- Edition: source-labelled-redesign-2026
 - Searchable topics: 423
 - Guides: 280
 - FAQs: 51
 - Checklist items: 92
-- Official / authority sources: 50
-- Final HTML bytes: 333,135
-- Gzip bytes: 61,973
-- Final SHA-256: `870213a38ef91c0c882e37d76ec78fc5d0d5669de35c836e5591fd5b684ecdbf`
-- Payload reconstruction: passed locally
-- Per-part SHA-256 validation: passed locally
+- Original first-party / authority sources: 50
+- Base knowledge HTML: 333,135 bytes
+- Published HTML: 333,239 bytes
+- Published HTML SHA-256: `5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31`
+- Provenance CSS: 3,220 bytes, independently hashed
+- Provenance JavaScript: 15,994 bytes, independently hashed
 
-## Source and detail acceptance
+## Source behaviour acceptance
 
-- First-party source metadata and checked dates: passed
-- Apple Wallet walkthrough contains prerequisites, exact flow, activation waits, Card Management and three official links: passed
-- Detailed enrolment, unit selection, international arrival update, digital setup and timetable walkthroughs: passed
-- Warnings and troubleshooting are searchable: passed
+- Full answer remains inside the website article: passed
+- External source links are optional and collapsed at the bottom: passed
+- Visible labels for official fact, official system path, student experience and editorial synthesis: passed
+- Student-experience content only renders when a concrete item is present: passed
+- Official rules and eligibility remain distinguishable from practical advice: passed
+- Personal Offer, email, Sydney Student, Canvas and visa records are described as higher priority: passed
 
-## Browser acceptance
+## Apple Wallet acceptance
 
-Validated in Chromium at desktop and mobile viewport sizes:
+The in-page guide includes:
 
-- School-style home page rendering: passed
-- Natural-language instant search: passed
-- Query `Apple Wallet`: 8 suggestions; correct guide ranked first
-- Detailed article drawer and deep-link opening: passed
-- Apple Wallet article: 7 sections, 3 source links and Card Management troubleshooting
-- Checklist persistence: passed; progress changed from 0/92 to 1/92
-- Light/dark theme switching: passed
-- Mobile navigation and responsive layout: passed
-- Console/page errors: 0
+- enrolment, UniKey, Okta and photo prerequisites;
+- Transact eAccounts installation and University of Sydney selection;
+- iPhone Apple Wallet flow;
+- Apple Watch flow;
+- building, library, printing and concession synchronisation waits;
+- actual card uses;
+- lost-device deactivation through Card Management or SydPay;
+- reactivation after recovery;
+- exam and physical-card limitations;
+- troubleshooting and separately labelled editorial advice.
+
+## Static and build acceptance
+
+- Provenance JavaScript syntax (`node --check`): passed
+- Base payload per-part SHA-256 validation: required by release gate
+- Base HTML bytes and SHA-256 validation: required by release gate
+- CSS and JavaScript bytes and SHA-256 validation: required by release gate
+- Final injected HTML bytes and SHA-256 validation: required by release gate
+- Public HTML, CSS and JavaScript online hashes: required by online QA
 
 ## Release gate
 
-GitHub Pages deployment may proceed only when `scripts/verify_payload.py` reconstructs the exact final HTML and matches the content manifest. Public Pages must then return exactly 333,135 bytes with the expected SHA-256 before the release is accepted.
+GitHub Pages may publish only when `scripts/verify_payload.py` reconstructs the exact base page, verifies both readable provenance assets, injects them, and matches the final manifest. Online QA must then independently download and hash all three public files before the release is accepted.
