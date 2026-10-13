@@ -10,6 +10,8 @@ import json
 from pathlib import Path
 import sys
 import urllib.request
+import os
+from radar_changes import compare, history_update
 
 API = "https://usyd-radar.vercel.app/api/combined"
 PUBLIC_FIELDS = ("id", "title", "date", "time", "location", "category", "priority",
@@ -52,6 +54,37 @@ def main(root):
         "news": [project(n, NEWS_FIELDS) for n in feed.get("news", [])],
         "provenance": API, "publicDataOnly": True
     }
+    def load_previous(name):
+        path = root / name
+        if not path.exists():
+            return {}
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except (ValueError, OSError):
+            return {}
+
+    previous = load_previous("latest.json")
+    prior_changes = load_previous("changes.json")
+    prior_missing = load_previous("missing_observations.json")
+    changes, missing = compare(previous, snapshot, prior_missing, now)
+    changes_log = {
+        "schema": 1, "checkedAt": now,
+        "sourceCheckedAt": feed["checkedAt"],
+        "hasBaseline": bool(previous.get("events")),
+        "latest": changes[:70],
+        "history": history_update(prior_changes.get("history"), changes),
+        "counts": {
+            "new": sum(e["kind"] == "new" for e in changes),
+            "updated": sum(e["kind"] == "updated" for e in changes),
+            "possibleReschedule": sum(e["kind"] == "possible_reschedule" for e in changes),
+            "notObserved": sum(e["kind"] == "not_observed" for e in changes),
+        },
+        "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
+    }
+    (root / "changes.json").write_text(
+        json.dumps(changes_log, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    (root / "missing_observations.json").write_text(
+        json.dumps(missing, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     encoded = json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n"
     (root / "latest.json").write_text(encoded, encoding="utf-8")
     daily = root / "snapshots"
@@ -64,9 +97,16 @@ def main(root):
                 older.unlink()
         except ValueError:
             continue
-    status = {"schema": 1, "checkedAt": now, "feedCheckedAt": feed["checkedAt"],
+    previous_status = load_previous("status.json")
+    run_event = os.environ.get("GITHUB_EVENT_NAME", "manual")
+    status = {"schema": 2, "checkedAt": now, "feedCheckedAt": feed["checkedAt"],
               "feedStatus": feed.get("status"), "events": len(snapshot["events"]),
-              "news": len(snapshot["news"]), "sourceCount": len(snapshot["sources"])}
+              "news": len(snapshot["news"]), "sourceCount": len(snapshot["sources"]),
+              "archiveMethod": "GitHub Actions" if os.environ.get("GITHUB_ACTIONS") else "manual",
+              "runEvent": run_event,
+              "lastScheduledRunAt": now if run_event == "schedule" else previous_status.get("lastScheduledRunAt"),
+              "changes": changes_log["counts"],
+              "initialSnapshot": False}
     (root / "status.json").write_text(
         json.dumps(status, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(json.dumps(status, ensure_ascii=False))
