@@ -1,13 +1,1413 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T10:33:01.456086Z",
-  "sourceCheckedAt": "2026-10-13T10:33:01.748Z",
+  "checkedAt": "2026-10-13T10:52:24.776495Z",
+  "sourceCheckedAt": "2026-10-13T10:52:41.841Z",
   "hasBaseline": true,
-  "latest": [],
-  "history": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "city-discovery-a-career-in-the-making-pathways-for-a-career-2026-10-13",
+      "title": "A Career in the Making: Pathways for a Career",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-career-in-the-making-pathways-for-a-career",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ai-weiwei-mushrooms-2026-2026-10-13",
+      "title": "Ai Weiwei, Mushrooms, 2026",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ai-weiwei-mushrooms-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-humain-what-remains-irreducibly-human-in-the-ai-era-2026-10-13",
+      "title": "humAIn – What remains irreducibly human in the AI era",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/humain-what-remains-irreducibly-human-in-the-ai-era",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "09:00–17:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-200th-anniversary-exhibitions-2026-10-13",
+      "title": "200th anniversary exhibitions",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/200th-anniversary-exhibitions",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-alana-hunt-to-the-owner-2026-10-13",
+      "title": "Alana Hunt: To the Owner",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-redfern-community-centre-2026-10-13",
+      "title": "Come and get techie",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-redfern-community-centre",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-customs-house-2026-10-13",
+      "title": "Come and get techie: Customs House Library",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-customs-house",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-glebe-library-2026-10-13",
+      "title": "Come and get techie: Glebe Library",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-glebe-library",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-newtown-library-2026-10-13",
+      "title": "Come and get techie: Newtown Library",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-newtown-library",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-first-nations-employment-support-2026-10-13",
+      "title": "First Nations employment support",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/first-nations-employment-support",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-intertwined-2026-10-13",
+      "title": "Intertwined",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/intertwined",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-maker-and-creator-8-12yrs-2026-10-13",
+      "title": "Maker & Creator 8-12yrs",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-and-creator-8-12yrs",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-waypoint-constellations-2026-10-13",
+      "title": "Waypoint Constellations",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/waypoint-constellations",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-curtains-jazz-festival-2026-10-13",
+      "title": "Curtains Jazz Festival",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-13",
+      "title": "Alchemy of a Rainforest exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alchemy-of-a-rainforest-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-aussies-peter-drew-2026-10-13",
+      "title": "AUSSIES Peter Drew",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aussies-peter-drew",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-definitive-dupain-2026-10-13",
+      "title": "Definitive Dupain",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/definitive-dupain",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-guided-walks-2026-10-13",
+      "title": "Guided walks",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guided-walks",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-little-sydney-lives-exhibition-2026-10-13",
+      "title": "Little Sydney Lives Exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-sydney-lives-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-keeper-a-brooch-club-exhibition-2026-10-13",
+      "title": "Keeper – a Brooch Club exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/keeper-a-brooch-club-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-and-still-i-rise-2026-10-13",
+      "title": "And Still I Rise",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/and-still-i-rise",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-aqua-paradiso-2026-10-13",
+      "title": "Aqua Paradiso",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aqua-paradiso",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-13",
+      "title": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/artisan-crafts-archival-woodblock-prints-reimagined",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-13",
+      "title": "Australian Geographic Nature Photographer of the Year",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-geographic-nature-photographer-of-the-year",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-13",
+      "title": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/barani-barrabugu-yesterday-tomorrow-journey",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-cherish-by-mat-pal-2026-10-13",
+      "title": "Cherish by Mat Pal",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/cherish-by-mat-pal",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-13",
+      "title": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/felicity-schrader-exhibition-i-fell-in-love-at-art2muse",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-argentine-tango-fundamentals-2026-10-13",
+      "title": "Free Beginner Tango Class",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/argentine-tango-fundamentals",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-vivid-bloom-at-market-city-2026-10-13",
+      "title": "FREE Tai Chi Tuesdays at Market City",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-city",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-10-13",
+      "title": "Fun social dance",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-gas-syd-presents-the-nxt1-2026-10-13",
+      "title": "GAS SYD presents The NXT1",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/gas-syd-presents-the-nxt1",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-13",
+      "title": "HSC ready? We’ve got space for you",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/exclusive-hsc-study-nights-for-students",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-john-and-jacqui-mullen-collection-2026-10-13",
+      "title": "John and Jacqui Mullen Collection",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/john-and-jacqui-mullen-collection",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-learn-to-read-music-and-sing-2026-10-13",
+      "title": "Learn to read music and sing",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-light-as-air-by-karim-konrad-2026-10-13",
+      "title": "Light as Air by Karim Konrad",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/light-as-air-by-karim-konrad",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-lorrie-graham-photojournalist-2026-10-13",
+      "title": "Lorrie Graham: Photojournalist",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lorrie-graham-photojournalist",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-margaret-olley-australian-intimiste-2026-10-13",
+      "title": "Margaret Olley: Australian Intimiste",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/margaret-olley-australian-intimiste",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-mervyn-bishop-close-up-2026-10-13",
+      "title": "Mervyn Bishop: Close Up",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mervyn-bishop-close-up",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-10-13",
+      "title": "Musical bingo and $1 dogs",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-little-dreamers-big-stories-2026-10-13",
+      "title": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-dreamers-big-stories",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-13",
+      "title": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/navy-125-commemorating-125-years-of-australias-navy",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ok-ok-ok-2026-10-13",
+      "title": "OK? Ok, ok…",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-pearling-elders-2026-10-13",
+      "title": "Pearling Elders",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-pine-street-printmakers-10th-annual-exhibition-2026-10-13",
+      "title": "Pine Street printmakers 10th annual exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pine-street-printmakers-10th-annual-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-green-square-library-2026-10-14",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-shipwreck-odyssey-2026-10-14",
+      "title": "Shipwreck Odyssey",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/shipwreck-odyssey",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-titanic-a-voyage-through-time-2026-10-14",
+      "title": "Titanic: A Voyage Through Time",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/titanic-a-voyage-through-time",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-2026-10-15",
+      "title": "Come and get techie: Darling Square Library",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-meditation-classes-2026-10-15",
+      "title": "iMeditate free meditation",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-classes",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "10:00–17:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-aboriginal-harbour-heritage-tour-2026-10-15",
+      "title": "Aboriginal Harbour Heritage Tour",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-10-17",
+      "title": "Makertime for families 8-12yrs",
+      "date": "2026-10-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-time-for-families-sphero-robot-maze-8-12yrs",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-work-ready-4-day-career-intensive-2026-10-19",
+      "title": "Work Ready: 4-Day Career Intensive",
+      "date": "2026-10-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/work-ready-4-day-career-intensive",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "09:00–16:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-kxx-2026-10-19",
+      "title": "Come and get techie at Kings Cross Library",
+      "date": "2026-10-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-v2homeschool-maker-time-laser-cut-from-nature-12-16yrsv2-2026-10-20",
+      "title": "Homeschool maker time: Pixel art 10-15yrs",
+      "date": "2026-10-20",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/v2homeschool-maker-time-laser-cut-from-nature-12-16yrsv2",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-python-programming-with-ai-course-2026-10-21",
+      "title": "Python Programming with AI Course",
+      "date": "2026-10-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/python-programming-with-ai-course",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "18:00–21:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-at-reginald-murphy-community-centre-2026-10-21",
+      "title": "Come and get techie",
+      "date": "2026-10-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-at-reginald-murphy-community-centre",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-who-sets-the-global-code-ai-power-and-the-new-world-order-2026-10-22",
+      "title": "Who Sets the Global Code? AI, Power, & the New World Order",
+      "date": "2026-10-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/who-sets-the-global-code-ai-power-and-the-new-world-order",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "17:30–18:30"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-makertime-open-access-16-yrs-2026-10-24",
+      "title": "Makertime: open access 16+yrs",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/makertime-open-access-16-yrs",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-global-nuclear-security-and-indias-nuclear-program-2026-10-27",
+      "title": "Global Nuclear Security and India's Nuclear Program",
+      "date": "2026-10-27",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/global-nuclear-security-and-indias-nuclear-program",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-future-world-expo-2026-10-27",
+      "title": "Future World Expo",
+      "date": "2026-10-27",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/future-world-expo",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-community-chats-haymarket-and-ultimo-2026-10-28",
+      "title": "Community Chats: Haymarket and Ultimo",
+      "date": "2026-10-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-chats-haymarket-and-ultimo",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-29",
+      "title": "The Rocks Ghost Festival",
+      "date": "2026-10-29",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-30",
+      "title": "The Rocks Ghost Festival · 第2天",
+      "date": "2026-10-30",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-31",
+      "title": "The Rocks Ghost Festival · 第3天",
+      "date": "2026-10-31",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-11-01",
+      "title": "The Rocks Ghost Festival · 第4天",
+      "date": "2026-11-01",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-curious-sydney-opera-house-2026-11-04",
+      "title": "Curious",
+      "date": "2026-11-04",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curious-sydney-opera-house",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-surry-hills-vintage-market-2026-11-07",
+      "title": "Surry Hills Vintage Market",
+      "date": "2026-11-07",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-vintage-market",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-architects-and-the-architectural-business-in-the-age-of-ai-2026-11-10",
+      "title": "Architects and the Architectural Business in the Age of AI",
+      "date": "2026-11-10",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/architects-and-the-architectural-business-in-the-age-of-ai",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "17:30–18:30"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-the-future-of-libraries-in-the-age-of-ai-2026-11-10",
+      "title": "The future of libraries in the age of AI",
+      "date": "2026-11-10",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-future-of-libraries-in-the-age-of-ai",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "18:00–19:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-user-experience-ux-design-fundamentals-course-2026-11-19",
+      "title": "User Experience (UX) Design Fundamentals Course",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/user-experience-ux-design-fundamentals-course",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    }
+  ],
+  "history": [
+    {
+      "kind": "new",
+      "id": "city-discovery-a-career-in-the-making-pathways-for-a-career-2026-10-13",
+      "title": "A Career in the Making: Pathways for a Career",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-career-in-the-making-pathways-for-a-career",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ai-weiwei-mushrooms-2026-2026-10-13",
+      "title": "Ai Weiwei, Mushrooms, 2026",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ai-weiwei-mushrooms-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-humain-what-remains-irreducibly-human-in-the-ai-era-2026-10-13",
+      "title": "humAIn – What remains irreducibly human in the AI era",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/humain-what-remains-irreducibly-human-in-the-ai-era",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "09:00–17:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-200th-anniversary-exhibitions-2026-10-13",
+      "title": "200th anniversary exhibitions",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/200th-anniversary-exhibitions",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-alana-hunt-to-the-owner-2026-10-13",
+      "title": "Alana Hunt: To the Owner",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-redfern-community-centre-2026-10-13",
+      "title": "Come and get techie",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-redfern-community-centre",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-customs-house-2026-10-13",
+      "title": "Come and get techie: Customs House Library",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-customs-house",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-glebe-library-2026-10-13",
+      "title": "Come and get techie: Glebe Library",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-glebe-library",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-newtown-library-2026-10-13",
+      "title": "Come and get techie: Newtown Library",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-newtown-library",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-first-nations-employment-support-2026-10-13",
+      "title": "First Nations employment support",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/first-nations-employment-support",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-intertwined-2026-10-13",
+      "title": "Intertwined",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/intertwined",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-maker-and-creator-8-12yrs-2026-10-13",
+      "title": "Maker & Creator 8-12yrs",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-and-creator-8-12yrs",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-waypoint-constellations-2026-10-13",
+      "title": "Waypoint Constellations",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/waypoint-constellations",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-curtains-jazz-festival-2026-10-13",
+      "title": "Curtains Jazz Festival",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-13",
+      "title": "Alchemy of a Rainforest exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alchemy-of-a-rainforest-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-aussies-peter-drew-2026-10-13",
+      "title": "AUSSIES Peter Drew",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aussies-peter-drew",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-definitive-dupain-2026-10-13",
+      "title": "Definitive Dupain",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/definitive-dupain",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-guided-walks-2026-10-13",
+      "title": "Guided walks",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guided-walks",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-little-sydney-lives-exhibition-2026-10-13",
+      "title": "Little Sydney Lives Exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-sydney-lives-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-keeper-a-brooch-club-exhibition-2026-10-13",
+      "title": "Keeper – a Brooch Club exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/keeper-a-brooch-club-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-and-still-i-rise-2026-10-13",
+      "title": "And Still I Rise",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/and-still-i-rise",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-aqua-paradiso-2026-10-13",
+      "title": "Aqua Paradiso",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aqua-paradiso",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-13",
+      "title": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/artisan-crafts-archival-woodblock-prints-reimagined",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-13",
+      "title": "Australian Geographic Nature Photographer of the Year",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-geographic-nature-photographer-of-the-year",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-13",
+      "title": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/barani-barrabugu-yesterday-tomorrow-journey",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-cherish-by-mat-pal-2026-10-13",
+      "title": "Cherish by Mat Pal",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/cherish-by-mat-pal",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-13",
+      "title": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/felicity-schrader-exhibition-i-fell-in-love-at-art2muse",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-argentine-tango-fundamentals-2026-10-13",
+      "title": "Free Beginner Tango Class",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/argentine-tango-fundamentals",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-vivid-bloom-at-market-city-2026-10-13",
+      "title": "FREE Tai Chi Tuesdays at Market City",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-city",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-10-13",
+      "title": "Fun social dance",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-gas-syd-presents-the-nxt1-2026-10-13",
+      "title": "GAS SYD presents The NXT1",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/gas-syd-presents-the-nxt1",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-13",
+      "title": "HSC ready? We’ve got space for you",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/exclusive-hsc-study-nights-for-students",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-john-and-jacqui-mullen-collection-2026-10-13",
+      "title": "John and Jacqui Mullen Collection",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/john-and-jacqui-mullen-collection",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-learn-to-read-music-and-sing-2026-10-13",
+      "title": "Learn to read music and sing",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-light-as-air-by-karim-konrad-2026-10-13",
+      "title": "Light as Air by Karim Konrad",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/light-as-air-by-karim-konrad",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-lorrie-graham-photojournalist-2026-10-13",
+      "title": "Lorrie Graham: Photojournalist",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lorrie-graham-photojournalist",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-margaret-olley-australian-intimiste-2026-10-13",
+      "title": "Margaret Olley: Australian Intimiste",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/margaret-olley-australian-intimiste",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-mervyn-bishop-close-up-2026-10-13",
+      "title": "Mervyn Bishop: Close Up",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mervyn-bishop-close-up",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-10-13",
+      "title": "Musical bingo and $1 dogs",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-little-dreamers-big-stories-2026-10-13",
+      "title": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-dreamers-big-stories",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-13",
+      "title": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/navy-125-commemorating-125-years-of-australias-navy",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ok-ok-ok-2026-10-13",
+      "title": "OK? Ok, ok…",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-pearling-elders-2026-10-13",
+      "title": "Pearling Elders",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-pine-street-printmakers-10th-annual-exhibition-2026-10-13",
+      "title": "Pine Street printmakers 10th annual exhibition",
+      "date": "2026-10-13",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pine-street-printmakers-10th-annual-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-green-square-library-2026-10-14",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-shipwreck-odyssey-2026-10-14",
+      "title": "Shipwreck Odyssey",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/shipwreck-odyssey",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-titanic-a-voyage-through-time-2026-10-14",
+      "title": "Titanic: A Voyage Through Time",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/titanic-a-voyage-through-time",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-2026-10-15",
+      "title": "Come and get techie: Darling Square Library",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-meditation-classes-2026-10-15",
+      "title": "iMeditate free meditation",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-classes",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "10:00–17:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-aboriginal-harbour-heritage-tour-2026-10-15",
+      "title": "Aboriginal Harbour Heritage Tour",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-10-17",
+      "title": "Makertime for families 8-12yrs",
+      "date": "2026-10-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-time-for-families-sphero-robot-maze-8-12yrs",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-work-ready-4-day-career-intensive-2026-10-19",
+      "title": "Work Ready: 4-Day Career Intensive",
+      "date": "2026-10-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/work-ready-4-day-career-intensive",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "09:00–16:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-kxx-2026-10-19",
+      "title": "Come and get techie at Kings Cross Library",
+      "date": "2026-10-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-v2homeschool-maker-time-laser-cut-from-nature-12-16yrsv2-2026-10-20",
+      "title": "Homeschool maker time: Pixel art 10-15yrs",
+      "date": "2026-10-20",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/v2homeschool-maker-time-laser-cut-from-nature-12-16yrsv2",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-python-programming-with-ai-course-2026-10-21",
+      "title": "Python Programming with AI Course",
+      "date": "2026-10-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/python-programming-with-ai-course",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "18:00–21:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-come-and-get-techie-at-reginald-murphy-community-centre-2026-10-21",
+      "title": "Come and get techie",
+      "date": "2026-10-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-at-reginald-murphy-community-centre",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-who-sets-the-global-code-ai-power-and-the-new-world-order-2026-10-22",
+      "title": "Who Sets the Global Code? AI, Power, & the New World Order",
+      "date": "2026-10-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/who-sets-the-global-code-ai-power-and-the-new-world-order",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "17:30–18:30"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-makertime-open-access-16-yrs-2026-10-24",
+      "title": "Makertime: open access 16+yrs",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/makertime-open-access-16-yrs",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-global-nuclear-security-and-indias-nuclear-program-2026-10-27",
+      "title": "Global Nuclear Security and India's Nuclear Program",
+      "date": "2026-10-27",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/global-nuclear-security-and-indias-nuclear-program",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-future-world-expo-2026-10-27",
+      "title": "Future World Expo",
+      "date": "2026-10-27",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/future-world-expo",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-community-chats-haymarket-and-ultimo-2026-10-28",
+      "title": "Community Chats: Haymarket and Ultimo",
+      "date": "2026-10-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-chats-haymarket-and-ultimo",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-29",
+      "title": "The Rocks Ghost Festival",
+      "date": "2026-10-29",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-30",
+      "title": "The Rocks Ghost Festival · 第2天",
+      "date": "2026-10-30",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-31",
+      "title": "The Rocks Ghost Festival · 第3天",
+      "date": "2026-10-31",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-11-01",
+      "title": "The Rocks Ghost Festival · 第4天",
+      "date": "2026-11-01",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-curious-sydney-opera-house-2026-11-04",
+      "title": "Curious",
+      "date": "2026-11-04",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curious-sydney-opera-house",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-surry-hills-vintage-market-2026-11-07",
+      "title": "Surry Hills Vintage Market",
+      "date": "2026-11-07",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-vintage-market",
+      "priority": "low",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-architects-and-the-architectural-business-in-the-age-of-ai-2026-11-10",
+      "title": "Architects and the Architectural Business in the Age of AI",
+      "date": "2026-11-10",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/architects-and-the-architectural-business-in-the-age-of-ai",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "17:30–18:30"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-the-future-of-libraries-in-the-age-of-ai-2026-11-10",
+      "title": "The future of libraries in the age of AI",
+      "date": "2026-11-10",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-future-of-libraries-in-the-age-of-ai",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "18:00–19:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-user-experience-ux-design-fundamentals-course-2026-11-19",
+      "title": "User Experience (UX) Design Fundamentals Course",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/user-experience-ux-design-fundamentals-course",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-artificial-intelligence-ai-for-business-course-2026-11-21",
+      "title": "Artificial Intelligence (AI) for Business Course",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/artificial-intelligence-ai-for-business-course",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "09:30–16:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-recycle-it-saturday-a-free-recycling-drop-off-event-2026-11-21",
+      "title": "Recycle It Saturday: a free recycling drop-off event",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/recycle-it-saturday-a-free-recycling-drop-off-event",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "09:00–15:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-sir-hermann-black-memorial-lecture-2026-the-year-in-review-2026-11-24",
+      "title": "Sir Hermann Black Memorial Lecture 2026 The Year in Review",
+      "date": "2026-11-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sir-hermann-black-memorial-lecture-2026-the-year-in-review",
+      "differences": {
+        "time": {
+          "before": "See official event page",
+          "after": "13:00–14:00"
+        }
+      },
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-au-x-screenworks-2026-11-30",
+      "title": "AU.X Screenworks",
+      "date": "2026-11-30",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/au-x-screenworks",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T10:52:24.776495Z"
+    }
+  ],
   "counts": {
-    "new": 0,
-    "updated": 0,
+    "new": 64,
+    "updated": 10,
     "possibleReschedule": 0,
     "notObserved": 0
   },

@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T10:33:01.890535Z",
+  "updatedAt": "2026-10-13T10:52:42.081906Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 22,
+  "count": 35,
   "entries": {
     "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
       "sourceTitle": "Shakespeare, Rhetoric, and AI",
@@ -93,14 +93,6 @@
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
     },
-    "gpt-waverley-technocritical-2026-10-28": {
-      "sourceTitle": "Technocritical: Ghost in the Machine (2026) [MA15+]",
-      "titleZh": "技术批判电影放映：《机器中的幽灵》（2026，MA15+）",
-      "sourceSummary": "Free Waverley Library screening of the 2026 documentary Ghost in the Machine, addressing the history and political economy of artificial intelligence. MA15+ classification.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
     "usu-screamfest-halloween-festival-2026-10-31": {
       "sourceTitle": "Discounted tickets to Screamfest Halloween Festival",
       "titleZh": "Screamfest 万圣节庆典优惠门票",
@@ -168,17 +160,129 @@
     "city-discovery-humain-what-remains-irreducibly-human-in-the-ai-era-2026-10-13": {
       "sourceTitle": "humAIn – What remains irreducibly human in the AI era",
       "titleZh": "humAIn –在人工智能时代，什么仍然是不可简化的人类",
-      "sourceSummary": "Discovered through the City of Sydney technology/seminar listings; check details on the official event page.",
-      "summaryZh": "通过悉尼市技术/研讨会列表查找；请在官方活动页面上查看详细信息。",
-      "translatedAt": "2026-10-13T10:33:01.890535Z",
+      "sourceSummary": "AI can generate content, analyse information and automate decisions.",
+      "summaryZh": "人工智能可以生成内容、分析信息和自动化决策。",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-work-ready-4-day-career-intensive-2026-10-19": {
       "sourceTitle": "Work Ready: 4-Day Career Intensive",
       "titleZh": "工作就绪： 4天职业密集型",
-      "sourceSummary": "Discovered through the City of Sydney technology/seminar listings; check details on the official event page.",
+      "sourceSummary": "Build confidence. Get job-ready. Take your next step.",
+      "summaryZh": "建立信心。为工作做好准备。迈出下一步。",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-a-career-in-the-making-pathways-for-a-career-2026-10-13": {
+      "sourceTitle": "A Career in the Making: Pathways for a Career",
+      "titleZh": "创作中的职业：职业生涯的途径",
+      "sourceSummary": "A Career in the Making: Pathways for a Career in Craft and Design",
+      "summaryZh": "创作中的职业：手工艺和设计职业的途径",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-13": {
+      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
+      "titleZh": "艾未未，《蘑菇》， 2026年",
+      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
+      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-python-programming-with-ai-course-2026-10-21": {
+      "sourceTitle": "Python Programming with AI Course",
+      "titleZh": "Python人工智能编程课程",
+      "sourceSummary": "Step into the world of coding and accelerate your learning in this 6-week Python Programming with AI course!",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:33:01.890535Z",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-who-sets-the-global-code-ai-power-and-the-new-world-order-2026-10-22": {
+      "sourceTitle": "Who Sets the Global Code? AI, Power, & the New World Order",
+      "titleZh": "谁制定全球准则？人工智能、权力与世界新秩序",
+      "sourceSummary": "Who writes the rules for AI? Explore the global contest over technology, power and the future.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-technocritical-ghost-in-the-machine-2026-ma15-2026-10-28": {
+      "sourceTitle": "Technocritical: Ghost in the Machine (2026) [MA15+]",
+      "titleZh": "技术批判：机器中的幽灵(2026) [MA15 +]",
+      "sourceSummary": "See the critically acclaimed documentary about the AI industry at Waverley Library.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-ghost-festival-2026-10-29": {
+      "sourceTitle": "The Rocks Ghost Festival",
+      "titleZh": "岩石鬼节",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-ghost-festival-2026-10-30": {
+      "sourceTitle": "The Rocks Ghost Festival · 第2天",
+      "titleZh": "The Rocks Ghost Festival · 第2天",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-ghost-festival-2026-10-31": {
+      "sourceTitle": "The Rocks Ghost Festival · 第3天",
+      "titleZh": "The Rocks Ghost Festival · 第3天",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-ghost-festival-2026-11-01": {
+      "sourceTitle": "The Rocks Ghost Festival · 第4天",
+      "titleZh": "The Rocks Ghost Festival · 第4天",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-200th-anniversary-exhibitions-2026-10-13": {
+      "sourceTitle": "200th anniversary exhibitions",
+      "titleZh": "200周年纪念展览",
+      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alana-hunt-to-the-owner-2026-10-13": {
+      "sourceTitle": "Alana Hunt: To the Owner",
+      "titleZh": "Alana Hunt ：致业主",
+      "sourceSummary": "To the Owner is Alana Hunt's first institutional solo exhibition in Gadigal Nura/Sydney.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-customs-house-2026-10-13": {
+      "sourceTitle": "Come and get techie: Customs House Library",
+      "titleZh": "快来获取技术人员：海关图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library!",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-glebe-library-2026-10-13": {
+      "sourceTitle": "Come and get techie: Glebe Library",
+      "titleZh": "快来获取技术人员： Glebe图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-newtown-library-2026-10-13": {
+      "sourceTitle": "Come and get techie: Newtown Library",
+      "titleZh": "快来获取技术人员：新城图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:52:42.081906Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
