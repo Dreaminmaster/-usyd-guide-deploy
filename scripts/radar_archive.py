@@ -11,7 +11,7 @@ from pathlib import Path
 import sys
 import urllib.request
 
-API = "https://usyd-radar.vercel.app/api/feed"
+API = "https://usyd-radar.vercel.app/api/combined"
 PUBLIC_FIELDS = ("id", "title", "date", "time", "location", "category", "priority",
                  "score", "summary", "eligibility", "registration", "confidence",
                  "sourceName", "url", "verified", "feedSource", "priorityReason")
