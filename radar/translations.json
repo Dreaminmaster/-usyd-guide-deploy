@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T10:53:16.644436Z",
+  "updatedAt": "2026-10-13T10:55:20.029571Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 49,
+  "count": 63,
   "entries": {
     "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
       "sourceTitle": "Shakespeare, Rhetoric, and AI",
@@ -395,6 +395,118 @@
       "sourceSummary": "Live Jazz at Curtains Jazz Club",
       "summaryZh": "",
       "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-at-reginald-murphy-community-centre-2026-10-21": {
+      "sourceTitle": "Come and get techie",
+      "titleZh": "快来找技术人员",
+      "sourceSummary": "Get help with a technology question about a device or website",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-makertime-open-access-16-yrs-2026-10-24": {
+      "sourceTitle": "Makertime: open access 16+yrs",
+      "titleZh": "Makertime ：开放获取16年以上",
+      "sourceSummary": "Get hands-on experience at the Darling Square Library Makerspace",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-future-world-expo-2026-10-27": {
+      "sourceTitle": "Future World Expo",
+      "titleZh": "未来世界",
+      "sourceSummary": "FutureWorldExpoSydney brings together global technology, investors, innovators, researchers to explore the technologies",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-global-nuclear-security-and-indias-nuclear-program-2026-10-27": {
+      "sourceTitle": "Global Nuclear Security and India's Nuclear Program",
+      "titleZh": "全球核安全与印度核计划",
+      "sourceSummary": "Dr Rajagopalan, Resident Senior Fellow, ASPI, presents a lecture on Global Nuclear Security and India's Nuclear Program",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-13": {
+      "sourceTitle": "Alchemy of a Rainforest exhibition",
+      "titleZh": "热带雨林炼金术展览",
+      "sourceSummary": "Explore a vibrant tapestry of life",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-argentine-tango-fundamentals-2026-10-13": {
+      "sourceTitle": "Free Beginner Tango Class",
+      "titleZh": "免费初学者探戈课",
+      "sourceSummary": "No obligation free introductory class to tango No partner or dance experience required",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-13": {
+      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "titleZh": "手工艺品：重新构想的木版画档案",
+      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-13": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-13": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-13": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-13": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-13": {
+      "sourceTitle": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
+      "titleZh": "Felicity Schrader在Art2Muse举办的“我坠入爱河”展览",
+      "sourceSummary": "Art2Muse Gallery presents 'I Fell In Love' by Felicity Schrader",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-gas-syd-presents-the-nxt1-2026-10-13": {
+      "sourceTitle": "GAS SYD presents The NXT1",
+      "titleZh": "GAS SYD推出NXT1",
+      "sourceSummary": "With the theme of 'Art Moving Forward' 30 Independent local artists present a dynamic range of work",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guided-walks-2026-10-13": {
+      "sourceTitle": "Guided walks",
+      "titleZh": "导览漫步",
+      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:55:20.029571Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
