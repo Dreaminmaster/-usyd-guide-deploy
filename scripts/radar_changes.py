@@ -46,6 +46,18 @@ def compare(previous, current, previous_streaks=None, checked_at=None):
     for record in now.values():
         by_url_now[permalink(record["url"])].append(record)
 
+    # A source newly connected or recovered from extraction failure often
+    # exposes many pre-existing listings. These were newly OBSERVED by Radar,
+    # not necessarily newly published by the event organiser.
+    prev_sources = {s.get("name"): s.get("status") for s in
+                    (previous or {}).get("sources", []) if isinstance(s, dict)}
+    source_recovered = any(
+        prev_sources.get("City discovery · " + key) not in (None, "ok")
+        and any(s.get("name") == "City discovery · " + key
+                and s.get("status") == "ok" for s in current.get("sources", []))
+        for key in ("city-free", "city-tech", "city-seminars", "city-tours")
+    )
+
     changes = []
     accounted = set()
     for id_, new in now.items():
@@ -80,9 +92,11 @@ def compare(previous, current, previous_streaks=None, checked_at=None):
         # If the exact public URL and date is unchanged, skip id renames.
         if any(e.get("date") == new.get("date") for e in old_matches):
             continue
-        changes.append({"kind": "new", "id": id_, "title": new["title"],
+        kind = "newly_observed" if source_recovered and id_.startswith("city-discovery-") else "new"
+        changes.append({"kind": kind, "id": id_, "title": new["title"],
                         "date": new["date"], "url": new["url"],
-                        "priority": new.get("priority"), "detectedAt": checked_at})
+                        "priority": new.get("priority"), "detectedAt": checked_at,
+                        "notice": "New to Radar; not proof of new publication" if kind == "newly_observed" else "First observed in Radar snapshot"})
 
     previous_streaks = previous_streaks or {}
     streaks = {}
