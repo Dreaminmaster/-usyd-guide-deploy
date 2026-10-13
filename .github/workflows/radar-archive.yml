@@ -8,8 +8,7 @@ on:
       - 'radar/ai-discoveries.json'
       - 'scripts/radar_changes.py'
       - 'scripts/radar_translate.py'
-      - 'tests/test_radar_changes.py'
-      - 'tests/test_radar_translate.py'
+      - 'tests/test_radar_*.py'
       - '.github/workflows/radar-archive.yml'
   schedule:
     - cron: '15 10,22 * * *' # about 09:15 / 21:15 Sydney AEDT; UTC schedule shifts in winter
