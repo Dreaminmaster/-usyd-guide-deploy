@@ -82,6 +82,16 @@ def compare(previous, current, previous_streaks=None, checked_at=None):
         # Never infer rescheduling from recurring events sharing a landing page.
         if key and len(old_matches) == 1 and len(new_matches) == 1:
             before = old_matches[0]
+            # A multi-day City listing can appear once per daily snapshot at
+            # today's date. Advancing across midnight is NOT rescheduling.
+            # Suppress this ambiguity rather than notifying the user falsely.
+            if (id_.startswith("city-discovery-")
+                    and str(before.get("id", "")).startswith("city-discovery-")
+                    and before.get("date") == (previous or {}).get("today")
+                    and new.get("date") == today
+                    and new.get("date") > before.get("date")):
+                accounted.add(before["id"])
+                continue
             if before["id"] not in now and before.get("date") != new.get("date"):
                 changes.append({"kind": "possible_reschedule", "id": id_, "title": new["title"],
                                 "oldDate": before["date"], "date": new["date"], "url": new["url"],
