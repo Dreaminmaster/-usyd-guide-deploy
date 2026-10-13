@@ -1,30 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T14:07:12.261057Z",
-  "sourceCheckedAt": "2026-10-13T14:07:12.588Z",
+  "checkedAt": "2026-10-13T14:07:30.278178Z",
+  "sourceCheckedAt": "2026-10-13T14:07:30.453Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "gpt-sydney-games-festival-week-2026-10-18",
-      "title": "Sydney Games Festival (12–18 October 2026)",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-games-festival",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T14:07:12.261057Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-impact-factor-biodiversity-2026-10-22",
-      "title": "The Impact Factor: From microbes to megafauna",
-      "date": "2026-10-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-impact-factor-from-microbes-to-megafauna",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T14:07:12.261057Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1079,7 +1058,7 @@
     }
   ],
   "counts": {
-    "new": 2,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,

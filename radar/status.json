@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "checkedAt": "2026-10-13T14:07:12.261057Z",
-  "feedCheckedAt": "2026-10-13T14:07:12.588Z",
+  "checkedAt": "2026-10-13T14:07:30.278178Z",
+  "feedCheckedAt": "2026-10-13T14:07:30.453Z",
   "feedStatus": "ok",
   "events": 187,
   "news": 7,
@@ -10,7 +10,7 @@
   "runEvent": "push",
   "lastScheduledRunAt": null,
   "changes": {
-    "new": 2,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
