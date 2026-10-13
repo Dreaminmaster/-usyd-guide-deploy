@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T07:35:00Z",
-  "feedCheckedAt": "2026-10-13T07:35:00Z",
+  "checkedAt": "2026-10-13T08:11:15.205Z",
+  "feedCheckedAt": "2026-10-13T07:53:49.165Z",
   "feedStatus": "ok",
-  "events": 124,
+  "events": 144,
   "news": 7,
-  "sourceCount": 16,
-  "description": "Initial archive created by ChatGPT, not yet a successful scheduled workflow run",
+  "sourceCount": 21,
+  "description": "Initial and refreshed archives were written manually; automatic GitHub Actions run remains to be verified",
   "initialSnapshot": true
 }
