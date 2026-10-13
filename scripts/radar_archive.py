@@ -75,6 +75,7 @@ def main(root):
         "history": history_update(prior_changes.get("history"), changes),
         "counts": {
             "new": sum(e["kind"] == "new" for e in changes),
+            "newlyObserved": sum(e["kind"] == "newly_observed" for e in changes),
             "updated": sum(e["kind"] == "updated" for e in changes),
             "possibleReschedule": sum(e["kind"] == "possible_reschedule" for e in changes),
             "notObserved": sum(e["kind"] == "not_observed" for e in changes),
