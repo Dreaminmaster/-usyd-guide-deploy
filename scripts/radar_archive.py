@@ -26,8 +26,8 @@ def get_feed():
         data = json.loads(response.read(4_000_000).decode("utf-8"))
     if not isinstance(data.get("events"), list) or len(data["events"]) == 0:
         raise ValueError("Refusing to overwrite a working snapshot with an empty feed")
-    if data.get("status") == "unavailable":
-        raise ValueError("All upstream sources unavailable")
+    if data.get("status") in ("unavailable", "archived") or data.get("live") is False:
+        raise ValueError("Refusing to re-archive a historical fallback as a fresh live observation")
     if not data.get("checkedAt") or not data.get("summary"):
         raise ValueError("Feed missing checkedAt or summary")
     return data
