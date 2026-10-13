@@ -46,6 +46,17 @@ class RadarComparisonTests(unittest.TestCase):
         second, _ = compare(old, new, state)
         self.assertEqual([x["kind"] for x in second], ["not_observed"])
 
+    def test_restored_city_source_is_newly_observed_not_newly_published(self):
+        old = snapshot([event("stable", "2026-10-20", "https://usu.edu.au/stable")])
+        old["sources"] = [{"name": "City discovery · city-free", "status": "partial"}]
+        new = snapshot(old["events"] + [
+            event("city-discovery-ghost-2026-10-22", "2026-10-22",
+                  "https://whatson.cityofsydney.nsw.gov.au/events/ghost")])
+        new["sources"] = [{"name": "City discovery · city-free", "status": "ok"}]
+        changes, _ = compare(old, new)
+        self.assertEqual([x["kind"] for x in changes], ["newly_observed"])
+        self.assertIn("not proof", changes[0]["notice"])
+
     def test_source_failure_does_not_create_missing_claim(self):
         old = snapshot([event("a", "2026-10-20", "https://usu.edu.au/a")])
         new = snapshot([], status="partial", failed=1)
