@@ -1,10 +1,531 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T14:07:30.278178Z",
-  "sourceCheckedAt": "2026-10-13T14:07:30.453Z",
+  "checkedAt": "2026-10-13T17:37:16.624110Z",
+  "sourceCheckedAt": "2026-10-13T17:37:18.230Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "city-discovery-halloween-at-hay-st-2026-10-14",
+      "title": "Halloween at Hay St",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-celebrating-the-merewether-and-mitchell-fellowships-2026-10-14",
+      "title": "Celebrating the Merewether and Mitchell Fellowships",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/celebrating-the-merewether-and-mitchell-fellowships",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-hotels-and-growth-in-regional-communities-a-view-from-kiama-2026-10-14",
+      "title": "Hotels and Growth in Regional Communities: A View from Kiama",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/hotels-and-growth-in-regional-communities-a-view-from-kiama",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-the-centenary-exhibition-2026-10-14",
+      "title": "The Centenary Exhibition",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-centenary-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-black-myth-2026-10-14",
+      "title": "Black Myth",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/black-myth",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-14",
+      "title": "The Entertainment Quarter Markets (EQ Markets)",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-natural-connections-a-group-show-2026-10-14",
+      "title": "'Natural Connections' – a group show",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/natural-connections-a-group-show",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-14",
+      "title": "Ancestor Spirits and In the Half Light",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ancestor-spirits-and-in-the-half-light",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-author-talk-beyond-timbuktu-with-catherine-devrye-2026-10-14",
+      "title": "Author talk: 'Beyond Timbuktu' with Catherine DeVrye",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/author-talk-beyond-timbuktu-with-catherine-devrye",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-brain-health-our-beautiful-mind-2026-10-14",
+      "title": "Brain Health: Our Beautiful Mind",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/brain-health-our-beautiful-mind",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-comedian-led-art-tours-2026-10-14",
+      "title": "Comedian-led art tours",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/comedian-led-art-tours",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-14",
+      "title": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/felicity-schrader-exhibition-i-fell-in-love-at-art2muse",
+      "differences": {
+        "time": {
+          "before": "09:00–16:00",
+          "after": "09:00–17:00"
+        }
+      },
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-gas-syd-presents-the-nxt1-2026-10-14",
+      "title": "GAS SYD presents The NXT1",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/gas-syd-presents-the-nxt1",
+      "differences": {
+        "time": {
+          "before": "11:00–19:00",
+          "after": "10:00–15:00"
+        }
+      },
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-14",
+      "title": "Guided highlights tour: Anzac Memorial",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-guitar-bass-beginner-group-lesson-2026-10-14",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-14",
+      "title": "Jordan Gower: Does the moon know the well?",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jordan-gower-does-the-moon-know-the-well",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-creative-workshop-for-neurodivergent-teens-and-their-carers-2026-10-14",
+      "title": "Lantern making workshop for neurodivergent teens and carers",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/creative-workshop-for-neurodivergent-teens-and-their-carers",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-lunchtime-concerts-lionel-robinson-does-frank-sinatra-2026-10-14",
+      "title": "Lunchtime concerts – Lionel Robinson does Frank Sinatra",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concerts-lionel-robinson-does-frank-sinatra",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-aboriginal-harbour-heritage-tour-2026-10-15",
+      "title": "Aboriginal Harbour Heritage Tour",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-community-chats-haymarket-and-ultimo-2026-10-28",
+      "title": "Community Chats: Haymarket and Ultimo",
+      "date": "2026-10-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-chats-haymarket-and-ultimo",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-29",
+      "title": "The Rocks Ghost Festival",
+      "date": "2026-10-29",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-30",
+      "title": "The Rocks Ghost Festival · 第2天",
+      "date": "2026-10-30",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-31",
+      "title": "The Rocks Ghost Festival · 第3天",
+      "date": "2026-10-31",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-11-01",
+      "title": "The Rocks Ghost Festival · 第4天",
+      "date": "2026-11-01",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-surry-hills-vintage-market-2026-11-07",
+      "title": "Surry Hills Vintage Market",
+      "date": "2026-11-07",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-vintage-market",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-discovery-halloween-at-hay-st-2026-10-14",
+      "title": "Halloween at Hay St",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-celebrating-the-merewether-and-mitchell-fellowships-2026-10-14",
+      "title": "Celebrating the Merewether and Mitchell Fellowships",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/celebrating-the-merewether-and-mitchell-fellowships",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-hotels-and-growth-in-regional-communities-a-view-from-kiama-2026-10-14",
+      "title": "Hotels and Growth in Regional Communities: A View from Kiama",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/hotels-and-growth-in-regional-communities-a-view-from-kiama",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-the-centenary-exhibition-2026-10-14",
+      "title": "The Centenary Exhibition",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-centenary-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-black-myth-2026-10-14",
+      "title": "Black Myth",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/black-myth",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-14",
+      "title": "The Entertainment Quarter Markets (EQ Markets)",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-natural-connections-a-group-show-2026-10-14",
+      "title": "'Natural Connections' – a group show",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/natural-connections-a-group-show",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-14",
+      "title": "Ancestor Spirits and In the Half Light",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ancestor-spirits-and-in-the-half-light",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-author-talk-beyond-timbuktu-with-catherine-devrye-2026-10-14",
+      "title": "Author talk: 'Beyond Timbuktu' with Catherine DeVrye",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/author-talk-beyond-timbuktu-with-catherine-devrye",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-brain-health-our-beautiful-mind-2026-10-14",
+      "title": "Brain Health: Our Beautiful Mind",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/brain-health-our-beautiful-mind",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-comedian-led-art-tours-2026-10-14",
+      "title": "Comedian-led art tours",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/comedian-led-art-tours",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-14",
+      "title": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/felicity-schrader-exhibition-i-fell-in-love-at-art2muse",
+      "differences": {
+        "time": {
+          "before": "09:00–16:00",
+          "after": "09:00–17:00"
+        }
+      },
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z"
+    },
+    {
+      "kind": "updated",
+      "id": "city-discovery-gas-syd-presents-the-nxt1-2026-10-14",
+      "title": "GAS SYD presents The NXT1",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/gas-syd-presents-the-nxt1",
+      "differences": {
+        "time": {
+          "before": "11:00–19:00",
+          "after": "10:00–15:00"
+        }
+      },
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-14",
+      "title": "Guided highlights tour: Anzac Memorial",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-guitar-bass-beginner-group-lesson-2026-10-14",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-14",
+      "title": "Jordan Gower: Does the moon know the well?",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jordan-gower-does-the-moon-know-the-well",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-creative-workshop-for-neurodivergent-teens-and-their-carers-2026-10-14",
+      "title": "Lantern making workshop for neurodivergent teens and carers",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/creative-workshop-for-neurodivergent-teens-and-their-carers",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-lunchtime-concerts-lionel-robinson-does-frank-sinatra-2026-10-14",
+      "title": "Lunchtime concerts – Lionel Robinson does Frank Sinatra",
+      "date": "2026-10-14",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lunchtime-concerts-lionel-robinson-does-frank-sinatra",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-aboriginal-harbour-heritage-tour-2026-10-15",
+      "title": "Aboriginal Harbour Heritage Tour",
+      "date": "2026-10-15",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-community-chats-haymarket-and-ultimo-2026-10-28",
+      "title": "Community Chats: Haymarket and Ultimo",
+      "date": "2026-10-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-chats-haymarket-and-ultimo",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-29",
+      "title": "The Rocks Ghost Festival",
+      "date": "2026-10-29",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-30",
+      "title": "The Rocks Ghost Festival · 第2天",
+      "date": "2026-10-30",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-10-31",
+      "title": "The Rocks Ghost Festival · 第3天",
+      "date": "2026-10-31",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-ghost-festival-2026-11-01",
+      "title": "The Rocks Ghost Festival · 第4天",
+      "date": "2026-11-01",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-surry-hills-vintage-market-2026-11-07",
+      "title": "Surry Hills Vintage Market",
+      "date": "2026-11-07",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-vintage-market",
+      "priority": "low",
+      "detectedAt": "2026-10-13T17:37:16.624110Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "gpt-sydney-games-festival-week-2026-10-18",
@@ -801,266 +1322,12 @@
       "priority": "low",
       "detectedAt": "2026-10-13T10:52:24.776495Z",
       "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-13",
-      "title": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/felicity-schrader-exhibition-i-fell-in-love-at-art2muse",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-argentine-tango-fundamentals-2026-10-13",
-      "title": "Free Beginner Tango Class",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/argentine-tango-fundamentals",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-vivid-bloom-at-market-city-2026-10-13",
-      "title": "FREE Tai Chi Tuesdays at Market City",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-city",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-10-13",
-      "title": "Fun social dance",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-gas-syd-presents-the-nxt1-2026-10-13",
-      "title": "GAS SYD presents The NXT1",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/gas-syd-presents-the-nxt1",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-13",
-      "title": "HSC ready? We’ve got space for you",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/exclusive-hsc-study-nights-for-students",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-john-and-jacqui-mullen-collection-2026-10-13",
-      "title": "John and Jacqui Mullen Collection",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/john-and-jacqui-mullen-collection",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-learn-to-read-music-and-sing-2026-10-13",
-      "title": "Learn to read music and sing",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-light-as-air-by-karim-konrad-2026-10-13",
-      "title": "Light as Air by Karim Konrad",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/light-as-air-by-karim-konrad",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-lorrie-graham-photojournalist-2026-10-13",
-      "title": "Lorrie Graham: Photojournalist",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lorrie-graham-photojournalist",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-margaret-olley-australian-intimiste-2026-10-13",
-      "title": "Margaret Olley: Australian Intimiste",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/margaret-olley-australian-intimiste",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-mervyn-bishop-close-up-2026-10-13",
-      "title": "Mervyn Bishop: Close Up",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mervyn-bishop-close-up",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-10-13",
-      "title": "Musical bingo and $1 dogs",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-little-dreamers-big-stories-2026-10-13",
-      "title": "NAIDOC Poster exhibition - 50 years of Deadly",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-dreamers-big-stories",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-13",
-      "title": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/navy-125-commemorating-125-years-of-australias-navy",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-ok-ok-ok-2026-10-13",
-      "title": "OK? Ok, ok…",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-pearling-elders-2026-10-13",
-      "title": "Pearling Elders",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-pine-street-printmakers-10th-annual-exhibition-2026-10-13",
-      "title": "Pine Street printmakers 10th annual exhibition",
-      "date": "2026-10-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pine-street-printmakers-10th-annual-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-come-and-get-techie-green-square-library-2026-10-14",
-      "title": "Come and get techie: Green Square Library",
-      "date": "2026-10-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-shipwreck-odyssey-2026-10-14",
-      "title": "Shipwreck Odyssey",
-      "date": "2026-10-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/shipwreck-odyssey",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-titanic-a-voyage-through-time-2026-10-14",
-      "title": "Titanic: A Voyage Through Time",
-      "date": "2026-10-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/titanic-a-voyage-through-time",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-come-and-get-techie-2026-10-15",
-      "title": "Come and get techie: Darling Square Library",
-      "date": "2026-10-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-meditation-classes-2026-10-15",
-      "title": "iMeditate free meditation",
-      "date": "2026-10-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-classes",
-      "differences": {
-        "time": {
-          "before": "See official event page",
-          "after": "10:00–17:00"
-        }
-      },
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-aboriginal-harbour-heritage-tour-2026-10-15",
-      "title": "Aboriginal Harbour Heritage Tour",
-      "date": "2026-10-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
-      "priority": "low",
-      "detectedAt": "2026-10-13T10:52:24.776495Z"
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-10-17",
-      "title": "Makertime for families 8-12yrs",
-      "date": "2026-10-17",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-time-for-families-sphero-robot-maze-8-12yrs",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 23,
     "newlyObserved": 0,
-    "updated": 0,
+    "updated": 2,
     "possibleReschedule": 0,
     "notObserved": 0
   },
