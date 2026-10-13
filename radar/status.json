@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "checkedAt": "2026-10-13T07:35:00Z",
+  "feedCheckedAt": "2026-10-13T07:35:00Z",
+  "feedStatus": "ok",
+  "events": 124,
+  "news": 7,
+  "sourceCount": 16,
+  "description": "Initial archive created by ChatGPT, not yet a successful scheduled workflow run",
+  "initialSnapshot": true
+}
