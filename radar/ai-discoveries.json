@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T11:40:00.000Z",
+  "updatedAt": "2026-10-13T14:04:54.714Z",
   "source": "Curated official-event discoveries (ChatGPT-assisted cross-source verification)",
   "policy": "Public official events only. No private university messages, personal information, or unverified claims.",
   "events": [
@@ -135,6 +135,50 @@
       "curator": "ChatGPT cross-source review",
       "verification": "Confirmed current date list and venue on Humanitix event and ticket pages; event organiser site corroborates Thursday 10:30am schedule.",
       "priorityReason": "Free Mandarin-speaking AI builder group; practical networking and demos; accessible by public transport"
+    },
+    {
+      "id": "gpt-usyd-impact-factor-biodiversity-2026-10-22",
+      "title": "The Impact Factor: From microbes to megafauna",
+      "titleZh": "悉尼大学《影响因子》系列：从微生物到大型动物",
+      "date": "2026-10-22",
+      "time": "18:00–19:30 (doors 17:45)",
+      "location": "York Theatre, Seymour Centre, Corner City Road and Cleveland Street, Chippendale NSW 2006",
+      "locationZh": "Seymour Centre 的 York Theatre，City Road 与 Cleveland Street 交界，Chippendale",
+      "category": "academic",
+      "priority": "medium",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney · What's On / University of Sydney Faculty of Science",
+      "summary": "Free public science conversation hosted by Professor Alice Motion, with researchers exploring biodiversity, conservation genomics, insects and coral reef ecosystems.",
+      "summaryZh": "悉尼大学科学学院免费公开讲座，由 Alice Motion 教授主持，三位科研人员分享生物多样性、保护基因组学、昆虫行为及珊瑚礁生态保护的研究。",
+      "eligibility": "Open to the public; follow organiser booking instructions",
+      "registration": "Free; use the 'Book tickets' link on the official event page; doors at 17:45",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-impact-factor-from-microbes-to-megafauna",
+      "verified": "2026-10-14",
+      "curator": "ChatGPT cross-source review",
+      "verification": "City of Sydney official listing confirms Thursday 22 October, 18:00–19:30, free admission, Seymour Centre York Theatre.",
+      "priorityReason": "Free university research talk very close to campus; good exposure to public academic events"
+    },
+    {
+      "id": "gpt-sydney-games-festival-week-2026-10-18",
+      "title": "Sydney Games Festival (12–18 October 2026)",
+      "titleZh": "悉尼游戏节｜独立游戏、开发者交流和游戏制作体验",
+      "date": "2026-10-18",
+      "time": "12–18 October; individual event times vary (see program)",
+      "location": "Multiple Sydney venues; overall listing on George Street, Sydney NSW 2000",
+      "locationZh": "悉尼多处场地；各分场地点与时间以游戏节节目表为准",
+      "category": "culture",
+      "priority": "medium",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney · What's On / Sydney Games Festival Committee",
+      "summary": "Week-long community festival of more than 30 independently organised games events, including local game showcases, development talks, networking, student game jams and creative workshops. Individual sessions have separate schedules.",
+      "summaryZh": "2026 年 10 月 12 至 18 日举办的悉尼游戏节，汇集超过 30 项游戏社区活动，包括本地电子游戏展示、开发者分享、学生游戏开发活动、游戏创作与社交交流；各场次地点和时间不同。",
+      "eligibility": "Public festival; entry rules and age suitability may vary for individual sessions",
+      "registration": "Festival is listed as free by City of Sydney; inspect individual sessions and book via the official festival programme when required",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-games-festival",
+      "verified": "2026-10-14",
+      "curator": "ChatGPT cross-source review",
+      "verification": "City of Sydney official listing confirms 12–18 October 2026, free overall event listing, multiple venues and more than 30 sessions.",
+      "priorityReason": "Time-sensitive final days; developer talks, game development and networking relevant to computing students"
     }
   ],
   "news": []
