@@ -37,6 +37,21 @@ class RadarComparisonTests(unittest.TestCase):
         changes, _ = compare(old, new)
         self.assertEqual([x["kind"] for x in changes], ["new"])
 
+    def test_daily_city_listing_does_not_claim_reschedule(self):
+        url = "https://whatson.cityofsydney.nsw.gov.au/events/ongoing-exhibit"
+        old = snapshot([event("city-discovery-exhibit-2026-10-13", "2026-10-13", url)])
+        new = snapshot([event("city-discovery-exhibit-2026-10-14", "2026-10-14", url)])
+        old["today"], new["today"] = "2026-10-13", "2026-10-14"
+        changes, _ = compare(old, new)
+        self.assertEqual(changes, [])
+
+    def test_future_city_reschedule_still_flagged_for_verification(self):
+        url = "https://whatson.cityofsydney.nsw.gov.au/events/one-off-talk"
+        old = snapshot([event("city-discovery-talk-2026-10-20", "2026-10-20", url)])
+        new = snapshot([event("city-discovery-talk-2026-10-22", "2026-10-22", url)])
+        changes, _ = compare(old, new)
+        self.assertEqual([x["kind"] for x in changes], ["possible_reschedule"])
+
     def test_missing_is_never_cancelled(self):
         old = snapshot([event("a", "2026-10-20", "https://usu.edu.au/a"),
                         event("b", "2026-10-21", "https://usu.edu.au/b")])
