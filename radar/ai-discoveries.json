@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-13T07:49:24.279Z",
+  "source": "Curated official-event discoveries (ChatGPT-assisted cross-source verification)",
+  "policy": "Public official events only. No private university messages, personal information, or unverified claims.",
+  "events": [
+    {
+      "id": "gpt-city-ai-global-code-2026-10-22",
+      "title": "Who Sets the Global Code? AI, Power, & the New World Order",
+      "titleZh": "谁来制定全球规则？人工智能、权力与新世界秩序",
+      "date": "2026-10-22",
+      "time": "17:30–18:30",
+      "location": "Darling Square Library, The Exchange, 1 Little Pier Street, Haymarket NSW 2000",
+      "locationZh": "达令广场图书馆，The Exchange，1 Little Pier Street，Haymarket",
+      "category": "academic",
+      "priority": "medium",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney · What's On",
+      "summary": "A free public talk on the global governance of AI, technology, international standards and power, featuring UNSW Professor Mimi Zou.",
+      "summaryZh": "一场免费公开讲座，讨论人工智能的全球治理、科技规则、国际标准与权力关系。演讲嘉宾为新南威尔士大学的 Mimi Zou 教授。",
+      "eligibility": "Public; check the organiser's event booking requirements",
+      "registration": "Free; booking is available through the official event page",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/who-sets-the-global-code-ai-power-and-the-new-world-order",
+      "verified": "2026-10-13",
+      "curator": "ChatGPT cross-source review",
+      "verification": "Checked against the City of Sydney's official event listing.",
+      "priorityReason": "Directly relevant to AI and public policy, free, and within two weeks"
+    }
+  ],
+  "news": []
+}
