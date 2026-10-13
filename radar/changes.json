@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "checkedAt": "2026-10-13T10:19:46.718Z",
+  "hasBaseline": true,
+  "latest": [],
+  "history": [],
+  "counts": {
+    "new": 0,
+    "updated": 0,
+    "possibleReschedule": 0,
+    "notObserved": 0
+  },
+  "warning": "No automatic diff has run yet. Disappearance is not cancellation."
+}
