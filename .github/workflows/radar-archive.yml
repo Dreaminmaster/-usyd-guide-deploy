@@ -2,7 +2,7 @@ name: Archive USYD Radar public feed
 
 on:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '15 10,22 * * *' # about 09:15 / 21:15 Sydney AEDT; UTC schedule shifts in winter
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 7
     steps:
       - name: Checkout reviewed archiver from main
-        uses: actions/checkout@v4
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           path: code
           persist-credentials: false
