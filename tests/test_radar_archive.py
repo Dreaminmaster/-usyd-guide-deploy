@@ -4,7 +4,9 @@ from pathlib import Path
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from radar_archive import NEWS_FIELDS, PUBLIC_FIELDS, project
+from radar_archive import NEWS_FIELDS, PUBLIC_FIELDS, get_feed, project
+from unittest.mock import patch
+import json
 
 
 class RadarArchiveProjectionTests(unittest.TestCase):
@@ -36,6 +38,33 @@ class RadarArchiveProjectionTests(unittest.TestCase):
         self.assertEqual(saved["titleZh"], "大学动态")
         self.assertEqual(saved["summaryZh"], "公开说明")
         self.assertNotIn("privateStudentId", saved)
+
+    def test_live_fetch_uses_fresh_cache_key(self):
+        payload = {
+            "events": [{"id": "public", "url": "https://www.sydney.edu.au/", "date": "2026-10-22"}],
+            "checkedAt": "2026-10-14T00:00:00Z",
+            "status": "ok",
+            "summary": {"events": 1},
+        }
+
+        class FakeReply:
+            status = 200
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_args):
+                return False
+
+            def read(self, _limit):
+                return json.dumps(payload).encode("utf-8")
+
+        with patch("radar_archive.urllib.request.urlopen", return_value=FakeReply()) as mocked:
+            self.assertEqual(get_feed()["status"], "ok")
+        request = mocked.call_args.args[0]
+        self.assertIn("?github_archive=", request.full_url)
+        self.assertNotIn("?github_archive=1", request.full_url)
+        self.assertEqual(request.get_header("Cache-control"), "no-cache")
 
     def test_missing_translations_are_not_fabricated(self):
         saved = project({"id": "plain", "title": "Event"}, PUBLIC_FIELDS)
