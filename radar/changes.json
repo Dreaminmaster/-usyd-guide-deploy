@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T10:55:55.681945Z",
-  "sourceCheckedAt": "2026-10-13T10:53:16.421Z",
+  "checkedAt": "2026-10-13T10:56:10.209611Z",
+  "sourceCheckedAt": "2026-10-13T10:56:10.407Z",
   "hasBaseline": true,
   "latest": [],
   "history": [
@@ -734,6 +734,7 @@
   ],
   "counts": {
     "new": 0,
+    "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
     "notObserved": 0
