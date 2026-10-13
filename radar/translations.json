@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T13:58:53.861559Z",
+  "updatedAt": "2026-10-13T13:59:32.287140Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 49,
+  "count": 63,
   "entries": {
     "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
       "sourceTitle": "Shakespeare, Rhetoric, and AI",
@@ -395,6 +395,118 @@
       "sourceSummary": "Employment support for Mob",
       "summaryZh": "",
       "translatedAt": "2026-10-13T13:58:53.861559Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curtains-jazz-festival-2026-10-14": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "窗帘爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-redfern-community-centre-2026-10-27": {
+      "sourceTitle": "Come and get techie",
+      "titleZh": "快来找技术人员",
+      "sourceSummary": "Get help with a technology question about a device or website from our City of Sydney Library team",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-maker-and-creator-8-12yrs-2026-11-03": {
+      "sourceTitle": "Maker & Creator 8-12yrs",
+      "titleZh": "创客和创作者8-12岁",
+      "sourceSummary": "Play and create with the latest makerspace kits and electronic gadgets",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curious-sydney-opera-house-2026-11-04": {
+      "sourceTitle": "Curious",
+      "titleZh": "好奇",
+      "sourceSummary": "Curious unpacks the ideas shaping headlines, sparking debate and changing the way we see the world.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-52a1e515-7c23-4331-ae24-60314cdaf999-2026-10-21": {
+      "sourceTitle": "Lunchbreak Concert: Conservatorium Jazz Orchestra",
+      "titleZh": "午间音乐会：音乐学院爵士乐团",
+      "sourceSummary": "Join us on Wednesdays and Thursdays for an exhilarating 45-minute lunchbreak concert here at Verbrugghen Hall, with faculties of the Sydney Conservatorium of Music performing solo and ensemble works, including strings, piano, jazz, opera and more! 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-14": {
+      "sourceTitle": "Alchemy of a Rainforest exhibition",
+      "titleZh": "热带雨林炼金术展览",
+      "sourceSummary": "Explore a vibrant tapestry of life",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-14": {
+      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "titleZh": "手工艺品：重新构想的木版画档案",
+      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-14": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-14": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-14": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-14": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-14": {
+      "sourceTitle": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
+      "titleZh": "Felicity Schrader在Art2Muse举办的“我坠入爱河”展览",
+      "sourceSummary": "Art2Muse Gallery presents 'I Fell In Love' by Felicity Schrader",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-gas-syd-presents-the-nxt1-2026-10-14": {
+      "sourceTitle": "GAS SYD presents The NXT1",
+      "titleZh": "GAS SYD推出NXT1",
+      "sourceSummary": "With the theme of 'Art Moving Forward' 30 Independent local artists present a dynamic range of work",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guided-walks-2026-10-14": {
+      "sourceTitle": "Guided walks",
+      "titleZh": "导览漫步",
+      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:59:32.287140Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
