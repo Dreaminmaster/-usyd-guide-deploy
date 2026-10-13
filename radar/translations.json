@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T10:52:42.081906Z",
+  "updatedAt": "2026-10-13T10:53:16.644436Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 35,
+  "count": 49,
   "entries": {
     "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
       "sourceTitle": "Shakespeare, Rhetoric, and AI",
@@ -113,8 +113,8 @@
       "sourceTitle": "AI, Equity, and Ethics in Research Symposium",
       "titleZh": "人工智能、平等与科研伦理研讨会",
       "sourceSummary": "The University of Sydney's National Centre for Cultural Competence is pleased to present the AI, Equity and Ethics in Research Symposium, bringing together researchers, practitioners and thought leaders to explore the opportunities, challenges and responsibili",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "summaryZh": "悉尼大学国家文化能力中心很高兴举办AI、公平和伦理研究研讨会，汇集研究人员、从业人员和思想领袖，探索机遇、挑战和责任",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "human-reviewed initial title translation"
     },
     "usyd-c25d8425-28cb-4d4e-83a9-e039c1dfa079-2026-11-05": {
@@ -193,24 +193,24 @@
       "sourceTitle": "Python Programming with AI Course",
       "titleZh": "Python人工智能编程课程",
       "sourceSummary": "Step into the world of coding and accelerate your learning in this 6-week Python Programming with AI course!",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "summaryZh": "通过这门为期6周的人工智能Python编程课程，踏入编程世界，加速学习！",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-who-sets-the-global-code-ai-power-and-the-new-world-order-2026-10-22": {
       "sourceTitle": "Who Sets the Global Code? AI, Power, & the New World Order",
       "titleZh": "谁制定全球准则？人工智能、权力与世界新秩序",
       "sourceSummary": "Who writes the rules for AI? Explore the global contest over technology, power and the future.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "summaryZh": "谁为人工智能撰写规则？探索关于技术、力量和未来的全球竞赛。",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-technocritical-ghost-in-the-machine-2026-ma15-2026-10-28": {
       "sourceTitle": "Technocritical: Ghost in the Machine (2026) [MA15+]",
       "titleZh": "技术批判：机器中的幽灵(2026) [MA15 +]",
       "sourceSummary": "See the critically acclaimed documentary about the AI industry at Waverley Library.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "summaryZh": "在Waverley图书馆观看广受好评的人工智能行业纪录片。",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-ghost-festival-2026-10-29": {
@@ -283,6 +283,118 @@
       "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
       "summaryZh": "",
       "translatedAt": "2026-10-13T10:52:42.081906Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-redfern-community-centre-2026-10-13": {
+      "sourceTitle": "Come and get techie",
+      "titleZh": "快来找技术人员",
+      "sourceSummary": "Get help with a technology question about a device or website from our City of Sydney Library team",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-first-nations-employment-support-2026-10-13": {
+      "sourceTitle": "First Nations employment support",
+      "titleZh": "原住民就业支持",
+      "sourceSummary": "Employment support for Mob",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-intertwined-2026-10-13": {
+      "sourceTitle": "Intertwined",
+      "titleZh": "交织在一起",
+      "sourceSummary": "Intertwined is an exhibition showcasing Sydney College of The Arts Alumni and Lecturers",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-maker-and-creator-8-12yrs-2026-10-13": {
+      "sourceTitle": "Maker & Creator 8-12yrs",
+      "titleZh": "创客和创作者8-12岁",
+      "sourceSummary": "Play and create with the latest makerspace kits and electronic gadgets",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-waypoint-constellations-2026-10-13": {
+      "sourceTitle": "Waypoint Constellations",
+      "titleZh": "航点星座",
+      "sourceSummary": "An evening of game development storytelling",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-green-square-library-2026-10-14": {
+      "sourceTitle": "Come and get techie: Green Square Library",
+      "titleZh": "快来获取技术人员：绿色广场图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-shipwreck-odyssey-2026-10-14": {
+      "sourceTitle": "Shipwreck Odyssey",
+      "titleZh": "沉船奥德赛",
+      "sourceSummary": "The whole family is invited to dive beneath the waves for a fantastical marine adventure from Box of Birds",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-titanic-a-voyage-through-time-2026-10-14": {
+      "sourceTitle": "Titanic: A Voyage Through Time",
+      "titleZh": "泰坦尼克号：时间之旅",
+      "sourceSummary": "Titanic: A Voyage Through Time invites guests to step beyond the screen and into one of history's most defining moments.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-2026-10-15": {
+      "sourceTitle": "Come and get techie: Darling Square Library",
+      "titleZh": "快来获取技术人员：达令广场图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-meditation-classes-2026-10-15": {
+      "sourceTitle": "iMeditate free meditation",
+      "titleZh": "iMeditate免费冥想",
+      "sourceSummary": "Find you inner peace amidst the hustle of the city",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-10-17": {
+      "sourceTitle": "Makertime for families 8-12yrs",
+      "titleZh": "适合8-12岁家庭的Makertime",
+      "sourceSummary": "Gain practical creative makerspace skills and experience in this intergenerational 2-hour session",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-kxx-2026-10-19": {
+      "sourceTitle": "Come and get techie at Kings Cross Library",
+      "titleZh": "来国王十字图书馆找技术人员",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-v2homeschool-maker-time-laser-cut-from-nature-12-16yrsv2-2026-10-20": {
+      "sourceTitle": "Homeschool maker time: Pixel art 10-15yrs",
+      "titleZh": "家庭学校创作者时间：像素艺术10-15岁",
+      "sourceSummary": "A fun makerspace session for home schoolers exploring 8-bit inspired pixel art",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curtains-jazz-festival-2026-10-13": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "窗帘爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
