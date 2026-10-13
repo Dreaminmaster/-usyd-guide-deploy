@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T07:49:24.279Z",
+  "updatedAt": "2026-10-13T07:55:08.774Z",
   "source": "Curated official-event discoveries (ChatGPT-assisted cross-source verification)",
   "policy": "Public official events only. No private university messages, personal information, or unverified claims.",
   "events": [
@@ -25,6 +25,28 @@
       "curator": "ChatGPT cross-source review",
       "verification": "Checked against the City of Sydney's official event listing.",
       "priorityReason": "Directly relevant to AI and public policy, free, and within two weeks"
+    },
+    {
+      "id": "gpt-waverley-technocritical-2026-10-28",
+      "title": "Technocritical: Ghost in the Machine (2026) [MA15+]",
+      "titleZh": "《机器中的幽灵》AI 纪录片免费放映与科技批判活动（MA15+）",
+      "date": "2026-10-28",
+      "time": "18:00–20:00",
+      "location": "Waverley Library Theaterette, Ron Lander Centre, 32–48 Denison Street, Bondi Junction",
+      "locationZh": "Waverley 图书馆小剧场，32–48 Denison Street，Bondi Junction",
+      "category": "culture",
+      "priority": "medium",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney · What's On",
+      "summary": "Free Waverley Library screening of the 2026 documentary Ghost in the Machine, addressing the history and political economy of artificial intelligence. MA15+ classification.",
+      "summaryZh": "Waverley 图书馆免费放映 2026 年 AI 纪录片《Ghost in the Machine》，探讨人工智能的历史及其政治经济背景；影片分级 MA15+。",
+      "eligibility": "Public, subject to MA15+ age restrictions; verify booking",
+      "registration": "Free; book tickets via the official event page",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/technocritical-ghost-in-the-machine-2026-ma15",
+      "verified": "2026-10-13",
+      "curator": "ChatGPT cross-source review",
+      "verification": "City of Sydney official listing confirms 28 October 18:00–20:00 and Free",
+      "priorityReason": "Free technology documentary related to AI and societal impacts"
     }
   ],
   "news": []
