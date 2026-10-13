@@ -1,1 +1,51 @@
-{}
+{
+  "city-aboriginal-harbour-heritage-tour-2026-10-15": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-13T13:58:36.672701Z",
+    "title": "Aboriginal Harbour Heritage Tour",
+    "date": "2026-10-15",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour"
+  },
+  "city-community-chats-haymarket-and-ultimo-2026-10-28": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-13T13:58:36.672701Z",
+    "title": "Community Chats: Haymarket and Ultimo",
+    "date": "2026-10-28",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-chats-haymarket-and-ultimo"
+  },
+  "city-ghost-festival-2026-10-29": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-13T13:58:36.672701Z",
+    "title": "The Rocks Ghost Festival",
+    "date": "2026-10-29",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back"
+  },
+  "city-ghost-festival-2026-10-30": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-13T13:58:36.672701Z",
+    "title": "The Rocks Ghost Festival · 第2天",
+    "date": "2026-10-30",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back"
+  },
+  "city-ghost-festival-2026-10-31": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-13T13:58:36.672701Z",
+    "title": "The Rocks Ghost Festival · 第3天",
+    "date": "2026-10-31",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back"
+  },
+  "city-ghost-festival-2026-11-01": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-13T13:58:36.672701Z",
+    "title": "The Rocks Ghost Festival · 第4天",
+    "date": "2026-11-01",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/australias-biggest-halloween-festival-is-back"
+  },
+  "city-surry-hills-vintage-market-2026-11-07": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-13T13:58:36.672701Z",
+    "title": "Surry Hills Vintage Market",
+    "date": "2026-11-07",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/surry-hills-vintage-market"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T10:55:20.029571Z",
+  "updatedAt": "2026-10-13T13:58:53.861559Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 63,
+  "count": 49,
   "entries": {
     "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
       "sourceTitle": "Shakespeare, Rhetoric, and AI",
@@ -157,35 +157,11 @@
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
     },
-    "city-discovery-humain-what-remains-irreducibly-human-in-the-ai-era-2026-10-13": {
-      "sourceTitle": "humAIn – What remains irreducibly human in the AI era",
-      "titleZh": "humAIn –在人工智能时代，什么仍然是不可简化的人类",
-      "sourceSummary": "AI can generate content, analyse information and automate decisions.",
-      "summaryZh": "人工智能可以生成内容、分析信息和自动化决策。",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-work-ready-4-day-career-intensive-2026-10-19": {
       "sourceTitle": "Work Ready: 4-Day Career Intensive",
       "titleZh": "工作就绪： 4天职业密集型",
       "sourceSummary": "Build confidence. Get job-ready. Take your next step.",
       "summaryZh": "建立信心。为工作做好准备。迈出下一步。",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-a-career-in-the-making-pathways-for-a-career-2026-10-13": {
-      "sourceTitle": "A Career in the Making: Pathways for a Career",
-      "titleZh": "创作中的职业：职业生涯的途径",
-      "sourceSummary": "A Career in the Making: Pathways for a Career in Craft and Design",
-      "summaryZh": "创作中的职业：手工艺和设计职业的途径",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-13": {
-      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
-      "titleZh": "艾未未，《蘑菇》， 2026年",
-      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
-      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
       "translatedAt": "2026-10-13T10:52:42.081906Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -210,118 +186,6 @@
       "titleZh": "技术批判：机器中的幽灵(2026) [MA15 +]",
       "sourceSummary": "See the critically acclaimed documentary about the AI industry at Waverley Library.",
       "summaryZh": "在Waverley图书馆观看广受好评的人工智能行业纪录片。",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-ghost-festival-2026-10-29": {
-      "sourceTitle": "The Rocks Ghost Festival",
-      "titleZh": "岩石鬼节",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-ghost-festival-2026-10-30": {
-      "sourceTitle": "The Rocks Ghost Festival · 第2天",
-      "titleZh": "The Rocks Ghost Festival · 第2天",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-ghost-festival-2026-10-31": {
-      "sourceTitle": "The Rocks Ghost Festival · 第3天",
-      "titleZh": "The Rocks Ghost Festival · 第3天",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-ghost-festival-2026-11-01": {
-      "sourceTitle": "The Rocks Ghost Festival · 第4天",
-      "titleZh": "The Rocks Ghost Festival · 第4天",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-200th-anniversary-exhibitions-2026-10-13": {
-      "sourceTitle": "200th anniversary exhibitions",
-      "titleZh": "200周年纪念展览",
-      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-alana-hunt-to-the-owner-2026-10-13": {
-      "sourceTitle": "Alana Hunt: To the Owner",
-      "titleZh": "Alana Hunt ：致业主",
-      "sourceSummary": "To the Owner is Alana Hunt's first institutional solo exhibition in Gadigal Nura/Sydney.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-customs-house-2026-10-13": {
-      "sourceTitle": "Come and get techie: Customs House Library",
-      "titleZh": "快来获取技术人员：海关图书馆",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library!",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-glebe-library-2026-10-13": {
-      "sourceTitle": "Come and get techie: Glebe Library",
-      "titleZh": "快来获取技术人员： Glebe图书馆",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-newtown-library-2026-10-13": {
-      "sourceTitle": "Come and get techie: Newtown Library",
-      "titleZh": "快来获取技术人员：新城图书馆",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-redfern-community-centre-2026-10-13": {
-      "sourceTitle": "Come and get techie",
-      "titleZh": "快来找技术人员",
-      "sourceSummary": "Get help with a technology question about a device or website from our City of Sydney Library team",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-first-nations-employment-support-2026-10-13": {
-      "sourceTitle": "First Nations employment support",
-      "titleZh": "原住民就业支持",
-      "sourceSummary": "Employment support for Mob",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-intertwined-2026-10-13": {
-      "sourceTitle": "Intertwined",
-      "titleZh": "交织在一起",
-      "sourceSummary": "Intertwined is an exhibition showcasing Sydney College of The Arts Alumni and Lecturers",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-maker-and-creator-8-12yrs-2026-10-13": {
-      "sourceTitle": "Maker & Creator 8-12yrs",
-      "titleZh": "创客和创作者8-12岁",
-      "sourceSummary": "Play and create with the latest makerspace kits and electronic gadgets",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-waypoint-constellations-2026-10-13": {
-      "sourceTitle": "Waypoint Constellations",
-      "titleZh": "航点星座",
-      "sourceSummary": "An evening of game development storytelling",
-      "summaryZh": "",
       "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -389,14 +253,6 @@
       "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-curtains-jazz-festival-2026-10-13": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "窗帘爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-come-and-get-techie-at-reginald-murphy-community-centre-2026-10-21": {
       "sourceTitle": "Come and get techie",
       "titleZh": "快来找技术人员",
@@ -429,84 +285,116 @@
       "translatedAt": "2026-10-13T10:55:20.029571Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-13": {
-      "sourceTitle": "Alchemy of a Rainforest exhibition",
-      "titleZh": "热带雨林炼金术展览",
-      "sourceSummary": "Explore a vibrant tapestry of life",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-14": {
+      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
+      "titleZh": "艾未未，《蘑菇》， 2026年",
+      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
+      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-argentine-tango-fundamentals-2026-10-13": {
-      "sourceTitle": "Free Beginner Tango Class",
-      "titleZh": "免费初学者探戈课",
-      "sourceSummary": "No obligation free introductory class to tango No partner or dance experience required",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+    "city-discovery-humain-what-remains-irreducibly-human-in-the-ai-era-2026-10-14": {
+      "sourceTitle": "humAIn – What remains irreducibly human in the AI era",
+      "titleZh": "humAIn –在人工智能时代，什么仍然是不可简化的人类",
+      "sourceSummary": "AI can generate content, analyse information and automate decisions.",
+      "summaryZh": "人工智能可以生成内容、分析信息和自动化决策。",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-13": {
-      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
-      "titleZh": "手工艺品：重新构想的木版画档案",
-      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-14": {
+      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
+      "titleZh": "澳大利亚经验丰富的摄影展",
+      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
+      "summaryZh": "强大的职业形象集合和澳大利亚退伍军人的伴随故事。",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-aussies-peter-drew-2026-10-13": {
-      "sourceTitle": "AUSSIES Peter Drew",
-      "titleZh": "澳大利亚人Peter Drew",
-      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+    "gpt-vibe-thursday-ai-chatswood-2026-10-15": {
+      "sourceTitle": "Vibe Thursday · Sydney AI Builders Meetup (Mandarin)",
+      "titleZh": "Vibe Thursday ·悉尼人工智能建设者见面会（普通话）",
+      "sourceSummary": "Free informal Thursday morning gathering for people building AI products, coding agents, automations and creative workflows. Mostly Mandarin. Attendees buy their own drinks.",
+      "summaryZh": "周四上午为构建人工智能产品、编码代理、自动化和创意工作流程的人们提供免费的非正式聚会。主要是普通话。与会者自行购买饮料。",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-13": {
-      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
-      "titleZh": "年度澳大利亚地理自然摄影师",
-      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+    "gpt-vibe-thursday-ai-chatswood-2026-10-22": {
+      "sourceTitle": "Vibe Thursday · Sydney AI Builders Meetup (Mandarin)",
+      "titleZh": "Vibe Thursday ·悉尼人工智能建设者见面会（普通话）",
+      "sourceSummary": "Free informal Thursday morning gathering for people building AI products, coding agents, automations and creative workflows. Mostly Mandarin. Attendees buy their own drinks.",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-13": {
-      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
-      "titleZh": "Barani/Barrabugu （昨天/明天）",
-      "sourceSummary": "It's our story to be told.",
+    "gpt-aicamp-neo4j-aws-graph-rag-2026-10-23": {
+      "sourceTitle": "[Sydney] AI Workshop with Neo4j and AWS - knowledge graphs",
+      "titleZh": "[悉尼] Neo4j和AWS人工智能研讨会-知识图谱",
+      "sourceSummary": "Hands-on AI development workshop focused on Neo4j on AWS, Amazon Bedrock, GraphRAG, and agent patterns. Registration is required; venue and admission approval should be reconfirmed.",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-13": {
-      "sourceTitle": "HSC ready? We’ve got space for you",
-      "titleZh": "HSC准备好了吗？我们为您准备了空间",
-      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+    "gpt-vibe-thursday-ai-chatswood-2026-10-29": {
+      "sourceTitle": "Vibe Thursday · Sydney AI Builders Meetup (Mandarin)",
+      "titleZh": "Vibe Thursday ·悉尼人工智能建设者见面会（普通话）",
+      "sourceSummary": "Free informal Thursday morning gathering for people building AI products, coding agents, automations and creative workflows. Mostly Mandarin. Attendees buy their own drinks.",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-13": {
-      "sourceTitle": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
-      "titleZh": "Felicity Schrader在Art2Muse举办的“我坠入爱河”展览",
-      "sourceSummary": "Art2Muse Gallery presents 'I Fell In Love' by Felicity Schrader",
+    "city-discovery-200th-anniversary-exhibitions-2026-10-14": {
+      "sourceTitle": "200th anniversary exhibitions",
+      "titleZh": "200周年纪念展览",
+      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-gas-syd-presents-the-nxt1-2026-10-13": {
-      "sourceTitle": "GAS SYD presents The NXT1",
-      "titleZh": "GAS SYD推出NXT1",
-      "sourceSummary": "With the theme of 'Art Moving Forward' 30 Independent local artists present a dynamic range of work",
+    "city-discovery-intertwined-2026-10-14": {
+      "sourceTitle": "Intertwined",
+      "titleZh": "交织在一起",
+      "sourceSummary": "Intertwined is an exhibition showcasing Sydney College of The Arts Alumni and Lecturers",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-guided-walks-2026-10-13": {
-      "sourceTitle": "Guided walks",
-      "titleZh": "导览漫步",
-      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+    "city-discovery-alana-hunt-to-the-owner-2026-10-16": {
+      "sourceTitle": "Alana Hunt: To the Owner",
+      "titleZh": "Alana Hunt ：致业主",
+      "sourceSummary": "To the Owner is Alana Hunt's first institutional solo exhibition in Gadigal Nura/Sydney.",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:55:20.029571Z",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-customs-house-2026-10-20": {
+      "sourceTitle": "Come and get techie: Customs House Library",
+      "titleZh": "快来获取技术人员：海关图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library!",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-glebe-library-2026-10-20": {
+      "sourceTitle": "Come and get techie: Glebe Library",
+      "titleZh": "快来获取技术人员： Glebe图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-newtown-library-2026-10-20": {
+      "sourceTitle": "Come and get techie: Newtown Library",
+      "titleZh": "快来获取技术人员：新城图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-first-nations-employment-support-2026-10-20": {
+      "sourceTitle": "First Nations employment support",
+      "titleZh": "原住民就业支持",
+      "sourceSummary": "Employment support for Mob",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
