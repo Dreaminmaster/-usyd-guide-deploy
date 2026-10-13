@@ -1,6 +1,14 @@
 name: Archive USYD Radar public feed
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/radar_archive.py'
+      - 'scripts/radar_changes.py'
+      - 'scripts/radar_translate.py'
+      - 'tests/test_radar_changes.py'
+      - '.github/workflows/radar-archive.yml'
   schedule:
     - cron: '15 10,22 * * *' # about 09:15 / 21:15 Sydney AEDT; UTC schedule shifts in winter
   workflow_dispatch:
