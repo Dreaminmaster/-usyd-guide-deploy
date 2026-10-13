@@ -1,0 +1,201 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-13T10:19:46.718Z",
+  "count": 24,
+  "provider": "manually seeded titles; MyMemory updates via GitHub Actions",
+  "notice": "Public titles only; important details must be verified on the organiser's original page.",
+  "entries": {
+    "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
+      "sourceTitle": "Shakespeare, Rhetoric, and AI",
+      "titleZh": "莎士比亚、修辞学与人工智能",
+      "sourceSummary": "This event features two papers on Shakespeare, rhetoric, and AI, featuring Professor Rocco Coronato (University of Padua) and Lecturer Kirk Dodd (USYD). 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usu-manning-night-market-2026-10-14": {
+      "sourceTitle": "Manning Night Market",
+      "titleZh": "Manning 夜市",
+      "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-8349b5ff-3621-48cb-a49b-e0802e2d1c99-2026-10-14": {
+      "sourceTitle": "Lunchbreak Concert: Harp Division",
+      "titleZh": "午间音乐会：竖琴专场",
+      "sourceSummary": "Join us on Wednesdays and Thursdays for an exhilarating 45-minute lunchbreak concert here at Verbrugghen Hall, with faculties of the Sydney Conservatorium of Music performing solo and ensemble works, including strings, piano, jazz, opera and more! 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-fd8049f9-18a0-4a79-8f62-555b4b4d4ab9-2026-10-15": {
+      "sourceTitle": "The Warren Centre presents: Research in Humanitarian Engineering: Sustainable Solutions for Global Challenges",
+      "titleZh": "Warren 中心讲座：人道主义工程研究——应对全球挑战的可持续解决方案",
+      "sourceSummary": "The Warren Centre Humanitarian Engineering Hub invites you to the upcoming Research in Humanitarian Engineering webinar on Thursday 15 October. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usu-manning-night-market-2026-10-15": {
+      "sourceTitle": "Manning Night Market · 第2天",
+      "titleZh": "Manning 夜市 · 第二天",
+      "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-416cca8b-71f6-4253-b688-75c81fdf7e8d-2026-10-15": {
+      "sourceTitle": "Lunchbreak Concert: Chamber Music",
+      "titleZh": "午间音乐会：室内乐",
+      "sourceSummary": "Join us on Wednesdays and Thursdays for an exhilarating 45-minute lunchbreak concert here at Verbrugghen Hall, with faculties of the Sydney Conservatorium of Music performing solo and ensemble works, including strings, piano, jazz, opera and more! 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-611dba06-07af-42f6-9eac-941916095672-2026-10-18": {
+      "sourceTitle": "The 21st Latin American Film Festival in Sydney - 8",
+      "titleZh": "第21届悉尼拉丁美洲电影节 · 第8场",
+      "sourceSummary": "One festival. 13 Latin American destinations. Infinite perspectives. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-e0a394fc-d00f-4c57-82c1-645842a92ba2-2026-10-18": {
+      "sourceTitle": "Sunday Free Carillon Recital",
+      "titleZh": "周日免费钟琴演奏会",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "supra-263150-2026-10-20": {
+      "sourceTitle": "Skilled migration pathways webinar",
+      "titleZh": "技术移民途径线上讲座",
+      "sourceSummary": "Official SUPRA event. See source for eligibility, registration and costs.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-c823b4ae-4609-49c5-bc6e-f5d0c7346153-2026-10-25": {
+      "sourceTitle": "The 21st Latin American Film Festival in Sydney - 9",
+      "titleZh": "第21届悉尼拉丁美洲电影节 · 第9场",
+      "sourceSummary": "One festival. 13 Latin American destinations. Infinite perspectives. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-ff6bb3e0-641a-41d0-b440-27ae53d24a3d-2026-10-25": {
+      "sourceTitle": "Sunday Free Carillon Recital",
+      "titleZh": "周日免费钟琴演奏会",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "gpt-waverley-technocritical-2026-10-28": {
+      "sourceTitle": "Technocritical: Ghost in the Machine (2026) [MA15+]",
+      "titleZh": "技术批判电影放映：《机器中的幽灵》（2026，MA15+）",
+      "sourceSummary": "Free Waverley Library screening of the 2026 documentary Ghost in the Machine, addressing the history and political economy of artificial intelligence. MA15+ classification.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "city-ghost-festival-2026-10-29": {
+      "sourceTitle": "The Rocks Ghost Festival",
+      "titleZh": "岩石区幽灵节",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "city-ghost-festival-2026-10-30": {
+      "sourceTitle": "The Rocks Ghost Festival · 第2天",
+      "titleZh": "岩石区幽灵节 · 第二天",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usu-screamfest-halloween-festival-2026-10-31": {
+      "sourceTitle": "Discounted tickets to Screamfest Halloween Festival",
+      "titleZh": "Screamfest 万圣节庆典优惠门票",
+      "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "city-ghost-festival-2026-10-31": {
+      "sourceTitle": "The Rocks Ghost Festival · 第3天",
+      "titleZh": "岩石区幽灵节 · 第三天",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "city-ghost-festival-2026-11-01": {
+      "sourceTitle": "The Rocks Ghost Festival · 第4天",
+      "titleZh": "岩石区幽灵节 · 第四天",
+      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
+      "sourceTitle": "Sunday Free Carillon Recital",
+      "titleZh": "周日免费钟琴演奏会",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-5986e000-5b82-4471-a478-b04130a097de-2026-11-02": {
+      "sourceTitle": "AI, Equity, and Ethics in Research Symposium",
+      "titleZh": "人工智能、平等与科研伦理研讨会",
+      "sourceSummary": "The University of Sydney's National Centre for Cultural Competence is pleased to present the AI, Equity and Ethics in Research Symposium, bringing together researchers, practitioners and thought leaders to explore the opportunities, challenges and responsibili",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-c25d8425-28cb-4d4e-83a9-e039c1dfa079-2026-11-05": {
+      "sourceTitle": "Quantum Innovators Network: Building the Future of Drug Discovery",
+      "titleZh": "量子创新者网络：共建药物研发的未来",
+      "sourceSummary": "Discover how cutting-edge AI and quantum technologies are shaping the future of drug discovery. Hear from Dr Mark Waller, Founder and CEO of Pending AI, about his journey from academic researcher to deep-tech entrepreneur, the challenges he has faced along the",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-4f382734-5af6-492e-ac28-3469d77156af-2026-11-07": {
+      "sourceTitle": "University of Sydney Community Festival",
+      "titleZh": "悉尼大学社区节",
+      "sourceSummary": "Join us at the University of Sydney Community Festival for a free, full day of fun for family, friends and community! Explore behind the scenes, connect with friends and family, and discover the campus as you've never seen it before. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-f2aae7cf-ade3-4b5d-843b-4b79df7ab657-2026-11-08": {
+      "sourceTitle": "Sunday Free Carillon Recital",
+      "titleZh": "周日免费钟琴演奏会",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
+      "sourceTitle": "Sunday Free Carillon Recital",
+      "titleZh": "周日免费钟琴演奏会",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    },
+    "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
+      "sourceTitle": "Misconduct policies in light of increased generative AI use",
+      "titleZh": "生成式 AI 使用增长背景下的学术不端政策",
+      "sourceSummary": "A/Prof Mohammad Hosseini, Northwestern University, presents this Evidence Policy and Influence Collaborative Seminar 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "provider": "human-reviewed initial title translation"
+    }
+  }
+}
