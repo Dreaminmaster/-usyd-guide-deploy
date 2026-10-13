@@ -1,10 +1,51 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T14:05:08.429159Z",
-  "sourceCheckedAt": "2026-10-13T13:59:32.032Z",
+  "checkedAt": "2026-10-13T14:07:12.261057Z",
+  "sourceCheckedAt": "2026-10-13T14:07:12.588Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "gpt-sydney-games-festival-week-2026-10-18",
+      "title": "Sydney Games Festival (12–18 October 2026)",
+      "date": "2026-10-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-games-festival",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T14:07:12.261057Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-impact-factor-biodiversity-2026-10-22",
+      "title": "The Impact Factor: From microbes to megafauna",
+      "date": "2026-10-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-impact-factor-from-microbes-to-megafauna",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T14:07:12.261057Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "gpt-sydney-games-festival-week-2026-10-18",
+      "title": "Sydney Games Festival (12–18 October 2026)",
+      "date": "2026-10-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-games-festival",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T14:07:12.261057Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-impact-factor-biodiversity-2026-10-22",
+      "title": "The Impact Factor: From microbes to megafauna",
+      "date": "2026-10-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-impact-factor-from-microbes-to-megafauna",
+      "priority": "medium",
+      "detectedAt": "2026-10-13T14:07:12.261057Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "possible_reschedule",
       "id": "city-discovery-ai-weiwei-mushrooms-2026-2026-10-14",
@@ -1035,35 +1076,10 @@
       "priority": "medium",
       "detectedAt": "2026-10-13T10:52:24.776495Z",
       "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-work-ready-4-day-career-intensive-2026-10-19",
-      "title": "Work Ready: 4-Day Career Intensive",
-      "date": "2026-10-19",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/work-ready-4-day-career-intensive",
-      "differences": {
-        "time": {
-          "before": "See official event page",
-          "after": "09:00–16:00"
-        }
-      },
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z"
-    },
-    {
-      "kind": "newly_observed",
-      "id": "city-discovery-come-and-get-techie-kxx-2026-10-19",
-      "title": "Come and get techie at Kings Cross Library",
-      "date": "2026-10-19",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
-      "priority": "medium",
-      "detectedAt": "2026-10-13T10:52:24.776495Z",
-      "notice": "First seen when City of Sydney structured extraction recovered on 13 Oct 2026; not proof organiser newly published this event."
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 2,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,

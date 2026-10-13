@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T13:59:32.287140Z",
+  "updatedAt": "2026-10-13T14:07:12.739561Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 63,
+  "count": 65,
   "entries": {
     "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
       "sourceTitle": "Shakespeare, Rhetoric, and AI",
@@ -507,6 +507,22 @@
       "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
       "summaryZh": "",
       "translatedAt": "2026-10-13T13:59:32.287140Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-sydney-games-festival-week-2026-10-18": {
+      "sourceTitle": "Sydney Games Festival (12–18 October 2026)",
+      "titleZh": "悉尼运动会节（ 2026年10月12–18日）",
+      "sourceSummary": "Week-long community festival of more than 30 independently organised games events, including local game showcases, development talks, networking, student game jams and creative workshops. Individual sessions have separate schedules.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T14:07:12.739561Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usyd-impact-factor-biodiversity-2026-10-22": {
+      "sourceTitle": "The Impact Factor: From microbes to megafauna",
+      "titleZh": "影响因素：从微生物到巨型动物",
+      "sourceSummary": "Free public science conversation hosted by Professor Alice Motion, with researchers exploring biodiversity, conservation genomics, insects and coral reef ecosystems.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T14:07:12.739561Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
