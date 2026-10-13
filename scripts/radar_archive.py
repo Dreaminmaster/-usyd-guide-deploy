@@ -22,8 +22,12 @@ NEWS_FIELDS = ("id", "title", "titleZh", "date", "source", "summary", "summaryZh
                "url", "type", "dateReliable")
 
 def get_feed():
-    request = urllib.request.Request(API + "?github_archive=1", headers={
-        "Accept": "application/json", "User-Agent": "USYD-Radar-Public-Archive/1.0"})
+    # Every archive run must bypass any cached combined response; otherwise a
+    # GPT curation push could re-archive an older result for several minutes.
+    nonce = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%S%f")
+    request = urllib.request.Request(API + "?github_archive=" + nonce, headers={
+        "Accept": "application/json", "Cache-Control": "no-cache",
+        "User-Agent": "USYD-Radar-Public-Archive/1.0"})
     with urllib.request.urlopen(request, timeout=95) as response:
         if response.status != 200:
             raise RuntimeError(f"Radar feed HTTP {response.status}")
