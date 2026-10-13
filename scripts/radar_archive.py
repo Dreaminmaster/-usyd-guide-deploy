@@ -14,10 +14,12 @@ import os
 from radar_changes import compare, history_update
 
 API = "https://usyd-radar.vercel.app/api/combined"
-PUBLIC_FIELDS = ("id", "title", "date", "time", "location", "category", "priority",
-                 "score", "summary", "eligibility", "registration", "confidence",
-                 "sourceName", "url", "verified", "feedSource", "priorityReason")
-NEWS_FIELDS = ("id", "title", "date", "source", "summary", "url", "type", "dateReliable")
+PUBLIC_FIELDS = ("id", "title", "titleZh", "date", "time", "location", "locationZh",
+                 "category", "priority", "score", "summary", "summaryZh",
+                 "eligibility", "registration", "confidence", "sourceName",
+                 "url", "verified", "feedSource", "priorityReason")
+NEWS_FIELDS = ("id", "title", "titleZh", "date", "source", "summary", "summaryZh",
+               "url", "type", "dateReliable")
 
 def get_feed():
     request = urllib.request.Request(API + "?github_archive=1", headers={
