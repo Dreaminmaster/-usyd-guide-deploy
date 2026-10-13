@@ -18,8 +18,9 @@ from urllib.parse import urlencode
 import urllib.request
 
 SERVICE = "https://api.mymemory.translated.net/get"
-MAX_EVENTS_PER_RUN = 7
-MAX_REQUESTS_PER_RUN = 13
+MAX_EVENTS_PER_RUN = 14
+MAX_REQUESTS_PER_RUN = 18
+MAX_SUMMARIES_PER_RUN = 4
 MAX_ENTRIES = 550
 CJK = re.compile(r"[\u3400-\u9fff]")
 BLOCK = re.compile(r"MYMEMORY WARNING|QUOTA EXCEEDED|PLEASE TRY LATER|MAXIMUM DAILY USAGE", re.I)
@@ -59,52 +60,77 @@ def update(root):
         raise ValueError("No public event snapshot: cache unchanged")
     path = root / "translations.json"
     previous = load(path)
-    entries = previous.get("entries") or {}
+    entries = dict(previous.get("entries") or {})
     today = latest.get("today") or ""
     candidates = [e for e in latest["events"] if e.get("id") and e.get("title")
-                  and e.get("date", "") >= today and not e.get("titleZh")]
-    # Event pages people are likely to open: upcoming and significant, not random
-    # archives; translation remains best-effort and never blocks fresh data.
+                  and e.get("date", "") >= today]
+    # Cover high-value titles first, rather than repeatedly using nearly all
+    # the free quota translating summaries of already-translated events.
     def weight(e):
         days = (datetime.fromisoformat(e["date"]).date()
                 - datetime.fromisoformat(today).date()).days
-        return (days > 14, -(float(e.get("score") or 0)), days, e["id"])
+        return (days > 21, -(float(e.get("score") or 0)), days, e["id"])
+
     candidates.sort(key=weight)
-    used, changed = 0, 0
+    used, changed, titles_done, summaries_done, failures = 0, 0, 0, 0, 0
     stamp = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+
+    # Pass 1: broad coverage for titles; browser has an immediate Chinese label.
     for e in candidates:
-        if used >= MAX_REQUESTS_PER_RUN or changed >= MAX_EVENTS_PER_RUN:
+        if used >= MAX_REQUESTS_PER_RUN or titles_done >= MAX_EVENTS_PER_RUN or failures >= 3:
             break
-        event_id = str(e["id"])
-        title = str(e["title"])[:180]
+        event_id, title = str(e["id"]), str(e["title"])[:180]
         summary = str(e.get("summary") or "")[:260]
         old = entries.get(event_id) or {}
-        if old.get("sourceTitle") != title:
-            old = {}
-        title_zh = old.get("titleZh")
-        summary_zh = old.get("summaryZh") if old.get("sourceSummary") == summary else None
-        if CJK.search(title):
-            title_zh = title
-        if not title_zh and used < MAX_REQUESTS_PER_RUN:
-            title_zh = translate(title)
-            used += 1
-            time.sleep(0.75)
-        if title_zh and summary and not summary_zh and used < MAX_REQUESTS_PER_RUN:
-            summary_zh = translate(summary)
-            used += 1
-            time.sleep(0.75)
-        if not title_zh:
+        if old.get("sourceTitle") == title and old.get("titleZh"):
             continue
-        new = {"sourceTitle": title, "titleZh": title_zh,
-               "sourceSummary": summary, "summaryZh": summary_zh or "",
-               "translatedAt": stamp, "provider": "MyMemory (free, best effort)"}
-        if old.get("titleZh") != title_zh or old.get("summaryZh") != (summary_zh or ""):
-            entries[event_id] = new
-            changed += 1
+        if CJK.search(title):
+            chinese = title
+        else:
+            chinese = translate(title)
+            used += 1
+            time.sleep(0.55)
+        if not chinese:
+            failures += 1
+            continue
+        failures = 0
+        preserve = old.get("summaryZh") if old.get("sourceTitle") == title and old.get("sourceSummary") == summary else ""
+        entries[event_id] = {"sourceTitle": title, "titleZh": chinese,
+                             "sourceSummary": summary, "summaryZh": preserve or "",
+                             "translatedAt": stamp, "provider": "MyMemory (free, best effort)"}
+        titles_done += 1
+        changed += 1
+
+    # Pass 2: shorter descriptions for high-value upcoming events, only within
+    # the remaining provider quota. Never send already-Chinese summaries.
+    for e in candidates:
+        if used >= MAX_REQUESTS_PER_RUN or summaries_done >= MAX_SUMMARIES_PER_RUN or failures >= 3:
+            break
+        summary = str(e.get("summary") or "")[:260]
+        if not summary or CJK.search(summary) or float(e.get("score") or 0) < 55:
+            continue
+        event_id, title = str(e["id"]), str(e["title"])[:180]
+        old = entries.get(event_id) or {}
+        if old.get("sourceTitle") != title or not old.get("titleZh"):
+            continue
+        if old.get("sourceSummary") == summary and old.get("summaryZh"):
+            continue
+        chinese = translate(summary)
+        used += 1
+        time.sleep(0.55)
+        if not chinese:
+            failures += 1
+            continue
+        failures = 0
+        entries[event_id] = dict(old, sourceSummary=summary, summaryZh=chinese,
+                                 translatedAt=stamp)
+        summaries_done += 1
+        changed += 1
+
     if not changed:
         print("No valid new translations; existing cloud cache remains unchanged")
         return
-    # Remove entries not in the live window, keeping room for repeats.
+
     active = {e["id"] for e in latest["events"]}
     entries = {k: v for k, v in entries.items() if k in active}
     if len(entries) > MAX_ENTRIES:
@@ -113,8 +139,8 @@ def update(root):
               "notice": "Public event translations; verify crucial details at organiser.",
               "count": len(entries), "entries": entries}
     path.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Updated {changed} event translations; {len(entries)} entries total")
-
+    print(f"Cloud translation: {titles_done} titles, {summaries_done} summaries; "
+          f"{used} requests; {len(entries)} entries total")
 
 if __name__ == "__main__":
     try:
