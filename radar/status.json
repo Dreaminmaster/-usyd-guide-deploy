@@ -1,11 +1,19 @@
 {
-  "schema": 1,
-  "checkedAt": "2026-10-13T08:11:15.205Z",
-  "feedCheckedAt": "2026-10-13T07:53:49.165Z",
+  "schema": 2,
+  "checkedAt": "2026-10-13T10:33:01.456086Z",
+  "feedCheckedAt": "2026-10-13T10:33:01.748Z",
   "feedStatus": "ok",
-  "events": 144,
+  "events": 137,
   "news": 7,
   "sourceCount": 21,
-  "description": "Initial and refreshed archives were written manually; automatic GitHub Actions run remains to be verified",
-  "initialSnapshot": true
+  "archiveMethod": "GitHub Actions",
+  "runEvent": "push",
+  "lastScheduledRunAt": null,
+  "changes": {
+    "new": 0,
+    "updated": 0,
+    "possibleReschedule": 0,
+    "notObserved": 0
+  },
+  "initialSnapshot": false
 }

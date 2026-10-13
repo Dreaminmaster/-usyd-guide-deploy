@@ -1,6 +1,7 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T10:19:46.718Z",
+  "checkedAt": "2026-10-13T10:33:01.456086Z",
+  "sourceCheckedAt": "2026-10-13T10:33:01.748Z",
   "hasBaseline": true,
   "latest": [],
   "history": [],
@@ -10,5 +11,5 @@
     "possibleReschedule": 0,
     "notObserved": 0
   },
-  "warning": "No automatic diff has run yet. Disappearance is not cancellation."
+  "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
 }

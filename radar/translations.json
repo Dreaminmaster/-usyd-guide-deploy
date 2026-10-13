@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T10:19:46.718Z",
-  "count": 24,
-  "provider": "manually seeded titles; MyMemory updates via GitHub Actions",
-  "notice": "Public titles only; important details must be verified on the organiser's original page.",
+  "updatedAt": "2026-10-13T10:33:01.890535Z",
+  "provider": "MyMemory",
+  "notice": "Public event translations; verify crucial details at organiser.",
+  "count": 22,
   "entries": {
     "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
       "sourceTitle": "Shakespeare, Rhetoric, and AI",
@@ -39,11 +39,11 @@
     },
     "usu-manning-night-market-2026-10-15": {
       "sourceTitle": "Manning Night Market · 第2天",
-      "titleZh": "Manning 夜市 · 第二天",
+      "titleZh": "Manning Night Market · 第2天",
       "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
+      "translatedAt": "2026-10-13T10:33:01.890535Z",
+      "provider": "MyMemory (free, best effort)"
     },
     "usyd-416cca8b-71f6-4253-b688-75c81fdf7e8d-2026-10-15": {
       "sourceTitle": "Lunchbreak Concert: Chamber Music",
@@ -73,9 +73,9 @@
       "sourceTitle": "Skilled migration pathways webinar",
       "titleZh": "技术移民途径线上讲座",
       "sourceSummary": "Official SUPRA event. See source for eligibility, registration and costs.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
+      "summaryZh": "官方超级活动。有关资格、注册和费用，请参阅资料来源。",
+      "translatedAt": "2026-10-13T10:33:01.890535Z",
+      "provider": "MyMemory (free, best effort)"
     },
     "usyd-c823b4ae-4609-49c5-bc6e-f5d0c7346153-2026-10-25": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 9",
@@ -101,42 +101,10 @@
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
     },
-    "city-ghost-festival-2026-10-29": {
-      "sourceTitle": "The Rocks Ghost Festival",
-      "titleZh": "岩石区幽灵节",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
-    "city-ghost-festival-2026-10-30": {
-      "sourceTitle": "The Rocks Ghost Festival · 第2天",
-      "titleZh": "岩石区幽灵节 · 第二天",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
     "usu-screamfest-halloween-festival-2026-10-31": {
       "sourceTitle": "Discounted tickets to Screamfest Halloween Festival",
       "titleZh": "Screamfest 万圣节庆典优惠门票",
       "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
-    "city-ghost-festival-2026-10-31": {
-      "sourceTitle": "The Rocks Ghost Festival · 第3天",
-      "titleZh": "岩石区幽灵节 · 第三天",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
-    "city-ghost-festival-2026-11-01": {
-      "sourceTitle": "The Rocks Ghost Festival · 第4天",
-      "titleZh": "岩石区幽灵节 · 第四天",
-      "sourceSummary": "Ghost Festival is back in The Rocks this October for four nights of Halloween — and entry is free.",
       "summaryZh": "",
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
@@ -196,6 +164,22 @@
       "summaryZh": "",
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
+    },
+    "city-discovery-humain-what-remains-irreducibly-human-in-the-ai-era-2026-10-13": {
+      "sourceTitle": "humAIn – What remains irreducibly human in the AI era",
+      "titleZh": "humAIn –在人工智能时代，什么仍然是不可简化的人类",
+      "sourceSummary": "Discovered through the City of Sydney technology/seminar listings; check details on the official event page.",
+      "summaryZh": "通过悉尼市技术/研讨会列表查找；请在官方活动页面上查看详细信息。",
+      "translatedAt": "2026-10-13T10:33:01.890535Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-work-ready-4-day-career-intensive-2026-10-19": {
+      "sourceTitle": "Work Ready: 4-Day Career Intensive",
+      "titleZh": "工作就绪： 4天职业密集型",
+      "sourceSummary": "Discovered through the City of Sydney technology/seminar listings; check details on the official event page.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-13T10:33:01.890535Z",
+      "provider": "MyMemory (free, best effort)"
     }
   }
 }
