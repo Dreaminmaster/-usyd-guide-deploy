@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-13T07:46:04.612Z",
+  "description": "ChatGPT-verified public events omitted from automatic sources. Each event must have date, title, official URL, validation status and checkedAt. No personal data, credentials or unverified sources.",
+  "events": []
+}
