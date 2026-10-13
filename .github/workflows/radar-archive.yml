@@ -1,0 +1,44 @@
+name: Archive USYD Radar public feed
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-public-archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - name: Checkout reviewed archiver from main
+        uses: actions/checkout@v4
+        with:
+          path: code
+          persist-credentials: false
+      - name: Checkout isolated radar data branch
+        uses: actions/checkout@v4
+        with:
+          ref: radar-data
+          path: archive
+          persist-credentials: true
+      - name: Fetch and validate public events
+        run: python3 code/scripts/radar_archive.py --root archive/radar
+      - name: Commit new snapshot if changed
+        working-directory: archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add radar/latest.json radar/status.json radar/snapshots/
+          if git diff --cached --quiet; then
+            echo "No event archive changes"
+          else
+            git commit -m "data(radar): archive verified public feed [skip ci]"
+            git push origin HEAD:radar-data
+          fi
