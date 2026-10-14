@@ -1,34 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T17:37:18.353004Z",
+  "updatedAt": "2026-10-14T15:12:20.103942Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 77,
+  "count": 61,
   "entries": {
-    "usyd-65094e7a-b83c-46a3-a6ab-09f7bb220afa-2026-10-14": {
-      "sourceTitle": "Shakespeare, Rhetoric, and AI",
-      "titleZh": "莎士比亚、修辞学与人工智能",
-      "sourceSummary": "This event features two papers on Shakespeare, rhetoric, and AI, featuring Professor Rocco Coronato (University of Padua) and Lecturer Kirk Dodd (USYD). 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
-    "usu-manning-night-market-2026-10-14": {
-      "sourceTitle": "Manning Night Market",
-      "titleZh": "Manning 夜市",
-      "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
-    "usyd-8349b5ff-3621-48cb-a49b-e0802e2d1c99-2026-10-14": {
-      "sourceTitle": "Lunchbreak Concert: Harp Division",
-      "titleZh": "午间音乐会：竖琴专场",
-      "sourceSummary": "Join us on Wednesdays and Thursdays for an exhilarating 45-minute lunchbreak concert here at Verbrugghen Hall, with faculties of the Sydney Conservatorium of Music performing solo and ensemble works, including strings, piano, jazz, opera and more! 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
     "usyd-fd8049f9-18a0-4a79-8f62-555b4b4d4ab9-2026-10-15": {
       "sourceTitle": "The Warren Centre presents: Research in Humanitarian Engineering: Sustainable Solutions for Global Challenges",
       "titleZh": "Warren 中心讲座：人道主义工程研究——应对全球挑战的可持续解决方案",
@@ -121,8 +97,8 @@
       "sourceTitle": "Quantum Innovators Network: Building the Future of Drug Discovery",
       "titleZh": "量子创新者网络：共建药物研发的未来",
       "sourceSummary": "Discover how cutting-edge AI and quantum technologies are shaping the future of drug discovery. Hear from Dr Mark Waller, Founder and CEO of Pending AI, about his journey from academic researcher to deep-tech entrepreneur, the challenges he has faced along the",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "summaryZh": "了解尖端人工智能和量子技术如何塑造药物发现的未来。聆听Pending AI创始人兼首席执行官Mark Waller博士讲述他从学术研究员到深度技术企业家的旅程，以及他所面临的挑战",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
       "provider": "human-reviewed initial title translation"
     },
     "usyd-4f382734-5af6-492e-ac28-3469d77156af-2026-11-07": {
@@ -186,30 +162,6 @@
       "titleZh": "技术批判：机器中的幽灵(2026) [MA15 +]",
       "sourceSummary": "See the critically acclaimed documentary about the AI industry at Waverley Library.",
       "summaryZh": "在Waverley图书馆观看广受好评的人工智能行业纪录片。",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-green-square-library-2026-10-14": {
-      "sourceTitle": "Come and get techie: Green Square Library",
-      "titleZh": "快来获取技术人员：绿色广场图书馆",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-shipwreck-odyssey-2026-10-14": {
-      "sourceTitle": "Shipwreck Odyssey",
-      "titleZh": "沉船奥德赛",
-      "sourceSummary": "The whole family is invited to dive beneath the waves for a fantastical marine adventure from Box of Birds",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-titanic-a-voyage-through-time-2026-10-14": {
-      "sourceTitle": "Titanic: A Voyage Through Time",
-      "titleZh": "泰坦尼克号：时间之旅",
-      "sourceSummary": "Titanic: A Voyage Through Time invites guests to step beyond the screen and into one of history's most defining moments.",
-      "summaryZh": "",
       "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -285,22 +237,6 @@
       "translatedAt": "2026-10-13T10:55:20.029571Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-14": {
-      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
-      "titleZh": "艾未未，《蘑菇》， 2026年",
-      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
-      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
-      "translatedAt": "2026-10-13T13:58:53.861559Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-humain-what-remains-irreducibly-human-in-the-ai-era-2026-10-14": {
-      "sourceTitle": "humAIn – What remains irreducibly human in the AI era",
-      "titleZh": "humAIn –在人工智能时代，什么仍然是不可简化的人类",
-      "sourceSummary": "AI can generate content, analyse information and automate decisions.",
-      "summaryZh": "人工智能可以生成内容、分析信息和自动化决策。",
-      "translatedAt": "2026-10-13T13:58:53.861559Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-vibe-thursday-ai-chatswood-2026-10-15": {
       "sourceTitle": "Vibe Thursday · Sydney AI Builders Meetup (Mandarin)",
       "titleZh": "Vibe Thursday ·悉尼人工智能建设者见面会（普通话）",
@@ -329,22 +265,6 @@
       "sourceTitle": "Vibe Thursday · Sydney AI Builders Meetup (Mandarin)",
       "titleZh": "Vibe Thursday ·悉尼人工智能建设者见面会（普通话）",
       "sourceSummary": "Free informal Thursday morning gathering for people building AI products, coding agents, automations and creative workflows. Mostly Mandarin. Attendees buy their own drinks.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:58:53.861559Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-200th-anniversary-exhibitions-2026-10-14": {
-      "sourceTitle": "200th anniversary exhibitions",
-      "titleZh": "200周年纪念展览",
-      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:58:53.861559Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-intertwined-2026-10-14": {
-      "sourceTitle": "Intertwined",
-      "titleZh": "交织在一起",
-      "sourceSummary": "Intertwined is an exhibition showcasing Sydney College of The Arts Alumni and Lecturers",
       "summaryZh": "",
       "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
@@ -381,14 +301,6 @@
       "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-curtains-jazz-festival-2026-10-14": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "窗帘爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-come-and-get-techie-redfern-community-centre-2026-10-27": {
       "sourceTitle": "Come and get techie",
       "titleZh": "快来找技术人员",
@@ -421,78 +333,6 @@
       "translatedAt": "2026-10-13T13:59:32.287140Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-14": {
-      "sourceTitle": "Alchemy of a Rainforest exhibition",
-      "titleZh": "热带雨林炼金术展览",
-      "sourceSummary": "Explore a vibrant tapestry of life",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-14": {
-      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
-      "titleZh": "手工艺品：重新构想的木版画档案",
-      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-aussies-peter-drew-2026-10-14": {
-      "sourceTitle": "AUSSIES Peter Drew",
-      "titleZh": "澳大利亚人Peter Drew",
-      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-14": {
-      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
-      "titleZh": "年度澳大利亚地理自然摄影师",
-      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-14": {
-      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
-      "titleZh": "Barani/Barrabugu （昨天/明天）",
-      "sourceSummary": "It's our story to be told.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-14": {
-      "sourceTitle": "HSC ready? We’ve got space for you",
-      "titleZh": "HSC准备好了吗？我们为您准备了空间",
-      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-14": {
-      "sourceTitle": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
-      "titleZh": "Felicity Schrader在Art2Muse举办的“我坠入爱河”展览",
-      "sourceSummary": "Art2Muse Gallery presents 'I Fell In Love' by Felicity Schrader",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-gas-syd-presents-the-nxt1-2026-10-14": {
-      "sourceTitle": "GAS SYD presents The NXT1",
-      "titleZh": "GAS SYD推出NXT1",
-      "sourceSummary": "With the theme of 'Art Moving Forward' 30 Independent local artists present a dynamic range of work",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-guided-walks-2026-10-14": {
-      "sourceTitle": "Guided walks",
-      "titleZh": "导览漫步",
-      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:59:32.287140Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-sydney-games-festival-week-2026-10-18": {
       "sourceTitle": "Sydney Games Festival (12–18 October 2026)",
       "titleZh": "悉尼运动会节（ 2026年10月12–18日）",
@@ -507,14 +347,6 @@
       "sourceSummary": "Free public science conversation hosted by Professor Alice Motion, with researchers exploring biodiversity, conservation genomics, insects and coral reef ecosystems.",
       "summaryZh": "",
       "translatedAt": "2026-10-13T14:07:12.739561Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-halloween-at-hay-st-2026-10-14": {
-      "sourceTitle": "Halloween at Hay St",
-      "titleZh": "干草街万圣节",
-      "sourceSummary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
-      "summaryZh": "万圣节接管干草街，享用令人毛骨悚然的美食、鸡尾酒、现场音乐、儿童乐趣、漫游僵尸等",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-ghost-festival-2026-10-29": {
@@ -549,76 +381,116 @@
       "translatedAt": "2026-10-13T17:37:18.353004Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-celebrating-the-merewether-and-mitchell-fellowships-2026-10-14": {
-      "sourceTitle": "Celebrating the Merewether and Mitchell Fellowships",
-      "titleZh": "庆祝Merewether和Mitchell奖学金",
-      "sourceSummary": "Join us for a panel discussion on the Library's Merewether and Mitchell Fellows as we mark 200 years of the Library.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
+    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-15": {
+      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
+      "titleZh": "艾未未，《蘑菇》， 2026年",
+      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
+      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-hotels-and-growth-in-regional-communities-a-view-from-kiama-2026-10-14": {
-      "sourceTitle": "Hotels and Growth in Regional Communities: A View from Kiama",
-      "titleZh": "酒店与区域社区的增长： Kiama的观点",
-      "sourceSummary": "Tony Gilmour will discuss the connection between hotels and growth in regional communities, using Kiama as an example.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
+    "city-discovery-manning-night-market-2026-10-15": {
+      "sourceTitle": "Manning Night Market",
+      "titleZh": "曼宁夜市",
+      "sourceSummary": "The best of Sydney's food scene all in one place!",
+      "summaryZh": "悉尼最棒的美食一应俱全！",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-14": {
+    "city-discovery-halloween-at-hay-st-2026-10-18": {
+      "sourceTitle": "Halloween at Hay St",
+      "titleZh": "干草街万圣节",
+      "sourceSummary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
+      "summaryZh": "万圣节接管干草街，享用令人毛骨悚然的美食、鸡尾酒、现场音乐、儿童乐趣、漫游僵尸等",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-15": {
+      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
+      "titleZh": "澳大利亚经验丰富的摄影展",
+      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-200th-anniversary-exhibitions-2026-10-15": {
+      "sourceTitle": "200th anniversary exhibitions",
+      "titleZh": "200周年纪念展览",
+      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-intertwined-2026-10-15": {
+      "sourceTitle": "Intertwined",
+      "titleZh": "交织在一起",
+      "sourceSummary": "Intertwined is an exhibition showcasing Sydney College of The Arts Alumni and Lecturers",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-shipwreck-odyssey-2026-10-15": {
+      "sourceTitle": "Shipwreck Odyssey",
+      "titleZh": "沉船奥德赛",
+      "sourceSummary": "The whole family is invited to dive beneath the waves for a fantastical marine adventure from Box of Birds",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-titanic-a-voyage-through-time-2026-10-15": {
+      "sourceTitle": "Titanic: A Voyage Through Time",
+      "titleZh": "泰坦尼克号：时间之旅",
+      "sourceSummary": "Titanic: A Voyage Through Time invites guests to step beyond the screen and into one of history's most defining moments.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-green-square-library-2026-10-21": {
+      "sourceTitle": "Come and get techie: Green Square Library",
+      "titleZh": "快来获取技术人员：绿色广场图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curtains-jazz-festival-2026-10-15": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "窗帘爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-48258bb1-9e6a-4fc9-8c79-9b297ea94714-2026-10-22": {
+      "sourceTitle": "Lunchbreak Concert: Conservatorium Jazz Orchestra",
+      "titleZh": "午间音乐会：音乐学院爵士乐团",
+      "sourceSummary": "Join us on Wednesdays and Thursdays for an exhilarating 45-minute lunchbreak concert here at Verbrugghen Hall, with faculties of the Sydney Conservatorium of Music performing solo and ensemble works, including strings, piano, jazz, opera and more! 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-5c74c5cc-570f-4de3-bb26-1acab56412c8-2026-10-22": {
+      "sourceTitle": "Inspiration Through Time (Student Concert | Austin Fairfax)",
+      "titleZh": "穿越时空的灵感（学生音乐会|奥斯汀费尔法克斯）",
+      "sourceSummary": "This concert seeks to demonstrate this through the performance of works by Maurice Ravel and Austin Fairfax, two composers separated by a century but linked through a common aesthetic vision. A huge thank you to the incredible performers listed below. 费用说明：fre",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-15": {
+      "sourceTitle": "Alchemy of a Rainforest exhibition",
+      "titleZh": "热带雨林炼金术展览",
+      "sourceSummary": "Explore a vibrant tapestry of life",
+      "summaryZh": "",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-15": {
       "sourceTitle": "Ancestor Spirits and In the Half Light",
       "titleZh": "祖灵和半光之旅",
       "sourceSummary": "Andy Ewing: Ancestor Spirits and Kirthana Selvaraj: In the Half Light",
       "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-author-talk-beyond-timbuktu-with-catherine-devrye-2026-10-14": {
-      "sourceTitle": "Author talk: 'Beyond Timbuktu' with Catherine DeVrye",
-      "titleZh": "作者演讲： Catherine DeVrye的《Beyond Timbuktu》",
-      "sourceSummary": "Author Catherine DeVrye will give a presentation focused on her new book Beyond Timbuktu: Journeys of Hope and Humanity",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-brain-health-our-beautiful-mind-2026-10-14": {
-      "sourceTitle": "Brain Health: Our Beautiful Mind",
-      "titleZh": "大脑健康：我们美丽的心灵",
-      "sourceSummary": "Can brain compatible living help us thrive? Learn how your brain works",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-comedian-led-art-tours-2026-10-14": {
-      "sourceTitle": "Comedian-led art tours",
-      "titleZh": "由喜剧演员带领的艺术之旅",
-      "sourceSummary": "We’re presenting Art Tours at the Art Gallery of NSW led by two hilarious comedians with disability.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-creative-workshop-for-neurodivergent-teens-and-their-carers-2026-10-14": {
-      "sourceTitle": "Lantern making workshop for neurodivergent teens and carers",
-      "titleZh": "为神经发散的青少年和护理人员制作灯笼的工作坊",
-      "sourceSummary": "Hands-on on creative workshop for young people 12 to 17 years and carers",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-14": {
-      "sourceTitle": "The Entertainment Quarter Markets (EQ Markets)",
-      "titleZh": "娱乐季度市场（ EQ市场）",
-      "sourceSummary": "Fill your basket with beautiful, seasonal produce and gourmet treats.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-14": {
-      "sourceTitle": "Guided highlights tour: Anzac Memorial",
-      "titleZh": "导览游：澳新军团纪念碑",
-      "sourceSummary": "Discover the personal stories, stunning Art Deco architecture and commemorative symbolism behind the Anzac Memorial.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T17:37:18.353004Z",
+      "translatedAt": "2026-10-14T15:12:20.103942Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
