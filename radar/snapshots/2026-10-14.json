@@ -1,46 +1,46 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-13T17:37:18.230Z",
-  "archivedAt": "2026-10-13T17:37:16.624110Z",
+  "checkedAt": "2026-10-14T01:15:57.905Z",
+  "archivedAt": "2026-10-14T01:15:42.822716Z",
   "timezone": "Australia/Sydney",
   "today": "2026-10-14",
   "status": "ok",
   "summary": {
-    "events": 198,
-    "news": 7,
+    "events": 203,
+    "news": 8,
     "high": 0,
-    "recommended": 60,
-    "fromWebsite": 121,
+    "recommended": 61,
+    "fromWebsite": 126,
     "fromCityDiscovery": 71,
     "fromGPT": 6,
     "gptEnriched": 2,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 1041
+    "fetchMs": 14367
   },
   "sources": [
     {
       "name": "悉尼大学 What's On",
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
-      "message": "已通过官方公开活动查询接口读取 84 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-10-13T17:12:30.059Z",
-      "recordCount": 84
+      "message": "已通过官方公开活动查询接口读取 87 条未来活动（10 页）；结果较多，已达到安全分页上限",
+      "checkedAt": "2026-10-14T01:15:57.863Z",
+      "recordCount": 87
     },
     {
       "name": "USU 学生会",
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "ok",
-      "message": "已提取 6 条日期明确的公开活动",
-      "checkedAt": "2026-10-13T17:12:12.753Z",
-      "recordCount": 6
+      "message": "已提取 7 条日期明确的公开活动",
+      "checkedAt": "2026-10-14T01:15:45.714Z",
+      "recordCount": 7
     },
     {
       "name": "NTEU 教职员工工会",
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-13T17:12:13.388Z",
+      "checkedAt": "2026-10-14T01:15:46.323Z",
       "recordCount": 0
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-13T17:12:12.397Z",
+      "checkedAt": "2026-10-14T01:15:45.282Z",
       "recordCount": 0
     },
     {
@@ -56,16 +56,16 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-13T17:12:14.074Z",
+      "checkedAt": "2026-10-14T01:15:46.951Z",
       "recordCount": 0
     },
     {
       "name": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/",
       "status": "ok",
-      "recordCount": 7,
-      "message": "已读取城市活动精选 7 条（包括 Ghost Festival）",
-      "checkedAt": "2026-10-13T17:12:13.241Z"
+      "recordCount": 6,
+      "message": "已读取城市活动精选 6 条（包括 Ghost Festival）",
+      "checkedAt": "2026-10-14T01:15:46.181Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +73,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-10-13T17:12:12.362Z"
+      "checkedAt": "2026-10-14T01:15:45.377Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +81,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-13T17:12:12.374Z"
+      "checkedAt": "2026-10-14T01:15:45.400Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +89,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-13T17:12:13.280Z"
+      "checkedAt": "2026-10-14T01:15:45.838Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +97,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-13T17:12:13.218Z"
+      "checkedAt": "2026-10-14T01:15:45.940Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +105,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-13T17:12:13.237Z"
+      "checkedAt": "2026-10-14T01:15:46.308Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,15 +113,15 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-13T17:12:14.033Z"
+      "checkedAt": "2026-10-14T01:15:47.169Z"
     },
     {
       "name": "USU · 全部公开活动",
       "url": "https://usu.edu.au/events/",
       "status": "ok",
-      "recordCount": 6,
-      "message": "已读取 2 个官方活动页面，解析到 6 条日程",
-      "checkedAt": "2026-10-13T17:12:12.759Z"
+      "recordCount": 7,
+      "message": "已读取 2 个官方活动页面，解析到 7 条日程",
+      "checkedAt": "2026-10-14T01:15:45.606Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,15 +129,15 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-10-13T17:12:15.364Z"
+      "checkedAt": "2026-10-14T01:15:47.015Z"
     },
     {
       "name": "SUPRA · 活动接口",
       "url": "https://supra.net.au/events/",
       "status": "ok",
-      "recordCount": 27,
+      "recordCount": 29,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-10-13T17:12:14.288Z"
+      "checkedAt": "2026-10-14T01:15:47.026Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,7 +145,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-10-13T17:12:13.267Z"
+      "checkedAt": "2026-10-14T01:15:46.071Z"
     },
     {
       "name": "City discovery · city-free",
@@ -153,7 +153,7 @@
       "status": "ok",
       "recordCount": 42,
       "message": "Parsed 300 official structured listings; selected 42 relevant upcoming activities.",
-      "checkedAt": "2026-10-13T17:12:11.862Z"
+      "checkedAt": "2026-10-14T01:15:44.658Z"
     },
     {
       "name": "City discovery · city-tech",
@@ -161,7 +161,7 @@
       "status": "ok",
       "recordCount": 29,
       "message": "Parsed 32 official structured listings; selected 29 relevant upcoming activities.",
-      "checkedAt": "2026-10-13T17:12:11.806Z"
+      "checkedAt": "2026-10-14T01:15:45.903Z"
     },
     {
       "name": "City discovery · city-seminars",
@@ -169,22 +169,22 @@
       "status": "ok",
       "recordCount": 4,
       "message": "Parsed 5 official structured listings; selected 4 relevant upcoming activities.",
-      "checkedAt": "2026-10-13T17:12:11.785Z"
+      "checkedAt": "2026-10-14T01:15:45.494Z"
     },
     {
       "name": "City discovery · city-tours",
       "url": "https://whatson.cityofsydney.nsw.gov.au/categories/tours-and-experiences?freeEvent=true",
       "status": "ok",
       "recordCount": 0,
-      "message": "Parsed 139 official structured listings; selected 0 relevant upcoming activities.",
-      "checkedAt": "2026-10-13T17:12:13.542Z"
+      "message": "Parsed 140 official structured listings; selected 0 relevant upcoming activities.",
+      "checkedAt": "2026-10-14T01:15:46.608Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
       "recordCount": 8,
-      "checkedAt": "2026-10-13T17:37:18.206Z",
+      "checkedAt": "2026-10-14T01:15:44.472Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
@@ -1268,25 +1268,6 @@
       "priorityReason": "Advertised free; This week"
     },
     {
-      "id": "city-aboriginal-harbour-heritage-tour-2026-10-15",
-      "title": "Aboriginal Harbour Heritage Tour",
-      "date": "2026-10-15",
-      "time": "详见主办方",
-      "location": "The Royal Botanic Garden",
-      "category": "culture",
-      "priority": "low",
-      "score": 44,
-      "summary": "来自 City of Sydney 官方 What's On。开放时间与报名要求请以活动页面为准。",
-      "eligibility": "以主办方说明为准",
-      "registration": "请打开官方活动页面核实费用和门票",
-      "confidence": "partial",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
-      "verified": "2026-10-14",
-      "feedSource": "city",
-      "priorityReason": "Student union / local; This week"
-    },
-    {
       "id": "city-discovery-alana-hunt-to-the-owner-2026-10-16",
       "title": "Alana Hunt: To the Owner",
       "date": "2026-10-16",
@@ -1550,6 +1531,25 @@
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
       "verified": "2026-10-14",
       "priorityReason": "Academic or technology interest"
+    },
+    {
+      "id": "supra-266825-2026-10-19",
+      "title": "October Grill and Chill: Coco",
+      "date": "2026-10-19",
+      "time": "17:00–20:30",
+      "location": "Carslaw Lecture Theatre 275",
+      "category": "culture",
+      "priority": "low",
+      "score": 38,
+      "summary": "Monday 19 October 2026 5–8:30pm Carslaw Lecture Theatre 275 Come and enjoy food, snacks and a movie with SUPRA! All postgrad students are invited to join our October Grill and Chill! We’ll have light food, snacks and drinks, with vegetarian, halal-compatible and gluten-free options available where possible. Relax, chat and meet students f",
+      "eligibility": "SUPRA members / postgraduates. CET eligibility NOT confirmed.",
+      "registration": "Check the organiser's official registration page",
+      "confidence": "confirmed",
+      "sourceName": "SUPRA · Postgraduate representative association",
+      "url": "https://supra.net.au/event/october-grill-and-chill-coco/",
+      "verified": "2026-10-14",
+      "feedSource": "associations",
+      "priorityReason": "This week"
     },
     {
       "id": "supra-263150-2026-10-20",
@@ -1951,6 +1951,25 @@
       "verified": "2026-10-14",
       "feedSource": "university",
       "priorityReason": "Advertised free"
+    },
+    {
+      "id": "supra-266833-2026-10-22",
+      "title": "Chill & Connect",
+      "date": "2026-10-22",
+      "time": "18:00–19:30",
+      "location": "SUPRA Level 1",
+      "category": "culture",
+      "priority": "low",
+      "score": 25,
+      "summary": "Thursday 22 October 2026 6–7:30pm SUPRA Office Level 1 Take a break from study and join SUPRA to Chill & Connect! Enjoy a relaxed evening with food, drinks, board games and other activities. There’s no fixed program, so just come along, unwind and connect with fellow postgraduate students. The event is free, but registration is required. ",
+      "eligibility": "SUPRA members / postgraduates. CET eligibility NOT confirmed.",
+      "registration": "Check the organiser's official registration page",
+      "confidence": "confirmed",
+      "sourceName": "SUPRA · Postgraduate representative association",
+      "url": "https://supra.net.au/event/chill-connect/",
+      "verified": "2026-10-14",
+      "feedSource": "associations",
+      "priorityReason": "General event"
     },
     {
       "id": "gpt-aicamp-neo4j-aws-graph-rag-2026-10-23",
@@ -2508,6 +2527,25 @@
       "priorityReason": "Advertised free"
     },
     {
+      "id": "usyd-c615e4f9-f3a2-49f5-9e01-da453322bfe0-2026-10-29",
+      "title": "School of Languages and Cultures Research Seminar: The Island in Crime Fiction: Exoticism, Culture and Identity",
+      "date": "2026-10-29",
+      "time": "16:00–17:30",
+      "location": "A18 Brennan MacCallum Building, SLC Common Room 536 · Hybrid",
+      "category": "culture",
+      "priority": "low",
+      "score": 37,
+      "summary": "This seminar by Barbara Pezzotti (Monash University) reflects on the role of islands in crime fiction as a mode of resistance and empowerment that allows readers to reflect on identity, transculturality and what it means to be human. 费用说明：free",
+      "eligibility": "公开活动；具体参加要求请查看官网",
+      "registration": "请打开官方链接核实报名、名额与费用",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney What’s On",
+      "url": "https://whatson.sydney.edu.au/event/c615e4f9-f3a2-49f5-9e01-da453322bfe0/School-of-Languages-and-Cultures-Research-Seminar%3A-The-Island-in-Crime-Fiction%3A-Exoticism%2C-Culture-and-Identity",
+      "verified": "2026-10-14",
+      "feedSource": "university",
+      "priorityReason": "Advertised free"
+    },
+    {
       "id": "usyd-6fa6498f-77ef-4b0a-91ac-666563ccef62-2026-10-29",
       "title": "The Nicholas Catchlove Lecture 2026 | Born to Age: Can we slow our biological clock?",
       "date": "2026-10-29",
@@ -2964,6 +3002,25 @@
       "priorityReason": "AI and machine learning; Advertised free"
     },
     {
+      "id": "usyd-0d372bf4-540f-4058-a4ca-1c6c11f6433a-2026-11-02",
+      "title": "Associate Professor Shai Ginsburg: Love, Judgment, and the Jewish Question: Arendt and Scholem after Eichmann in Jerusalem",
+      "date": "2026-11-02",
+      "time": "16:00–18:00",
+      "location": "A14 Kevin Lee Room H6.04, The Quadrangle",
+      "category": "academic",
+      "priority": "low",
+      "score": 37,
+      "summary": "An exploration of the debate between Arendt and Scholem concerning criticism, solidarity, and Jewish intellectual life. 费用说明：free",
+      "eligibility": "公开活动；具体参加要求请查看官网",
+      "registration": "请打开官方链接核实报名、名额与费用",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney What’s On",
+      "url": "https://whatson.sydney.edu.au/event/0d372bf4-540f-4058-a4ca-1c6c11f6433a/Associate-Professor-Shai-Ginsburg%3A-Love%2C-Judgment%2C-and-the-Jewish-Question%3A-Arendt-and-Scholem-after-Eichmann-in-Jerusalem",
+      "verified": "2026-10-14",
+      "feedSource": "university",
+      "priorityReason": "Advertised free"
+    },
+    {
       "id": "city-discovery-maker-and-creator-8-12yrs-2026-11-03",
       "title": "Maker & Creator 8-12yrs",
       "date": "2026-11-03",
@@ -3112,6 +3169,25 @@
       "verified": "2026-10-14",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
+    },
+    {
+      "id": "usu-whos-the-diva-queer-look-alike-contest-party-2026-11-05",
+      "title": "Who's the Diva? Queer look-alike contest + party",
+      "date": "2026-11-05",
+      "time": "18:00–23:00",
+      "location": "具体地点以 USU 官网为准",
+      "category": "culture",
+      "priority": "low",
+      "score": 31,
+      "summary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
+      "eligibility": "以官方报名说明为准",
+      "registration": "请打开官方链接确认",
+      "confidence": "confirmed",
+      "sourceName": "USU 官方活动日历",
+      "url": "https://usu.edu.au/events/whos-the-diva-queer-look-alike-contest-party",
+      "verified": "2026-10-14",
+      "feedSource": "university",
+      "priorityReason": "Student union / local"
     },
     {
       "id": "usyd-8a898a20-c921-4ee8-896e-83c9e9af1590-2026-11-06",
@@ -3811,6 +3887,25 @@
       "priorityReason": "General event"
     },
     {
+      "id": "usyd-e21cd65c-c88c-4d6a-9c70-f99de4a8a5ba-2026-11-27",
+      "title": "FMH EMCR Career Development Day",
+      "date": "2026-11-27",
+      "time": "10:00–14:00",
+      "location": "The Sybil Centre, The Women’s College, University of Sydney.",
+      "category": "career",
+      "priority": "medium",
+      "score": 89,
+      "summary": "Join fellow early and mid-career researchers from across the Faculty of Medicine and Health for a day focused on one of the biggest challenges in contemporary research careers: turning great research into meaningful impact. 费用说明：free",
+      "eligibility": "公开活动；具体参加要求请查看官网",
+      "registration": "请打开官方链接核实报名、名额与费用",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney What’s On",
+      "url": "https://whatson.sydney.edu.au/event/e21cd65c-c88c-4d6a-9c70-f99de4a8a5ba/FMH-EMCR-Career-Development-Day",
+      "verified": "2026-10-14",
+      "feedSource": "university",
+      "priorityReason": "Career opportunity; Advertised free"
+    },
+    {
       "id": "usyd-1492b2d2-5ad8-4eb8-bcba-51832693945a-2026-11-27",
       "title": "Cabaret, Cocktails & Karaoke at the Seymour | Friday 27 November",
       "date": "2026-11-27",
@@ -3906,6 +4001,16 @@
     }
   ],
   "news": [
+    {
+      "id": "transport-news-2026-l1-dulwich-hill-l2-randwick-l3-kingsford-lines-weeknight-closures-due-to-maintenance",
+      "title": "L1 Dulwich Hill, L2 Randwick and L3 Kingsford Lines weeknight closures due to maintenance Light rail lightrail",
+      "date": "2026-10-12",
+      "source": "Transport for NSW",
+      "summary": "Transport for NSW 官方交通消息；前往官网核实适用线路、日期和即时运行情况。",
+      "url": "https://transportnsw.info/news/2026/l1-dulwich-hill-l2-randwick-l3-kingsford-lines-weeknight-closures-due-to-maintenance",
+      "type": "transport",
+      "dateReliable": true
+    },
     {
       "id": "service-digital-licence-shifts-up-a-gear-for-western-sydney-and-blue-mountains-drivers",
       "title": "Digital licence shifts up a gear for Western Sydney and Blue Mountains drivers",
