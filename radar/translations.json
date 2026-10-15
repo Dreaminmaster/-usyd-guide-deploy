@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T15:12:20.103942Z",
+  "updatedAt": "2026-10-15T00:33:41.801784Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 61,
+  "count": 70,
   "entries": {
     "usyd-fd8049f9-18a0-4a79-8f62-555b4b4d4ab9-2026-10-15": {
       "sourceTitle": "The Warren Centre presents: Research in Humanitarian Engineering: Sustainable Solutions for Global Challenges",
@@ -69,14 +69,6 @@
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
     },
-    "usu-screamfest-halloween-festival-2026-10-31": {
-      "sourceTitle": "Discounted tickets to Screamfest Halloween Festival",
-      "titleZh": "Screamfest 万圣节庆典优惠门票",
-      "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
       "titleZh": "周日免费钟琴演奏会",
@@ -132,14 +124,6 @@
       "summaryZh": "",
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
-    },
-    "city-discovery-work-ready-4-day-career-intensive-2026-10-19": {
-      "sourceTitle": "Work Ready: 4-Day Career Intensive",
-      "titleZh": "工作就绪： 4天职业密集型",
-      "sourceSummary": "Build confidence. Get job-ready. Take your next step.",
-      "summaryZh": "建立信心。为工作做好准备。迈出下一步。",
-      "translatedAt": "2026-10-13T10:52:42.081906Z",
-      "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-python-programming-with-ai-course-2026-10-21": {
       "sourceTitle": "Python Programming with AI Course",
@@ -397,22 +381,6 @@
       "translatedAt": "2026-10-14T15:12:20.103942Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-halloween-at-hay-st-2026-10-18": {
-      "sourceTitle": "Halloween at Hay St",
-      "titleZh": "干草街万圣节",
-      "sourceSummary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
-      "summaryZh": "万圣节接管干草街，享用令人毛骨悚然的美食、鸡尾酒、现场音乐、儿童乐趣、漫游僵尸等",
-      "translatedAt": "2026-10-14T15:12:20.103942Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-15": {
-      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
-      "titleZh": "澳大利亚经验丰富的摄影展",
-      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-14T15:12:20.103942Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-200th-anniversary-exhibitions-2026-10-15": {
       "sourceTitle": "200th anniversary exhibitions",
       "titleZh": "200周年纪念展览",
@@ -491,6 +459,110 @@
       "sourceSummary": "Andy Ewing: Ancestor Spirits and Kirthana Selvaraj: In the Half Light",
       "summaryZh": "",
       "translatedAt": "2026-10-14T15:12:20.103942Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-15": {
+      "sourceTitle": "23rd Annual National Paddo Painting Prize Exhibition",
+      "titleZh": "第23届全国水稻画奖展",
+      "sourceSummary": "23rd Annual National Acquisitive $30,000 Paddo Painting Prize Exhibition of Natioonal Finalists",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-15": {
+      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "titleZh": "手工艺品：重新构想的木版画档案",
+      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artspace-editions-launch-daniel-boyd-2026-10-15": {
+      "sourceTitle": "Artspace Editions Launch: Daniel Boyd",
+      "titleZh": "Artspace Editions发布： Daniel Boyd",
+      "sourceSummary": "A night for art, a future for artists",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-15": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-15": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-15": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-collection-conversations-at-sydney-observatory-2026-10-15": {
+      "sourceTitle": "Collection Conversations at Sydney Observatory - Diwali",
+      "titleZh": "悉尼天文台收藏对话-排灯节",
+      "sourceSummary": "Diwali",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-15": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-feathered-friends-2026-10-15": {
+      "sourceTitle": "Journey: BirdLife Australia Bird Week Exhibition",
+      "titleZh": "旅程：澳大利亚鸟类生活鸟类周展览",
+      "sourceSummary": "Explore, discover & be inspired!",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-felicity-schrader-exhibition-i-fell-in-love-at-art2muse-2026-10-15": {
+      "sourceTitle": "Felicity Schrader Exhibition 'I Fell In Love' at Art2Muse",
+      "titleZh": "Felicity Schrader在Art2Muse举办的“我坠入爱河”展览",
+      "sourceSummary": "Art2Muse Gallery presents 'I Fell In Love' by Felicity Schrader",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-bike-tune-up-darlinghurst-south-2026-10-15": {
+      "sourceTitle": "Free bike tune up: Darlinghurst",
+      "titleZh": "免费自行车调校：达令赫斯特",
+      "sourceSummary": "We talk to people walking and riding about respecting each other’s journey, and sharing spaces courteously",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-salsa-classes-in-moore-park-2026-10-15": {
+      "sourceTitle": "Free Salsa Classes in Surry Hills",
+      "titleZh": "萨里山免费萨尔萨舞课",
+      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-glebe-art-show-at-tramsheds-2026-10-15": {
+      "sourceTitle": "Glebe Art Show at Tramsheds",
+      "titleZh": "Tramsheds的Glebe艺术表演",
+      "sourceSummary": "Attention artists and art lovers: the annual Glebe Art Show is back in October 2026!",
+      "summaryZh": "",
+      "translatedAt": "2026-10-15T00:33:41.801784Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
