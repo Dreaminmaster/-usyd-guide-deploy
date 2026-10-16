@@ -1,9 +1,51 @@
 {
-  "usyd-30ac2e51-0bdd-4228-b3c9-20ff9ac0d304-2026-11-04": {
+  "city-discovery-remy-faint-a-site-of-unfolding-2026-10-16": {
     "observations": 1,
-    "firstMissingAt": "2026-10-15T15:05:24.421036Z",
-    "title": "2026 Carney Public Lecture: Coroners and risk prevention: riders, recommendations and required responses",
-    "date": "2026-11-04",
-    "url": "https://whatson.sydney.edu.au/event/30ac2e51-0bdd-4228-b3c9-20ff9ac0d304/2026-Carney-Public-Lecture%3A-Coroners-and-risk-prevention%3A-riders%2C-recommendations-and-required-responses"
+    "firstMissingAt": "2026-10-16T00:26:29.299417Z",
+    "title": "Remy Faint: A Site of Unfolding",
+    "date": "2026-10-16",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/remy-faint-a-site-of-unfolding"
+  },
+  "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-17": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-16T00:26:29.299417Z",
+    "title": "The Entertainment Quarter Markets (EQ Markets)",
+    "date": "2026-10-17",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter"
+  },
+  "city-discovery-free-salsa-classes-in-moore-park-2026-10-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-16T00:26:29.299417Z",
+    "title": "Free Salsa Classes in Surry Hills",
+    "date": "2026-10-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park"
+  },
+  "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-16T00:26:29.299417Z",
+    "title": "HSC ready? We’ve got space for you",
+    "date": "2026-10-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/exclusive-hsc-study-nights-for-students"
+  },
+  "city-discovery-line-dancing-thursdays-at-hay-st-2026-10-22": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-16T00:26:29.299417Z",
+    "title": "Line Dancing Thursdays at Hay St",
+    "date": "2026-10-22",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/line-dancing-thursdays-at-hay-st"
+  },
+  "city-discovery-movement-and-dance-2026-10-22": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-16T00:26:29.299417Z",
+    "title": "Movement and dance class",
+    "date": "2026-10-22",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/movement-and-dance"
+  },
+  "city-discovery-mum-walk-2026-10-22": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-16T00:26:29.299417Z",
+    "title": "Mum walk",
+    "date": "2026-10-22",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/mum-walk"
   }
 }

@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T15:05:39.229044Z",
+  "updatedAt": "2026-10-16T00:26:46.783826Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 56,
+  "count": 61,
   "entries": {
     "usyd-611dba06-07af-42f6-9eac-941916095672-2026-10-18": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 8",
@@ -451,6 +451,46 @@
       "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
       "summaryZh": "",
       "translatedAt": "2026-10-15T15:05:39.229044Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-an-exhibition-of-new-artwork-2026-10-16": {
+      "sourceTitle": "An exhibition of new artwork",
+      "titleZh": "新艺术品展览",
+      "sourceSummary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
+      "summaryZh": "",
+      "translatedAt": "2026-10-16T00:26:46.783826Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-art-from-the-heart-of-the-cross-exhibition-2026-10-16": {
+      "sourceTitle": "Art from the Heart of the Cross Exhibition",
+      "titleZh": "十字架之心艺术展",
+      "sourceSummary": "An annual exhibition showcasing the diverse artistic talents of visitors to the Medically Supervised Injecting Centre",
+      "summaryZh": "",
+      "translatedAt": "2026-10-16T00:26:46.783826Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-16": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-16T00:26:46.783826Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-16": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-16T00:26:46.783826Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-16": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-16T00:26:46.783826Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

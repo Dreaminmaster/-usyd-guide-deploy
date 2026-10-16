@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-15T15:05:38.920Z",
-  "archivedAt": "2026-10-15T15:05:24.421036Z",
+  "checkedAt": "2026-10-16T00:26:46.608Z",
+  "archivedAt": "2026-10-16T00:26:29.299417Z",
   "timezone": "Australia/Sydney",
   "today": "2026-10-16",
   "status": "ok",
   "summary": {
-    "events": 198,
+    "events": 197,
     "news": 9,
     "high": 0,
     "recommended": 53,
-    "fromWebsite": 121,
+    "fromWebsite": 120,
     "fromCityDiscovery": 72,
     "fromGPT": 5,
     "gptEnriched": 2,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 13585
+    "fetchMs": 16642
   },
   "sources": [
     {
@@ -24,7 +24,7 @@
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
       "message": "已通过官方公开活动查询接口读取 86 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-10-15T15:05:38.867Z",
+      "checkedAt": "2026-10-16T00:26:46.557Z",
       "recordCount": 86
     },
     {
@@ -32,15 +32,15 @@
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "ok",
       "message": "已提取 5 条日期明确的公开活动",
-      "checkedAt": "2026-10-15T15:05:27.252Z",
+      "checkedAt": "2026-10-16T00:26:31.612Z",
       "recordCount": 5
     },
     {
       "name": "NTEU 教职员工工会",
       "url": "https://nsw.nteu.au/sydney/news/",
-      "status": "partial",
-      "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-15T15:05:28.636Z",
+      "status": "failed",
+      "message": "本次访问失败：The operation was aborted due to timeout",
+      "checkedAt": "2026-10-16T00:26:36.197Z",
       "recordCount": 0
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-15T15:05:26.933Z",
+      "checkedAt": "2026-10-16T00:26:31.457Z",
       "recordCount": 0
     },
     {
@@ -56,16 +56,16 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-15T15:05:28.037Z",
+      "checkedAt": "2026-10-16T00:26:32.801Z",
       "recordCount": 0
     },
     {
       "name": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/",
       "status": "ok",
-      "recordCount": 8,
-      "message": "已读取城市活动精选 8 条（包括 Ghost Festival）",
-      "checkedAt": "2026-10-15T15:05:28.229Z"
+      "recordCount": 6,
+      "message": "已读取城市活动精选 6 条（包括 Ghost Festival）",
+      "checkedAt": "2026-10-16T00:26:32.596Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +73,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-10-15T15:05:27.069Z"
+      "checkedAt": "2026-10-16T00:26:31.514Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +81,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-15T15:05:27.081Z"
+      "checkedAt": "2026-10-16T00:26:31.516Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +89,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-15T15:05:28.533Z"
+      "checkedAt": "2026-10-16T00:26:32.465Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +97,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-15T15:05:27.816Z"
+      "checkedAt": "2026-10-16T00:26:32.442Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +105,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-15T15:05:27.896Z"
+      "checkedAt": "2026-10-16T00:26:32.352Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,7 +113,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-15T15:05:28.266Z"
+      "checkedAt": "2026-10-16T00:26:32.822Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -121,7 +121,7 @@
       "status": "ok",
       "recordCount": 4,
       "message": "已读取 2 个官方活动页面，解析到 4 条日程",
-      "checkedAt": "2026-10-15T15:05:27.300Z"
+      "checkedAt": "2026-10-16T00:26:31.570Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,7 +129,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-10-15T15:05:29.484Z"
+      "checkedAt": "2026-10-16T00:26:34.071Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -137,7 +137,7 @@
       "status": "ok",
       "recordCount": 29,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-10-15T15:05:28.761Z"
+      "checkedAt": "2026-10-16T00:26:33.373Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,7 +145,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-10-15T15:05:27.728Z"
+      "checkedAt": "2026-10-16T00:26:32.387Z"
     },
     {
       "name": "City discovery · city-free",
@@ -153,7 +153,7 @@
       "status": "ok",
       "recordCount": 42,
       "message": "Parsed 300 official structured listings; selected 42 relevant upcoming activities.",
-      "checkedAt": "2026-10-15T15:05:26.477Z"
+      "checkedAt": "2026-10-16T00:26:30.935Z"
     },
     {
       "name": "City discovery · city-tech",
@@ -161,7 +161,7 @@
       "status": "ok",
       "recordCount": 29,
       "message": "Parsed 33 official structured listings; selected 29 relevant upcoming activities.",
-      "checkedAt": "2026-10-15T15:05:27.548Z"
+      "checkedAt": "2026-10-16T00:26:31.580Z"
     },
     {
       "name": "City discovery · city-seminars",
@@ -169,22 +169,22 @@
       "status": "ok",
       "recordCount": 4,
       "message": "Parsed 5 official structured listings; selected 4 relevant upcoming activities.",
-      "checkedAt": "2026-10-15T15:05:27.407Z"
+      "checkedAt": "2026-10-16T00:26:31.774Z"
     },
     {
       "name": "City discovery · city-tours",
       "url": "https://whatson.cityofsydney.nsw.gov.au/categories/tours-and-experiences?freeEvent=true",
       "status": "ok",
       "recordCount": 0,
-      "message": "Parsed 141 official structured listings; selected 0 relevant upcoming activities.",
-      "checkedAt": "2026-10-15T15:05:28.322Z"
+      "message": "Parsed 140 official structured listings; selected 0 relevant upcoming activities.",
+      "checkedAt": "2026-10-16T00:26:31.649Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
       "recordCount": 7,
-      "checkedAt": "2026-10-15T15:05:26.436Z",
+      "checkedAt": "2026-10-16T00:26:31.011Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
@@ -229,7 +229,7 @@
       "id": "city-discovery-200th-anniversary-exhibitions-2026-10-16",
       "title": "200th anniversary exhibitions",
       "date": "2026-10-16",
-      "time": "09:00–20:00",
+      "time": "09:00–17:00",
       "location": "State Library of NSW",
       "category": "academic",
       "priority": "medium",
@@ -240,6 +240,24 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/200th-anniversary-exhibitions",
+      "verified": "2026-10-16",
+      "priorityReason": "Academic or technology interest"
+    },
+    {
+      "id": "city-discovery-alana-hunt-to-the-owner-2026-10-16",
+      "title": "Alana Hunt: To the Owner",
+      "date": "2026-10-16",
+      "time": "11:00–16:00",
+      "location": "UTS Gallery",
+      "category": "academic",
+      "priority": "medium",
+      "score": 68,
+      "summary": "To the Owner is Alana Hunt's first institutional solo exhibition in Gadigal Nura/Sydney.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
       "verified": "2026-10-16",
       "priorityReason": "Academic or technology interest"
     },
@@ -280,24 +298,6 @@
       "priorityReason": "Academic or technology interest"
     },
     {
-      "id": "city-discovery-alana-hunt-to-the-owner-2026-10-16",
-      "title": "Alana Hunt: To the Owner",
-      "date": "2026-10-16",
-      "time": "11:00–16:00",
-      "location": "UTS Gallery",
-      "category": "academic",
-      "priority": "medium",
-      "score": 68,
-      "summary": "To the Owner is Alana Hunt's first institutional solo exhibition in Gadigal Nura/Sydney.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
-      "verified": "2026-10-16",
-      "priorityReason": "Academic or technology interest"
-    },
-    {
       "id": "city-discovery-curtains-jazz-festival-2026-10-16",
       "title": "Curtains Jazz Festival",
       "date": "2026-10-16",
@@ -316,20 +316,38 @@
       "priorityReason": "Relevant local activity"
     },
     {
-      "id": "city-discovery-aqua-paradiso-2026-10-16",
-      "title": "Aqua Paradiso",
+      "id": "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-16",
+      "title": "Jordan Gower: Does the moon know the well?",
       "date": "2026-10-16",
       "time": "10:00–17:00",
-      "location": "Sydney",
+      "location": "UNSW Galleries",
       "category": "culture",
       "priority": "low",
       "score": 51,
-      "summary": "Exploring environmental issues through contemporary art",
+      "summary": "The first institutional exhibition of South Australian ceramic artist Jordan Gower.",
       "eligibility": "Public listing; check age restrictions and whether booking is required.",
       "registration": "Advertised free; confirm whether registration is required on the official page.",
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aqua-paradiso",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jordan-gower-does-the-moon-know-the-well",
+      "verified": "2026-10-16",
+      "priorityReason": "Relevant local activity"
+    },
+    {
+      "id": "city-discovery-barangaroo-markets-2026-10-16",
+      "title": "Barangaroo Markets",
+      "date": "2026-10-16",
+      "time": "10:00–16:00",
+      "location": "Barangaroo",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Wrap up your work week the right way at Barangaroo Markets. Shop artisan gifts and soak up the good vibes.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/barangaroo-markets",
       "verified": "2026-10-16",
       "priorityReason": "Relevant local activity"
     },
@@ -391,7 +409,7 @@
       "id": "city-discovery-definitive-dupain-2026-10-16",
       "title": "Definitive Dupain",
       "date": "2026-10-16",
-      "time": "09:00–20:00",
+      "time": "09:00–17:00",
       "location": "State Library of NSW",
       "category": "culture",
       "priority": "low",
@@ -499,7 +517,7 @@
       "id": "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-16",
       "title": "23rd Annual National Paddo Painting Prize Exhibition",
       "date": "2026-10-16",
-      "time": "18:00–20:00",
+      "time": "11:00–17:00",
       "location": "Woollahra",
       "category": "culture",
       "priority": "low",
@@ -510,6 +528,24 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/23rd-annual-national-paddo-painting-prize-exhibition",
+      "verified": "2026-10-16",
+      "priorityReason": "Relevant local activity"
+    },
+    {
+      "id": "city-discovery-an-exhibition-of-new-artwork-2026-10-16",
+      "title": "An exhibition of new artwork",
+      "date": "2026-10-16",
+      "time": "11:00–18:00",
+      "location": "Glebe",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/an-exhibition-of-new-artwork",
       "verified": "2026-10-16",
       "priorityReason": "Relevant local activity"
     },
@@ -546,6 +582,42 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/and-still-i-rise",
+      "verified": "2026-10-16",
+      "priorityReason": "Relevant local activity"
+    },
+    {
+      "id": "city-discovery-aqua-paradiso-2026-10-16",
+      "title": "Aqua Paradiso",
+      "date": "2026-10-16",
+      "time": "10:00–17:00",
+      "location": "Sydney",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Exploring environmental issues through contemporary art",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aqua-paradiso",
+      "verified": "2026-10-16",
+      "priorityReason": "Relevant local activity"
+    },
+    {
+      "id": "city-discovery-art-from-the-heart-of-the-cross-exhibition-2026-10-16",
+      "title": "Art from the Heart of the Cross Exhibition",
+      "date": "2026-10-16",
+      "time": "10:00–16:00",
+      "location": "Paddington Town Hall",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "An annual exhibition showcasing the diverse artistic talents of visitors to the Medically Supervised Injecting Centre",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-from-the-heart-of-the-cross-exhibition",
       "verified": "2026-10-16",
       "priorityReason": "Relevant local activity"
     },
@@ -604,6 +676,24 @@
       "priorityReason": "Relevant local activity"
     },
     {
+      "id": "city-discovery-chapel-row-jazz-2026-10-16",
+      "title": "Chapel Row Jazz",
+      "date": "2026-10-16",
+      "time": "19:00–22:00",
+      "location": "Castlereagh Boutique Hotel",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Chapel Row Jazz brings Sydney’s next-gen jazz musicians to Reagh Bar every Friday night. Free entry, Sydney CBD.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/chapel-row-jazz",
+      "verified": "2026-10-16",
+      "priorityReason": "Relevant local activity"
+    },
+    {
       "id": "city-discovery-cherish-by-mat-pal-2026-10-16",
       "title": "Cherish by Mat Pal",
       "date": "2026-10-16",
@@ -640,6 +730,24 @@
       "priorityReason": "Relevant local activity"
     },
     {
+      "id": "city-discovery-fridays-r-and-b-at-hay-st-2026-10-16",
+      "title": "Fridays R&B at Hay St",
+      "date": "2026-10-16",
+      "time": "18:00–23:30",
+      "location": "Haymarket",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Live R&B, soul, funk and old-school favourites with Suite AZ band and DJ every Friday at Hay St.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/fridays-r-and-b-at-hay-st",
+      "verified": "2026-10-16",
+      "priorityReason": "Relevant local activity"
+    },
+    {
       "id": "city-discovery-glebe-art-show-at-tramsheds-2026-10-16",
       "title": "Glebe Art Show at Tramsheds",
       "date": "2026-10-16",
@@ -658,6 +766,24 @@
       "priorityReason": "Relevant local activity"
     },
     {
+      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-16",
+      "title": "Guided highlights tour: Anzac Memorial",
+      "date": "2026-10-16",
+      "time": "10:00–11:00",
+      "location": "Anzac Memorial",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Discover the personal stories, stunning Art Deco architecture and commemorative symbolism behind the Anzac Memorial.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
+      "verified": "2026-10-16",
+      "priorityReason": "Relevant local activity"
+    },
+    {
       "id": "city-discovery-john-and-jacqui-mullen-collection-2026-10-16",
       "title": "John and Jacqui Mullen Collection",
       "date": "2026-10-16",
@@ -672,24 +798,6 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/john-and-jacqui-mullen-collection",
-      "verified": "2026-10-16",
-      "priorityReason": "Relevant local activity"
-    },
-    {
-      "id": "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-16",
-      "title": "Jordan Gower: Does the moon know the well?",
-      "date": "2026-10-16",
-      "time": "10:00–17:00",
-      "location": "UNSW Galleries",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "The first institutional exhibition of South Australian ceramic artist Jordan Gower.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jordan-gower-does-the-moon-know-the-well",
       "verified": "2026-10-16",
       "priorityReason": "Relevant local activity"
     },
@@ -715,7 +823,7 @@
       "id": "city-discovery-lorrie-graham-photojournalist-2026-10-16",
       "title": "Lorrie Graham: Photojournalist",
       "date": "2026-10-16",
-      "time": "09:00–20:00",
+      "time": "09:00–17:00",
       "location": "State Library of NSW",
       "category": "culture",
       "priority": "low",
@@ -751,7 +859,7 @@
       "id": "city-discovery-mervyn-bishop-close-up-2026-10-16",
       "title": "Mervyn Bishop: Close Up",
       "date": "2026-10-16",
-      "time": "09:00–20:00",
+      "time": "09:00–17:00",
       "location": "State Library of NSW",
       "category": "culture",
       "priority": "low",
@@ -856,24 +964,6 @@
       "priorityReason": "Relevant local activity"
     },
     {
-      "id": "city-discovery-remy-faint-a-site-of-unfolding-2026-10-16",
-      "title": "Remy Faint: A Site of Unfolding",
-      "date": "2026-10-16",
-      "time": "10:00–17:00",
-      "location": "UNSW Galleries",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "An ambitious new body of work developed through an ongoing dialogue with family histories and archival encounters.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/remy-faint-a-site-of-unfolding",
-      "verified": "2026-10-16",
-      "priorityReason": "Relevant local activity"
-    },
-    {
       "id": "usyd-baf13176-f1bb-4bd8-9e5f-816d7fd413cb-2026-10-16",
       "title": "SSEAC Public Lecture by H.E. Dr José Ramos-Horta",
       "date": "2026-10-16",
@@ -947,25 +1037,6 @@
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-time-for-families-sphero-robot-maze-8-12yrs",
       "verified": "2026-10-16",
       "priorityReason": "Academic or technology interest"
-    },
-    {
-      "id": "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-17",
-      "title": "The Entertainment Quarter Markets (EQ Markets)",
-      "date": "2026-10-17",
-      "time": "详见主办方",
-      "location": "The Entertainment Quarter",
-      "category": "culture",
-      "priority": "low",
-      "score": 44,
-      "summary": "来自 City of Sydney 官方 What's On。开放时间与报名要求请以活动页面为准。",
-      "eligibility": "以主办方说明为准",
-      "registration": "请打开官方活动页面核实费用和门票",
-      "confidence": "partial",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
-      "verified": "2026-10-16",
-      "feedSource": "city",
-      "priorityReason": "Student union / local; This week"
     },
     {
       "id": "supra-266047-2026-10-17",
@@ -1122,42 +1193,6 @@
       "priorityReason": "Academic or technology interest"
     },
     {
-      "id": "city-discovery-free-salsa-classes-in-moore-park-2026-10-19",
-      "title": "Free Salsa Classes in Surry Hills",
-      "date": "2026-10-19",
-      "time": "18:30–20:30",
-      "location": "Surry Hills",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
-      "verified": "2026-10-16",
-      "priorityReason": "Relevant local activity"
-    },
-    {
-      "id": "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-19",
-      "title": "HSC ready? We’ve got space for you",
-      "date": "2026-10-19",
-      "time": "18:00–21:00",
-      "location": "City of Sydney Library",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/exclusive-hsc-study-nights-for-students",
-      "verified": "2026-10-16",
-      "priorityReason": "Relevant local activity"
-    },
-    {
       "id": "supra-266825-2026-10-19",
       "title": "October Grill and Chill: Coco",
       "date": "2026-10-19",
@@ -1305,24 +1340,6 @@
       "priorityReason": "Relevant Sydney event; verify official source"
     },
     {
-      "id": "city-discovery-titanic-a-voyage-through-time-2026-10-21",
-      "title": "Titanic: A Voyage Through Time",
-      "date": "2026-10-21",
-      "time": "10:00–18:00",
-      "location": "Sydney Olympic Park",
-      "category": "academic",
-      "priority": "medium",
-      "score": 68,
-      "summary": "Titanic: A Voyage Through Time invites guests to step beyond the screen and into one of history's most defining moments.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Costs and reservations must be checked with the organiser.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/titanic-a-voyage-through-time",
-      "verified": "2026-10-16",
-      "priorityReason": "Academic or technology interest"
-    },
-    {
       "id": "city-discovery-come-and-get-techie-at-reginald-murphy-community-centre-2026-10-21",
       "title": "Come and get techie",
       "date": "2026-10-21",
@@ -1355,6 +1372,24 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "verified": "2026-10-16",
+      "priorityReason": "Academic or technology interest"
+    },
+    {
+      "id": "city-discovery-titanic-a-voyage-through-time-2026-10-21",
+      "title": "Titanic: A Voyage Through Time",
+      "date": "2026-10-21",
+      "time": "10:00–18:00",
+      "location": "Sydney Olympic Park",
+      "category": "academic",
+      "priority": "medium",
+      "score": 68,
+      "summary": "Titanic: A Voyage Through Time invites guests to step beyond the screen and into one of history's most defining moments.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Costs and reservations must be checked with the organiser.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/titanic-a-voyage-through-time",
       "verified": "2026-10-16",
       "priorityReason": "Academic or technology interest"
     },
@@ -1609,60 +1644,6 @@
       "verified": "2026-10-16",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture; This week"
-    },
-    {
-      "id": "city-discovery-line-dancing-thursdays-at-hay-st-2026-10-22",
-      "title": "Line Dancing Thursdays at Hay St",
-      "date": "2026-10-22",
-      "time": "18:00–22:00",
-      "location": "Haymarket",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/line-dancing-thursdays-at-hay-st",
-      "verified": "2026-10-16",
-      "priorityReason": "Relevant local activity"
-    },
-    {
-      "id": "city-discovery-movement-and-dance-2026-10-22",
-      "title": "Movement and dance class",
-      "date": "2026-10-22",
-      "time": "13:30–14:30",
-      "location": "Ultimo Community Centre",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Learn different styles of dance including line, square and Chinese folk in this class for older adults.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/movement-and-dance",
-      "verified": "2026-10-16",
-      "priorityReason": "Relevant local activity"
-    },
-    {
-      "id": "city-discovery-mum-walk-2026-10-22",
-      "title": "Mum walk",
-      "date": "2026-10-22",
-      "time": "09:30–13:00",
-      "location": "Sydney Park",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Free weekly walks to meet local mums",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mum-walk",
-      "verified": "2026-10-16",
-      "priorityReason": "Relevant local activity"
     },
     {
       "id": "usyd-c1e00d91-e691-434f-b613-23994240c420-2026-10-22",
