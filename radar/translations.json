@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-17T00:31:57.487595Z",
+  "updatedAt": "2026-10-17T13:46:07.889539Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 59,
+  "count": 60,
   "entries": {
     "usyd-611dba06-07af-42f6-9eac-941916095672-2026-10-18": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 8",
@@ -122,14 +122,6 @@
       "titleZh": "技术批判：机器中的幽灵(2026) [MA15 +]",
       "sourceSummary": "See the critically acclaimed documentary about the AI industry at Waverley Library.",
       "summaryZh": "在Waverley图书馆观看广受好评的人工智能行业纪录片。",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-10-17": {
-      "sourceTitle": "Makertime for families 8-12yrs",
-      "titleZh": "适合8-12岁家庭的Makertime",
-      "sourceSummary": "Gain practical creative makerspace skills and experience in this intergenerational 2-hour session",
-      "summaryZh": "",
       "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -337,8 +329,8 @@
       "sourceTitle": "NWC Get Online Week: Spot That Scam!",
       "titleZh": "NWC上线周：发现诈骗！",
       "sourceSummary": "Come expand your understanding of scams, staying safe online, and using technology securely.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-15T15:05:39.229044Z",
+      "summaryZh": "快来扩大您对诈骗的理解，确保在线安全，并安全地使用技术。",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-titanic-a-voyage-through-time-2026-10-21": {
@@ -365,42 +357,10 @@
       "translatedAt": "2026-10-15T15:05:39.229044Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-17": {
-      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
-      "titleZh": "艾未未，《蘑菇》， 2026年",
-      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
-      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-nasa-space-apps-challenge-prep-and-team-formation-day-2026-11-07": {
       "sourceTitle": "NASA Space Apps Challenge Prep & Team Formation Day!",
       "titleZh": "NASA太空应用挑战准备和团队组建日！",
       "sourceSummary": "Come and prepare, research and forms teams for the NASA Space Apps Challenge hackathon",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-200th-anniversary-exhibitions-2026-10-17": {
-      "sourceTitle": "200th anniversary exhibitions",
-      "titleZh": "200周年纪念展览",
-      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-intertwined-2026-10-17": {
-      "sourceTitle": "Intertwined",
-      "titleZh": "交织在一起",
-      "sourceSummary": "Intertwined is an exhibition showcasing Sydney College of The Arts Alumni and Lecturers",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-shipwreck-odyssey-2026-10-17": {
-      "sourceTitle": "Shipwreck Odyssey",
-      "titleZh": "沉船奥德赛",
-      "sourceSummary": "The whole family is invited to dive beneath the waves for a fantastical marine adventure from Box of Birds",
       "summaryZh": "",
       "translatedAt": "2026-10-16T14:54:38.900695Z",
       "provider": "MyMemory (free, best effort)"
@@ -413,68 +373,116 @@
       "translatedAt": "2026-10-16T14:54:38.900695Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-curtains-jazz-festival-2026-10-17": {
+    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-18": {
+      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
+      "titleZh": "艾未未，《蘑菇》， 2026年",
+      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
+      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-200th-anniversary-exhibitions-2026-10-18": {
+      "sourceTitle": "200th anniversary exhibitions",
+      "titleZh": "200周年纪念展览",
+      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-intertwined-2026-10-18": {
+      "sourceTitle": "Intertwined",
+      "titleZh": "交织在一起",
+      "sourceSummary": "Intertwined is an exhibition showcasing Sydney College of The Arts Alumni and Lecturers",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-shipwreck-odyssey-2026-10-18": {
+      "sourceTitle": "Shipwreck Odyssey",
+      "titleZh": "沉船奥德赛",
+      "sourceSummary": "The whole family is invited to dive beneath the waves for a fantastical marine adventure from Box of Birds",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curtains-jazz-festival-2026-10-18": {
       "sourceTitle": "Curtains Jazz Festival",
       "titleZh": "窗帘爵士音乐节",
       "sourceSummary": "Live Jazz at Curtains Jazz Club",
       "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-17": {
-      "sourceTitle": "23rd Annual National Paddo Painting Prize Exhibition",
-      "titleZh": "第23届全国水稻画奖展",
-      "sourceSummary": "23rd Annual National Acquisitive $30,000 Paddo Painting Prize Exhibition of Natioonal Finalists",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-addi-road-artists-exhibition-2026-10-17": {
-      "sourceTitle": "Addi Road Artists Exhibition",
-      "titleZh": "Addi Road艺术家展览",
-      "sourceSummary": "21 Addi Road Artists celebrating 50 years of the Addi Road Community Centre",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-17": {
-      "sourceTitle": "Alchemy of a Rainforest exhibition",
-      "titleZh": "热带雨林炼金术展览",
-      "sourceSummary": "Explore a vibrant tapestry of life",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-an-exhibition-of-new-artwork-2026-10-17": {
-      "sourceTitle": "An exhibition of new artwork",
-      "titleZh": "新艺术品展览",
-      "sourceSummary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-17": {
-      "sourceTitle": "Ancestor Spirits and In the Half Light",
-      "titleZh": "祖灵和半光之旅",
-      "sourceSummary": "Andy Ewing: Ancestor Spirits and Kirthana Selvaraj: In the Half Light",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-art-from-the-heart-of-the-cross-exhibition-2026-10-17": {
-      "sourceTitle": "Art from the Heart of the Cross Exhibition",
-      "titleZh": "十字架之心艺术展",
-      "sourceSummary": "An annual exhibition showcasing the diverse artistic talents of visitors to the Medically Supervised Injecting Centre",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-ceramic-art-festival-2026-10-17": {
+    "city-discovery-ceramic-art-festival-2026-10-24": {
       "sourceTitle": "Ceramic Art Festival",
       "titleZh": "陶瓷艺术节",
       "sourceSummary": "One Vessel, One Realm",
       "summaryZh": "",
-      "translatedAt": "2026-10-17T00:31:57.487595Z",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-11-07": {
+      "sourceTitle": "Makertime for families 8-12yrs",
+      "titleZh": "适合8-12岁家庭的Makertime",
+      "sourceSummary": "Gain practical creative makerspace skills and experience in this intergenerational 2-hour session",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-18": {
+      "sourceTitle": "23rd Annual National Paddo Painting Prize Exhibition",
+      "titleZh": "第23届全国水稻画奖展",
+      "sourceSummary": "23rd Annual National Acquisitive $30,000 Paddo Painting Prize Exhibition of Natioonal Finalists",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-addi-road-artists-exhibition-2026-10-18": {
+      "sourceTitle": "Addi Road Artists Exhibition",
+      "titleZh": "Addi Road艺术家展览",
+      "sourceSummary": "21 Addi Road Artists celebrating 50 years of the Addi Road Community Centre",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-18": {
+      "sourceTitle": "Alchemy of a Rainforest exhibition",
+      "titleZh": "热带雨林炼金术展览",
+      "sourceSummary": "Explore a vibrant tapestry of life",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-an-exhibition-of-new-artwork-2026-10-18": {
+      "sourceTitle": "An exhibition of new artwork",
+      "titleZh": "新艺术品展览",
+      "sourceSummary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-18": {
+      "sourceTitle": "Ancestor Spirits and In the Half Light",
+      "titleZh": "祖灵和半光之旅",
+      "sourceSummary": "Andy Ewing: Ancestor Spirits and Kirthana Selvaraj: In the Half Light",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-art-from-the-heart-of-the-cross-exhibition-2026-10-18": {
+      "sourceTitle": "Art from the Heart of the Cross Exhibition",
+      "titleZh": "十字架之心艺术展",
+      "sourceSummary": "An annual exhibition showcasing the diverse artistic talents of visitors to the Medically Supervised Injecting Centre",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-18": {
+      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "titleZh": "手工艺品：重新构想的木版画档案",
+      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T13:46:07.889539Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
