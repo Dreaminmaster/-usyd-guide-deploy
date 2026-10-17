@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-16T14:54:38.900695Z",
+  "updatedAt": "2026-10-17T00:31:57.487595Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
   "count": 59,
@@ -373,14 +373,6 @@
       "translatedAt": "2026-10-16T14:54:38.900695Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-17": {
-      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
-      "titleZh": "澳大利亚经验丰富的摄影展",
-      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
-      "summaryZh": "强大的职业形象集合和澳大利亚退伍军人的伴随故事。",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-nasa-space-apps-challenge-prep-and-team-formation-day-2026-11-07": {
       "sourceTitle": "NASA Space Apps Challenge Prep & Team Formation Day!",
       "titleZh": "NASA太空应用挑战准备和团队组建日！",
@@ -475,6 +467,14 @@
       "sourceSummary": "An annual exhibition showcasing the diverse artistic talents of visitors to the Medically Supervised Injecting Centre",
       "summaryZh": "",
       "translatedAt": "2026-10-16T14:54:38.900695Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ceramic-art-festival-2026-10-17": {
+      "sourceTitle": "Ceramic Art Festival",
+      "titleZh": "陶瓷艺术节",
+      "sourceSummary": "One Vessel, One Realm",
+      "summaryZh": "",
+      "translatedAt": "2026-10-17T00:31:57.487595Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
