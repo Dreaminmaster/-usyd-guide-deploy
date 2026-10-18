@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-18T00:05:05.247872Z",
+  "updatedAt": "2026-10-18T06:04:53.089722Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 66,
+  "count": 67,
   "entries": {
     "usyd-611dba06-07af-42f6-9eac-941916095672-2026-10-18": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 8",
@@ -531,6 +531,14 @@
       "sourceSummary": "It's our story to be told.",
       "summaryZh": "",
       "translatedAt": "2026-10-18T00:05:05.247872Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-unsw-peter-doherty-2026-10-27": {
+      "sourceTitle": "In conversation with Peter Doherty: Nobel laureate in Medicine",
+      "titleZh": "对话Peter Doherty ：诺贝尔医学奖获得者",
+      "sourceSummary": "Free public talk with 1996 Nobel Prize in Medicine laureate Peter Doherty, in conversation with journalist Natasha Mitchell, celebrating 40 years of the Kirby Institute.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T06:04:53.089722Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

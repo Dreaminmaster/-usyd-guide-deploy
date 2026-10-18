@@ -1,131 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-18T00:04:46.472086Z",
-  "sourceCheckedAt": "2026-10-18T00:05:05.070Z",
+  "checkedAt": "2026-10-18T06:04:51.225906Z",
+  "sourceCheckedAt": "2026-10-18T06:04:52.901Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-discovery-focus-on-ability-short-film-festival-red-carpet-event-2026-10-18",
-      "title": "Focus On Ability Short Film Festival - Red Carpet Event",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/focus-on-ability-short-film-festival-red-carpet-event",
+      "id": "gpt-unsw-peter-doherty-2026-10-27",
+      "title": "In conversation with Peter Doherty: Nobel laureate in Medicine",
+      "date": "2026-10-27",
+      "url": "https://www.events.unsw.edu.au/event/david-cooper-lecture-2026",
       "priority": "medium",
-      "detectedAt": "2026-10-18T00:04:46.472086Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-at-hay-st-2026-10-18",
-      "title": "Halloween at Hay St",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
-      "priority": "medium",
-      "detectedAt": "2026-10-18T00:04:46.472086Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-curtains-jazz-festival-2026-10-18",
-      "title": "Curtains Jazz Festival",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "differences": {
-        "time": {
-          "before": "17:00–02:00",
-          "after": "17:00–00:00"
-        }
-      },
-      "priority": "medium",
-      "detectedAt": "2026-10-18T00:04:46.472086Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-pickle-and-tuxie-ceramics-open-studio-2026-10-18",
-      "title": "Pickle and Tuxie Ceramics Open Studio",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pickle-and-tuxie-ceramics-open-studio",
-      "priority": "low",
-      "detectedAt": "2026-10-18T00:04:46.472086Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-natural-connections-a-group-show-2026-10-18",
-      "title": "'Natural Connections' – a group show",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/natural-connections-a-group-show",
-      "differences": {
-        "time": {
-          "before": "12:00–18:00",
-          "after": "00:00–16:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-18T00:04:46.472086Z"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-art-from-the-heart-of-the-cross-exhibition-2026-10-18",
-      "title": "Art from the Heart of the Cross Exhibition",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-from-the-heart-of-the-cross-exhibition",
-      "differences": {
-        "time": {
-          "before": "14:00–16:00",
-          "after": "10:00–16:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-18T00:04:46.472086Z"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-18",
-      "title": "Guided highlights tour: Anzac Memorial",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
-      "differences": {
-        "time": {
-          "before": "13:00–14:00",
-          "after": "10:00–11:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-18T00:04:46.472086Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-heffron-park-markets-2026-10-18",
-      "title": "Heffron Park Markets",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/heffron-park-markets",
-      "priority": "low",
-      "detectedAt": "2026-10-18T00:04:46.472086Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-marrickville-organic-food-market-2026-10-18",
-      "title": "Marrickville Organic Food Market",
-      "date": "2026-10-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/marrickville-organic-food-market",
-      "priority": "low",
-      "detectedAt": "2026-10-18T00:04:46.472086Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-aboriginal-harbour-heritage-tour-2026-10-22",
-      "title": "Aboriginal Harbour Heritage Tour",
-      "date": "2026-10-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
-      "priority": "low",
-      "detectedAt": "2026-10-18T00:04:46.472086Z",
+      "detectedAt": "2026-10-18T06:04:51.225906Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "gpt-unsw-peter-doherty-2026-10-27",
+      "title": "In conversation with Peter Doherty: Nobel laureate in Medicine",
+      "date": "2026-10-27",
+      "url": "https://www.events.unsw.edu.au/event/david-cooper-lecture-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-18T06:04:51.225906Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-discovery-focus-on-ability-short-film-festival-red-carpet-event-2026-10-18",
@@ -1234,22 +1134,12 @@
       "priority": "low",
       "detectedAt": "2026-10-15T00:33:40.109741Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-salsa-classes-in-moore-park-2026-10-15",
-      "title": "Free Salsa Classes in Surry Hills",
-      "date": "2026-10-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
-      "priority": "low",
-      "detectedAt": "2026-10-15T00:33:40.109741Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 6,
+    "new": 1,
     "newlyObserved": 0,
-    "updated": 4,
+    "updated": 0,
     "possibleReschedule": 0,
     "notObserved": 0
   },
