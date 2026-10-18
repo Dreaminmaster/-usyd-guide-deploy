@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-17T13:46:07.889539Z",
+  "updatedAt": "2026-10-18T00:05:05.247872Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 60,
+  "count": 66,
   "entries": {
     "usyd-611dba06-07af-42f6-9eac-941916095672-2026-10-18": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 8",
@@ -413,14 +413,6 @@
       "translatedAt": "2026-10-17T13:46:07.889539Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ceramic-art-festival-2026-10-24": {
-      "sourceTitle": "Ceramic Art Festival",
-      "titleZh": "陶瓷艺术节",
-      "sourceSummary": "One Vessel, One Realm",
-      "summaryZh": "",
-      "translatedAt": "2026-10-17T13:46:07.889539Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-11-07": {
       "sourceTitle": "Makertime for families 8-12yrs",
       "titleZh": "适合8-12岁家庭的Makertime",
@@ -483,6 +475,62 @@
       "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
       "summaryZh": "",
       "translatedAt": "2026-10-17T13:46:07.889539Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-focus-on-ability-short-film-festival-red-carpet-event-2026-10-18": {
+      "sourceTitle": "Focus On Ability Short Film Festival - Red Carpet Event",
+      "titleZh": "聚焦能力短片电影节-红地毯活动",
+      "sourceSummary": "Inclusive Filmmaking, sharing stories that challenge perceptions and celebrate the abilities of people with disability",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T00:05:05.247872Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-halloween-at-hay-st-2026-10-18": {
+      "sourceTitle": "Halloween at Hay St",
+      "titleZh": "干草街万圣节",
+      "sourceSummary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T00:05:05.247872Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-assembly-2026-10-18": {
+      "sourceTitle": "Assembly",
+      "titleZh": "汇编",
+      "sourceSummary": "An activated exhibition and retail event shaped by a curated cohort of contemporary makers working across craft and design",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T00:05:05.247872Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-18": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T00:05:05.247872Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-18": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T00:05:05.247872Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australiana-tours-free-sydney-history-walking-tour-2026-10-18": {
+      "sourceTitle": "Australiana Tours: Free Sydney History Walking Tour",
+      "titleZh": "澳大利亚之旅：免费悉尼历史漫步之旅",
+      "sourceSummary": "A narrative driven walking tour of Sydney's CBD for locals and tourists",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T00:05:05.247872Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-18": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-18T00:05:05.247872Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
