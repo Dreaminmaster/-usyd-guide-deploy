@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-18T14:03:05.579304Z",
+  "updatedAt": "2026-10-19T00:13:43.997826Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 59,
+  "count": 60,
   "entries": {
     "supra-263150-2026-10-20": {
       "sourceTitle": "Skilled migration pathways webinar",
@@ -373,14 +373,6 @@
       "translatedAt": "2026-10-18T14:03:05.579304Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-halloween-at-hay-st-2026-10-21": {
-      "sourceTitle": "Halloween at Hay St",
-      "titleZh": "干草街万圣节",
-      "sourceSummary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
-      "summaryZh": "万圣节接管干草街，享用令人毛骨悚然的美食、鸡尾酒、现场音乐、儿童乐趣、漫游僵尸等",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-19": {
       "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
       "titleZh": "澳大利亚经验丰富的摄影展",
@@ -475,6 +467,22 @@
       "sourceSummary": "It's our story to be told.",
       "summaryZh": "",
       "translatedAt": "2026-10-18T14:03:05.579304Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-surry-hills-library-2026-10-19": {
+      "sourceTitle": "Come and get techie at Surry Hills Library",
+      "titleZh": "快来萨里山图书馆找技术人员",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T00:13:43.997826Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-the-infinite-look-a-history-of-gazing-skyward-2026-10-19": {
+      "sourceTitle": "The Infinite Look: A History of Gazing Skyward",
+      "titleZh": "无限的外观：凝视天空的历史",
+      "sourceSummary": "An exhibition that traces humanity's evolving understanding of the cosmos, from ancient stargazers to modern astronomers",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T00:13:43.997826Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
