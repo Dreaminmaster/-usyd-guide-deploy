@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-19T00:13:43.997826Z",
+  "updatedAt": "2026-10-19T16:59:43.197733Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 60,
+  "count": 58,
   "entries": {
     "supra-263150-2026-10-20": {
       "sourceTitle": "Skilled migration pathways webinar",
@@ -106,14 +106,6 @@
       "titleZh": "技术批判：机器中的幽灵(2026) [MA15 +]",
       "sourceSummary": "See the critically acclaimed documentary about the AI industry at Waverley Library.",
       "summaryZh": "在Waverley图书馆观看广受好评的人工智能行业纪录片。",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-kxx-2026-10-19": {
-      "sourceTitle": "Come and get techie at Kings Cross Library",
-      "titleZh": "来国王十字图书馆找技术人员",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
-      "summaryZh": "",
       "translatedAt": "2026-10-13T10:53:16.644436Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -365,124 +357,116 @@
       "translatedAt": "2026-10-18T06:04:53.089722Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-19": {
+    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-20": {
       "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
       "titleZh": "艾未未，《蘑菇》， 2026年",
       "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
       "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-19": {
+    "city-discovery-architects-and-the-architectural-business-in-the-age-of-ai-2026-11-10": {
+      "sourceTitle": "Architects and the Architectural Business in the Age of AI",
+      "titleZh": "人工智能时代的建筑师和建筑业务",
+      "sourceSummary": "How will AI reshape architecture, architects and practice? Explore the opportunities, risks and challenges ahead.",
+      "summaryZh": "人工智能将如何重塑架构、建筑师和实践？探索未来的机遇、风险和挑战。",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-the-future-of-libraries-in-the-age-of-ai-2026-11-10": {
+      "sourceTitle": "The future of libraries in the age of AI",
+      "titleZh": "人工智能时代图书馆的未来",
+      "sourceSummary": "Discover why public libraries matter more than ever as AI and digital technologies reshape their role.",
+      "summaryZh": "探索为什么随着人工智能和数字技术重塑公共图书馆的角色，公共图书馆比以往任何时候都更重要。",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-halloween-at-south-eveleigh-2026-10-20": {
+      "sourceTitle": "Halloween at South Eveleigh",
+      "titleZh": "南伊夫利万圣节体验",
+      "sourceSummary": "Step through the looking glass and into a month of Halloween magic at South Eveleigh! 🎃",
+      "summaryZh": "穿过镜子，进入South Eveleigh的万圣节魔法之旅！ 🎃",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-20": {
       "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
       "titleZh": "澳大利亚经验丰富的摄影展",
       "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
-      "summaryZh": "强大的职业形象集合和澳大利亚退伍军人的伴随故事。",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-200th-anniversary-exhibitions-2026-10-19": {
+    "city-discovery-200th-anniversary-exhibitions-2026-10-20": {
       "sourceTitle": "200th anniversary exhibitions",
       "titleZh": "200周年纪念展览",
       "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
       "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-curtains-jazz-festival-2026-10-19": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "窗帘爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-19": {
-      "sourceTitle": "23rd Annual National Paddo Painting Prize Exhibition",
-      "titleZh": "第23届全国水稻画奖展",
-      "sourceSummary": "23rd Annual National Acquisitive $30,000 Paddo Painting Prize Exhibition of Natioonal Finalists",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-addi-road-artists-exhibition-2026-10-19": {
-      "sourceTitle": "Addi Road Artists Exhibition",
-      "titleZh": "Addi Road艺术家展览",
-      "sourceSummary": "21 Addi Road Artists celebrating 50 years of the Addi Road Community Centre",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-19": {
-      "sourceTitle": "Alchemy of a Rainforest exhibition",
-      "titleZh": "热带雨林炼金术展览",
-      "sourceSummary": "Explore a vibrant tapestry of life",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-an-exhibition-of-new-artwork-2026-10-19": {
-      "sourceTitle": "An exhibition of new artwork",
-      "titleZh": "新艺术品展览",
-      "sourceSummary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-art-from-the-heart-of-the-cross-exhibition-2026-10-19": {
-      "sourceTitle": "Art from the Heart of the Cross Exhibition",
-      "titleZh": "十字架之心艺术展",
-      "sourceSummary": "An annual exhibition showcasing the diverse artistic talents of visitors to the Medically Supervised Injecting Centre",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-19": {
-      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
-      "titleZh": "手工艺品：重新构想的木版画档案",
-      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-aussies-peter-drew-2026-10-19": {
-      "sourceTitle": "AUSSIES Peter Drew",
-      "titleZh": "澳大利亚人Peter Drew",
-      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-19": {
-      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
-      "titleZh": "年度澳大利亚地理自然摄影师",
-      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-19": {
-      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
-      "titleZh": "Barani/Barrabugu （昨天/明天）",
-      "sourceSummary": "It's our story to be told.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T14:03:05.579304Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-surry-hills-library-2026-10-19": {
-      "sourceTitle": "Come and get techie at Surry Hills Library",
-      "titleZh": "快来萨里山图书馆找技术人员",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
-      "summaryZh": "",
-      "translatedAt": "2026-10-19T00:13:43.997826Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-the-infinite-look-a-history-of-gazing-skyward-2026-10-19": {
+    "city-discovery-the-infinite-look-a-history-of-gazing-skyward-2026-10-20": {
       "sourceTitle": "The Infinite Look: A History of Gazing Skyward",
       "titleZh": "无限的外观：凝视天空的历史",
       "sourceSummary": "An exhibition that traces humanity's evolving understanding of the cosmos, from ancient stargazers to modern astronomers",
       "summaryZh": "",
-      "translatedAt": "2026-10-19T00:13:43.997826Z",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-kxx-2026-10-26": {
+      "sourceTitle": "Come and get techie at Kings Cross Library",
+      "titleZh": "来国王十字图书馆找技术人员",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-surry-hills-library-2026-10-26": {
+      "sourceTitle": "Come and get techie at Surry Hills Library",
+      "titleZh": "快来萨里山图书馆找技术人员",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curtains-jazz-festival-2026-10-20": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "窗帘爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-39920567-2fe5-4739-8778-cab11be57ebf-2026-10-27": {
+      "sourceTitle": "Carillon Recital and Free Tour",
+      "titleZh": "Carillon独奏会和免费之旅",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-263130-2026-11-10": {
+      "sourceTitle": "Migration webinar for 485 visa applicants",
+      "titleZh": "面向485签证申请人的移民网络研讨会",
+      "sourceSummary": "Tuesday 10 November 2026 10am–midday Zoom Need help preparing your 485 visa application? Join SUPRA Legal Service for a practical session covering what you need, how to prepare, and answers to common questions about 485 visas. Each section includes a short Q&A",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-20": {
+      "sourceTitle": "23rd Annual National Paddo Painting Prize Exhibition",
+      "titleZh": "第23届全国水稻画奖展",
+      "sourceSummary": "23rd Annual National Acquisitive $30,000 Paddo Painting Prize Exhibition of Natioonal Finalists",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-addi-road-artists-exhibition-2026-10-20": {
+      "sourceTitle": "Addi Road Artists Exhibition",
+      "titleZh": "Addi Road艺术家展览",
+      "sourceSummary": "21 Addi Road Artists celebrating 50 years of the Addi Road Community Centre",
+      "summaryZh": "",
+      "translatedAt": "2026-10-19T16:59:43.197733Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
