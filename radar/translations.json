@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-19T16:59:43.197733Z",
+  "updatedAt": "2026-10-20T01:06:45.419036Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 58,
+  "count": 69,
   "entries": {
     "supra-263150-2026-10-20": {
       "sourceTitle": "Skilled migration pathways webinar",
@@ -389,14 +389,6 @@
       "translatedAt": "2026-10-19T16:59:43.197733Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-20": {
-      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
-      "titleZh": "澳大利亚经验丰富的摄影展",
-      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-19T16:59:43.197733Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-200th-anniversary-exhibitions-2026-10-20": {
       "sourceTitle": "200th anniversary exhibitions",
       "titleZh": "200周年纪念展览",
@@ -405,25 +397,9 @@
       "translatedAt": "2026-10-19T16:59:43.197733Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-the-infinite-look-a-history-of-gazing-skyward-2026-10-20": {
-      "sourceTitle": "The Infinite Look: A History of Gazing Skyward",
-      "titleZh": "无限的外观：凝视天空的历史",
-      "sourceSummary": "An exhibition that traces humanity's evolving understanding of the cosmos, from ancient stargazers to modern astronomers",
-      "summaryZh": "",
-      "translatedAt": "2026-10-19T16:59:43.197733Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-come-and-get-techie-kxx-2026-10-26": {
       "sourceTitle": "Come and get techie at Kings Cross Library",
       "titleZh": "来国王十字图书馆找技术人员",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
-      "summaryZh": "",
-      "translatedAt": "2026-10-19T16:59:43.197733Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-surry-hills-library-2026-10-26": {
-      "sourceTitle": "Come and get techie at Surry Hills Library",
-      "titleZh": "快来萨里山图书馆找技术人员",
       "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
       "summaryZh": "",
       "translatedAt": "2026-10-19T16:59:43.197733Z",
@@ -467,6 +443,118 @@
       "sourceSummary": "21 Addi Road Artists celebrating 50 years of the Addi Road Community Centre",
       "summaryZh": "",
       "translatedAt": "2026-10-19T16:59:43.197733Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-how-to-use-ai-to-create-content-that-actually-wins-clients-2026-10-20": {
+      "sourceTitle": "How to use AI to create content that actually wins clients",
+      "titleZh": "如何使用人工智能创建真正赢得客户的内容",
+      "sourceSummary": "Master AI content creation with copywriter expert. Learn to build trust and win clients as an agent, broker or adviser.",
+      "summaryZh": "与文案专家一起掌握人工智能内容创作。作为代理商、经纪人或顾问，学习如何建立信任并赢得客户。",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-sydney-ai-circle-networking-and-project-pitches-2026-10-24": {
+      "sourceTitle": "Sydney AI Circle: Networking & Project Pitches",
+      "titleZh": "悉尼人工智能圈：网络与项目推介",
+      "sourceSummary": "Meet local AI enthusiasts, exchange ideas and discover projects at a relaxed networking evening in South Eveleigh.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-first-nations-employment-support-2026-10-20": {
+      "sourceTitle": "First Nations employment support",
+      "titleZh": "原住民就业支持",
+      "sourceSummary": "Employment support for Mob",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-public-lecture-afghanistan-australias-longest-war-2026-11-07": {
+      "sourceTitle": "Public Lecture - Afghanistan: Australia's Longest War",
+      "titleZh": "公开讲座-阿富汗：澳大利亚最长的战争",
+      "sourceSummary": "A Public Lecture by Dr Rhys Crawley for the Military History Society of New South Wales",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-10-20": {
+      "sourceTitle": "Abstract Synergies: Kevin White & Sergei Shatrov",
+      "titleZh": "摘要协同效应： Kevin White和Sergei Shatrov",
+      "sourceSummary": "Duo Exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-20": {
+      "sourceTitle": "Alchemy of a Rainforest exhibition",
+      "titleZh": "热带雨林炼金术展览",
+      "sourceSummary": "Explore a vibrant tapestry of life",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-an-exhibition-of-new-artwork-2026-10-20": {
+      "sourceTitle": "An exhibition of new artwork",
+      "titleZh": "新艺术品展览",
+      "sourceSummary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-20": {
+      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "titleZh": "手工艺品：重新构想的木版画档案",
+      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-20": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-20": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-20": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-20": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-feathered-friends-2026-10-20": {
+      "sourceTitle": "Journey: BirdLife Australia Bird Week Exhibition",
+      "titleZh": "旅程：澳大利亚鸟类生活鸟类周展览",
+      "sourceSummary": "Explore, discover & be inspired!",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-bike-tune-ups-observatory-hill-2026-10-20": {
+      "sourceTitle": "Free bike tune ups - Millers Point",
+      "titleZh": "免费自行车调整-米勒斯角（ Millers Point ）",
+      "sourceSummary": "We talk to people walking and riding about respecting each other’s journey, and sharing spaces courteously",
+      "summaryZh": "",
+      "translatedAt": "2026-10-20T01:06:45.419036Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
