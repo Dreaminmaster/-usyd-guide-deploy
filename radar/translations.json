@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-20T15:08:51.784191Z",
+  "updatedAt": "2026-10-21T00:39:55.883440Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 59,
+  "count": 65,
   "entries": {
     "usyd-c823b4ae-4609-49c5-bc6e-f5d0c7346153-2026-10-25": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 9",
@@ -429,14 +429,6 @@
       "translatedAt": "2026-10-20T15:08:51.784191Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-first-nations-employment-support-2026-10-27": {
-      "sourceTitle": "First Nations employment support",
-      "titleZh": "原住民就业支持",
-      "sourceSummary": "Employment support for Mob",
-      "summaryZh": "",
-      "translatedAt": "2026-10-20T15:08:51.784191Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-curtains-jazz-festival-2026-10-21": {
       "sourceTitle": "Curtains Jazz Festival",
       "titleZh": "窗帘爵士音乐节",
@@ -475,6 +467,62 @@
       "sourceSummary": "Explore a vibrant tapestry of life",
       "summaryZh": "",
       "translatedAt": "2026-10-20T15:08:51.784191Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-halloween-at-hay-st-2026-10-21": {
+      "sourceTitle": "Halloween at Hay St",
+      "titleZh": "干草街万圣节",
+      "sourceSummary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
+      "summaryZh": "",
+      "translatedAt": "2026-10-21T00:39:55.883440Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-an-exhibition-of-new-artwork-2026-10-21": {
+      "sourceTitle": "An exhibition of new artwork",
+      "titleZh": "新艺术品展览",
+      "sourceSummary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
+      "summaryZh": "",
+      "translatedAt": "2026-10-21T00:39:55.883440Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-21": {
+      "sourceTitle": "Ancestor Spirits and In the Half Light",
+      "titleZh": "祖灵和半光之旅",
+      "sourceSummary": "Andy Ewing: Ancestor Spirits and Kirthana Selvaraj: In the Half Light",
+      "summaryZh": "",
+      "translatedAt": "2026-10-21T00:39:55.883440Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-21": {
+      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "titleZh": "手工艺品：重新构想的木版画档案",
+      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "summaryZh": "",
+      "translatedAt": "2026-10-21T00:39:55.883440Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-21": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-21T00:39:55.883440Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-21": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-21T00:39:55.883440Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-21": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-21T00:39:55.883440Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

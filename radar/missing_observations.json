@@ -1,1 +1,58 @@
-{}
+{
+  "city-discovery-journey-a-bird-week-exhibition-2026-10-21": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "Journey – A Bird Week Exhibition",
+    "date": "2026-10-21",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/journey-a-bird-week-exhibition"
+  },
+  "city-discovery-free-bike-tune-ups-observatory-hill-2026-10-22": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "Free bike tune ups - Millers Point",
+    "date": "2026-10-22",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-ups-observatory-hill"
+  },
+  "city-aboriginal-harbour-heritage-tour-2026-10-22": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "Aboriginal Harbour Heritage Tour",
+    "date": "2026-10-22",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour"
+  },
+  "city-discovery-first-nations-employment-support-2026-10-27": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "First Nations employment support",
+    "date": "2026-10-27",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/first-nations-employment-support"
+  },
+  "city-discovery-vivid-bloom-at-market-city-2026-10-27": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "FREE Tai Chi Tuesdays at Market City",
+    "date": "2026-10-27",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-city"
+  },
+  "city-discovery-social-dance-in-ultimo-community-centre-2026-10-27": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "Fun social dance",
+    "date": "2026-10-27",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre"
+  },
+  "city-discovery-learn-to-read-music-and-sing-2026-10-27": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "Learn to read music and sing",
+    "date": "2026-10-27",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing"
+  },
+  "city-discovery-musical-bingo-and-usd1-dogs-2026-10-27": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-21T00:39:36.863483Z",
+    "title": "Musical bingo and $1 dogs",
+    "date": "2026-10-27",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs"
+  }
+}
