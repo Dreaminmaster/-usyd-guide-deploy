@@ -1,9 +1,16 @@
 {
-  "usu-screamfest-halloween-festival-2026-10-31": {
+  "usyd-02174548-c668-4d75-8aca-b08038f80e29-2026-10-23": {
     "observations": 1,
-    "firstMissingAt": "2026-10-22T00:42:29.285582Z",
-    "title": "Discounted tickets to Screamfest Halloween Festival",
-    "date": "2026-10-31",
-    "url": "https://usu.edu.au/events/screamfest-halloween-festival"
+    "firstMissingAt": "2026-10-22T15:19:46.538196Z",
+    "title": "Jazz Bar at Parramatta Lanes · 第3天",
+    "date": "2026-10-23",
+    "url": "https://whatson.sydney.edu.au/event/02174548-c668-4d75-8aca-b08038f80e29/Jazz-Bar-at-Parramatta-Lanes"
+  },
+  "usyd-02174548-c668-4d75-8aca-b08038f80e29-2026-10-24": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-22T15:19:46.538196Z",
+    "title": "Jazz Bar at Parramatta Lanes · 第4天",
+    "date": "2026-10-24",
+    "url": "https://whatson.sydney.edu.au/event/02174548-c668-4d75-8aca-b08038f80e29/Jazz-Bar-at-Parramatta-Lanes"
   }
 }
