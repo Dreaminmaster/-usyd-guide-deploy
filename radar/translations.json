@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-23T00:42:50.497354Z",
+  "updatedAt": "2026-10-23T15:09:15.896905Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 65,
+  "count": 57,
   "entries": {
     "usyd-c823b4ae-4609-49c5-bc6e-f5d0c7346153-2026-10-25": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 9",
@@ -107,14 +107,6 @@
       "sourceSummary": "Dr Rajagopalan, Resident Senior Fellow, ASPI, presents a lecture on Global Nuclear Security and India's Nuclear Program",
       "summaryZh": "",
       "translatedAt": "2026-10-13T10:55:20.029571Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "gpt-aicamp-neo4j-aws-graph-rag-2026-10-23": {
-      "sourceTitle": "[Sydney] AI Workshop with Neo4j and AWS - knowledge graphs",
-      "titleZh": "[悉尼] Neo4j和AWS人工智能研讨会-知识图谱",
-      "sourceSummary": "Hands-on AI development workshop focused on Neo4j on AWS, Amazon Bedrock, GraphRAG, and agent patterns. Registration is required; venue and admission approval should be reconfirmed.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:58:53.861559Z",
       "provider": "MyMemory (free, best effort)"
     },
     "gpt-vibe-thursday-ai-chatswood-2026-10-29": {
@@ -261,14 +253,6 @@
       "translatedAt": "2026-10-20T01:06:45.419036Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-alana-hunt-to-the-owner-2026-10-23": {
-      "sourceTitle": "Alana Hunt: To the Owner",
-      "titleZh": "Alana Hunt ：致业主",
-      "sourceSummary": "To the Owner is Alana Hunt's first institutional solo exhibition in Gadigal Nura/Sydney.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-20T15:08:51.784191Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-come-and-get-techie-customs-house-2026-10-27": {
       "sourceTitle": "Come and get techie: Customs House Library",
       "titleZh": "快来获取技术人员：海关图书馆",
@@ -341,30 +325,6 @@
       "translatedAt": "2026-10-21T15:19:20.124172Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-23": {
-      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
-      "titleZh": "艾未未，《蘑菇》， 2026年",
-      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
-      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-halloween-at-south-eveleigh-2026-10-23": {
-      "sourceTitle": "Halloween at South Eveleigh",
-      "titleZh": "南伊夫利万圣节体验",
-      "sourceSummary": "Step through the looking glass and into a month of Halloween magic at South Eveleigh! 🎃",
-      "summaryZh": "穿过镜子，进入South Eveleigh的万圣节魔法之旅！ 🎃",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-200th-anniversary-exhibitions-2026-10-23": {
-      "sourceTitle": "200th anniversary exhibitions",
-      "titleZh": "200周年纪念展览",
-      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-titanic-a-voyage-through-time-2026-10-28": {
       "sourceTitle": "Titanic: A Voyage Through Time",
       "titleZh": "泰坦尼克号：时间之旅",
@@ -389,140 +349,116 @@
       "translatedAt": "2026-10-22T15:20:08.319358Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-curtains-jazz-festival-2026-10-23": {
+    "city-discovery-ai-weiwei-mushrooms-2026-2026-10-24": {
+      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
+      "titleZh": "艾未未，《蘑菇》， 2026年",
+      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
+      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-halloween-at-south-eveleigh-2026-10-24": {
+      "sourceTitle": "Halloween at South Eveleigh",
+      "titleZh": "南伊夫利万圣节体验",
+      "sourceSummary": "Step through the looking glass and into a month of Halloween magic at South Eveleigh! 🎃",
+      "summaryZh": "穿过镜子，进入South Eveleigh的万圣节魔法之旅！ 🎃",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-glitter-and-lashes-at-kryolan-2026-10-24": {
+      "sourceTitle": "Glitter and Lashes at Kryolan",
+      "titleZh": "Kryolan的闪光和睫毛",
+      "sourceSummary": "Glitter and Lash Bar to get you disco ready, and live bodypainting demos in store!",
+      "summaryZh": "Glitter和Lash Bar让您为迪斯科做好准备，现场人体彩绘演示正在商店中！",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-24": {
+      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
+      "titleZh": "澳大利亚经验丰富的摄影展",
+      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-200th-anniversary-exhibitions-2026-10-24": {
+      "sourceTitle": "200th anniversary exhibitions",
+      "titleZh": "200周年纪念展览",
+      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alana-hunt-to-the-owner-2026-10-27": {
+      "sourceTitle": "Alana Hunt: To the Owner",
+      "titleZh": "Alana Hunt ：致业主",
+      "sourceSummary": "To the Owner is Alana Hunt's first institutional solo exhibition in Gadigal Nura/Sydney.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curtains-jazz-festival-2026-10-24": {
       "sourceTitle": "Curtains Jazz Festival",
       "titleZh": "窗帘爵士音乐节",
       "sourceSummary": "Live Jazz at Curtains Jazz Club",
       "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-23": {
+    "city-discovery-23rd-annual-national-paddo-painting-prize-exhibition-2026-10-24": {
       "sourceTitle": "23rd Annual National Paddo Painting Prize Exhibition",
       "titleZh": "第23届全国水稻画奖展",
       "sourceSummary": "23rd Annual National Acquisitive $30,000 Paddo Painting Prize Exhibition of Natioonal Finalists",
       "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-10-23": {
+    "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-10-24": {
       "sourceTitle": "Abstract Synergies: Kevin White & Sergei Shatrov",
       "titleZh": "摘要协同效应： Kevin White和Sergei Shatrov",
       "sourceSummary": "Duo Exhibition",
       "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-23": {
-      "sourceTitle": "Alchemy of a Rainforest exhibition",
-      "titleZh": "热带雨林炼金术展览",
-      "sourceSummary": "Explore a vibrant tapestry of life",
-      "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-an-exhibition-of-new-artwork-2026-10-23": {
+    "city-discovery-an-exhibition-of-new-artwork-2026-10-24": {
       "sourceTitle": "An exhibition of new artwork",
       "titleZh": "新艺术品展览",
       "sourceSummary": "In their ninth exhibition together, Sarah Gibson, Janet Kossy, Fran Munro, Penny Ryan and Sue Young show new artworks",
       "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-23": {
+    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-24": {
       "sourceTitle": "Ancestor Spirits and In the Half Light",
       "titleZh": "祖灵和半光之旅",
       "sourceSummary": "Andy Ewing: Ancestor Spirits and Kirthana Selvaraj: In the Half Light",
       "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-anzaab-sydney-rare-book-fair-2026-10-23": {
-      "sourceTitle": "2026 Sydney Rare Book Fair",
-      "titleZh": "2026年悉尼稀有书展",
-      "sourceSummary": "Free entry. Rare books, maps, prints & ephemera for sale. The Glasshouse, State Library NSW. 22–24 October 2026.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-halloween-trivia-night-2026-10-23": {
-      "sourceTitle": "Halloween drag trivia hosted by Zephyr",
-      "titleZh": "Zephyr主持的万圣节变装琐事",
-      "sourceSummary": "Come to a night of fun, fangs and frivolity as we test your knowledge on all things horror and Halloween",
-      "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-glitter-and-lashes-at-kryolan-2026-10-23": {
-      "sourceTitle": "Glitter and Lashes at Kryolan",
-      "titleZh": "Kryolan的闪光和睫毛",
-      "sourceSummary": "Glitter and Lash Bar to get you disco ready, and live bodypainting demos in store!",
-      "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-art-and-about-opening-night-2026-10-23": {
-      "sourceTitle": "Art & About opening night",
-      "titleZh": "艺术与关于开幕之夜",
-      "sourceSummary": "Join us to kick of Art & About 2026",
-      "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-art-and-about-pop-up-performances-at-oxford-square-2026-10-23": {
+    "city-discovery-art-and-about-pop-up-performances-at-oxford-square-2026-10-24": {
       "sourceTitle": "Art & About pop-up performances at Oxford Square",
       "titleZh": "牛津广场艺术与快闪表演",
       "sourceSummary": "Vibrant beats, captivating performers and immersive art – all set against the historic backdrop of the Canopy Fountain",
       "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-art-mania-geoffrey-bardon-and-the-painting-men-of-papunya-2026-10-23": {
-      "sourceTitle": "Art Mania: Geoffrey Bardon and the Painting Men of Papunya",
-      "titleZh": "艺术狂热：杰弗里·巴登和帕普尼亚的绘画人",
-      "sourceSummary": "Discover Kitty Hauser’s compelling biography of the young teacher who, through his involvement with Aboriginal artists",
-      "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-23": {
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-24": {
       "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
       "titleZh": "手工艺品：重新构想的木版画档案",
       "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
       "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-aussies-peter-drew-2026-10-23": {
+    "city-discovery-aussies-peter-drew-2026-10-24": {
       "sourceTitle": "AUSSIES Peter Drew",
       "titleZh": "澳大利亚人Peter Drew",
       "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
       "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-23": {
-      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
-      "titleZh": "年度澳大利亚地理自然摄影师",
-      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
-      "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-23": {
-      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
-      "titleZh": "Barani/Barrabugu （昨天/明天）",
-      "sourceSummary": "It's our story to be told.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-bavaria-by-loose-canon-arts-2026-10-23": {
-      "sourceTitle": "Bavaria by Loose Canon Arts",
-      "titleZh": "巴伐利亚散装佳能艺术之旅",
-      "sourceSummary": "A camp cabaret retelling of Bluebeard filled with opera, comedy, spoken word and revenge.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "translatedAt": "2026-10-23T15:09:15.896905Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

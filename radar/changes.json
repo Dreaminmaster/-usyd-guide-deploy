@@ -1,216 +1,337 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-23T00:42:32.628491Z",
-  "sourceCheckedAt": "2026-10-23T00:42:49.156Z",
+  "checkedAt": "2026-10-23T15:08:56.833214Z",
+  "sourceCheckedAt": "2026-10-23T15:09:15.646Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-discovery-halloween-trivia-night-2026-10-23",
-      "title": "Halloween drag trivia hosted by Zephyr",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-trivia-night",
+      "id": "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-24",
+      "title": "Point & Shoot Australian Veteran Photography Exhibition",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
       "priority": "medium",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-discovery-glitter-and-lashes-at-kryolan-2026-10-23",
-      "title": "Glitter and Lashes at Kryolan",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/glitter-and-lashes-at-kryolan",
+      "id": "city-discovery-lorrie-graham-photojournalist-2026-10-24",
+      "title": "Lorrie Graham: Photojournalist",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lorrie-graham-photojournalist",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-luminous-passage-by-thi-nguyen-with-alana-fairchild-2026-10-24",
+      "title": "Luminous Passage by Thi Nguyen with Alana Fairchild",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/luminous-passage-by-thi-nguyen-with-alana-fairchild",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-margaret-olley-australian-intimiste-2026-10-24",
+      "title": "Margaret Olley: Australian Intimiste",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/margaret-olley-australian-intimiste",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-24",
+      "title": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/navy-125-commemorating-125-years-of-australias-navy",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ockerfest-2026-2026-10-24",
+      "title": "Ockerfest 2026",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ockerfest-2026",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-oxford-hotel-taylor-square-djs-and-entertainment-2026-10-24",
+      "title": "Oxford Hotel: Taylor Square DJs & entertainment",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/oxford-hotel-taylor-square-djs-and-entertainment",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-pearling-elders-2026-10-24",
+      "title": "Pearling Elders",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-lids-sorting-session-2026-10-24",
+      "title": "Recycling and lids sorting volunteer session",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lids-sorting-session",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-remy-faint-a-site-of-unfolding-2026-10-24",
+      "title": "Remy Faint: A Site of Unfolding",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/remy-faint-a-site-of-unfolding",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ripples-of-connection-by-bindi-bindi-art-2026-10-24",
+      "title": "Ripples of Connection by Bindi Bindi Art",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ripples-of-connection-by-bindi-bindi-art",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ok-ok-ok-2026-10-26",
+      "title": "OK? Ok, ok…",
+      "date": "2026-10-26",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-discovery-alana-hunt-to-the-owner-2026-10-27",
+      "title": "Alana Hunt: To the Owner",
+      "oldDate": "2026-10-23",
+      "date": "2026-10-27",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
       "priority": "medium",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
     },
     {
-      "kind": "updated",
-      "id": "city-discovery-200th-anniversary-exhibitions-2026-10-23",
-      "title": "200th anniversary exhibitions",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/200th-anniversary-exhibitions",
-      "differences": {
-        "time": {
-          "before": "09:00–20:00",
-          "after": "09:00–17:00"
-        }
-      },
-      "priority": "medium",
-      "detectedAt": "2026-10-23T00:42:32.628491Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-art-and-about-opening-night-2026-10-23",
-      "title": "Art & About opening night",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-about-opening-night",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-reginald-murphy-community-centre-open-day-2026-10-23",
-      "title": "Reginald Murphy Community Centre open day",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/reginald-murphy-community-centre-open-day",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-anzaab-sydney-rare-book-fair-2026-10-23",
-      "title": "2026 Sydney Rare Book Fair",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/anzaab-sydney-rare-book-fair",
-      "differences": {
-        "time": {
-          "before": "10:00–17:00",
-          "after": "10:00–16:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-art-and-about-pop-up-performances-at-oxford-square-2026-10-23",
-      "title": "Art & About pop-up performances at Oxford Square",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-about-pop-up-performances-at-oxford-square",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-definitive-dupain-2026-10-23",
-      "title": "Definitive Dupain",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/definitive-dupain",
-      "differences": {
-        "time": {
-          "before": "09:00–20:00",
-          "after": "09:00–17:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-art-mania-geoffrey-bardon-and-the-painting-men-of-papunya-2026-10-23",
-      "title": "Art Mania: Geoffrey Bardon and the Painting Men of Papunya",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-mania-geoffrey-bardon-and-the-painting-men-of-papunya",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-bavaria-by-loose-canon-arts-2026-10-23",
-      "title": "Bavaria by Loose Canon Arts",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bavaria-by-loose-canon-arts",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-chapel-row-jazz-2026-10-23",
+      "kind": "possible_reschedule",
+      "id": "city-discovery-chapel-row-jazz-2026-10-30",
       "title": "Chapel Row Jazz",
-      "date": "2026-10-23",
+      "oldDate": "2026-10-23",
+      "date": "2026-10-30",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/chapel-row-jazz",
       "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
     },
     {
-      "kind": "new",
-      "id": "city-discovery-crazing-by-escape-artists-2026-10-23",
-      "title": "Crazing by Escape Artists",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/crazing-by-escape-artists",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-disco-never-dies-by-dancekool-2026-10-23",
-      "title": "Disco Never Dies by Dancekool",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/disco-never-dies-by-dancekool",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-fridays-r-and-b-at-hay-st-2026-10-23",
+      "kind": "possible_reschedule",
+      "id": "city-discovery-fridays-r-and-b-at-hay-st-2026-10-30",
       "title": "Fridays R&B at Hay St",
-      "date": "2026-10-23",
+      "oldDate": "2026-10-23",
+      "date": "2026-10-30",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/fridays-r-and-b-at-hay-st",
       "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
     },
     {
       "kind": "new",
-      "id": "city-discovery-fuxico-by-keila-terencio-2026-10-23",
-      "title": "Fuxico by Keila Terencio",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/fuxico-by-keila-terencio",
+      "id": "usyd-869963cd-67ca-4dfa-ac06-2d465b7c699e-2026-12-13",
+      "title": "Sunday Free Carillon Recital",
+      "date": "2026-12-13",
+      "url": "https://whatson.sydney.edu.au/event/869963cd-67ca-4dfa-ac06-2d465b7c699e/Sunday-Free-Carillon-Recital",
       "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-g-is-for-growth-2026-10-23",
-      "title": "G is for Growth",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/g-is-for-growth",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-23",
-      "title": "Guided highlights tour: Anzac Memorial",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-hard-times-require-furious-dancing-by-ian-thomas-2026-10-23",
-      "title": "Hard Times Require Furious Dancing by Ian Thomas",
-      "date": "2026-10-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/hard-times-require-furious-dancing-by-ian-thomas",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-f522bb3b-341f-415d-a978-3e9ceccd20d0-2026-10-27",
-      "title": "Investigations of Medicines for Addiction Treatment (MAT) with Harm Reduction and Housing First as a Strategy for Treating Unhoused People in Los Angeles County",
-      "date": "2026-10-27",
-      "url": "https://whatson.sydney.edu.au/event/f522bb3b-341f-415d-a978-3e9ceccd20d0/Investigations-of-Medicines-for-Addiction-Treatment-(MAT)-with-Harm-Reduction-and-Housing-First-as-a-Strategy-for-Treating-Unhouse",
-      "priority": "low",
-      "detectedAt": "2026-10-23T00:42:32.628491Z",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-24",
+      "title": "Point & Shoot Australian Veteran Photography Exhibition",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
+      "priority": "medium",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-lorrie-graham-photojournalist-2026-10-24",
+      "title": "Lorrie Graham: Photojournalist",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lorrie-graham-photojournalist",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-luminous-passage-by-thi-nguyen-with-alana-fairchild-2026-10-24",
+      "title": "Luminous Passage by Thi Nguyen with Alana Fairchild",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/luminous-passage-by-thi-nguyen-with-alana-fairchild",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-margaret-olley-australian-intimiste-2026-10-24",
+      "title": "Margaret Olley: Australian Intimiste",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/margaret-olley-australian-intimiste",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-24",
+      "title": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/navy-125-commemorating-125-years-of-australias-navy",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ockerfest-2026-2026-10-24",
+      "title": "Ockerfest 2026",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ockerfest-2026",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-oxford-hotel-taylor-square-djs-and-entertainment-2026-10-24",
+      "title": "Oxford Hotel: Taylor Square DJs & entertainment",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/oxford-hotel-taylor-square-djs-and-entertainment",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-pearling-elders-2026-10-24",
+      "title": "Pearling Elders",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-lids-sorting-session-2026-10-24",
+      "title": "Recycling and lids sorting volunteer session",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lids-sorting-session",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-remy-faint-a-site-of-unfolding-2026-10-24",
+      "title": "Remy Faint: A Site of Unfolding",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/remy-faint-a-site-of-unfolding",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ripples-of-connection-by-bindi-bindi-art-2026-10-24",
+      "title": "Ripples of Connection by Bindi Bindi Art",
+      "date": "2026-10-24",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ripples-of-connection-by-bindi-bindi-art",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ok-ok-ok-2026-10-26",
+      "title": "OK? Ok, ok…",
+      "date": "2026-10-26",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-discovery-alana-hunt-to-the-owner-2026-10-27",
+      "title": "Alana Hunt: To the Owner",
+      "oldDate": "2026-10-23",
+      "date": "2026-10-27",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
+      "priority": "medium",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-discovery-chapel-row-jazz-2026-10-30",
+      "title": "Chapel Row Jazz",
+      "oldDate": "2026-10-23",
+      "date": "2026-10-30",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/chapel-row-jazz",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-discovery-fridays-r-and-b-at-hay-st-2026-10-30",
+      "title": "Fridays R&B at Hay St",
+      "oldDate": "2026-10-23",
+      "date": "2026-10-30",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/fridays-r-and-b-at-hay-st",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "new",
+      "id": "usyd-869963cd-67ca-4dfa-ac06-2d465b7c699e-2026-12-13",
+      "title": "Sunday Free Carillon Recital",
+      "date": "2026-12-13",
+      "url": "https://whatson.sydney.edu.au/event/869963cd-67ca-4dfa-ac06-2d465b7c699e/Sunday-Free-Carillon-Recital",
+      "priority": "low",
+      "detectedAt": "2026-10-23T15:08:56.833214Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-discovery-halloween-trivia-night-2026-10-23",
@@ -1097,183 +1218,13 @@
       "priority": "low",
       "detectedAt": "2026-10-20T15:08:30.216698Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-0c76154d-ba3e-4daa-af2f-a3e91f87eb69-2026-12-03",
-      "title": "Yasmina Sadiki | Seymour Sounds (Free Event)",
-      "date": "2026-12-03",
-      "url": "https://whatson.sydney.edu.au/event/0c76154d-ba3e-4daa-af2f-a3e91f87eb69/Yasmina-Sadiki-%7C-Seymour-Sounds-(Free-Event)",
-      "priority": "low",
-      "detectedAt": "2026-10-20T15:08:30.216698Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-8e3d6ba8-1d17-4f6a-9d1c-f7937e2f53e2-2026-12-05",
-      "title": "RIAH | Seymour Sounds (Free Event)",
-      "date": "2026-12-05",
-      "url": "https://whatson.sydney.edu.au/event/8e3d6ba8-1d17-4f6a-9d1c-f7937e2f53e2/RIAH-%7C-Seymour-Sounds-(Free-Event)",
-      "priority": "low",
-      "detectedAt": "2026-10-20T15:08:30.216698Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-a04cfa5f-d729-45e3-95f4-5a5723845ed9-2026-12-05",
-      "title": "Sydney University Choir's 2026 Sydney Sings Concert: From Leipzig to London: Christmas Concert",
-      "date": "2026-12-05",
-      "url": "https://whatson.sydney.edu.au/event/a04cfa5f-d729-45e3-95f4-5a5723845ed9/Sydney-University-Choir's-2026-Sydney-Sings-Concert%3A-From-Leipzig-to-London%3A-Christmas-Concert",
-      "priority": "low",
-      "detectedAt": "2026-10-20T15:08:30.216698Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-cd86264e-5cc5-43ff-8b13-fea6ea7f3eb3-2026-12-10",
-      "title": "Hey, Love | Seymour Sounds (Free Event)",
-      "date": "2026-12-10",
-      "url": "https://whatson.sydney.edu.au/event/cd86264e-5cc5-43ff-8b13-fea6ea7f3eb3/Hey%2C-Love-%7C-Seymour-Sounds-(Free-Event)",
-      "priority": "low",
-      "detectedAt": "2026-10-20T15:08:30.216698Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-how-to-use-ai-to-create-content-that-actually-wins-clients-2026-10-20",
-      "title": "How to use AI to create content that actually wins clients",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/how-to-use-ai-to-create-content-that-actually-wins-clients",
-      "priority": "medium",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-200th-anniversary-exhibitions-2026-10-20",
-      "title": "200th anniversary exhibitions",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/200th-anniversary-exhibitions",
-      "differences": {
-        "time": {
-          "before": "10:00–17:00",
-          "after": "09:00–20:00"
-        }
-      },
-      "priority": "medium",
-      "detectedAt": "2026-10-20T01:06:29.374202Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-first-nations-employment-support-2026-10-20",
-      "title": "First Nations employment support",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/first-nations-employment-support",
-      "priority": "medium",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-journey-a-bird-week-exhibition-2026-10-20",
-      "title": "Journey – A Bird Week Exhibition",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/journey-a-bird-week-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-bike-tune-ups-observatory-hill-2026-10-20",
-      "title": "Free bike tune ups - Millers Point",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-ups-observatory-hill",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-feathered-friends-2026-10-20",
-      "title": "Journey: BirdLife Australia Bird Week Exhibition",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/feathered-friends",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-10-20",
-      "title": "Abstract Synergies: Kevin White & Sergei Shatrov",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/abstract-synergies-kevin-white-and-sergei-shatrov",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-vivid-bloom-at-market-city-2026-10-20",
-      "title": "FREE Tai Chi Tuesdays at Market City",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-city",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-10-20",
-      "title": "Fun social dance",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-glebe-art-show-at-tramsheds-2026-10-20",
-      "title": "Glebe Art Show at Tramsheds",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/glebe-art-show-at-tramsheds",
-      "differences": {
-        "time": {
-          "before": "10:00–19:00",
-          "after": "10:00–18:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-learn-to-read-music-and-sing-2026-10-20",
-      "title": "Learn to read music and sing",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-10-20",
-      "title": "Musical bingo and $1 dogs",
-      "date": "2026-10-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
-      "priority": "low",
-      "detectedAt": "2026-10-20T01:06:29.374202Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 16,
+    "new": 13,
     "newlyObserved": 0,
-    "updated": 3,
-    "possibleReschedule": 0,
+    "updated": 0,
+    "possibleReschedule": 3,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
