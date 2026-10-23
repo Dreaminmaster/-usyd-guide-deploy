@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-22T15:20:08.319358Z",
+  "updatedAt": "2026-10-23T00:42:50.497354Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 56,
+  "count": 65,
   "entries": {
     "usyd-c823b4ae-4609-49c5-bc6e-f5d0c7346153-2026-10-25": {
       "sourceTitle": "The 21st Latin American Film Festival in Sydney - 9",
@@ -357,14 +357,6 @@
       "translatedAt": "2026-10-22T15:20:08.319358Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-23": {
-      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
-      "titleZh": "澳大利亚经验丰富的摄影展",
-      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
-      "summaryZh": "强大的职业形象集合和澳大利亚退伍军人的伴随故事。",
-      "translatedAt": "2026-10-22T15:20:08.319358Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-200th-anniversary-exhibitions-2026-10-23": {
       "sourceTitle": "200th anniversary exhibitions",
       "titleZh": "200周年纪念展览",
@@ -451,6 +443,86 @@
       "sourceSummary": "Free entry. Rare books, maps, prints & ephemera for sale. The Glasshouse, State Library NSW. 22–24 October 2026.",
       "summaryZh": "",
       "translatedAt": "2026-10-22T15:20:08.319358Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-halloween-trivia-night-2026-10-23": {
+      "sourceTitle": "Halloween drag trivia hosted by Zephyr",
+      "titleZh": "Zephyr主持的万圣节变装琐事",
+      "sourceSummary": "Come to a night of fun, fangs and frivolity as we test your knowledge on all things horror and Halloween",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-glitter-and-lashes-at-kryolan-2026-10-23": {
+      "sourceTitle": "Glitter and Lashes at Kryolan",
+      "titleZh": "Kryolan的闪光和睫毛",
+      "sourceSummary": "Glitter and Lash Bar to get you disco ready, and live bodypainting demos in store!",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-art-and-about-opening-night-2026-10-23": {
+      "sourceTitle": "Art & About opening night",
+      "titleZh": "艺术与关于开幕之夜",
+      "sourceSummary": "Join us to kick of Art & About 2026",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-art-and-about-pop-up-performances-at-oxford-square-2026-10-23": {
+      "sourceTitle": "Art & About pop-up performances at Oxford Square",
+      "titleZh": "牛津广场艺术与快闪表演",
+      "sourceSummary": "Vibrant beats, captivating performers and immersive art – all set against the historic backdrop of the Canopy Fountain",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-art-mania-geoffrey-bardon-and-the-painting-men-of-papunya-2026-10-23": {
+      "sourceTitle": "Art Mania: Geoffrey Bardon and the Painting Men of Papunya",
+      "titleZh": "艺术狂热：杰弗里·巴登和帕普尼亚的绘画人",
+      "sourceSummary": "Discover Kitty Hauser’s compelling biography of the young teacher who, through his involvement with Aboriginal artists",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-artisan-crafts-archival-woodblock-prints-reimagined-2026-10-23": {
+      "sourceTitle": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "titleZh": "手工艺品：重新构想的木版画档案",
+      "sourceSummary": "Artisan Crafts: Archival Woodblock Prints Reimagined",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-23": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-23": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-23": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-bavaria-by-loose-canon-arts-2026-10-23": {
+      "sourceTitle": "Bavaria by Loose Canon Arts",
+      "titleZh": "巴伐利亚散装佳能艺术之旅",
+      "sourceSummary": "A camp cabaret retelling of Bluebeard filled with opera, comedy, spoken word and revenge.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-23T00:42:50.497354Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
