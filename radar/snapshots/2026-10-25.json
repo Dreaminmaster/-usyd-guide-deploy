@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-24T14:02:04.035Z",
-  "archivedAt": "2026-10-24T14:01:46.143443Z",
+  "checkedAt": "2026-10-24T21:07:44.548Z",
+  "archivedAt": "2026-10-24T21:07:26.635114Z",
   "timezone": "Australia/Sydney",
   "today": "2026-10-25",
   "status": "ok",
   "summary": {
-    "events": 189,
+    "events": 192,
     "news": 12,
     "high": 0,
-    "recommended": 49,
-    "fromWebsite": 113,
+    "recommended": 51,
+    "fromWebsite": 115,
     "fromCityDiscovery": 74,
-    "fromGPT": 2,
+    "fromGPT": 3,
     "gptEnriched": 2,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 17320
+    "fetchMs": 17327
   },
   "sources": [
     {
@@ -24,7 +24,7 @@
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
       "message": "已通过官方公开活动查询接口读取 81 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-10-24T14:02:03.986Z",
+      "checkedAt": "2026-10-24T21:07:44.505Z",
       "recordCount": 81
     },
     {
@@ -32,7 +32,7 @@
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "ok",
       "message": "已提取 6 条日期明确的公开活动",
-      "checkedAt": "2026-10-24T14:01:48.338Z",
+      "checkedAt": "2026-10-24T21:07:28.879Z",
       "recordCount": 6
     },
     {
@@ -40,7 +40,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-24T14:01:49.377Z",
+      "checkedAt": "2026-10-24T21:07:29.788Z",
       "recordCount": 0
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-24T14:01:48.280Z",
+      "checkedAt": "2026-10-24T21:07:28.648Z",
       "recordCount": 0
     },
     {
@@ -56,16 +56,16 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-24T14:01:49.470Z",
+      "checkedAt": "2026-10-24T21:07:29.780Z",
       "recordCount": 0
     },
     {
       "name": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/",
       "status": "ok",
-      "recordCount": 6,
-      "message": "已读取城市活动精选 6 条（包括 Ghost Festival）",
-      "checkedAt": "2026-10-24T14:01:48.331Z"
+      "recordCount": 8,
+      "message": "已读取城市活动精选 8 条（包括 Ghost Festival）",
+      "checkedAt": "2026-10-24T21:07:28.704Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +73,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-10-24T14:01:48.308Z"
+      "checkedAt": "2026-10-24T21:07:28.681Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +81,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T14:01:48.480Z"
+      "checkedAt": "2026-10-24T21:07:28.869Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +89,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T14:01:49.853Z"
+      "checkedAt": "2026-10-24T21:07:30.214Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +97,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T14:01:49.219Z"
+      "checkedAt": "2026-10-24T21:07:29.716Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +105,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T14:01:49.399Z"
+      "checkedAt": "2026-10-24T21:07:29.646Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,7 +113,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T14:01:49.901Z"
+      "checkedAt": "2026-10-24T21:07:30.156Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -121,7 +121,7 @@
       "status": "ok",
       "recordCount": 7,
       "message": "已读取 2 个官方活动页面，解析到 7 条日程",
-      "checkedAt": "2026-10-24T14:01:48.384Z"
+      "checkedAt": "2026-10-24T21:07:29.000Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,7 +129,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-10-24T14:01:51.339Z"
+      "checkedAt": "2026-10-24T21:07:31.778Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -137,7 +137,7 @@
       "status": "ok",
       "recordCount": 22,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-10-24T14:01:49.971Z"
+      "checkedAt": "2026-10-24T21:07:30.249Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,7 +145,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-10-24T14:01:49.138Z"
+      "checkedAt": "2026-10-24T21:07:29.575Z"
     },
     {
       "name": "City discovery · city-free",
@@ -153,15 +153,15 @@
       "status": "ok",
       "recordCount": 42,
       "message": "Parsed 300 official structured listings; selected 42 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T14:01:47.931Z"
+      "checkedAt": "2026-10-24T21:07:28.367Z"
     },
     {
       "name": "City discovery · city-tech",
       "url": "https://whatson.cityofsydney.nsw.gov.au/tags/technology",
       "status": "ok",
       "recordCount": 28,
-      "message": "Parsed 33 official structured listings; selected 28 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T14:01:48.896Z"
+      "message": "Parsed 32 official structured listings; selected 28 relevant upcoming activities.",
+      "checkedAt": "2026-10-24T21:07:28.308Z"
     },
     {
       "name": "City discovery · city-seminars",
@@ -169,22 +169,22 @@
       "status": "ok",
       "recordCount": 5,
       "message": "Parsed 8 official structured listings; selected 5 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T14:01:48.549Z"
+      "checkedAt": "2026-10-24T21:07:28.794Z"
     },
     {
       "name": "City discovery · city-tours",
       "url": "https://whatson.cityofsydney.nsw.gov.au/categories/tours-and-experiences?freeEvent=true",
       "status": "ok",
       "recordCount": 0,
-      "message": "Parsed 163 official structured listings; selected 0 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T14:01:49.513Z"
+      "message": "Parsed 160 official structured listings; selected 0 relevant upcoming activities.",
+      "checkedAt": "2026-10-24T21:07:29.120Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
-      "recordCount": 4,
-      "checkedAt": "2026-10-24T14:01:47.544Z",
+      "recordCount": 5,
+      "checkedAt": "2026-10-24T21:07:28.147Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
@@ -227,6 +227,24 @@
       "priorityReason": "Advertised free; Sydney festival; This week"
     },
     {
+      "id": "city-discovery-halloween-at-hay-st-2026-10-25",
+      "title": "Halloween at Hay St",
+      "date": "2026-10-25",
+      "time": "08:30–18:00",
+      "location": "Haymarket",
+      "category": "culture",
+      "priority": "medium",
+      "score": 89,
+      "summary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
+      "verified": "2026-10-25",
+      "priorityReason": "Relevant Sydney event; verify official source"
+    },
+    {
       "id": "city-discovery-halloween-at-south-eveleigh-2026-10-25",
       "title": "Halloween at South Eveleigh",
       "date": "2026-10-25",
@@ -241,6 +259,24 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-south-eveleigh",
+      "verified": "2026-10-25",
+      "priorityReason": "Relevant Sydney event; verify official source"
+    },
+    {
+      "id": "city-discovery-howl-oween-dog-show-2026-10-25",
+      "title": "Howl-oween Dog Show",
+      "date": "2026-10-25",
+      "time": "11:00–14:00",
+      "location": "Surry Hills",
+      "category": "culture",
+      "priority": "medium",
+      "score": 76,
+      "summary": "Dress up your dog for a costume competition with Justin Hill, Dogue prizes, treats & grooming.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/howl-oween-dog-show",
       "verified": "2026-10-25",
       "priorityReason": "Relevant Sydney event; verify official source"
     },
@@ -266,7 +302,7 @@
       "id": "city-discovery-curtains-jazz-festival-2026-10-25",
       "title": "Curtains Jazz Festival",
       "date": "2026-10-25",
-      "time": "17:00–02:00",
+      "time": "17:00–00:00",
       "location": "Sydney",
       "category": "culture",
       "priority": "medium",
@@ -298,6 +334,42 @@
       "verified": "2026-10-25",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture; This week"
+    },
+    {
+      "id": "city-discovery-luminous-passage-by-thi-nguyen-with-alana-fairchild-2026-10-25",
+      "title": "Luminous Passage by Thi Nguyen with Alana Fairchild",
+      "date": "2026-10-25",
+      "time": "00:00–23:59",
+      "location": "Taylor Square south",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "An interactive light installation where movement, colour and oracles transform Taylor Square.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/luminous-passage-by-thi-nguyen-with-alana-fairchild",
+      "verified": "2026-10-25",
+      "priorityReason": "Relevant local activity"
+    },
+    {
+      "id": "city-discovery-still-walking-by-nikita-majajas-2026-10-25",
+      "title": "Still Walking by Nikita Majajas",
+      "date": "2026-10-25",
+      "time": "00:00–23:59",
+      "location": "Liverpool Street, Sydney",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Bold banner artworks celebrating Oxford Street's diversity, resilience and queer history.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/still-walking-by-nikita-majajas",
+      "verified": "2026-10-25",
+      "priorityReason": "Relevant local activity"
     },
     {
       "id": "city-discovery-black-myth-2026-10-25",
@@ -339,7 +411,7 @@
       "id": "city-discovery-art-and-about-pop-up-performances-at-oxford-square-2026-10-25",
       "title": "Art & About pop-up performances at Oxford Square",
       "date": "2026-10-25",
-      "time": "10:00–16:30",
+      "time": "17:15–22:00",
       "location": "Darlinghurst",
       "category": "culture",
       "priority": "low",
@@ -627,7 +699,7 @@
       "id": "city-discovery-bavaria-by-loose-canon-arts-2026-10-25",
       "title": "Bavaria by Loose Canon Arts",
       "date": "2026-10-25",
-      "time": "21:45–22:10",
+      "time": "14:45–15:10",
       "location": "East Sydney Community and Arts Centre",
       "category": "culture",
       "priority": "low",
@@ -663,7 +735,7 @@
       "id": "city-discovery-crazing-by-escape-artists-2026-10-25",
       "title": "Crazing by Escape Artists",
       "date": "2026-10-25",
-      "time": "18:30–20:00",
+      "time": "16:30–18:00",
       "location": "East Sydney Community and Arts Centre",
       "category": "culture",
       "priority": "low",
@@ -678,10 +750,28 @@
       "priorityReason": "Relevant local activity"
     },
     {
+      "id": "city-discovery-development-showing-adieu-uncut-pubic-cubic-2026-10-25",
+      "title": "Development Showing: Adieu Uncut Pubic Cubic!",
+      "date": "2026-10-25",
+      "time": "14:00–15:30",
+      "location": "Randwick",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "A new experimental dance work in development exploring the silliness and seriousness of having hair with Q&A discussion.",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/development-showing-adieu-uncut-pubic-cubic",
+      "verified": "2026-10-25",
+      "priorityReason": "Relevant local activity"
+    },
+    {
       "id": "city-discovery-disco-never-dies-by-dancekool-2026-10-25",
       "title": "Disco Never Dies by Dancekool",
       "date": "2026-10-25",
-      "time": "15:45–17:15",
+      "time": "11:00–12:30",
       "location": "East Sydney Community and Arts Centre",
       "category": "culture",
       "priority": "low",
@@ -699,7 +789,7 @@
       "id": "city-discovery-fuxico-by-keila-terencio-2026-10-25",
       "title": "Fuxico by Keila Terencio",
       "date": "2026-10-25",
-      "time": "10:00–17:00",
+      "time": "17:00–21:00",
       "location": "East Sydney Community and Arts Centre",
       "category": "culture",
       "priority": "low",
@@ -717,7 +807,7 @@
       "id": "city-discovery-glebe-art-show-at-tramsheds-2026-10-25",
       "title": "Glebe Art Show at Tramsheds",
       "date": "2026-10-25",
-      "time": "10:00–17:00",
+      "time": "10:00–19:00",
       "location": "Tramsheds Harold Park",
       "category": "culture",
       "priority": "low",
@@ -735,7 +825,7 @@
       "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-25",
       "title": "Guided highlights tour: Anzac Memorial",
       "date": "2026-10-25",
-      "time": "13:00–14:00",
+      "time": "10:00–11:00",
       "location": "Anzac Memorial",
       "category": "culture",
       "priority": "low",
@@ -753,7 +843,7 @@
       "id": "city-discovery-hard-times-require-furious-dancing-by-ian-thomas-2026-10-25",
       "title": "Hard Times Require Furious Dancing by Ian Thomas",
       "date": "2026-10-25",
-      "time": "10:00–17:00",
+      "time": "17:00–21:00",
       "location": "East Sydney Community and Arts Centre",
       "category": "culture",
       "priority": "low",
@@ -764,6 +854,24 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/hard-times-require-furious-dancing-by-ian-thomas",
+      "verified": "2026-10-25",
+      "priorityReason": "Relevant local activity"
+    },
+    {
+      "id": "city-discovery-jazz-up-the-cross-2026-10-25",
+      "title": "Jazz Up the Cross",
+      "date": "2026-10-25",
+      "time": "15:00–18:00",
+      "location": "Fitzroy Gardens",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Featuring live music, crafting, face painting and more!",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-up-the-cross",
       "verified": "2026-10-25",
       "priorityReason": "Relevant local activity"
     },
@@ -840,24 +948,6 @@
       "priorityReason": "Relevant local activity"
     },
     {
-      "id": "city-discovery-luminous-passage-by-thi-nguyen-with-alana-fairchild-2026-10-25",
-      "title": "Luminous Passage by Thi Nguyen with Alana Fairchild",
-      "date": "2026-10-25",
-      "time": "00:00–23:59",
-      "location": "Taylor Square south",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "An interactive light installation where movement, colour and oracles transform Taylor Square.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/luminous-passage-by-thi-nguyen-with-alana-fairchild",
-      "verified": "2026-10-25",
-      "priorityReason": "Relevant local activity"
-    },
-    {
       "id": "city-discovery-margaret-olley-australian-intimiste-2026-10-25",
       "title": "Margaret Olley: Australian Intimiste",
       "date": "2026-10-25",
@@ -872,6 +962,24 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/margaret-olley-australian-intimiste",
+      "verified": "2026-10-25",
+      "priorityReason": "Relevant local activity"
+    },
+    {
+      "id": "city-discovery-marrickville-organic-food-market-2026-10-25",
+      "title": "Marrickville Organic Food Market",
+      "date": "2026-10-25",
+      "time": "09:00–16:00",
+      "location": "The Addison Road Community Centre",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "For families, foodies and anyone who loves supporting local farmers",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/marrickville-organic-food-market",
       "verified": "2026-10-25",
       "priorityReason": "Relevant local activity"
     },
@@ -976,7 +1084,7 @@
       "id": "city-discovery-makertime-open-access-16-yrs-2026-10-27",
       "title": "Makertime: open access 16+yrs",
       "date": "2026-10-27",
-      "time": "10:30–12:30",
+      "time": "17:30–19:30",
       "location": "Darling Square Library",
       "category": "academic",
       "priority": "medium",
@@ -1134,24 +1242,6 @@
       "verified": "2026-10-25",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture; This week"
-    },
-    {
-      "id": "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-10-27",
-      "title": "Abstract Synergies: Kevin White & Sergei Shatrov",
-      "date": "2026-10-27",
-      "time": "10:00–18:00",
-      "location": "Gallery LNL",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Duo Exhibition",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/abstract-synergies-kevin-white-and-sergei-shatrov",
-      "verified": "2026-10-25",
-      "priorityReason": "Relevant local activity"
     },
     {
       "id": "usyd-692aa7cf-bf05-4e02-a5f0-3bbd9ae21e16-2026-10-27",
@@ -1344,22 +1434,23 @@
       "priorityReason": "Advertised free; Arts and culture; This week"
     },
     {
-      "id": "city-discovery-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-28",
+      "id": "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-28",
       "title": "The Entertainment Quarter Markets (EQ Markets)",
       "date": "2026-10-28",
-      "time": "08:00–14:00",
+      "time": "详见主办方",
       "location": "The Entertainment Quarter",
       "category": "culture",
       "priority": "low",
-      "score": 51,
-      "summary": "Fill your basket with beautiful, seasonal produce and gourmet treats.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "score": 44,
+      "summary": "来自 City of Sydney 官方 What's On。开放时间与报名要求请以活动页面为准。",
+      "eligibility": "以主办方说明为准",
+      "registration": "请打开官方活动页面核实费用和门票",
       "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
+      "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
       "verified": "2026-10-25",
-      "priorityReason": "Relevant local activity"
+      "feedSource": "city",
+      "priorityReason": "Student union / local; This week"
     },
     {
       "id": "city-community-chats-haymarket-and-ultimo-2026-10-28",
@@ -1477,24 +1568,6 @@
       "priorityReason": "Advertised free; Arts and culture; This week"
     },
     {
-      "id": "city-discovery-g-is-for-growth-2026-10-29",
-      "title": "G is for Growth",
-      "date": "2026-10-29",
-      "time": "11:00–15:00",
-      "location": "Joynton Avenue Creative Centre",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "An exhibition about the visual culture of urban renewal in Sydney and the economies it circulates within.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/g-is-for-growth",
-      "verified": "2026-10-25",
-      "priorityReason": "Relevant local activity"
-    },
-    {
       "id": "usyd-e7b30405-ef63-4cd3-a380-a0e08f13d750-2026-10-29",
       "title": "Social Functioning and Young-Onset Dementias Symposium",
       "date": "2026-10-29",
@@ -1607,6 +1680,25 @@
       "verified": "2026-10-25",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
+    },
+    {
+      "id": "city-aboriginal-harbour-heritage-tour-2026-10-29",
+      "title": "Aboriginal Harbour Heritage Tour",
+      "date": "2026-10-29",
+      "time": "详见主办方",
+      "location": "The Royal Botanic Garden",
+      "category": "culture",
+      "priority": "low",
+      "score": 44,
+      "summary": "来自 City of Sydney 官方 What's On。开放时间与报名要求请以活动页面为准。",
+      "eligibility": "以主办方说明为准",
+      "registration": "请打开官方活动页面核实费用和门票",
+      "confidence": "partial",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/aboriginal-harbour-heritage-tour",
+      "verified": "2026-10-25",
+      "feedSource": "city",
+      "priorityReason": "Student union / local; This week"
     },
     {
       "id": "usyd-8dbbcf46-846a-46ac-a3e6-c1532db809fd-2026-10-29",
@@ -1835,60 +1927,6 @@
       "verified": "2026-10-25",
       "feedSource": "city",
       "priorityReason": "Sydney festival; Student union / local; This week"
-    },
-    {
-      "id": "city-discovery-ceramic-art-festival-2026-10-31",
-      "title": "Ceramic Art Festival",
-      "date": "2026-10-31",
-      "time": "10:00–18:00",
-      "location": "North Sydney",
-      "category": "culture",
-      "priority": "medium",
-      "score": 64,
-      "summary": "One Vessel, One Realm",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ceramic-art-festival",
-      "verified": "2026-10-25",
-      "priorityReason": "Relevant local activity"
-    },
-    {
-      "id": "city-discovery-chucks-presents-noise-complaints-2026-10-31",
-      "title": "Chuck's Presents - Noise Complaints",
-      "date": "2026-10-31",
-      "time": "18:00–00:00",
-      "location": "Sydney",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Late Nights | Live Music",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/chucks-presents-noise-complaints",
-      "verified": "2026-10-25",
-      "priorityReason": "Relevant local activity"
-    },
-    {
-      "id": "city-discovery-latin-nights-block-party-at-hay-st-2026-10-31",
-      "title": "Latin Nights - Block Party at Hay St",
-      "date": "2026-10-31",
-      "time": "18:00–23:45",
-      "location": "Haymarket",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "Salsa, bachata, live music and DJs take over two dance floors every Saturday night at Hay St Market.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/latin-nights-block-party-at-hay-st",
-      "verified": "2026-10-25",
-      "priorityReason": "Relevant local activity"
     },
     {
       "id": "usyd-f595a709-953e-4ba6-b4d0-1b2cd21f0c35-2026-10-31",
@@ -2701,6 +2739,28 @@
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-future-of-libraries-in-the-age-of-ai",
       "verified": "2026-10-25",
       "priorityReason": "Relevant Sydney event; verify official source"
+    },
+    {
+      "id": "gpt-usyd-impact-factor-biodiversity-2026-10-22",
+      "title": "The Impact Factor: From microbes to megafauna",
+      "titleZh": "悉尼大学《影响因子》系列：从微生物到大型动物",
+      "date": "2026-11-10",
+      "time": "18:00–19:30 AEDT (doors 17:45)",
+      "location": "York Theatre, Seymour Centre, Corner City Road and Cleveland Street, Chippendale NSW 2006",
+      "locationZh": "Seymour Centre 的 York Theatre，City Road 与 Cleveland Street 交界，Chippendale",
+      "category": "academic",
+      "priority": "medium",
+      "score": 69,
+      "summary": "Free public science conversation hosted by Professor Alice Motion, with researchers exploring biodiversity, conservation genomics, insects and coral reef ecosystems.",
+      "summaryZh": "悉尼大学科学学院免费公开讲座，由 Alice Motion 教授主持，三位科研人员分享生物多样性、保护基因组学、昆虫行为及珊瑚礁生态保护的研究。",
+      "eligibility": "Open to the public; follow organiser booking instructions",
+      "registration": "Free and open to all; registration required through University of Sydney official organiser page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Faculty of Science",
+      "url": "https://www.sydney.edu.au/science/news-and-events/events/the-impact-factor/the-impact-factor-from-microbes-to-megafauna.html",
+      "verified": "2026-10-25",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "Material date change: originally listed 22 October; officially rescheduled to 10 November. Public free lecture; advance registration required."
     },
     {
       "id": "supra-263130-2026-11-10",

@@ -1,1 +1,37 @@
-{}
+{
+  "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-10-27": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-24T21:07:26.635114Z",
+    "title": "Abstract Synergies: Kevin White & Sergei Shatrov",
+    "date": "2026-10-27",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/abstract-synergies-kevin-white-and-sergei-shatrov"
+  },
+  "city-discovery-g-is-for-growth-2026-10-29": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-24T21:07:26.635114Z",
+    "title": "G is for Growth",
+    "date": "2026-10-29",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/g-is-for-growth"
+  },
+  "city-discovery-ceramic-art-festival-2026-10-31": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-24T21:07:26.635114Z",
+    "title": "Ceramic Art Festival",
+    "date": "2026-10-31",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/ceramic-art-festival"
+  },
+  "city-discovery-chucks-presents-noise-complaints-2026-10-31": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-24T21:07:26.635114Z",
+    "title": "Chuck's Presents - Noise Complaints",
+    "date": "2026-10-31",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/chucks-presents-noise-complaints"
+  },
+  "city-discovery-latin-nights-block-party-at-hay-st-2026-10-31": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-24T21:07:26.635114Z",
+    "title": "Latin Nights - Block Party at Hay St",
+    "date": "2026-10-31",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/latin-nights-block-party-at-hay-st"
+  }
+}
