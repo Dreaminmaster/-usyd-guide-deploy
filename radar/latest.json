@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-24T21:07:44.548Z",
-  "archivedAt": "2026-10-24T21:07:26.635114Z",
+  "checkedAt": "2026-10-25T00:21:56.534Z",
+  "archivedAt": "2026-10-25T00:21:35.979186Z",
   "timezone": "Australia/Sydney",
   "today": "2026-10-25",
   "status": "ok",
@@ -16,7 +16,7 @@
     "gptEnriched": 2,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 17327
+    "fetchMs": 19725
   },
   "sources": [
     {
@@ -24,7 +24,7 @@
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
       "message": "已通过官方公开活动查询接口读取 81 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-10-24T21:07:44.505Z",
+      "checkedAt": "2026-10-25T00:21:56.493Z",
       "recordCount": 81
     },
     {
@@ -32,7 +32,7 @@
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "ok",
       "message": "已提取 6 条日期明确的公开活动",
-      "checkedAt": "2026-10-24T21:07:28.879Z",
+      "checkedAt": "2026-10-25T00:21:38.307Z",
       "recordCount": 6
     },
     {
@@ -40,7 +40,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-24T21:07:29.788Z",
+      "checkedAt": "2026-10-25T00:21:39.412Z",
       "recordCount": 0
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-24T21:07:28.648Z",
+      "checkedAt": "2026-10-25T00:21:38.247Z",
       "recordCount": 0
     },
     {
@@ -56,7 +56,7 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-24T21:07:29.780Z",
+      "checkedAt": "2026-10-25T00:21:39.281Z",
       "recordCount": 0
     },
     {
@@ -65,7 +65,7 @@
       "status": "ok",
       "recordCount": 8,
       "message": "已读取城市活动精选 8 条（包括 Ghost Festival）",
-      "checkedAt": "2026-10-24T21:07:28.704Z"
+      "checkedAt": "2026-10-25T00:21:39.357Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +73,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-10-24T21:07:28.681Z"
+      "checkedAt": "2026-10-25T00:21:38.396Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +81,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T21:07:28.869Z"
+      "checkedAt": "2026-10-25T00:21:38.260Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +89,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T21:07:30.214Z"
+      "checkedAt": "2026-10-25T00:21:39.858Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +97,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T21:07:29.716Z"
+      "checkedAt": "2026-10-25T00:21:39.137Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +105,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T21:07:29.646Z"
+      "checkedAt": "2026-10-25T00:21:39.278Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,7 +113,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-24T21:07:30.156Z"
+      "checkedAt": "2026-10-25T00:21:39.531Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -121,7 +121,7 @@
       "status": "ok",
       "recordCount": 7,
       "message": "已读取 2 个官方活动页面，解析到 7 条日程",
-      "checkedAt": "2026-10-24T21:07:29.000Z"
+      "checkedAt": "2026-10-25T00:21:38.551Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,7 +129,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-10-24T21:07:31.778Z"
+      "checkedAt": "2026-10-25T00:21:41.384Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -137,7 +137,7 @@
       "status": "ok",
       "recordCount": 22,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-10-24T21:07:30.249Z"
+      "checkedAt": "2026-10-25T00:21:39.881Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,7 +145,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-10-24T21:07:29.575Z"
+      "checkedAt": "2026-10-25T00:21:39.145Z"
     },
     {
       "name": "City discovery · city-free",
@@ -153,7 +153,7 @@
       "status": "ok",
       "recordCount": 42,
       "message": "Parsed 300 official structured listings; selected 42 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T21:07:28.367Z"
+      "checkedAt": "2026-10-25T00:21:37.786Z"
     },
     {
       "name": "City discovery · city-tech",
@@ -161,7 +161,7 @@
       "status": "ok",
       "recordCount": 28,
       "message": "Parsed 32 official structured listings; selected 28 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T21:07:28.308Z"
+      "checkedAt": "2026-10-25T00:21:38.581Z"
     },
     {
       "name": "City discovery · city-seminars",
@@ -169,7 +169,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "Parsed 8 official structured listings; selected 5 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T21:07:28.794Z"
+      "checkedAt": "2026-10-25T00:21:38.264Z"
     },
     {
       "name": "City discovery · city-tours",
@@ -177,14 +177,14 @@
       "status": "ok",
       "recordCount": 0,
       "message": "Parsed 160 official structured listings; selected 0 relevant upcoming activities.",
-      "checkedAt": "2026-10-24T21:07:29.120Z"
+      "checkedAt": "2026-10-25T00:21:39.562Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
       "recordCount": 5,
-      "checkedAt": "2026-10-24T21:07:28.147Z",
+      "checkedAt": "2026-10-25T00:21:37.720Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
