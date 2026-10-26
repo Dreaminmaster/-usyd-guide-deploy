@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-25T14:25:13.615732Z",
+  "updatedAt": "2026-10-26T00:25:29.971746Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 57,
+  "count": 70,
   "entries": {
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -153,8 +153,8 @@
       "sourceTitle": "NASA Space Apps Challenge Prep & Team Formation Day!",
       "titleZh": "NASA太空应用挑战准备和团队组建日！",
       "sourceSummary": "Come and prepare, research and forms teams for the NASA Space Apps Challenge hackathon",
-      "summaryZh": "",
-      "translatedAt": "2026-10-16T14:54:38.900695Z",
+      "summaryZh": "来为NASA太空应用挑战黑客马拉松准备、研究和组建团队",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-maker-time-for-families-sphero-robot-maze-8-12yrs-2026-11-07": {
@@ -365,20 +365,12 @@
       "translatedAt": "2026-10-25T14:25:13.615732Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-halloween-at-hay-st-2026-10-28": {
-      "sourceTitle": "Halloween at Hay St",
-      "titleZh": "干草街万圣节",
-      "sourceSummary": "Halloween takes over Hay St with spooky eats, cocktails, live music, kids’ fun, roaming zombies and more",
-      "summaryZh": "",
-      "translatedAt": "2026-10-25T14:25:13.615732Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-10-26": {
       "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
       "titleZh": "澳大利亚经验丰富的摄影展",
       "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-25T14:25:13.615732Z",
+      "summaryZh": "强大的职业形象集合和澳大利亚退伍军人的伴随故事。",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-200th-anniversary-exhibitions-2026-10-26": {
@@ -459,6 +451,118 @@
       "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
       "summaryZh": "",
       "translatedAt": "2026-10-25T14:25:13.615732Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-halloween-at-hay-st-2026-10-28": {
+      "sourceTitle": "Halloween at Hay St",
+      "titleZh": "干草街万圣节",
+      "sourceSummary": "来自 City of Sydney 官方 What's On。开放时间与报名要求请以活动页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-the-social-enterprise-festival-2026-11-14": {
+      "sourceTitle": "The Social Enterprise Festival",
+      "titleZh": "社会企业节",
+      "sourceSummary": "来自 City of Sydney 官方 What's On。开放时间与报名要求请以活动页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-surry-hills-library-2026-10-26": {
+      "sourceTitle": "Come and get techie at Surry Hills Library",
+      "titleZh": "快来萨里山图书馆找技术人员",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-art-unleashed-2026-10-26": {
+      "sourceTitle": "Art Unleashed",
+      "titleZh": "艺术解放",
+      "sourceSummary": "Mosman Art Gallery transforms for one night with live music, interactive art, immersive theatre and a little hijinks.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-26": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-salsa-classes-in-moore-park-2026-10-26": {
+      "sourceTitle": "Free Salsa Classes in Surry Hills",
+      "titleZh": "萨里山免费萨尔萨舞课",
+      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-intro-to-ukulele-2026-10-26": {
+      "sourceTitle": "Music instrument class",
+      "titleZh": "乐器课",
+      "sourceSummary": "Learn how to play the ukulele, hulusi and erhu in this fun class for Mandarin and Cantonese speakers",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-john-and-jacqui-mullen-collection-2026-10-26": {
+      "sourceTitle": "John and Jacqui Mullen Collection",
+      "titleZh": "John和Jacqui Mullen系列",
+      "sourceSummary": "An extraordinary collection of rare manuscripts, books, maps and navigational instruments",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-dreamers-big-stories-2026-10-26": {
+      "sourceTitle": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "titleZh": "NAIDOC海报展览-致命的50年",
+      "sourceSummary": "Join us for a special NAIDOC Art Exhibition showcasing NAIDOC posters through the years.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-sydney-lives-exhibition-2026-10-26": {
+      "sourceTitle": "Little Sydney Lives Exhibition",
+      "titleZh": "小悉尼生活展",
+      "sourceSummary": "A glimpse of daily life through the eyes of young Sydneysiders aged 5 to 12",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-live-music-at-foys-2026-10-26": {
+      "sourceTitle": "Live Music at Foys",
+      "titleZh": "Foys现场音乐表演",
+      "sourceSummary": "Live Music Sundays are Back! Check out our new lineup of free live music this winter at Foys Kirribilli.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-lorrie-graham-photojournalist-2026-10-26": {
+      "sourceTitle": "Lorrie Graham: Photojournalist",
+      "titleZh": "Lorrie Graham ：摄影记者",
+      "sourceSummary": "Explore five decades of extraordinary photography by one of Australia’s most important and influential photojournalists.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-mervyn-bishop-close-up-2026-10-26": {
+      "sourceTitle": "Mervyn Bishop: Close Up",
+      "titleZh": "Mervyn Bishop ：特写",
+      "sourceSummary": "A rare glimpse behind the lens of one of Australia’s most important photographers.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-26": {
+      "sourceTitle": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "titleZh": "海军125 –纪念澳大利亚海军125周年",
+      "sourceSummary": "a new exhibition exploring how the Navy has grown alongside Australia, from colonial defence to a modern maritime force.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-26T00:25:29.971746Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
