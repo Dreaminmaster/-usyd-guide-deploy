@@ -1,122 +1,51 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-26T16:48:56.735863Z",
-  "sourceCheckedAt": "2026-10-26T16:49:13.824Z",
+  "checkedAt": "2026-10-27T01:30:14.445643Z",
+  "sourceCheckedAt": "2026-10-27T01:30:15.716Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-discovery-david-cooper-lecture-with-peter-doherty-2026-10-27",
-      "title": "David Cooper lecture with Peter Doherty",
+      "id": "city-discovery-wall-of-tears-exhibition-2026-10-27",
+      "title": "Wall of Tears exhibition",
       "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/david-cooper-lecture-with-peter-doherty",
-      "priority": "medium",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-first-nations-employment-support-2026-10-27",
-      "title": "First Nations employment support",
-      "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/first-nations-employment-support",
-      "priority": "medium",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-bike-tune-ups-pyrmont-2026-10-27",
-      "title": "Free bike tune ups: Pyrmont",
-      "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-ups-pyrmont",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/wall-of-tears-exhibition",
       "priority": "low",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
+      "detectedAt": "2026-10-27T01:30:14.445643Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-discovery-vivid-bloom-at-market-city-2026-10-27",
-      "title": "FREE Tai Chi Tuesdays at Market City",
-      "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-city",
+      "id": "usyd-2d189e57-a640-42ef-a4bf-e2d9adcb3ab4-2026-11-12",
+      "title": "Discover Rare Books and Special Collections: Weird & Wonderful",
+      "date": "2026-11-12",
+      "url": "https://whatson.sydney.edu.au/event/2d189e57-a640-42ef-a4bf-e2d9adcb3ab4/Discover-Rare-Books-and-Special-Collections%3A-Weird-%26-Wonderful",
       "priority": "low",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-10-27",
-      "title": "Fun social dance",
-      "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-learn-to-read-music-and-sing-2026-10-27",
-      "title": "Learn to read music and sing",
-      "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
-      "priority": "low",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-10-27",
-      "title": "Musical bingo and $1 dogs",
-      "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
-      "priority": "low",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ukulele-class-2026-10-27",
-      "title": "Ukulele class: Beginners to advanced",
-      "date": "2026-10-27",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
-      "priority": "low",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-come-and-get-techie-kxx-2026-11-02",
-      "title": "Come and get techie at Kings Cross Library",
-      "oldDate": "2026-10-26",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
-      "priority": "medium",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "usyd-eca2af51-613a-46d4-816f-d251dd3e8c3e-2026-11-13",
-      "title": "Discover Research Opportunities at HHURRI",
-      "date": "2026-11-13",
-      "url": "https://whatson.sydney.edu.au/event/eca2af51-613a-46d4-816f-d251dd3e8c3e/Discover-Research-Opportunities-at-HHURRI",
-      "priority": "low",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-6076702d-2e29-42bd-bc9b-0c5f5eea97b7-2026-11-26",
-      "title": "The Warren Centre presents: Empowering Communities with Communication & AI",
-      "date": "2026-11-26",
-      "url": "https://whatson.sydney.edu.au/event/6076702d-2e29-42bd-bc9b-0c5f5eea97b7/The-Warren-Centre-presents%3A-Empowering-Communities-with-Communication-%26-AI",
-      "priority": "medium",
-      "detectedAt": "2026-10-26T16:48:56.735863Z",
+      "detectedAt": "2026-10-27T01:30:14.445643Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-discovery-wall-of-tears-exhibition-2026-10-27",
+      "title": "Wall of Tears exhibition",
+      "date": "2026-10-27",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/wall-of-tears-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-10-27T01:30:14.445643Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-2d189e57-a640-42ef-a4bf-e2d9adcb3ab4-2026-11-12",
+      "title": "Discover Rare Books and Special Collections: Weird & Wonderful",
+      "date": "2026-11-12",
+      "url": "https://whatson.sydney.edu.au/event/2d189e57-a640-42ef-a4bf-e2d9adcb3ab4/Discover-Rare-Books-and-Special-Collections%3A-Weird-%26-Wonderful",
+      "priority": "low",
+      "detectedAt": "2026-10-27T01:30:14.445643Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-discovery-david-cooper-lecture-with-peter-doherty-2026-10-27",
@@ -1201,38 +1130,13 @@
       "priority": "low",
       "detectedAt": "2026-10-24T00:45:44.221271Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-alchemy-of-a-rainforest-exhibition-2026-10-24",
-      "title": "Alchemy of a Rainforest exhibition",
-      "date": "2026-10-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alchemy-of-a-rainforest-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-24T00:45:44.221271Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-art-and-about-pop-up-performances-at-oxford-square-2026-10-24",
-      "title": "Art & About pop-up performances at Oxford Square",
-      "date": "2026-10-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/art-and-about-pop-up-performances-at-oxford-square",
-      "differences": {
-        "time": {
-          "before": "17:15–22:00",
-          "after": "10:00–16:30"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-24T00:45:44.221271Z"
     }
   ],
   "counts": {
-    "new": 10,
+    "new": 2,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 1,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."

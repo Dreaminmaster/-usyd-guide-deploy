@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-26T16:49:13.938863Z",
+  "updatedAt": "2026-10-27T01:30:15.808696Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 58,
+  "count": 72,
   "entries": {
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -89,8 +89,8 @@
       "sourceTitle": "Vibe Thursday · Sydney AI Builders Meetup (Mandarin)",
       "titleZh": "Vibe Thursday ·悉尼人工智能建设者见面会（普通话）",
       "sourceSummary": "Free informal Thursday morning gathering for people building AI products, coding agents, automations and creative workflows. Mostly Mandarin. Attendees buy their own drinks.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T13:58:53.861559Z",
+      "summaryZh": "周四上午为构建人工智能产品、编码代理、自动化和创意工作流程的人们提供免费的非正式聚会。主要是普通话。与会者自行购买饮料。",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-come-and-get-techie-redfern-community-centre-2026-10-27": {
@@ -169,8 +169,8 @@
       "sourceTitle": "In conversation with Peter Doherty: Nobel laureate in Medicine",
       "titleZh": "对话Peter Doherty ：诺贝尔医学奖获得者",
       "sourceSummary": "Free public talk with 1996 Nobel Prize in Medicine laureate Peter Doherty, in conversation with journalist Natasha Mitchell, celebrating 40 years of the Kirby Institute.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-18T06:04:53.089722Z",
+      "summaryZh": "与1996年诺贝尔医学奖获得者彼得·多尔蒂（ Peter Doherty ）的免费公开谈话，与记者娜塔莎·米切尔（ Natasha Mitchell ）的对话，庆祝柯比研究所成立40周年。",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-architects-and-the-architectural-business-in-the-age-of-ai-2026-11-10": {
@@ -385,8 +385,8 @@
       "sourceTitle": "From prehistoric qubits to building useful quantum computer",
       "titleZh": "从史前量子比特到构建有用的量子计算机",
       "sourceSummary": "Join us for a special public lecture with 2025 Nobel Prize in Physics laureate Professor John M. Martinis.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-26T16:49:13.938863Z",
+      "summaryZh": "与我们一起参加2025年诺贝尔物理学奖获得者John M. Martinis教授的特别公开讲座。",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-200th-anniversary-exhibitions-2026-10-27": {
@@ -467,6 +467,118 @@
       "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
       "summaryZh": "",
       "translatedAt": "2026-10-26T16:49:13.938863Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-27": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-27": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-27": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-bike-tune-ups-pyrmont-2026-10-27": {
+      "sourceTitle": "Free bike tune ups: Pyrmont",
+      "titleZh": "免费自行车调整：皮尔蒙特",
+      "sourceSummary": "We’re talking to pedestrians and riders about respecting each other’s journey",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guided-walks-2026-10-27": {
+      "sourceTitle": "Guided walks",
+      "titleZh": "导览漫步",
+      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-john-and-jacqui-mullen-collection-2026-10-27": {
+      "sourceTitle": "John and Jacqui Mullen Collection",
+      "titleZh": "John和Jacqui Mullen系列",
+      "sourceSummary": "An extraordinary collection of rare manuscripts, books, maps and navigational instruments",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-learn-to-read-music-and-sing-2026-10-27": {
+      "sourceTitle": "Learn to read music and sing",
+      "titleZh": "学习阅读音乐和唱歌",
+      "sourceSummary": "No experience is needed to join this free singing and theory class",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-dreamers-big-stories-2026-10-27": {
+      "sourceTitle": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "titleZh": "NAIDOC海报展览-致命的50年",
+      "sourceSummary": "Join us for a special NAIDOC Art Exhibition showcasing NAIDOC posters through the years.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-sydney-lives-exhibition-2026-10-27": {
+      "sourceTitle": "Little Sydney Lives Exhibition",
+      "titleZh": "小悉尼生活展",
+      "sourceSummary": "A glimpse of daily life through the eyes of young Sydneysiders aged 5 to 12",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-live-music-at-foys-2026-10-27": {
+      "sourceTitle": "Live Music at Foys",
+      "titleZh": "Foys现场音乐表演",
+      "sourceSummary": "Live Music Sundays are Back! Check out our new lineup of free live music this winter at Foys Kirribilli.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-lorrie-graham-photojournalist-2026-10-27": {
+      "sourceTitle": "Lorrie Graham: Photojournalist",
+      "titleZh": "Lorrie Graham ：摄影记者",
+      "sourceSummary": "Explore five decades of extraordinary photography by one of Australia’s most important and influential photojournalists.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-mervyn-bishop-close-up-2026-10-27": {
+      "sourceTitle": "Mervyn Bishop: Close Up",
+      "titleZh": "Mervyn Bishop ：特写",
+      "sourceSummary": "A rare glimpse behind the lens of one of Australia’s most important photographers.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-musical-bingo-and-usd1-dogs-2026-10-27": {
+      "sourceTitle": "Musical bingo and $1 dogs",
+      "titleZh": "音乐宾果游戏和$ 1只狗",
+      "sourceSummary": "Your ultimate Tuesday night out",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-27": {
+      "sourceTitle": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "titleZh": "海军125 –纪念澳大利亚海军125周年",
+      "sourceSummary": "a new exhibition exploring how the Navy has grown alongside Australia, from colonial defence to a modern maritime force.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-27T01:30:15.808696Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
