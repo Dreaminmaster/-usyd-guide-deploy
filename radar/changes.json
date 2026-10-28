@@ -1,207 +1,53 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-27T15:54:15.524073Z",
-  "sourceCheckedAt": "2026-10-27T15:54:36.157Z",
+  "checkedAt": "2026-10-28T01:26:04.118429Z",
+  "sourceCheckedAt": "2026-10-28T01:26:21.832Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-discovery-lorrie-graham-in-conversation-2026-10-28",
-      "title": "Lorrie Graham in conversation",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lorrie-graham-in-conversation",
-      "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-is-a-clash-over-taiwan-just-around-the-corner-2026-10-28",
-      "title": "Is a clash over Taiwan just around the corner?",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/is-a-clash-over-taiwan-just-around-the-corner",
-      "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-black-myth-2026-10-28",
-      "title": "Black Myth",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/black-myth",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-love-food-fair-2025-2026-10-28",
-      "title": "Love Food Fair 2026",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/love-food-fair-2025",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-28",
-      "title": "Ancestor Spirits and In the Half Light",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ancestor-spirits-and-in-the-half-light",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-city-model-talks-with-model-maker-richard-braddish-2026-10-28",
-      "title": "City Model talks with model maker Richard Braddish",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/city-model-talks-with-model-maker-richard-braddish",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-28",
-      "title": "Guided highlights tour: Anzac Memorial",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-guitar-bass-beginner-group-lesson-2026-10-28",
-      "title": "Guitar/bass beginner & intermediate group lessons",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-28",
-      "title": "Jordan Gower: Does the moon know the well?",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jordan-gower-does-the-moon-know-the-well",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-remy-faint-a-site-of-unfolding-2026-10-28",
-      "title": "Remy Faint: A Site of Unfolding",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/remy-faint-a-site-of-unfolding",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-singing-group-for-chinese-speakers-2026-10-28",
-      "title": "Singing group for Chinese speakers",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/singing-group-for-chinese-speakers",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-song-writing-camp-with-josh-keys-2026-10-28",
-      "title": "Song writing camp with Josh Keys -ongoing program",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/song-writing-camp-with-josh-keys",
-      "priority": "low",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-alana-hunt-to-the-owner-2026-10-30",
-      "title": "Alana Hunt: To the Owner",
-      "oldDate": "2026-10-27",
+      "id": "supra-267002-2026-10-30",
+      "title": "SUPRA Queer Halloween Afternoon Tea!",
       "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
+      "url": "https://supra.net.au/event/supra-queer-halloween-afternoon-tea/",
       "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-halloween-street-party-newtown-neighbourhood-centre-2026-10-31",
-      "title": "Halloween Street Party @ Newtown Neighbourhood Centre",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-street-party-newtown-neighbourhood-centre",
-      "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
+      "detectedAt": "2026-10-28T01:26:04.118429Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "possible_reschedule",
-      "id": "city-discovery-come-and-get-techie-customs-house-2026-11-03",
-      "title": "Come and get techie: Customs House Library",
-      "oldDate": "2026-10-27",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-customs-house",
+      "id": "city-discovery-architects-and-the-architectural-business-in-the-age-of-ai-2026-11-17",
+      "title": "Architects and the architectural business in the sge of AI",
+      "oldDate": "2026-11-10",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/architects-and-the-architectural-business-in-the-age-of-ai",
       "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-come-and-get-techie-glebe-library-2026-11-03",
-      "title": "Come and get techie: Glebe Library",
-      "oldDate": "2026-10-27",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-glebe-library",
-      "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-come-and-get-techie-newtown-library-2026-11-03",
-      "title": "Come and get techie: Newtown Library",
-      "oldDate": "2026-10-27",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-newtown-library",
-      "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-come-and-get-techie-redfern-community-centre-2026-11-10",
-      "title": "Come and get techie",
-      "oldDate": "2026-10-27",
-      "date": "2026-11-10",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-redfern-community-centre",
-      "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-makertime-open-access-16-yrs-2026-11-14",
-      "title": "Makertime: open access 16+yrs",
-      "oldDate": "2026-10-27",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/makertime-open-access-16-yrs",
-      "priority": "medium",
-      "detectedAt": "2026-10-27T15:54:15.524073Z",
+      "detectedAt": "2026-10-28T01:26:04.118429Z",
       "notice": "Date differs across public snapshots; verify at organiser."
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "supra-267002-2026-10-30",
+      "title": "SUPRA Queer Halloween Afternoon Tea!",
+      "date": "2026-10-30",
+      "url": "https://supra.net.au/event/supra-queer-halloween-afternoon-tea/",
+      "priority": "medium",
+      "detectedAt": "2026-10-28T01:26:04.118429Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-discovery-architects-and-the-architectural-business-in-the-age-of-ai-2026-11-17",
+      "title": "Architects and the architectural business in the sge of AI",
+      "oldDate": "2026-11-10",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/architects-and-the-architectural-business-in-the-age-of-ai",
+      "priority": "medium",
+      "detectedAt": "2026-10-28T01:26:04.118429Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
     {
       "kind": "new",
       "id": "city-discovery-lorrie-graham-in-conversation-2026-10-28",
@@ -1276,33 +1122,13 @@
       },
       "priority": "low",
       "detectedAt": "2026-10-24T21:07:26.635114Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-jazz-up-the-cross-2026-10-25",
-      "title": "Jazz Up the Cross",
-      "date": "2026-10-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jazz-up-the-cross",
-      "priority": "low",
-      "detectedAt": "2026-10-24T21:07:26.635114Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-marrickville-organic-food-market-2026-10-25",
-      "title": "Marrickville Organic Food Market",
-      "date": "2026-10-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/marrickville-organic-food-market",
-      "priority": "low",
-      "detectedAt": "2026-10-24T21:07:26.635114Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 13,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 6,
+    "possibleReschedule": 1,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
