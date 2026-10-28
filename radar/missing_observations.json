@@ -1,1 +1,16 @@
-{}
+{
+  "city-discovery-the-paintings-gallery-2026-10-28": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-28T06:49:04.682151Z",
+    "title": "The Paintings Gallery",
+    "date": "2026-10-28",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-paintings-gallery"
+  },
+  "usyd-9f3b0b77-8ef7-4319-bc3f-2df0858becbb-2026-10-30": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-28T06:49:04.682151Z",
+    "title": "German Research Seminar: Yixu Lü (Sydney), „Mit der eigenen Elle: Christian Wolff und das Große Lernen.“",
+    "date": "2026-10-30",
+    "url": "https://whatson.sydney.edu.au/event/9f3b0b77-8ef7-4319-bc3f-2df0858becbb/German-Research-Seminar%3A-Yixu-Lu%CC%88-(Sydney)%2C-%E2%80%9EMit-der-eigenen-Elle%3A-Christian-Wolff-und-das-Gro%C3%9Fe-Lernen.%E2%80%9C"
+  }
+}

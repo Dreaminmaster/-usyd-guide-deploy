@@ -1,32 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-28T01:26:04.118429Z",
-  "sourceCheckedAt": "2026-10-28T01:26:21.832Z",
+  "checkedAt": "2026-10-28T06:49:04.682151Z",
+  "sourceCheckedAt": "2026-10-28T06:49:05.029Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "supra-267002-2026-10-30",
-      "title": "SUPRA Queer Halloween Afternoon Tea!",
-      "date": "2026-10-30",
-      "url": "https://supra.net.au/event/supra-queer-halloween-afternoon-tea/",
-      "priority": "medium",
-      "detectedAt": "2026-10-28T01:26:04.118429Z",
+      "id": "city-discovery-parliament-unpacked-the-architecture-of-democracy-2026-10-28",
+      "title": "Parliament Unpacked: The Architecture of Democracy",
+      "date": "2026-10-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/parliament-unpacked-the-architecture-of-democracy",
+      "priority": "low",
+      "detectedAt": "2026-10-28T06:49:04.682151Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-architects-and-the-architectural-business-in-the-age-of-ai-2026-11-17",
-      "title": "Architects and the architectural business in the sge of AI",
-      "oldDate": "2026-11-10",
-      "date": "2026-11-17",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/architects-and-the-architectural-business-in-the-age-of-ai",
-      "priority": "medium",
-      "detectedAt": "2026-10-28T01:26:04.118429Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-discovery-parliament-unpacked-the-architecture-of-democracy-2026-10-28",
+      "title": "Parliament Unpacked: The Architecture of Democracy",
+      "date": "2026-10-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/parliament-unpacked-the-architecture-of-democracy",
+      "priority": "low",
+      "detectedAt": "2026-10-28T06:49:04.682151Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "supra-267002-2026-10-30",
@@ -1107,28 +1106,13 @@
       },
       "priority": "low",
       "detectedAt": "2026-10-24T21:07:26.635114Z"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-hard-times-require-furious-dancing-by-ian-thomas-2026-10-25",
-      "title": "Hard Times Require Furious Dancing by Ian Thomas",
-      "date": "2026-10-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/hard-times-require-furious-dancing-by-ian-thomas",
-      "differences": {
-        "time": {
-          "before": "10:00–17:00",
-          "after": "17:00–21:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-24T21:07:26.635114Z"
     }
   ],
   "counts": {
     "new": 1,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 1,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."

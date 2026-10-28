@@ -1,38 +1,38 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-28T01:26:21.832Z",
-  "archivedAt": "2026-10-28T01:26:04.118429Z",
+  "checkedAt": "2026-10-28T06:49:05.029Z",
+  "archivedAt": "2026-10-28T06:49:04.682151Z",
   "timezone": "Australia/Sydney",
   "today": "2026-10-28",
   "status": "ok",
   "summary": {
-    "events": 186,
+    "events": 185,
     "news": 12,
     "high": 0,
     "recommended": 55,
-    "fromWebsite": 112,
+    "fromWebsite": 111,
     "fromCityDiscovery": 72,
     "fromGPT": 2,
     "gptEnriched": 2,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 16889
+    "fetchMs": 55
   },
   "sources": [
     {
       "name": "悉尼大学 What's On",
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
-      "message": "已通过官方公开活动查询接口读取 80 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-10-28T01:26:21.783Z",
-      "recordCount": 80
+      "message": "已通过官方公开活动查询接口读取 79 条未来活动（10 页）；结果较多，已达到安全分页上限",
+      "checkedAt": "2026-10-28T06:46:33.591Z",
+      "recordCount": 79
     },
     {
       "name": "USU 学生会",
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "ok",
       "message": "已提取 5 条日期明确的公开活动",
-      "checkedAt": "2026-10-28T01:26:06.707Z",
+      "checkedAt": "2026-10-28T06:46:20.664Z",
       "recordCount": 5
     },
     {
@@ -40,7 +40,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-28T01:26:07.583Z",
+      "checkedAt": "2026-10-28T06:46:21.510Z",
       "recordCount": 0
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-28T01:26:06.465Z",
+      "checkedAt": "2026-10-28T06:46:20.444Z",
       "recordCount": 0
     },
     {
@@ -56,7 +56,7 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-28T01:26:07.507Z",
+      "checkedAt": "2026-10-28T06:46:21.579Z",
       "recordCount": 0
     },
     {
@@ -65,7 +65,7 @@
       "status": "ok",
       "recordCount": 11,
       "message": "已读取城市活动精选 11 条（包括 Ghost Festival）",
-      "checkedAt": "2026-10-28T01:26:06.548Z"
+      "checkedAt": "2026-10-28T06:46:20.756Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +73,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-10-28T01:26:06.517Z"
+      "checkedAt": "2026-10-28T06:46:20.735Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +81,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T01:26:06.521Z"
+      "checkedAt": "2026-10-28T06:46:20.836Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +89,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T01:26:07.839Z"
+      "checkedAt": "2026-10-28T06:46:22.283Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +97,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T01:26:07.224Z"
+      "checkedAt": "2026-10-28T06:46:21.624Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +105,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T01:26:07.328Z"
+      "checkedAt": "2026-10-28T06:46:21.695Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,7 +113,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T01:26:07.884Z"
+      "checkedAt": "2026-10-28T06:46:22.354Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -121,7 +121,7 @@
       "status": "ok",
       "recordCount": 6,
       "message": "已读取 2 个官方活动页面，解析到 6 条日程",
-      "checkedAt": "2026-10-28T01:26:06.686Z"
+      "checkedAt": "2026-10-28T06:46:20.695Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,7 +129,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-10-28T01:26:09.165Z"
+      "checkedAt": "2026-10-28T06:46:23.167Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -137,7 +137,7 @@
       "status": "ok",
       "recordCount": 21,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-10-28T01:26:08.196Z"
+      "checkedAt": "2026-10-28T06:46:21.901Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,7 +145,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-10-28T01:26:07.272Z"
+      "checkedAt": "2026-10-28T06:46:21.204Z"
     },
     {
       "name": "City discovery · city-free",
@@ -153,7 +153,7 @@
       "status": "ok",
       "recordCount": 42,
       "message": "Parsed 300 official structured listings; selected 42 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T01:26:05.905Z"
+      "checkedAt": "2026-10-28T06:46:19.962Z"
     },
     {
       "name": "City discovery · city-tech",
@@ -161,7 +161,7 @@
       "status": "ok",
       "recordCount": 28,
       "message": "Parsed 31 official structured listings; selected 28 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T01:26:06.986Z"
+      "checkedAt": "2026-10-28T06:46:20.984Z"
     },
     {
       "name": "City discovery · city-seminars",
@@ -169,22 +169,22 @@
       "status": "ok",
       "recordCount": 5,
       "message": "Parsed 8 official structured listings; selected 5 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T01:26:06.516Z"
+      "checkedAt": "2026-10-28T06:46:20.571Z"
     },
     {
       "name": "City discovery · city-tours",
       "url": "https://whatson.cityofsydney.nsw.gov.au/categories/tours-and-experiences?freeEvent=true",
       "status": "ok",
       "recordCount": 0,
-      "message": "Parsed 156 official structured listings; selected 0 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T01:26:07.429Z"
+      "message": "Parsed 160 official structured listings; selected 0 relevant upcoming activities.",
+      "checkedAt": "2026-10-28T06:46:21.785Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
       "recordCount": 4,
-      "checkedAt": "2026-10-28T01:26:05.822Z",
+      "checkedAt": "2026-10-28T06:46:19.799Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
@@ -878,6 +878,24 @@
       "priorityReason": "Relevant local activity"
     },
     {
+      "id": "city-discovery-parliament-unpacked-the-architecture-of-democracy-2026-10-28",
+      "title": "Parliament Unpacked: The Architecture of Democracy",
+      "date": "2026-10-28",
+      "time": "18:00–19:15",
+      "location": "Sydney",
+      "category": "culture",
+      "priority": "low",
+      "score": 51,
+      "summary": "Discover how the Parliamentary Budget Office and NSW Electoral Commission safeguard democracy ahead of 2027 NSW Election",
+      "eligibility": "Public listing; check age restrictions and whether booking is required.",
+      "registration": "Advertised free; confirm whether registration is required on the official page.",
+      "confidence": "partial",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/parliament-unpacked-the-architecture-of-democracy",
+      "verified": "2026-10-28",
+      "priorityReason": "Relevant local activity"
+    },
+    {
       "id": "city-discovery-pearling-elders-2026-10-28",
       "title": "Pearling Elders",
       "date": "2026-10-28",
@@ -982,24 +1000,6 @@
       "confidence": "partial",
       "sourceName": "City of Sydney · What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-centenary-exhibition",
-      "verified": "2026-10-28",
-      "priorityReason": "Relevant local activity"
-    },
-    {
-      "id": "city-discovery-the-paintings-gallery-2026-10-28",
-      "title": "The Paintings Gallery",
-      "date": "2026-10-28",
-      "time": "09:00–20:00",
-      "location": "State Library of NSW",
-      "category": "culture",
-      "priority": "low",
-      "score": 51,
-      "summary": "More than 300 original artworks of landscape and portrait paintings on permanent display at the State Library of NSW.",
-      "eligibility": "Public listing; check age restrictions and whether booking is required.",
-      "registration": "Advertised free; confirm whether registration is required on the official page.",
-      "confidence": "partial",
-      "sourceName": "City of Sydney · What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-paintings-gallery",
       "verified": "2026-10-28",
       "priorityReason": "Relevant local activity"
     },
@@ -1298,8 +1298,8 @@
       "category": "culture",
       "priority": "medium",
       "score": 81,
-      "summary": "Friday 30 October 2026 3–5pm Gardener’s Lodge Cafe, Victoria Park 🎃 Join the SUPRA Queer Network for a spooky afternoon of delicious treats, board games, and good company! Meet fellow LGBTQIA+ postgrads, make new friends, and unwind before exams. Costumes welcome but optional! 👻 This is a free event, but registration is essential and sp",
-      "eligibility": "SUPRA members / postgraduates. CET eligibility NOT confirmed.",
+      "summary": "Official SUPRA event. See source for eligibility, registration and costs.",
+      "eligibility": "Check if CET/undergraduate students can attend; don't assume eligibility.",
       "registration": "Check the organiser's official registration page",
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
@@ -1325,25 +1325,6 @@
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
       "verified": "2026-10-28",
       "priorityReason": "Academic or technology interest"
-    },
-    {
-      "id": "usyd-9f3b0b77-8ef7-4319-bc3f-2df0858becbb-2026-10-30",
-      "title": "German Research Seminar: Yixu Lü (Sydney), „Mit der eigenen Elle: Christian Wolff und das Große Lernen.“",
-      "date": "2026-10-30",
-      "time": "15:30–17:30",
-      "location": "Online",
-      "category": "academic",
-      "priority": "low",
-      "score": 50,
-      "summary": "Professor Lü's Vortrag verfolgt den Weg des Großen Lernens von den neukonfuzianischen Kommentaren des 12. Jahrhunderts über François Noëls Übersetzung von 1711 bis zu Wolffs Rede und erschließt damit seine Konfuziusrezeptionals einen Konflikt um die Begründung und Prüfung moralischer Erkenntnis in der frühen Aufklärung. 费用说明：free",
-      "eligibility": "公开活动；具体参加要求请查看官网",
-      "registration": "请打开官方链接核实报名、名额与费用",
-      "confidence": "confirmed",
-      "sourceName": "University of Sydney What’s On",
-      "url": "https://whatson.sydney.edu.au/event/9f3b0b77-8ef7-4319-bc3f-2df0858becbb/German-Research-Seminar%3A-Yixu-Lu%CC%88-(Sydney)%2C-%E2%80%9EMit-der-eigenen-Elle%3A-Christian-Wolff-und-das-Gro%C3%9Fe-Lernen.%E2%80%9C",
-      "verified": "2026-10-28",
-      "feedSource": "university",
-      "priorityReason": "Advertised free; This week"
     },
     {
       "id": "usu-runsyduni-2026-2026-10-30",

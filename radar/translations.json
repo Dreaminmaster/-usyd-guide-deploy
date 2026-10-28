@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-28T01:26:21.943612Z",
+  "updatedAt": "2026-10-28T06:49:05.189200Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 63,
+  "count": 77,
   "entries": {
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -249,8 +249,8 @@
       "sourceTitle": "The Impact Factor: From microbes to megafauna",
       "titleZh": "影响因素：从微生物到巨型动物",
       "sourceSummary": "Free public science conversation hosted by Professor Alice Motion, with researchers exploring biodiversity, conservation genomics, insects and coral reef ecosystems.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-24T21:07:44.671635Z",
+      "summaryZh": "由Alice Motion教授主持的免费公共科学对话，研究人员将探索生物多样性、保护基因组学、昆虫和珊瑚礁生态系统。",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-the-social-enterprise-festival-2026-11-14": {
@@ -408,9 +408,9 @@
     "supra-267002-2026-10-30": {
       "sourceTitle": "SUPRA Queer Halloween Afternoon Tea!",
       "titleZh": "SUPRA Queer万圣节下午茶！",
-      "sourceSummary": "Friday 30 October 2026 3–5pm Gardener’s Lodge Cafe, Victoria Park 🎃 Join the SUPRA Queer Network for a spooky afternoon of delicious treats, board games, and good company! Meet fellow LGBTQIA+ postgrads, make new friends, and unwind before exams. Costumes welc",
-      "summaryZh": "2026年10月30日（星期五）下午3点至5点维多利亚公园（ Victoria Park ）的园丁小屋咖啡馆（ Gardener's Lodge Cafe ）🎃加入超酷儿网络（ Queer Network ） ，享受令人毛骨悚然的下午，品尝美味结识LGBTQIA +研究生，结交新朋友，在考试前放松身心。服装保养",
-      "translatedAt": "2026-10-28T01:26:21.943612Z",
+      "sourceSummary": "Official SUPRA event. See source for eligibility, registration and costs.",
+      "summaryZh": "官方超级活动。有关资格、注册和费用，请参阅资料来源。",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-curtains-jazz-festival-2026-10-28": {
@@ -507,6 +507,118 @@
       "sourceSummary": "Join archivists for a fascinating exploration of the rich history of Haymarket and Ultimo",
       "summaryZh": "",
       "translatedAt": "2026-10-28T01:26:21.943612Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-28": {
+      "sourceTitle": "The Entertainment Quarter Markets (EQ Markets)",
+      "titleZh": "娱乐季度市场（ EQ市场）",
+      "sourceSummary": "Fill your basket with beautiful, seasonal produce and gourmet treats.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-28": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-28": {
+      "sourceTitle": "Guided highlights tour: Anzac Memorial",
+      "titleZh": "导览游：澳新军团纪念碑",
+      "sourceSummary": "Discover the personal stories, stunning Art Deco architecture and commemorative symbolism behind the Anzac Memorial.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guided-walks-2026-10-28": {
+      "sourceTitle": "Guided walks",
+      "titleZh": "导览漫步",
+      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guitar-bass-beginner-group-lesson-2026-10-28": {
+      "sourceTitle": "Guitar/bass beginner & intermediate group lessons",
+      "titleZh": "吉他/贝司初学者和中级团体课程",
+      "sourceSummary": "Join this friendly 10 week course",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-john-and-jacqui-mullen-collection-2026-10-28": {
+      "sourceTitle": "John and Jacqui Mullen Collection",
+      "titleZh": "John和Jacqui Mullen系列",
+      "sourceSummary": "An extraordinary collection of rare manuscripts, books, maps and navigational instruments",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-28": {
+      "sourceTitle": "Jordan Gower: Does the moon know the well?",
+      "titleZh": "乔丹·高尔：月亮知道井吗？",
+      "sourceSummary": "The first institutional exhibition of South Australian ceramic artist Jordan Gower.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-dreamers-big-stories-2026-10-28": {
+      "sourceTitle": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "titleZh": "NAIDOC海报展览-致命的50年",
+      "sourceSummary": "Join us for a special NAIDOC Art Exhibition showcasing NAIDOC posters through the years.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-sydney-lives-exhibition-2026-10-28": {
+      "sourceTitle": "Little Sydney Lives Exhibition",
+      "titleZh": "小悉尼生活展",
+      "sourceSummary": "A glimpse of daily life through the eyes of young Sydneysiders aged 5 to 12",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-lorrie-graham-photojournalist-2026-10-28": {
+      "sourceTitle": "Lorrie Graham: Photojournalist",
+      "titleZh": "Lorrie Graham ：摄影记者",
+      "sourceSummary": "Explore five decades of extraordinary photography by one of Australia’s most important and influential photojournalists.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-love-food-fair-2025-2026-10-28": {
+      "sourceTitle": "Love Food Fair 2026",
+      "titleZh": "2026年爱情食品博览会",
+      "sourceSummary": "Delicious plant-based food, with performance, fun games and activities to celebrate love, compassion, and mindfulness",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-mervyn-bishop-close-up-2026-10-28": {
+      "sourceTitle": "Mervyn Bishop: Close Up",
+      "titleZh": "Mervyn Bishop ：特写",
+      "sourceSummary": "A rare glimpse behind the lens of one of Australia’s most important photographers.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-28": {
+      "sourceTitle": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "titleZh": "海军125 –纪念澳大利亚海军125周年",
+      "sourceSummary": "a new exhibition exploring how the Navy has grown alongside Australia, from colonial defence to a modern maritime force.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ok-ok-ok-2026-10-28": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-28T06:49:05.189200Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
