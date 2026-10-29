@@ -1,194 +1,193 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-28T16:41:20.269552Z",
-  "sourceCheckedAt": "2026-10-28T16:41:40.011Z",
+  "checkedAt": "2026-10-29T01:00:03.284574Z",
+  "sourceCheckedAt": "2026-10-29T01:00:04.729Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-discovery-bondis-day-of-the-dead-festival-2026-10-29",
-      "title": "Bondi's Day of the Dead Festival",
+      "id": "gpt-usyd-health-halloween-2026-10-29",
+      "title": "USYD Health Halloween Party 2026",
       "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondis-day-of-the-dead-festival",
+      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
       "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-discovery-summer-jobs-cv-sessions-for-ages-16-25-2026-10-29",
-      "title": "Resume writing workshop for ages 16 to 25",
+      "id": "gpt-usyd-subs-afterlife-2026-10-29",
+      "title": "AFTERLIFE · USYD SUBS × UNSW × UTS Halloween Party",
       "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/summer-jobs-cv-sessions-for-ages-16-25",
+      "url": "https://www.eventbrite.com.au/e/afterlife-tickets-2002914976612",
       "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-discovery-womens-reconciliation-network-redfern-yarning-circle-2026-10-29",
-      "title": "Women’s Reconciliation Network – Redfern Yarning Circle",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/womens-reconciliation-network-redfern-yarning-circle",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
+      "id": "gpt-usyd-health-halloween-cont-2026-10-30",
+      "title": "USYD Health Halloween Party · overnight continuation",
+      "date": "2026-10-30",
+      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-discovery-amy-clarke-solo-exhibition-2026-10-29",
-      "title": "Amy Clarke Solo Exhibition",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/amy-clarke-solo-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-asphalt-words-and-ocean-dreams-2026-10-29",
-      "title": "Asphalt words and ocean dreams",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/asphalt-words-and-ocean-dreams",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-bike-tune-ups-pyrmont-2026-10-29",
-      "title": "Free bike tune ups: Pyrmont",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-ups-pyrmont",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-salsa-classes-in-moore-park-2026-10-29",
-      "title": "Free Salsa Classes in Surry Hills",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-g-is-for-growth-2026-10-29",
-      "title": "G is for Growth",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/g-is-for-growth",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-line-dancing-thursdays-at-hay-st-2026-10-29",
-      "title": "Line Dancing Thursdays at Hay St",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/line-dancing-thursdays-at-hay-st",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-movement-and-dance-2026-10-29",
-      "title": "Movement and dance class",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/movement-and-dance",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-mum-walk-2026-10-29",
-      "title": "Mum walk",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mum-walk",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-natalia-gorbunova-behind-the-mask-2026-10-29",
-      "title": "Natalia Gorbunova – Behind the Mask",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/natalia-gorbunova-behind-the-mask",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ockerfest-2026-2026-10-29",
-      "title": "Ockerfest 2026",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ockerfest-2026",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-31",
-      "title": "The Entertainment Quarter Markets (EQ Markets)",
-      "oldDate": "2026-10-28",
+      "id": "gpt-usyd-hksa-wave-halloween-2026-10-31",
+      "title": "WAVE × HKSA USYD Halloween 2026",
       "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
+      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
     },
     {
-      "kind": "possible_reschedule",
-      "id": "city-halloween-at-hay-st-2026-11-01",
-      "title": "Halloween at Hay St",
-      "oldDate": "2026-10-28",
+      "kind": "new",
+      "id": "gpt-usyd-screamfest-manning-2026-10-31",
+      "title": "SCREAMFEST Sydney · Halloween Festival at Manning",
+      "date": "2026-10-31",
+      "url": "https://usu.edu.au/events/usu-events/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-hksa-wave-cont-2026-11-01",
+      "title": "WAVE × HKSA USYD Halloween · overnight continuation",
       "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
+      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
       "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-screamfest-cont-2026-11-01",
+      "title": "SCREAMFEST Sydney · overnight continuation",
+      "date": "2026-11-01",
+      "url": "https://usu.edu.au/events/usu-events/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-wind-down-wednesday-2026-11-04",
+      "title": "Wind Down Wednesdays · Elf screening",
+      "date": "2026-11-04",
+      "url": "https://usu.edu.au/events/wind-down-wednesdays/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "possible_reschedule",
-      "id": "city-discovery-come-and-get-techie-green-square-library-2026-11-04",
-      "title": "Come and get techie: Green Square Library",
-      "oldDate": "2026-10-28",
-      "date": "2026-11-04",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
-      "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
+      "id": "supra-266779-2026-11-15",
+      "title": "Carers’ Network Play and Chat",
+      "oldDate": "2026-11-01",
+      "date": "2026-11-15",
+      "url": "https://supra.net.au/event/carers-network-play-and-chat/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
       "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "gpt-tech-n-tonic-2026-11-04",
-      "title": "Tech 'n Tonic 2026: Student Technology Networking",
-      "date": "2026-11-04",
-      "url": "https://events.humanitix.com/tech-n-tonic-2026",
-      "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-digital-village-lean-coffee-2026-11-06",
-      "title": "Digital Village Lean Coffee Meetup",
-      "date": "2026-11-06",
-      "url": "https://events.humanitix.com/digital-village-lean-coffee-meetup",
-      "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "gpt-usyd-health-halloween-2026-10-29",
+      "title": "USYD Health Halloween Party 2026",
+      "date": "2026-10-29",
+      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-subs-afterlife-2026-10-29",
+      "title": "AFTERLIFE · USYD SUBS × UNSW × UTS Halloween Party",
+      "date": "2026-10-29",
+      "url": "https://www.eventbrite.com.au/e/afterlife-tickets-2002914976612",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-health-halloween-cont-2026-10-30",
+      "title": "USYD Health Halloween Party · overnight continuation",
+      "date": "2026-10-30",
+      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-hksa-wave-halloween-2026-10-31",
+      "title": "WAVE × HKSA USYD Halloween 2026",
+      "date": "2026-10-31",
+      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-screamfest-manning-2026-10-31",
+      "title": "SCREAMFEST Sydney · Halloween Festival at Manning",
+      "date": "2026-10-31",
+      "url": "https://usu.edu.au/events/usu-events/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-hksa-wave-cont-2026-11-01",
+      "title": "WAVE × HKSA USYD Halloween · overnight continuation",
+      "date": "2026-11-01",
+      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usyd-screamfest-cont-2026-11-01",
+      "title": "SCREAMFEST Sydney · overnight continuation",
+      "date": "2026-11-01",
+      "url": "https://usu.edu.au/events/usu-events/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-wind-down-wednesday-2026-11-04",
+      "title": "Wind Down Wednesdays · Elf screening",
+      "date": "2026-11-04",
+      "url": "https://usu.edu.au/events/wind-down-wednesdays/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "supra-266779-2026-11-15",
+      "title": "Carers’ Network Play and Chat",
+      "oldDate": "2026-11-01",
+      "date": "2026-11-15",
+      "url": "https://supra.net.au/event/carers-network-play-and-chat/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:00:03.284574Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
     {
       "kind": "new",
       "id": "city-discovery-bondis-day-of-the-dead-festival-2026-10-29",
@@ -1144,109 +1143,13 @@
       "priority": "low",
       "detectedAt": "2026-10-25T14:24:50.370638Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ur-wayii-incoming-tide-2026-10-26",
-      "title": "Ur Wayii (Incoming Tide)",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ur-wayii-incoming-tide",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-halloween-at-hay-st-2026-10-28",
-      "title": "Halloween at Hay St",
-      "oldDate": "2026-10-25",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
-      "priority": "medium",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-black-myth-2026-10-28",
-      "title": "Black Myth",
-      "oldDate": "2026-10-25",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/black-myth",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-28",
-      "title": "Ancestor Spirits and In the Half Light",
-      "oldDate": "2026-10-25",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ancestor-spirits-and-in-the-half-light",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-28",
-      "title": "Guided highlights tour: Anzac Memorial",
-      "oldDate": "2026-10-25",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-28",
-      "title": "Jordan Gower: Does the moon know the well?",
-      "oldDate": "2026-10-25",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/jordan-gower-does-the-moon-know-the-well",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-heather-b-swann-the-forests-of-symbols-2026-10-28",
-      "title": "Heather B. Swann: The Forests of Symbols",
-      "date": "2026-10-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/heather-b-swann-the-forests-of-symbols",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-willoughby-emerging-art-prize-2026-10-30",
-      "title": "Willoughby Emerging Art Prize",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/willoughby-emerging-art-prize",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-picnic-under-the-bridge-2026-10-31",
-      "title": "Picnic Under the Bridge",
-      "oldDate": "2026-10-25",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/picnic-under-the-bridge",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
     }
   ],
   "counts": {
-    "new": 15,
+    "new": 8,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 3,
+    "possibleReschedule": 1,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."

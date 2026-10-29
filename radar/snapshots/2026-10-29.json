@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-28T16:41:40.011Z",
-  "archivedAt": "2026-10-28T16:41:20.269552Z",
+  "checkedAt": "2026-10-29T01:00:04.729Z",
+  "archivedAt": "2026-10-29T01:00:03.284574Z",
   "timezone": "Australia/Sydney",
   "today": "2026-10-29",
   "status": "ok",
   "summary": {
-    "events": 185,
+    "events": 193,
     "news": 12,
     "high": 0,
-    "recommended": 53,
+    "recommended": 60,
     "fromWebsite": 112,
     "fromCityDiscovery": 69,
-    "fromGPT": 4,
+    "fromGPT": 12,
     "gptEnriched": 1,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 19128
+    "fetchMs": 853
   },
   "sources": [
     {
@@ -24,7 +24,7 @@
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
       "message": "已通过官方公开活动查询接口读取 74 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-10-28T16:41:39.968Z",
+      "checkedAt": "2026-10-29T00:51:47.850Z",
       "recordCount": 74
     },
     {
@@ -32,7 +32,7 @@
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "ok",
       "message": "已提取 5 条日期明确的公开活动",
-      "checkedAt": "2026-10-28T16:41:22.648Z",
+      "checkedAt": "2026-10-29T00:51:33.288Z",
       "recordCount": 5
     },
     {
@@ -40,7 +40,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-28T16:41:23.248Z",
+      "checkedAt": "2026-10-29T00:51:34.269Z",
       "recordCount": 0
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-28T16:41:22.307Z",
+      "checkedAt": "2026-10-29T00:51:33.199Z",
       "recordCount": 0
     },
     {
@@ -56,7 +56,7 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-10-28T16:41:24.225Z",
+      "checkedAt": "2026-10-29T00:51:35.241Z",
       "recordCount": 0
     },
     {
@@ -65,7 +65,7 @@
       "status": "ok",
       "recordCount": 13,
       "message": "已读取城市活动精选 13 条（包括 Ghost Festival）",
-      "checkedAt": "2026-10-28T16:41:22.517Z"
+      "checkedAt": "2026-10-29T00:51:33.147Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +73,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-10-28T16:41:22.480Z"
+      "checkedAt": "2026-10-29T00:51:33.121Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +81,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T16:41:23.797Z"
+      "checkedAt": "2026-10-29T00:51:33.125Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +89,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T16:41:24.088Z"
+      "checkedAt": "2026-10-29T00:51:34.282Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +97,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T16:41:22.997Z"
+      "checkedAt": "2026-10-29T00:51:34.013Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +105,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T16:41:23.350Z"
+      "checkedAt": "2026-10-29T00:51:33.917Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,7 +113,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-10-28T16:41:24.452Z"
+      "checkedAt": "2026-10-29T00:51:35.384Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -121,7 +121,7 @@
       "status": "ok",
       "recordCount": 6,
       "message": "已读取 2 个官方活动页面，解析到 6 条日程",
-      "checkedAt": "2026-10-28T16:41:22.625Z"
+      "checkedAt": "2026-10-29T00:51:33.447Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,7 +129,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-10-28T16:41:25.048Z"
+      "checkedAt": "2026-10-29T00:51:34.473Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -137,7 +137,7 @@
       "status": "ok",
       "recordCount": 21,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-10-28T16:41:23.848Z"
+      "checkedAt": "2026-10-29T00:51:34.749Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,7 +145,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-10-28T16:41:23.138Z"
+      "checkedAt": "2026-10-29T00:51:33.951Z"
     },
     {
       "name": "City discovery · city-free",
@@ -153,7 +153,7 @@
       "status": "ok",
       "recordCount": 42,
       "message": "Parsed 300 official structured listings; selected 42 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T16:41:21.930Z"
+      "checkedAt": "2026-10-29T00:51:32.417Z"
     },
     {
       "name": "City discovery · city-tech",
@@ -161,7 +161,7 @@
       "status": "ok",
       "recordCount": 25,
       "message": "Parsed 28 official structured listings; selected 25 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T16:41:22.704Z"
+      "checkedAt": "2026-10-29T00:51:33.502Z"
     },
     {
       "name": "City discovery · city-seminars",
@@ -169,7 +169,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "Parsed 8 official structured listings; selected 5 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T16:41:22.697Z"
+      "checkedAt": "2026-10-29T00:51:33.445Z"
     },
     {
       "name": "City discovery · city-tours",
@@ -177,14 +177,14 @@
       "status": "ok",
       "recordCount": 0,
       "message": "Parsed 158 official structured listings; selected 0 relevant upcoming activities.",
-      "checkedAt": "2026-10-28T16:41:23.421Z"
+      "checkedAt": "2026-10-29T00:51:34.268Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
-      "recordCount": 5,
-      "checkedAt": "2026-10-28T16:41:21.974Z",
+      "recordCount": 13,
+      "checkedAt": "2026-10-29T01:00:04.706Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
@@ -301,6 +301,50 @@
       "verified": "2026-10-13",
       "feedSource": "gpt-reviewed",
       "priorityReason": "Free Mandarin-speaking AI builder group; practical networking and demos; accessible by public transport"
+    },
+    {
+      "id": "gpt-usyd-health-halloween-2026-10-29",
+      "title": "USYD Health Halloween Party 2026",
+      "titleZh": "悉大健康相关社团联合万圣节派对",
+      "date": "2026-10-29",
+      "time": "20:00–次日04:00",
+      "location": "Side Bar Sydney, 509 Pitt St, Haymarket NSW 2000",
+      "locationZh": "Side Bar，Haymarket 皮特街509号",
+      "category": "culture",
+      "priority": "medium",
+      "score": 69,
+      "summary": "Eleven USYD health-related societies co-host a Halloween costume party. One overnight event, not two separate parties.",
+      "summaryZh": "由 USYD 11 个健康相关学生社团联合举办的万圣节化装派对，跨越29日晚至30日凌晨；不是两场独立活动。",
+      "eligibility": "Check ticket and venue age requirements",
+      "registration": "Ticketed; consult organiser's Humanitix page for availability and conditions",
+      "confidence": "confirmed",
+      "sourceName": "USYD Health societies · Humanitix",
+      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "USYD student societies; Halloween; verified time"
+    },
+    {
+      "id": "gpt-usyd-subs-afterlife-2026-10-29",
+      "title": "AFTERLIFE · USYD SUBS × UNSW × UTS Halloween Party",
+      "titleZh": "AFTERLIFE｜悉大商业社团联合万圣节派对",
+      "date": "2026-10-29",
+      "time": "20:00 开始，结束时间以主办方为准",
+      "location": "Home Main Venue, 101/1-5 Wheat Road, Darling Park NSW 2000",
+      "locationZh": "Home The Venue，Darling Park",
+      "category": "culture",
+      "priority": "medium",
+      "score": 69,
+      "summary": "Inter-university Halloween night co-hosted by Sydney University Business Society, UNSW BSOC and UTS Business Society.",
+      "summaryZh": "悉大商业社团 SUBS、UNSW BSOC 与 UTS 商业社团联合举办的校际万圣节派对。",
+      "eligibility": "18+ only; valid photo identification required",
+      "registration": "Ticketed; check availability and latest price on Eventbrite",
+      "confidence": "confirmed",
+      "sourceName": "SUBS / UNSW BSOC / UTS BSoc · Eventbrite",
+      "url": "https://www.eventbrite.com.au/e/afterlife-tickets-2002914976612",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "USYD club; Halloween; same-day relevance"
     },
     {
       "id": "city-discovery-200th-anniversary-exhibitions-2026-10-29",
@@ -1215,6 +1259,28 @@
       "priorityReason": "Sydney festival; This week"
     },
     {
+      "id": "gpt-usyd-health-halloween-cont-2026-10-30",
+      "title": "USYD Health Halloween Party · overnight continuation",
+      "titleZh": "悉大健康社团万圣节派对｜凌晨续场",
+      "date": "2026-10-30",
+      "time": "00:00–04:00",
+      "location": "Side Bar Sydney, 509 Pitt St, Haymarket NSW 2000",
+      "locationZh": "Side Bar，Haymarket 皮特街509号",
+      "category": "culture",
+      "priority": "medium",
+      "score": 69,
+      "summary": "Continuation after midnight of the party starting 29 Oct at 20:00. Do not purchase another ticket for this entry.",
+      "summaryZh": "10月29日晚8点开始的同一场派对，在30日凌晨继续进行；这不是新的独立场次。",
+      "eligibility": "Same ticket and venue conditions as 29 Oct",
+      "registration": "See original 29 Oct event for tickets; not a separate booking",
+      "confidence": "confirmed",
+      "sourceName": "USYD Health societies · Humanitix",
+      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "Cross-midnight event must remain discoverable on 30 Oct"
+    },
+    {
       "id": "city-discovery-alana-hunt-to-the-owner-2026-10-30",
       "title": "Alana Hunt: To the Owner",
       "date": "2026-10-30",
@@ -1385,6 +1451,50 @@
       "priorityReason": "Sydney festival; Student union / local; This week"
     },
     {
+      "id": "gpt-usyd-hksa-wave-halloween-2026-10-31",
+      "title": "WAVE × HKSA USYD Halloween 2026",
+      "titleZh": "WAVE × 悉大香港学生会万圣节派对",
+      "date": "2026-10-31",
+      "time": "22:00–次日03:30",
+      "location": "Pumphouse Sydney, 17 Little Pier Street, Darling Harbour NSW 2000",
+      "locationZh": "Pumphouse，达令港 Little Pier Street 17号",
+      "category": "culture",
+      "priority": "medium",
+      "score": 69,
+      "summary": "Halloween music and DJ night organised with HKSA USYD, continuing into 1 November.",
+      "summaryZh": "与悉大香港学生会 HKSA 合作举办的万圣节 DJ 派对，持续到11月1日凌晨。",
+      "eligibility": "Check organiser age and entry conditions",
+      "registration": "Ticketed; see organiser's Eventbrite page",
+      "confidence": "confirmed",
+      "sourceName": "WAVE SYDNEY / HKSA USYD · Eventbrite",
+      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "USYD student society; Halloween; cross-midnight"
+    },
+    {
+      "id": "gpt-usyd-screamfest-manning-2026-10-31",
+      "title": "SCREAMFEST Sydney · Halloween Festival at Manning",
+      "titleZh": "SCREAMFEST 悉大 Manning 万圣节音乐节",
+      "date": "2026-10-31",
+      "time": "17:00–次日02:00（票务时间；现场以主办方为准）",
+      "location": "Manning Bar / Manning Open-Air, University of Sydney, Camperdown",
+      "locationZh": "悉尼大学 Manning Bar／露天活动区",
+      "category": "culture",
+      "priority": "medium",
+      "score": 69,
+      "summary": "Large 18+ Halloween festival held at USYD's Manning precinct. Published start/door times differ between venue and ticket listings; check the ticket.",
+      "summaryZh": "在悉尼大学 Manning 举办的18岁以上万圣节音乐节。学生会、场馆与票务网页的入场时间略有差异，应以购票确认及主办方更新为准。",
+      "eligibility": "18+; valid photo ID required",
+      "registration": "Paid ticket; check latest availability and USU member offers",
+      "confidence": "partial",
+      "sourceName": "USU / Screamfest · official event calendar",
+      "url": "https://usu.edu.au/events/usu-events/",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "Prominent on-campus Halloween event omitted from current feed"
+    },
+    {
       "id": "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-31",
       "title": "The Entertainment Quarter Markets (EQ Markets)",
       "date": "2026-10-31",
@@ -1537,6 +1647,50 @@
       "priorityReason": "Sydney festival; Student union / local; This week"
     },
     {
+      "id": "gpt-usyd-hksa-wave-cont-2026-11-01",
+      "title": "WAVE × HKSA USYD Halloween · overnight continuation",
+      "titleZh": "WAVE × 悉大香港学生会万圣节派对｜凌晨续场",
+      "date": "2026-11-01",
+      "time": "00:00–03:30",
+      "location": "Pumphouse Sydney, 17 Little Pier Street, Darling Harbour NSW 2000",
+      "locationZh": "Pumphouse，达令港 Little Pier Street 17号",
+      "category": "culture",
+      "priority": "medium",
+      "score": 69,
+      "summary": "After-midnight continuation of the 31 October Halloween DJ event, not a separate event.",
+      "summaryZh": "10月31日晚10点开始的同一场派对，在11月1日凌晨继续；不是另一场活动。",
+      "eligibility": "Same entry conditions as 31 Oct",
+      "registration": "See 31 Oct event; this is not a separate booking",
+      "confidence": "confirmed",
+      "sourceName": "WAVE SYDNEY / HKSA USYD · Eventbrite",
+      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "Cross-midnight continuation visible on second date"
+    },
+    {
+      "id": "gpt-usyd-screamfest-cont-2026-11-01",
+      "title": "SCREAMFEST Sydney · overnight continuation",
+      "titleZh": "SCREAMFEST 悉大万圣节音乐节｜凌晨续场",
+      "date": "2026-11-01",
+      "time": "00:00–02:00（票务页面显示；以现场为准）",
+      "location": "Manning Bar / Manning Open-Air, University of Sydney, Camperdown",
+      "locationZh": "悉尼大学 Manning Bar／露天活动区",
+      "category": "culture",
+      "priority": "medium",
+      "score": 69,
+      "summary": "After-midnight continuation of the 31 Oct event, not a separate festival day. End times vary by organiser page.",
+      "summaryZh": "10月31日万圣节音乐节在11月1日凌晨的延续，并非另一场音乐节；具体结束时间以现场公布为准。",
+      "eligibility": "Same 18+ policy as 31 Oct",
+      "registration": "See the 31 Oct event; not a separate ticket",
+      "confidence": "partial",
+      "sourceName": "USU / Screamfest · official event calendar",
+      "url": "https://usu.edu.au/events/usu-events/",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "Multi-date event should be discoverable on 1 Nov"
+    },
+    {
       "id": "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01",
       "title": "Sunday Free Carillon Recital",
       "date": "2026-11-01",
@@ -1591,25 +1745,6 @@
       "url": "https://whatson.sydney.edu.au/event/ac9c62f8-4533-49d2-b712-79d8b71957bc/Jacinda-Ardern-%26-Anna-Funder%3A-The-Art-of-Disagreement",
       "verified": "2026-10-29",
       "feedSource": "university",
-      "priorityReason": "This week"
-    },
-    {
-      "id": "supra-266779-2026-11-01",
-      "title": "Carers’ Network Play and Chat",
-      "date": "2026-11-01",
-      "time": "14:00–16:00",
-      "location": "SUPRA Level 1",
-      "category": "culture",
-      "priority": "low",
-      "score": 38,
-      "summary": "Official SUPRA event. See source for eligibility, registration and costs.",
-      "eligibility": "Check if CET/undergraduate students can attend; don't assume eligibility.",
-      "registration": "Check the organiser's official registration page",
-      "confidence": "confirmed",
-      "sourceName": "SUPRA · Postgraduate representative association",
-      "url": "https://supra.net.au/event/carers-network-play-and-chat/",
-      "verified": "2026-10-29",
-      "feedSource": "associations",
       "priorityReason": "This week"
     },
     {
@@ -1929,6 +2064,28 @@
       "verified": "2026-10-28",
       "feedSource": "gpt-reviewed",
       "priorityReason": "Affordable direct access to technology recruiters and internship/graduate opportunities for university students."
+    },
+    {
+      "id": "gpt-usu-wind-down-wednesday-2026-11-04",
+      "title": "Wind Down Wednesdays · Elf screening",
+      "titleZh": "Wind Down Wednesdays｜11月4日《Elf》露天电影",
+      "date": "2026-11-04",
+      "time": "17:00–20:00",
+      "location": "Cadigal Green, University of Sydney",
+      "locationZh": "悉尼大学 Cadigal Green 草坪",
+      "category": "culture",
+      "priority": "low",
+      "score": 31,
+      "summary": "Weekly sunset cinema at Cadigal Green; 4 November is the listed Elf screening, not a continuous daily event.",
+      "summaryZh": "USU 每周三黄昏电影活动，11月4日场次播放《Elf》。该系列每周三举办，并非8月12日至11月4日每天举行。",
+      "eligibility": "Check individual session registration and updates",
+      "registration": "See the USU page for changes; some earlier sessions have been cancelled due to weather",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney Union (USU)",
+      "url": "https://usu.edu.au/events/wind-down-wednesdays/",
+      "verified": "2026-10-29",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "Recurring series must be visible on actual occurrence date"
     },
     {
       "id": "usyd-c25d8425-28cb-4d4e-83a9-e039c1dfa079-2026-11-05",
@@ -2900,6 +3057,25 @@
       "verified": "2026-10-29",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
+    },
+    {
+      "id": "supra-266779-2026-11-15",
+      "title": "Carers’ Network Play and Chat",
+      "date": "2026-11-15",
+      "time": "14:00–16:00",
+      "location": "SUPRA Level 1",
+      "category": "culture",
+      "priority": "low",
+      "score": 25,
+      "summary": "Official SUPRA event. See source for eligibility, registration and costs.",
+      "eligibility": "Check if CET/undergraduate students can attend; don't assume eligibility.",
+      "registration": "Check the organiser's official registration page",
+      "confidence": "confirmed",
+      "sourceName": "SUPRA · Postgraduate representative association",
+      "url": "https://supra.net.au/event/carers-network-play-and-chat/",
+      "verified": "2026-10-29",
+      "feedSource": "associations",
+      "priorityReason": "General event"
     },
     {
       "id": "supra-10004975-2026-11-15",

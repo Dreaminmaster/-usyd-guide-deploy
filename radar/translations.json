@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-28T16:41:40.141077Z",
+  "updatedAt": "2026-10-29T01:00:04.840998Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 55,
+  "count": 69,
   "entries": {
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -443,6 +443,118 @@
       "sourceSummary": "Explore a vibrant tapestry of life",
       "summaryZh": "",
       "translatedAt": "2026-10-28T16:41:40.141077Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usyd-health-halloween-2026-10-29": {
+      "sourceTitle": "USYD Health Halloween Party 2026",
+      "titleZh": "2026年USYD健康万圣节派对",
+      "sourceSummary": "Eleven USYD health-related societies co-host a Halloween costume party. One overnight event, not two separate parties.",
+      "summaryZh": "11个与USYD健康相关的社团共同举办了万圣节化妆舞会。一个通宵活动，而不是两个单独的派对。",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usyd-subs-afterlife-2026-10-29": {
+      "sourceTitle": "AFTERLIFE · USYD SUBS × UNSW × UTS Halloween Party",
+      "titleZh": "来世· USYD SUBS × UNSW × UTS万圣节派对",
+      "sourceSummary": "Inter-university Halloween night co-hosted by Sydney University Business Society, UNSW BSOC and UTS Business Society.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usyd-health-halloween-cont-2026-10-30": {
+      "sourceTitle": "USYD Health Halloween Party · overnight continuation",
+      "titleZh": "USYD健康万圣节派对·通宵延续",
+      "sourceSummary": "Continuation after midnight of the party starting 29 Oct at 20:00. Do not purchase another ticket for this entry.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usyd-hksa-wave-halloween-2026-10-31": {
+      "sourceTitle": "WAVE × HKSA USYD Halloween 2026",
+      "titleZh": "WAVE × HKSA USYD万圣节2026",
+      "sourceSummary": "Halloween music and DJ night organised with HKSA USYD, continuing into 1 November.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usyd-screamfest-manning-2026-10-31": {
+      "sourceTitle": "SCREAMFEST Sydney · Halloween Festival at Manning",
+      "titleZh": "SCREAMFEST悉尼·曼宁万圣节",
+      "sourceSummary": "Large 18+ Halloween festival held at USYD's Manning precinct. Published start/door times differ between venue and ticket listings; check the ticket.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usyd-hksa-wave-cont-2026-11-01": {
+      "sourceTitle": "WAVE × HKSA USYD Halloween · overnight continuation",
+      "titleZh": "WAVE × HKSA USYD万圣节·连夜",
+      "sourceSummary": "After-midnight continuation of the 31 October Halloween DJ event, not a separate event.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-amy-clarke-solo-exhibition-2026-10-29": {
+      "sourceTitle": "Amy Clarke Solo Exhibition",
+      "titleZh": "艾米·克拉克个展",
+      "sourceSummary": "What binds us",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ancestor-spirits-and-in-the-half-light-2026-10-29": {
+      "sourceTitle": "Ancestor Spirits and In the Half Light",
+      "titleZh": "祖灵和半光之旅",
+      "sourceSummary": "Andy Ewing: Ancestor Spirits and Kirthana Selvaraj: In the Half Light",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-asphalt-words-and-ocean-dreams-2026-10-29": {
+      "sourceTitle": "Asphalt words and ocean dreams",
+      "titleZh": "沥青文字和海洋梦",
+      "sourceSummary": "A cosy open mic for poets and writers in a brewery",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-aussies-peter-drew-2026-10-29": {
+      "sourceTitle": "AUSSIES Peter Drew",
+      "titleZh": "澳大利亚人Peter Drew",
+      "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-29": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-29": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-exclusive-hsc-study-nights-for-students-2026-10-29": {
+      "sourceTitle": "HSC ready? We’ve got space for you",
+      "titleZh": "HSC准备好了吗？我们为您准备了空间",
+      "sourceSummary": "Darling Square and Green Square libraries will be open after hours in the lead up to and during exams",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-bike-tune-ups-pyrmont-2026-10-29": {
+      "sourceTitle": "Free bike tune ups: Pyrmont",
+      "titleZh": "免费自行车调整：皮尔蒙特",
+      "sourceSummary": "We’re talking to pedestrians and riders about respecting each other’s journey",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:00:04.840998Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
