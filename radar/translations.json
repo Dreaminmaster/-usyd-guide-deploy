@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T16:57:24.626151Z",
+  "updatedAt": "2026-10-29T21:29:58.854260Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 61,
+  "count": 63,
   "entries": {
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -491,6 +491,22 @@
       "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
       "summaryZh": "",
       "translatedAt": "2026-10-29T16:57:24.626151Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-10-30": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T21:29:58.854260Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-10-30": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T21:29:58.854260Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

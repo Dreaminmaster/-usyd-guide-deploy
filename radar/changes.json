@@ -1,152 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-29T16:57:04.962497Z",
-  "sourceCheckedAt": "2026-10-29T16:57:24.522Z",
+  "checkedAt": "2026-10-29T21:29:57.510326Z",
+  "sourceCheckedAt": "2026-10-29T21:29:58.337Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "city-discovery-progress-and-purpose-science-and-religion-2026-10-30",
-      "title": "Progress & Purpose: Science and Religion",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/progress-and-purpose-science-and-religion",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-infinite-look-a-history-of-gazing-skyward-2026-10-30",
-      "title": "The Infinite Look: A History of Gazing Skyward",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-infinite-look-a-history-of-gazing-skyward",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-chapel-row-jazz-2026-10-30",
-      "title": "Chapel Row Jazz",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/chapel-row-jazz",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-fridays-r-and-b-at-hay-st-2026-10-30",
-      "title": "Fridays R&B at Hay St",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/fridays-r-and-b-at-hay-st",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-10-30",
-      "title": "Guided highlights tour: Anzac Memorial",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-guided-highlights-tour-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-music-and-movement-with-ian-at-st-helens-2026-10-30",
-      "title": "Music and movement",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/music-and-movement-with-ian-at-st-helens",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-lids-sorting-session-2026-10-30",
-      "title": "Recycling and lids sorting volunteer session",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lids-sorting-session",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-tannya-harricks-exposed-and-protected-2026-10-30",
-      "title": "Tannya Harricks: Exposed & Protected",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/tannya-harricks-exposed-and-protected",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-centenary-exhibition-2026-10-30",
-      "title": "The Centenary Exhibition",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-centenary-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-paintings-gallery-2026-10-30",
-      "title": "The Paintings Gallery",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-paintings-gallery",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-theatre-of-life-exhibition-2026-10-30",
-      "title": "Theatre of Life Exhibition",
-      "date": "2026-10-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-come-and-get-techie-2026-11-05",
-      "title": "Come and get techie: Darling Square Library",
-      "oldDate": "2026-10-29",
-      "date": "2026-11-05",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-meditation-classes-2026-11-05",
-      "title": "iMeditate free meditation",
-      "oldDate": "2026-10-29",
-      "date": "2026-11-05",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-classes",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "usyd-d9a37489-d6b3-420c-8953-51367df9655d-2026-11-30",
-      "title": "Artificial Intelligence and Human Creativity",
-      "date": "2026-11-30",
-      "url": "https://whatson.sydney.edu.au/event/d9a37489-d6b3-420c-8953-51367df9655d/Artificial-Intelligence-and-Human-Creativity",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T16:57:04.962497Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1194,10 +1051,10 @@
     }
   ],
   "counts": {
-    "new": 12,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 2,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
