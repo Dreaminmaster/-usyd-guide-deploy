@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-29T01:00:04.729Z",
-  "archivedAt": "2026-10-29T01:00:03.284574Z",
+  "checkedAt": "2026-10-29T01:04:04.588Z",
+  "archivedAt": "2026-10-29T01:04:04.178871Z",
   "timezone": "Australia/Sydney",
   "today": "2026-10-29",
   "status": "ok",
@@ -16,7 +16,7 @@
     "gptEnriched": 1,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 853
+    "fetchMs": 49
   },
   "sources": [
     {

@@ -1,101 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-29T01:00:03.284574Z",
-  "sourceCheckedAt": "2026-10-29T01:00:04.729Z",
+  "checkedAt": "2026-10-29T01:04:04.178871Z",
+  "sourceCheckedAt": "2026-10-29T01:04:04.588Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "gpt-usyd-health-halloween-2026-10-29",
-      "title": "USYD Health Halloween Party 2026",
-      "date": "2026-10-29",
-      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-subs-afterlife-2026-10-29",
-      "title": "AFTERLIFE · USYD SUBS × UNSW × UTS Halloween Party",
-      "date": "2026-10-29",
-      "url": "https://www.eventbrite.com.au/e/afterlife-tickets-2002914976612",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-health-halloween-cont-2026-10-30",
-      "title": "USYD Health Halloween Party · overnight continuation",
-      "date": "2026-10-30",
-      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-hksa-wave-halloween-2026-10-31",
-      "title": "WAVE × HKSA USYD Halloween 2026",
-      "date": "2026-10-31",
-      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-screamfest-manning-2026-10-31",
-      "title": "SCREAMFEST Sydney · Halloween Festival at Manning",
-      "date": "2026-10-31",
-      "url": "https://usu.edu.au/events/usu-events/",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-hksa-wave-cont-2026-11-01",
-      "title": "WAVE × HKSA USYD Halloween · overnight continuation",
-      "date": "2026-11-01",
-      "url": "https://www.eventbrite.com.au/e/wave-x-hksa-usyd-halloween-sat-31st-oct-2026-tickets-2003486283406",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-screamfest-cont-2026-11-01",
-      "title": "SCREAMFEST Sydney · overnight continuation",
-      "date": "2026-11-01",
-      "url": "https://usu.edu.au/events/usu-events/",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usu-wind-down-wednesday-2026-11-04",
-      "title": "Wind Down Wednesdays · Elf screening",
-      "date": "2026-11-04",
-      "url": "https://usu.edu.au/events/wind-down-wednesdays/",
-      "priority": "low",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "supra-266779-2026-11-15",
-      "title": "Carers’ Network Play and Chat",
-      "oldDate": "2026-11-01",
-      "date": "2026-11-15",
-      "url": "https://supra.net.au/event/carers-network-play-and-chat/",
-      "priority": "low",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1146,10 +1054,10 @@
     }
   ],
   "counts": {
-    "new": 8,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 1,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
