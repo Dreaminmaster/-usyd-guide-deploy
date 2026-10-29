@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T01:00:04.840998Z",
+  "updatedAt": "2026-10-29T01:51:09.302566Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 69,
+  "count": 83,
   "entries": {
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -457,8 +457,8 @@
       "sourceTitle": "AFTERLIFE · USYD SUBS × UNSW × UTS Halloween Party",
       "titleZh": "来世· USYD SUBS × UNSW × UTS万圣节派对",
       "sourceSummary": "Inter-university Halloween night co-hosted by Sydney University Business Society, UNSW BSOC and UTS Business Society.",
-      "summaryZh": "",
-      "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "summaryZh": "由悉尼大学商业协会、新南威尔士大学商学院和UTS商业协会共同主办的大学间万圣节之夜。",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
       "provider": "MyMemory (free, best effort)"
     },
     "gpt-usyd-health-halloween-cont-2026-10-30": {
@@ -555,6 +555,118 @@
       "sourceSummary": "We’re talking to pedestrians and riders about respecting each other’s journey",
       "summaryZh": "",
       "translatedAt": "2026-10-29T01:00:04.840998Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usu-sem2-daytrip-2026-10-30": {
+      "sourceTitle": "Semester 2 Day Trip · True Crime Story Tour",
+      "titleZh": "2学期一日游·真实犯罪故事之旅",
+      "sourceSummary": "One actual scheduled instance of USU Semester 2 Day Trips, not a daily event spanning August to November. Check the individual booking details before travel.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usu-sem2-daytrip-2026-11-06": {
+      "sourceTitle": "Semester 2 Day Trip · Yoga on Bondi Beach",
+      "titleZh": "2学期一日游·邦迪海滩瑜伽",
+      "sourceSummary": "One actual scheduled instance of USU Semester 2 Day Trips, not a daily event spanning August to November. Check the individual booking details before travel.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-salsa-classes-in-moore-park-2026-10-29": {
+      "sourceTitle": "Free Salsa Classes in Surry Hills",
+      "titleZh": "萨里山免费萨尔萨舞课",
+      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-g-is-for-growth-2026-10-29": {
+      "sourceTitle": "G is for Growth",
+      "titleZh": "G代表成长",
+      "sourceSummary": "An exhibition about the visual culture of urban renewal in Sydney and the economies it circulates within.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guided-walks-2026-10-29": {
+      "sourceTitle": "Guided walks",
+      "titleZh": "导览漫步",
+      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-john-and-jacqui-mullen-collection-2026-10-29": {
+      "sourceTitle": "John and Jacqui Mullen Collection",
+      "titleZh": "John和Jacqui Mullen系列",
+      "sourceSummary": "An extraordinary collection of rare manuscripts, books, maps and navigational instruments",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-10-29": {
+      "sourceTitle": "Jordan Gower: Does the moon know the well?",
+      "titleZh": "乔丹·高尔：月亮知道井吗？",
+      "sourceSummary": "The first institutional exhibition of South Australian ceramic artist Jordan Gower.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-line-dancing-thursdays-at-hay-st-2026-10-29": {
+      "sourceTitle": "Line Dancing Thursdays at Hay St",
+      "titleZh": "星期四在干草街跳排舞",
+      "sourceSummary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-dreamers-big-stories-2026-10-29": {
+      "sourceTitle": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "titleZh": "NAIDOC海报展览-致命的50年",
+      "sourceSummary": "Join us for a special NAIDOC Art Exhibition showcasing NAIDOC posters through the years.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-sydney-lives-exhibition-2026-10-29": {
+      "sourceTitle": "Little Sydney Lives Exhibition",
+      "titleZh": "小悉尼生活展",
+      "sourceSummary": "A glimpse of daily life through the eyes of young Sydneysiders aged 5 to 12",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-lorrie-graham-photojournalist-2026-10-29": {
+      "sourceTitle": "Lorrie Graham: Photojournalist",
+      "titleZh": "Lorrie Graham ：摄影记者",
+      "sourceSummary": "Explore five decades of extraordinary photography by one of Australia’s most important and influential photojournalists.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-love-food-fair-2025-2026-10-29": {
+      "sourceTitle": "Love Food Fair 2026",
+      "titleZh": "2026年爱情食品博览会",
+      "sourceSummary": "Delicious plant-based food, with performance, fun games and activities to celebrate love, compassion, and mindfulness",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-mervyn-bishop-close-up-2026-10-29": {
+      "sourceTitle": "Mervyn Bishop: Close Up",
+      "titleZh": "Mervyn Bishop ：特写",
+      "sourceSummary": "A rare glimpse behind the lens of one of Australia’s most important photographers.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-movement-and-dance-2026-10-29": {
+      "sourceTitle": "Movement and dance class",
+      "titleZh": "动作和舞蹈课",
+      "sourceSummary": "Learn different styles of dance including line, square and Chinese folk in this class for older adults.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-29T01:51:09.302566Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

@@ -1,10 +1,251 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-29T01:04:04.178871Z",
-  "sourceCheckedAt": "2026-10-29T01:04:04.588Z",
+  "checkedAt": "2026-10-29T01:51:07.627510Z",
+  "sourceCheckedAt": "2026-10-29T01:51:09.136Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-10-29",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-10-29",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-sem2-daytrip-2026-10-30",
+      "title": "Semester 2 Day Trip · True Crime Story Tour",
+      "date": "2026-10-30",
+      "url": "https://usu.edu.au/events/semester-2-day-trips/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-10-30",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-10-30",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-02",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-02",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-03",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-03",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-04",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-04",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-05",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-05",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-sem2-daytrip-2026-11-06",
+      "title": "Semester 2 Day Trip · Yoga on Bondi Beach",
+      "date": "2026-11-06",
+      "url": "https://usu.edu.au/events/semester-2-day-trips/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-06",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-06",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-09",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-09",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-10",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-10",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-11",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-11",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-10-29",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-10-29",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-sem2-daytrip-2026-10-30",
+      "title": "Semester 2 Day Trip · True Crime Story Tour",
+      "date": "2026-10-30",
+      "url": "https://usu.edu.au/events/semester-2-day-trips/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-10-30",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-10-30",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-02",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-02",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-03",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-03",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-04",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-04",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-05",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-05",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-sem2-daytrip-2026-11-06",
+      "title": "Semester 2 Day Trip · Yoga on Bondi Beach",
+      "date": "2026-11-06",
+      "url": "https://usu.edu.au/events/semester-2-day-trips/",
+      "priority": "medium",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-06",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-06",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-09",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-09",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-10",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-10",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-usu-verge-white-jade-orchids-2026-11-11",
+      "title": "White Jade Orchids · Verge Gallery Exhibition",
+      "date": "2026-11-11",
+      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
+      "priority": "low",
+      "detectedAt": "2026-10-29T01:51:07.627510Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "gpt-usyd-health-halloween-2026-10-29",
@@ -931,130 +1172,10 @@
       "priority": "medium",
       "detectedAt": "2026-10-25T14:24:50.370638Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-infinite-look-a-history-of-gazing-skyward-2026-10-26",
-      "title": "The Infinite Look: A History of Gazing Skyward",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-infinite-look-a-history-of-gazing-skyward",
-      "priority": "medium",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-mervyn-bishop-close-up-2026-10-26",
-      "title": "Mervyn Bishop: Close Up",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mervyn-bishop-close-up",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-little-dreamers-big-stories-2026-10-26",
-      "title": "NAIDOC Poster exhibition - 50 years of Deadly",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/little-dreamers-big-stories",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-10-26",
-      "title": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/navy-125-commemorating-125-years-of-australias-navy",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-pearling-elders-2026-10-26",
-      "title": "Pearling Elders",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-centenary-exhibition-2026-10-26",
-      "title": "The Centenary Exhibition",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-centenary-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-paintings-gallery-2026-10-26",
-      "title": "The Paintings Gallery",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-paintings-gallery",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-undoing-the-city-making-home-2026-10-26",
-      "title": "Undoing the City, Making Home",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/undoing-the-city-making-home",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-wall-of-tears-exhibition-2026-10-26",
-      "title": "Wall of Tears exhibition",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/wall-of-tears-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-daily-service-of-remembrance-2026-10-26",
-      "title": "Daily Service of Remembrance",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/daily-service-of-remembrance",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-dream-horse-2026-10-26",
-      "title": "Dream Horse",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-live-music-at-foys-2026-10-26",
-      "title": "Live Music at Foys",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/live-music-at-foys",
-      "priority": "low",
-      "detectedAt": "2026-10-25T14:24:50.370638Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 12,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
