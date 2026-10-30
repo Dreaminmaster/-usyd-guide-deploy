@@ -1,1 +1,16 @@
-{}
+{
+  "city-halloween-street-party-newtown-neighbourhood-centre-2026-10-31": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-30T01:59:04.173060Z",
+    "title": "Halloween Street Party @ Newtown Neighbourhood Centre",
+    "date": "2026-10-31",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-street-party-newtown-neighbourhood-centre"
+  },
+  "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-31": {
+    "observations": 1,
+    "firstMissingAt": "2026-10-30T01:59:04.173060Z",
+    "title": "The Entertainment Quarter Markets (EQ Markets)",
+    "date": "2026-10-31",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter"
+  }
+}

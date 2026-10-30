@@ -1,10 +1,91 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-29T21:29:57.510326Z",
-  "sourceCheckedAt": "2026-10-29T21:29:58.337Z",
+  "checkedAt": "2026-10-30T01:59:04.173060Z",
+  "sourceCheckedAt": "2026-10-30T01:59:23.768Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "gpt-one-big-idea-2026-11-03",
+      "title": "One Big Idea: Tenth Anniversary Special",
+      "date": "2026-11-03",
+      "url": "https://www.events.unsw.edu.au/event/one-big-idea-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-engineering-entrepreneurship-2026-11-10",
+      "title": "Engineering the Future: The Entrepreneurship Paradox",
+      "date": "2026-11-10",
+      "url": "https://www.events.unsw.edu.au/event/engineering-future-entrepreneurship-paradox",
+      "priority": "medium",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-433c69cb-c871-4b03-927f-eb1fd3bd36ae-2026-11-12",
+      "title": "Sydney Biomedical Accelerator Showcase",
+      "date": "2026-11-12",
+      "url": "https://whatson.sydney.edu.au/event/433c69cb-c871-4b03-927f-eb1fd3bd36ae/Sydney-Biomedical-Accelerator-Showcase",
+      "priority": "low",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-unsw-future-ai-2026-11-13",
+      "title": "The Future of AI @ UNSW House",
+      "date": "2026-11-13",
+      "url": "https://www.events.unsw.edu.au/event/unsw-house-1311",
+      "priority": "medium",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "gpt-one-big-idea-2026-11-03",
+      "title": "One Big Idea: Tenth Anniversary Special",
+      "date": "2026-11-03",
+      "url": "https://www.events.unsw.edu.au/event/one-big-idea-2026",
+      "priority": "medium",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-engineering-entrepreneurship-2026-11-10",
+      "title": "Engineering the Future: The Entrepreneurship Paradox",
+      "date": "2026-11-10",
+      "url": "https://www.events.unsw.edu.au/event/engineering-future-entrepreneurship-paradox",
+      "priority": "medium",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-433c69cb-c871-4b03-927f-eb1fd3bd36ae-2026-11-12",
+      "title": "Sydney Biomedical Accelerator Showcase",
+      "date": "2026-11-12",
+      "url": "https://whatson.sydney.edu.au/event/433c69cb-c871-4b03-927f-eb1fd3bd36ae/Sydney-Biomedical-Accelerator-Showcase",
+      "priority": "low",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "gpt-unsw-future-ai-2026-11-13",
+      "title": "The Future of AI @ UNSW House",
+      "date": "2026-11-13",
+      "url": "https://www.events.unsw.edu.au/event/unsw-house-1311",
+      "priority": "medium",
+      "detectedAt": "2026-10-30T01:59:04.173060Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-discovery-progress-and-purpose-science-and-religion-2026-10-30",
@@ -998,60 +1079,10 @@
       "priority": "low",
       "detectedAt": "2026-10-26T00:25:12.257353Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-lorrie-graham-photojournalist-2026-10-26",
-      "title": "Lorrie Graham: Photojournalist",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lorrie-graham-photojournalist",
-      "differences": {
-        "time": {
-          "before": "10:00–17:00",
-          "after": "09:00–20:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-26T00:25:12.257353Z"
-    },
-    {
-      "kind": "updated",
-      "id": "city-discovery-mervyn-bishop-close-up-2026-10-26",
-      "title": "Mervyn Bishop: Close Up",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mervyn-bishop-close-up",
-      "differences": {
-        "time": {
-          "before": "10:00–17:00",
-          "after": "09:00–20:00"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-10-26T00:25:12.257353Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-intro-to-ukulele-2026-10-26",
-      "title": "Music instrument class",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/intro-to-ukulele",
-      "priority": "low",
-      "detectedAt": "2026-10-26T00:25:12.257353Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ok-ok-ok-2026-10-26",
-      "title": "OK? Ok, ok…",
-      "date": "2026-10-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "priority": "low",
-      "detectedAt": "2026-10-26T00:25:12.257353Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 4,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,

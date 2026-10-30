@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T21:29:58.854260Z",
+  "updatedAt": "2026-10-30T01:59:23.883278Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
   "count": 63,
@@ -211,14 +211,6 @@
       "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
       "summaryZh": "",
       "translatedAt": "2026-10-26T16:49:13.938863Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-halloween-street-party-newtown-neighbourhood-centre-2026-10-31": {
-      "sourceTitle": "Halloween Street Party @ Newtown Neighbourhood Centre",
-      "titleZh": "万圣节街头派对@新城街区中心",
-      "sourceSummary": "来自 City of Sydney 官方 What's On。开放时间与报名要求请以活动页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-10-27T15:54:36.397642Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-alana-hunt-to-the-owner-2026-10-30": {
@@ -507,6 +499,14 @@
       "sourceSummary": "It's our story to be told.",
       "summaryZh": "",
       "translatedAt": "2026-10-29T21:29:58.854260Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-one-big-idea-2026-11-03": {
+      "sourceTitle": "One Big Idea: Tenth Anniversary Special",
+      "titleZh": "一个大创意：十周年特惠",
+      "sourceSummary": "UNSW's free public anniversary talk explores quantum computing with light, AI in warfare, democracy, mental health and ocean restoration.",
+      "summaryZh": "",
+      "translatedAt": "2026-10-30T01:59:23.883278Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
