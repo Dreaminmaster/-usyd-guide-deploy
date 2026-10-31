@@ -1,191 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-30T16:42:46.585142Z",
-  "sourceCheckedAt": "2026-10-30T16:43:05.221Z",
+  "checkedAt": "2026-10-31T01:37:42.034486Z",
+  "sourceCheckedAt": "2026-10-31T01:37:59.478Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-at-the-boo-factory-2026-10-31",
-      "title": "Halloween at the Boot Factory",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-the-boo-factory",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-hackers-2026-10-31",
-      "title": "Halloween Hackers",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-hackers",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-havoc-2026-10-31",
-      "title": "Halloween Havoc",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-havoc",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-hotel-2026-10-31",
-      "title": "Halloween Hotel",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-hotel",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-street-party-newtown-neighbourhood-centre-2026-10-31",
-      "title": "Halloween Street Party @ Newtown Neighbourhood Centre",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-street-party-newtown-neighbourhood-centre",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-twilight-markets-2026-10-31",
-      "title": "Halloween Twilight Markets",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-twilight-markets",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-day-of-the-dead-costume-party-at-hay-st-2026-10-31",
-      "title": "Day of the Dead Costume Party at Hay St",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/day-of-the-dead-costume-party-at-hay-st",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ceramic-art-festival-2026-10-31",
-      "title": "Ceramic Art Festival",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ceramic-art-festival",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-10-31",
-      "title": "The Entertainment Quarter Markets (EQ Markets)",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-picnic-under-the-bridge-2026-10-31",
-      "title": "Picnic Under the Bridge",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/picnic-under-the-bridge",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-seasonal-guided-walk-2026-10-31",
-      "title": "Seasonal guided walk",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/seasonal-guided-walk",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-australiana-tours-free-sydney-history-walking-tour-2026-10-31",
-      "title": "Australiana Tours: Free Sydney History Walking Tour",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australiana-tours-free-sydney-history-walking-tour",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-chucks-presents-noise-complaints-2026-10-31",
-      "title": "Chuck's Presents - Noise Complaints",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/chucks-presents-noise-complaints",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-guided-ride-and-swim-prince-alfred-park-to-marrinawi-cove-2026-10-31",
-      "title": "Guided Ride and Swim - Prince Alfred Park to Marrinawi Cove",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guided-ride-and-swim-prince-alfred-park-to-marrinawi-cove",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-latin-nights-block-party-at-hay-st-2026-10-31",
-      "title": "Latin Nights - Block Party at Hay St",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/latin-nights-block-party-at-hay-st",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-munch-meet-international-students-picnic-2026-10-31",
-      "title": "Munch & Meet – International Students Picnic",
-      "date": "2026-10-31",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/munch-meet-international-students-picnic",
-      "priority": "low",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-discovery-alana-hunt-to-the-owner-2026-11-03",
-      "title": "Alana Hunt: To the Owner",
-      "oldDate": "2026-10-30",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/alana-hunt-to-the-owner",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-haven-sydney-free-coding-hackathon-ages-13-18-2026-11-14",
-      "title": "Haven Sydney: Free Coding Hackathon (Ages 13-18)",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/haven-sydney-free-coding-hackathon-ages-13-18",
-      "priority": "medium",
-      "detectedAt": "2026-10-30T16:42:46.585142Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1203,10 +1021,10 @@
     }
   ],
   "counts": {
-    "new": 17,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 1,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
