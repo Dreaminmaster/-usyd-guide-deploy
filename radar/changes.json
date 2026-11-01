@@ -1,181 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-10-31T15:45:25.186032Z",
-  "sourceCheckedAt": "2026-10-31T15:45:43.117Z",
+  "checkedAt": "2026-11-01T01:15:49.234373Z",
+  "sourceCheckedAt": "2026-11-01T01:16:06.340Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "city-discovery-how-to-become-a-business-that-ai-recommends-2026-11-01",
-      "title": "How to become a business that AI recommends",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/how-to-become-a-business-that-ai-recommends",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-at-hay-st-2026-11-01",
-      "title": "Halloween at Hay St",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-11-01",
-      "title": "Point & Shoot Australian Veteran Photography Exhibition",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-when-art-meets-science-government-house-sydney-2026-11-01",
-      "title": "When Art Meets Science Government House Sydney",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/when-art-meets-science-government-house-sydney",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-randwick-eco-living-festival-2026-11-01",
-      "title": "Randwick Eco living Festival",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/randwick-eco-living-festival",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-le-marche-french-market-2026-11-01",
-      "title": "Le Marché-French market",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/le-marche-french-market",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-bondis-vintage-and-pre-loved-markets-2026-11-01",
-      "title": "Bondi's Vintage and Pre Loved Markets",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondis-vintage-and-pre-loved-markets",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-marrickville-organic-food-market-2026-11-01",
-      "title": "Marrickville Organic Food Market",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/marrickville-organic-food-market",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ockerfest-2026-2026-11-01",
-      "title": "Ockerfest 2026",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ockerfest-2026",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-parliament-unpacked-the-architecture-of-democracy-2026-11-01",
-      "title": "Parliament Unpacked: The Architecture of Democracy",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/parliament-unpacked-the-architecture-of-democracy",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-pearling-elders-2026-11-01",
-      "title": "Pearling Elders",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-remy-faint-a-site-of-unfolding-2026-11-01",
-      "title": "Remy Faint: A Site of Unfolding",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/remy-faint-a-site-of-unfolding",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-soapbox-orators-in-the-domain-2026-11-01",
-      "title": "Soapbox orators in The Domain",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/soapbox-orators-in-the-domain",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-centenary-exhibition-2026-11-01",
-      "title": "The Centenary Exhibition",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-centenary-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-the-paintings-gallery-2026-11-01",
-      "title": "The Paintings Gallery",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-paintings-gallery",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-undoing-the-city-making-home-2026-11-01",
-      "title": "Undoing the City, Making Home",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/undoing-the-city-making-home",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-11-04",
-      "title": "The Entertainment Quarter Markets (EQ Markets)",
-      "oldDate": "2026-10-31",
-      "date": "2026-11-04",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1188,10 +1016,10 @@
     }
   ],
   "counts": {
-    "new": 16,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 1,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."

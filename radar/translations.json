@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-31T15:45:43.232614Z",
+  "updatedAt": "2026-11-01T01:16:06.557552Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 57,
+  "count": 71,
   "entries": {
     "usyd-d49cf10a-54cc-4637-b4ee-be9d3eed3894-2026-11-01": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -377,8 +377,8 @@
       "sourceTitle": "Halloween Hotel",
       "titleZh": "万圣节酒店",
       "sourceSummary": "Maple Social Club’s Halloween Hotel, presented by Hydralyte, is coming to the Old Clare Hotel this Halloween!",
-      "summaryZh": "",
-      "translatedAt": "2026-10-31T15:45:43.232614Z",
+      "summaryZh": "枫叶社交俱乐部的万圣节酒店由Hydralyte提供，将于万圣节来到Old Clare酒店！",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-11-01": {
@@ -459,6 +459,118 @@
       "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
       "summaryZh": "",
       "translatedAt": "2026-10-31T15:45:43.232614Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-11-01": {
+      "sourceTitle": "Australian Geographic Nature Photographer of the Year",
+      "titleZh": "年度澳大利亚地理自然摄影师",
+      "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-australiana-tours-free-sydney-history-walking-tour-2026-11-01": {
+      "sourceTitle": "Australiana Tours: Free Sydney History Walking Tour",
+      "titleZh": "澳大利亚之旅：免费悉尼历史漫步之旅",
+      "sourceSummary": "A narrative driven walking tour of Sydney's CBD for locals and tourists",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-11-01": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-bondis-vintage-and-pre-loved-markets-2026-11-01": {
+      "sourceTitle": "Bondi's Vintage and Pre Loved Markets",
+      "titleZh": "邦迪的复古和备受喜爱的市场",
+      "sourceSummary": "A paradise for vintage and pre loved enthusiasts",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-free-guided-highlights-tour-anzac-memorial-2026-11-01": {
+      "sourceTitle": "Guided highlights tour: Anzac Memorial",
+      "titleZh": "导览游：澳新军团纪念碑",
+      "sourceSummary": "Discover the personal stories, stunning Art Deco architecture and commemorative symbolism behind the Anzac Memorial.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guided-walks-2026-11-01": {
+      "sourceTitle": "Guided walks",
+      "titleZh": "导览漫步",
+      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-john-and-jacqui-mullen-collection-2026-11-01": {
+      "sourceTitle": "John and Jacqui Mullen Collection",
+      "titleZh": "John和Jacqui Mullen系列",
+      "sourceSummary": "An extraordinary collection of rare manuscripts, books, maps and navigational instruments",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-jordan-gower-does-the-moon-know-the-well-2026-11-01": {
+      "sourceTitle": "Jordan Gower: Does the moon know the well?",
+      "titleZh": "乔丹·高尔：月亮知道井吗？",
+      "sourceSummary": "The first institutional exhibition of South Australian ceramic artist Jordan Gower.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-le-marche-french-market-2026-11-01": {
+      "sourceTitle": "Le Marché-French market",
+      "titleZh": "Le Marché-French市场",
+      "sourceSummary": "An authentic monthly French market in the heart of Sydney...without the jet lag",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-dreamers-big-stories-2026-11-01": {
+      "sourceTitle": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "titleZh": "NAIDOC海报展览-致命的50年",
+      "sourceSummary": "Join us for a special NAIDOC Art Exhibition showcasing NAIDOC posters through the years.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-sydney-lives-exhibition-2026-11-01": {
+      "sourceTitle": "Little Sydney Lives Exhibition",
+      "titleZh": "小悉尼生活展",
+      "sourceSummary": "A glimpse of daily life through the eyes of young Sydneysiders aged 5 to 12",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-lorrie-graham-photojournalist-2026-11-01": {
+      "sourceTitle": "Lorrie Graham: Photojournalist",
+      "titleZh": "Lorrie Graham ：摄影记者",
+      "sourceSummary": "Explore five decades of extraordinary photography by one of Australia’s most important and influential photojournalists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-marrickville-organic-food-market-2026-11-01": {
+      "sourceTitle": "Marrickville Organic Food Market",
+      "titleZh": "马里克维尔有机食品市场",
+      "sourceSummary": "For families, foodies and anyone who loves supporting local farmers",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-mervyn-bishop-close-up-2026-11-01": {
+      "sourceTitle": "Mervyn Bishop: Close Up",
+      "titleZh": "Mervyn Bishop ：特写",
+      "sourceSummary": "A rare glimpse behind the lens of one of Australia’s most important photographers.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-01T01:16:06.557552Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
