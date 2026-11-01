@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-01T01:15:49.234373Z",
-  "feedCheckedAt": "2026-11-01T01:16:06.340Z",
+  "checkedAt": "2026-11-01T16:50:03.342439Z",
+  "feedCheckedAt": "2026-11-01T16:50:25.005Z",
   "feedStatus": "ok",
-  "events": 175,
+  "events": 168,
   "news": 14,
   "sourceCount": 21,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-01T01:15:49.234373Z",
+  "lastScheduledRunAt": "2026-11-01T16:50:03.342439Z",
   "changes": {
-    "new": 0,
+    "new": 17,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 1,
     "notObserved": 0
   },
   "initialSnapshot": false
