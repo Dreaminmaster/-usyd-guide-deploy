@@ -1,21 +1,233 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-02T01:32:14.161801Z",
-  "sourceCheckedAt": "2026-11-02T01:32:29.172Z",
+  "checkedAt": "2026-11-02T20:23:37.827839Z",
+  "sourceCheckedAt": "2026-11-02T20:23:52.739Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-discovery-dulcies-picture-house-2026-11-03",
-      "title": "Dulcie's Picture House",
+      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-11-03",
+      "title": "Fun social dance",
       "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dulcies-picture-house",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
       "priority": "low",
-      "detectedAt": "2026-11-02T01:32:14.161801Z",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-learn-to-read-music-and-sing-2026-11-03",
+      "title": "Learn to read music and sing",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-11-03",
+      "title": "Musical bingo and $1 dogs",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-paula-jenkins-where-the-wild-rivers-run-2026-11-03",
+      "title": "Paula Jenkins: Where The Wild Rivers Run",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/paula-jenkins-where-the-wild-rivers-run",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-prue-venables-or-solo-exhibition-2026-11-03",
+      "title": "Prue Venables | Solo Exhibition",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/prue-venables-or-solo-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ukulele-class-2026-11-03",
+      "title": "Ukulele class: Beginners to advanced",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-woolloomooloo-sculpture-walk-2026-11-03",
+      "title": "Woolloomooloo sculpture walk",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/woolloomooloo-sculpture-walk",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-discovery-come-and-get-techie-kxx-2026-11-09",
+      "title": "Come and get techie at Kings Cross Library",
+      "oldDate": "2026-11-02",
+      "date": "2026-11-09",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
+      "priority": "medium",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "new",
+      "id": "usyd-e113361c-07b5-4285-a36c-7dc71ee0b822-2026-11-09",
+      "title": "School of Languages and Cultures research Day S2 2026",
+      "date": "2026-11-09",
+      "url": "https://whatson.sydney.edu.au/event/e113361c-07b5-4285-a36c-7dc71ee0b822/School-of-Languages-and-Cultures-research-Day-S2-2026",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-eca3b500-a9ba-44a2-8f5d-7621847aee15-2026-12-01",
+      "title": "15th Annual Warren Hogan Memorial Lecture",
+      "date": "2026-12-01",
+      "url": "https://whatson.sydney.edu.au/event/eca3b500-a9ba-44a2-8f5d-7621847aee15/15th-Annual-Warren-Hogan-Memorial-Lecture",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-0ed2cd81-df6a-43e4-922c-13eaa43c42a9-2026-12-02",
+      "title": "ITLS Seminar Series: Leadership, Policy and Research: Professor Emeritus Avishai (Avi) Ceder",
+      "date": "2026-12-02",
+      "url": "https://whatson.sydney.edu.au/event/0ed2cd81-df6a-43e4-922c-13eaa43c42a9/ITLS-Seminar-Series%3A-Leadership%2C-Policy-and-Research%3A-Professor-Emeritus-Avishai-(Avi)-Ceder",
+      "priority": "medium",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-11-03",
+      "title": "Fun social dance",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-learn-to-read-music-and-sing-2026-11-03",
+      "title": "Learn to read music and sing",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-11-03",
+      "title": "Musical bingo and $1 dogs",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-paula-jenkins-where-the-wild-rivers-run-2026-11-03",
+      "title": "Paula Jenkins: Where The Wild Rivers Run",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/paula-jenkins-where-the-wild-rivers-run",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-prue-venables-or-solo-exhibition-2026-11-03",
+      "title": "Prue Venables | Solo Exhibition",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/prue-venables-or-solo-exhibition",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-ukulele-class-2026-11-03",
+      "title": "Ukulele class: Beginners to advanced",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-discovery-woolloomooloo-sculpture-walk-2026-11-03",
+      "title": "Woolloomooloo sculpture walk",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/woolloomooloo-sculpture-walk",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-discovery-come-and-get-techie-kxx-2026-11-09",
+      "title": "Come and get techie at Kings Cross Library",
+      "oldDate": "2026-11-02",
+      "date": "2026-11-09",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
+      "priority": "medium",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "new",
+      "id": "usyd-e113361c-07b5-4285-a36c-7dc71ee0b822-2026-11-09",
+      "title": "School of Languages and Cultures research Day S2 2026",
+      "date": "2026-11-09",
+      "url": "https://whatson.sydney.edu.au/event/e113361c-07b5-4285-a36c-7dc71ee0b822/School-of-Languages-and-Cultures-research-Day-S2-2026",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-eca3b500-a9ba-44a2-8f5d-7621847aee15-2026-12-01",
+      "title": "15th Annual Warren Hogan Memorial Lecture",
+      "date": "2026-12-01",
+      "url": "https://whatson.sydney.edu.au/event/eca3b500-a9ba-44a2-8f5d-7621847aee15/15th-Annual-Warren-Hogan-Memorial-Lecture",
+      "priority": "low",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-0ed2cd81-df6a-43e4-922c-13eaa43c42a9-2026-12-02",
+      "title": "ITLS Seminar Series: Leadership, Policy and Research: Professor Emeritus Avishai (Avi) Ceder",
+      "date": "2026-12-02",
+      "url": "https://whatson.sydney.edu.au/event/0ed2cd81-df6a-43e4-922c-13eaa43c42a9/ITLS-Seminar-Series%3A-Leadership%2C-Policy-and-Research%3A-Professor-Emeritus-Avishai-(Avi)-Ceder",
+      "priority": "medium",
+      "detectedAt": "2026-11-02T20:23:37.827839Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-discovery-dulcies-picture-house-2026-11-03",
@@ -172,16 +384,6 @@
       "title": "Abstract Synergies: Kevin White & Sergei Shatrov",
       "date": "2026-11-03",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/abstract-synergies-kevin-white-and-sergei-shatrov",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-11-03",
-      "title": "Fun social dance",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
       "priority": "low",
       "detectedAt": "2026-11-01T16:50:03.342439Z",
       "notice": "First observed in Radar snapshot"
@@ -920,114 +1122,13 @@
       "priority": "medium",
       "detectedAt": "2026-10-29T01:00:03.284574Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-screamfest-cont-2026-11-01",
-      "title": "SCREAMFEST Sydney · overnight continuation",
-      "date": "2026-11-01",
-      "url": "https://usu.edu.au/events/usu-events/",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usu-wind-down-wednesday-2026-11-04",
-      "title": "Wind Down Wednesdays · Elf screening",
-      "date": "2026-11-04",
-      "url": "https://usu.edu.au/events/wind-down-wednesdays/",
-      "priority": "low",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "supra-266779-2026-11-15",
-      "title": "Carers’ Network Play and Chat",
-      "oldDate": "2026-11-01",
-      "date": "2026-11-15",
-      "url": "https://supra.net.au/event/carers-network-play-and-chat/",
-      "priority": "low",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-bondis-day-of-the-dead-festival-2026-10-29",
-      "title": "Bondi's Day of the Dead Festival",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondis-day-of-the-dead-festival",
-      "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-summer-jobs-cv-sessions-for-ages-16-25-2026-10-29",
-      "title": "Resume writing workshop for ages 16 to 25",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/summer-jobs-cv-sessions-for-ages-16-25",
-      "priority": "medium",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-womens-reconciliation-network-redfern-yarning-circle-2026-10-29",
-      "title": "Women’s Reconciliation Network – Redfern Yarning Circle",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/womens-reconciliation-network-redfern-yarning-circle",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-amy-clarke-solo-exhibition-2026-10-29",
-      "title": "Amy Clarke Solo Exhibition",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/amy-clarke-solo-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-asphalt-words-and-ocean-dreams-2026-10-29",
-      "title": "Asphalt words and ocean dreams",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/asphalt-words-and-ocean-dreams",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-bike-tune-ups-pyrmont-2026-10-29",
-      "title": "Free bike tune ups: Pyrmont",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-ups-pyrmont",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-salsa-classes-in-moore-park-2026-10-29",
-      "title": "Free Salsa Classes in Surry Hills",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 1,
+    "new": 10,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 1,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."

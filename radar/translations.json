@@ -1,18 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-02T01:32:29.265361Z",
+  "updatedAt": "2026-11-02T20:23:52.841377Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 54,
+  "count": 52,
   "entries": {
-    "usyd-5986e000-5b82-4471-a478-b04130a097de-2026-11-02": {
-      "sourceTitle": "AI, Equity, and Ethics in Research Symposium",
-      "titleZh": "人工智能、平等与科研伦理研讨会",
-      "sourceSummary": "The University of Sydney's National Centre for Cultural Competence is pleased to present the AI, Equity and Ethics in Research Symposium, bringing together researchers, practitioners and thought leaders to explore the opportunities, challenges and responsibili",
-      "summaryZh": "悉尼大学国家文化能力中心很高兴举办AI、公平和伦理研究研讨会，汇集研究人员、从业人员和思想领袖，探索机遇、挑战和责任",
-      "translatedAt": "2026-10-13T10:53:16.644436Z",
-      "provider": "human-reviewed initial title translation"
-    },
     "usyd-c25d8425-28cb-4d4e-83a9-e039c1dfa079-2026-11-05": {
       "sourceTitle": "Quantum Innovators Network: Building the Future of Drug Discovery",
       "titleZh": "量子创新者网络：共建药物研发的未来",
@@ -109,14 +101,6 @@
       "translatedAt": "2026-10-20T01:06:45.419036Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-facebook-and-instagram-advertising-course-2026-11-02": {
-      "sourceTitle": "Facebook & Instagram Advertising Workshop",
-      "titleZh": "Facebook和Instagram广告工作坊",
-      "sourceSummary": "Learn how to create effective Facebook and Instagram advertising campaigns in this one-day workshop!",
-      "summaryZh": "",
-      "translatedAt": "2026-10-21T15:19:20.124172Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "supra-262118-2026-11-12": {
       "sourceTitle": "Migration webinar for HDR students",
       "titleZh": "面向HDR学生的迁移网络研讨会",
@@ -155,14 +139,6 @@
       "sourceSummary": "Join us for a special public lecture with 2025 Nobel Prize in Physics laureate Professor John M. Martinis.",
       "summaryZh": "与我们一起参加2025年诺贝尔物理学奖获得者John M. Martinis教授的特别公开讲座。",
       "translatedAt": "2026-10-27T01:30:15.808696Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-kxx-2026-11-02": {
-      "sourceTitle": "Come and get techie at Kings Cross Library",
-      "titleZh": "来国王十字图书馆找技术人员",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
-      "summaryZh": "",
-      "translatedAt": "2026-10-26T16:49:13.938863Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-c77d4a88-41fe-4df8-a275-7ac9cef4bae1-2026-11-03": {
@@ -325,38 +301,6 @@
       "translatedAt": "2026-10-31T01:37:59.589604Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-ai-weiwei-mushrooms-2026-2026-11-02": {
-      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
-      "titleZh": "艾未未，《蘑菇》， 2026年",
-      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
-      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-11-02": {
-      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
-      "titleZh": "澳大利亚经验丰富的摄影展",
-      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
-      "summaryZh": "强大的职业形象集合和澳大利亚退伍军人的伴随故事。",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-200th-anniversary-exhibitions-2026-11-02": {
-      "sourceTitle": "200th anniversary exhibitions",
-      "titleZh": "200周年纪念展览",
-      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-come-and-get-techie-surry-hills-library-2026-11-02": {
-      "sourceTitle": "Come and get techie at Surry Hills Library",
-      "titleZh": "快来萨里山图书馆找技术人员",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-discovery-first-nations-employment-support-2026-11-03": {
       "sourceTitle": "First Nations employment support",
       "titleZh": "原住民就业支持",
@@ -365,76 +309,116 @@
       "translatedAt": "2026-11-02T01:32:29.265361Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-curtains-jazz-festival-2026-11-02": {
+    "city-discovery-ai-weiwei-mushrooms-2026-2026-11-03": {
+      "sourceTitle": "Ai Weiwei, Mushrooms, 2026",
+      "titleZh": "艾未未，《蘑菇》， 2026年",
+      "sourceSummary": "One of the world’s most influential contemporary artists calls for peace with a monumental new installation",
+      "summaryZh": "世界上最具影响力的当代艺术家之一通过一个巨大的新装置呼吁和平",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-work-ready-4-day-career-intensive-2026-11-24": {
+      "sourceTitle": "Work ready: 4-day career intensive",
+      "titleZh": "工作就绪： 4天职业密集型",
+      "sourceSummary": "Build confidence. Get job-ready. Take your next step.",
+      "summaryZh": "建立信心。为工作做好准备。迈出下一步。",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-11-03": {
+      "sourceTitle": "Point & Shoot Australian Veteran Photography Exhibition",
+      "titleZh": "澳大利亚经验丰富的摄影展",
+      "sourceSummary": "A powerful collection of career imagery and accompanying stories from Australian veterans.",
+      "summaryZh": "强大的职业形象集合和澳大利亚退伍军人的伴随故事。",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-200th-anniversary-exhibitions-2026-11-03": {
+      "sourceTitle": "200th anniversary exhibitions",
+      "titleZh": "200周年纪念展览",
+      "sourceSummary": "Immerse yourself in a powerful series of exhibitions, installations and digital experiences.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-come-and-get-techie-kxx-2026-11-09": {
+      "sourceTitle": "Come and get techie at Kings Cross Library",
+      "titleZh": "来国王十字图书馆找技术人员",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-curtains-jazz-festival-2026-11-03": {
       "sourceTitle": "Curtains Jazz Festival",
       "titleZh": "窗帘爵士音乐节",
       "sourceSummary": "Live Jazz at Curtains Jazz Club",
       "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-11-02": {
+    "city-discovery-sir-hermann-black-memorial-lecture-2026-the-year-in-review-2026-11-24": {
+      "sourceTitle": "Sir Hermann Black Memorial Lecture 2026 The Year in Review",
+      "titleZh": "赫尔曼·布莱克爵士纪念讲座2026年度回顾",
+      "sourceSummary": "Dr Stuart Rollo – C for ISS Centre for International Security Studies, presents the lecture \"2026 The Year in Review\"",
+      "summaryZh": "",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-0c328285-ea95-4cd4-9621-378045408011-2026-11-10": {
+      "sourceTitle": "Carillon Recital and Free Tour - Remembrance",
+      "titleZh": "Carillon独奏和免费之旅：纪念",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-engineering-entrepreneurship-2026-11-10": {
+      "sourceTitle": "Engineering the Future: The Entrepreneurship Paradox",
+      "titleZh": "设计未来：创业悖论",
+      "sourceSummary": "UNSW Engineering and Engineering Spinout Club host a free panel and networking reception with founders, investors and researchers about commercialising Australian innovation.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-11-03": {
+      "sourceTitle": "Abstract Synergies: Kevin White & Sergei Shatrov",
+      "titleZh": "摘要协同效应： Kevin White和Sergei Shatrov",
+      "sourceSummary": "Duo Exhibition",
+      "summaryZh": "",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-alchemy-of-a-rainforest-exhibition-2026-11-03": {
       "sourceTitle": "Alchemy of a Rainforest exhibition",
       "titleZh": "热带雨林炼金术展览",
       "sourceSummary": "Explore a vibrant tapestry of life",
       "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-amy-clarke-solo-exhibition-2026-11-02": {
+    "city-discovery-amy-clarke-solo-exhibition-2026-11-03": {
       "sourceTitle": "Amy Clarke Solo Exhibition",
       "titleZh": "艾米·克拉克个展",
       "sourceSummary": "What binds us",
       "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-aussies-peter-drew-2026-11-02": {
+    "city-discovery-aussies-peter-drew-2026-11-03": {
       "sourceTitle": "AUSSIES Peter Drew",
       "titleZh": "澳大利亚人Peter Drew",
       "sourceSummary": "Free outdoor exhibition of posters by Peter Drew",
       "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-11-02": {
+    "city-discovery-australian-geographic-nature-photographer-of-the-year-2026-11-03": {
       "sourceTitle": "Australian Geographic Nature Photographer of the Year",
       "titleZh": "年度澳大利亚地理自然摄影师",
       "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
       "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-11-02": {
-      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
-      "titleZh": "Barani/Barrabugu （昨天/明天）",
-      "sourceSummary": "It's our story to be told.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-daily-service-of-remembrance-2026-11-02": {
-      "sourceTitle": "Daily Service of Remembrance",
-      "titleZh": "每日纪念服务",
-      "sourceSummary": "At 11am each day, the Anzac Memorial pauses for a Service of Remembrance.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-dream-horse-2026-11-02": {
-      "sourceTitle": "Dream Horse",
-      "titleZh": "梦马",
-      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-discovery-free-improv-comedy-class-2026-11-02": {
-      "sourceTitle": "Free Improv Comedy Class",
-      "titleZh": "免费即兴喜剧课",
-      "sourceSummary": "Curious about improvisation? Discover more in this fun, free 45-minute workshop before the Improv Comedy Cagefight",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T01:32:29.265361Z",
+      "translatedAt": "2026-11-02T20:23:52.841377Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
