@@ -1,1 +1,23 @@
-{}
+{
+  "city-opera-in-the-pub-at-the-harold-opera-hijinks-2026-11-03": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-02T01:32:14.161801Z",
+    "title": "Opera in the Pub - Race You To The Opera",
+    "date": "2026-11-03",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-in-the-pub-at-the-harold-opera-hijinks"
+  },
+  "city-discovery-social-dance-in-ultimo-community-centre-2026-11-03": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-02T01:32:14.161801Z",
+    "title": "Fun social dance",
+    "date": "2026-11-03",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre"
+  },
+  "city-hy-rocks-fitness-club-at-the-rocks-2026-11-03": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-02T01:32:14.161801Z",
+    "title": "Hy-Rocks Fitness Club at The Rocks",
+    "date": "2026-11-03",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/hy-rocks-fitness-club-at-the-rocks"
+  }
+}

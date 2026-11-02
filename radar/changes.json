@@ -1,192 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-01T16:50:03.342439Z",
-  "sourceCheckedAt": "2026-11-01T16:50:25.005Z",
+  "checkedAt": "2026-11-02T01:32:14.161801Z",
+  "sourceCheckedAt": "2026-11-02T01:32:29.172Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-discovery-come-and-get-techie-surry-hills-library-2026-11-02",
-      "title": "Come and get techie at Surry Hills Library",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-surry-hills-library",
-      "priority": "medium",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-improv-comedy-class-2026-11-02",
-      "title": "Free Improv Comedy Class",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-improv-comedy-class",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-free-salsa-classes-in-moore-park-2026-11-02",
-      "title": "Free Salsa Classes in Surry Hills",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-intro-to-ukulele-2026-11-02",
-      "title": "Music instrument class",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/intro-to-ukulele",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ok-ok-ok-2026-11-02",
-      "title": "OK? Ok, ok…",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-studiorcc-ableton-live-12-10-week-beginner-course-2026-11-02",
-      "title": "StudioRCC Ableton Live 12: 10-week beginner course",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/studiorcc-ableton-live-12-10-week-beginner-course",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-tannya-harricks-exposed-and-protected-2026-11-02",
-      "title": "Tannya Harricks: Exposed & Protected",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/tannya-harricks-exposed-and-protected",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-theatre-of-life-exhibition-2026-11-02",
-      "title": "Theatre of Life Exhibition",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-daily-service-of-remembrance-2026-11-02",
-      "title": "Daily Service of Remembrance",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/daily-service-of-remembrance",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-dream-horse-2026-11-02",
-      "title": "Dream Horse",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-live-music-at-foys-2026-11-02",
-      "title": "Live Music at Foys",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/live-music-at-foys",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ur-wayii-incoming-tide-2026-11-02",
-      "title": "Ur Wayii (Incoming Tide)",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ur-wayii-incoming-tide",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-first-nations-employment-support-2026-11-03",
-      "title": "First Nations employment support",
+      "id": "city-discovery-dulcies-picture-house-2026-11-03",
+      "title": "Dulcie's Picture House",
       "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/first-nations-employment-support",
-      "priority": "medium",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-opera-in-the-pub-at-the-harold-opera-hijinks-2026-11-03",
-      "title": "Opera in the Pub - Race You To The Opera",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-in-the-pub-at-the-harold-opera-hijinks",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dulcies-picture-house",
       "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
+      "detectedAt": "2026-11-02T01:32:14.161801Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-11-03",
-      "title": "Abstract Synergies: Kevin White & Sergei Shatrov",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/abstract-synergies-kevin-white-and-sergei-shatrov",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-11-03",
-      "title": "Fun social dance",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-hy-rocks-fitness-club-at-the-rocks-2026-11-03",
-      "title": "Hy-Rocks Fitness Club at The Rocks",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/hy-rocks-fitness-club-at-the-rocks",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-le-marche-french-market-2026-12-06",
-      "title": "Le Marché-French market",
-      "oldDate": "2026-11-01",
-      "date": "2026-12-06",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/le-marche-french-market",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-discovery-dulcies-picture-house-2026-11-03",
+      "title": "Dulcie's Picture House",
+      "date": "2026-11-03",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dulcies-picture-house",
+      "priority": "low",
+      "detectedAt": "2026-11-02T01:32:14.161801Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-discovery-come-and-get-techie-surry-hills-library-2026-11-02",
@@ -1182,23 +1021,13 @@
       "priority": "low",
       "detectedAt": "2026-10-28T16:41:20.269552Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-g-is-for-growth-2026-10-29",
-      "title": "G is for Growth",
-      "date": "2026-10-29",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/g-is-for-growth",
-      "priority": "low",
-      "detectedAt": "2026-10-28T16:41:20.269552Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 17,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 1,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
