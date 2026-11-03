@@ -1,1 +1,16 @@
-{}
+{
+  "city-discovery-live-music-at-foys-2026-11-03": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-03T03:28:53.548855Z",
+    "title": "Live Music at Foys",
+    "date": "2026-11-03",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/live-music-at-foys"
+  },
+  "city-eq-markets-every-wed-and-sat-at-the-entertainment-quarter-2026-11-04": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-03T03:28:53.548855Z",
+    "title": "The Entertainment Quarter Markets (EQ Markets)",
+    "date": "2026-11-04",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/eq-markets-every-wed-and-sat-at-the-entertainment-quarter"
+  }
+}

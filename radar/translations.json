@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-02T20:23:52.841377Z",
+  "updatedAt": "2026-11-03T03:29:09.020629Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 52,
+  "count": 66,
   "entries": {
     "usyd-c25d8425-28cb-4d4e-83a9-e039c1dfa079-2026-11-05": {
       "sourceTitle": "Quantum Innovators Network: Building the Future of Drug Discovery",
@@ -419,6 +419,118 @@
       "sourceSummary": "Experience the beauty of nature through 100 stunning images. A South Australian Museum exhibition",
       "summaryZh": "",
       "translatedAt": "2026-11-02T20:23:52.841377Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-a-gift-made-personal-with-lumira-2026-11-03": {
+      "sourceTitle": "A gift made personal with LUMIRA",
+      "titleZh": "LUMIRA为您量身定制的礼物",
+      "sourceSummary": "Choose a LUMIRA fragrance with founder Almira Armstrong and watch artist Christine Ai hand-paint it while you wait",
+      "summaryZh": "与创始人阿尔米拉·阿姆斯特朗（ Almira Armstrong ）一起选择一款LUMIRA香水，并观看艺术家克里斯汀·艾（ Christine Ai ）",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-barani-barrabugu-yesterday-tomorrow-journey-2026-11-03": {
+      "sourceTitle": "Barani / Barrabugu (Yesterday / Tomorrow)",
+      "titleZh": "Barani/Barrabugu （昨天/明天）",
+      "sourceSummary": "It's our story to be told.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-daily-service-of-remembrance-2026-11-03": {
+      "sourceTitle": "Daily Service of Remembrance",
+      "titleZh": "每日纪念服务",
+      "sourceSummary": "At 11am each day, the Anzac Memorial pauses for a Service of Remembrance.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-dream-horse-2026-11-03": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-guided-walks-2026-11-03": {
+      "sourceTitle": "Guided walks",
+      "titleZh": "导览漫步",
+      "sourceSummary": "Our guided walks are the perfect way to experience the very best of the Garden over a 1.5-hour stroll",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-john-and-jacqui-mullen-collection-2026-11-03": {
+      "sourceTitle": "John and Jacqui Mullen Collection",
+      "titleZh": "John和Jacqui Mullen系列",
+      "sourceSummary": "An extraordinary collection of rare manuscripts, books, maps and navigational instruments",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-learn-to-read-music-and-sing-2026-11-03": {
+      "sourceTitle": "Learn to read music and sing",
+      "titleZh": "学习阅读音乐和唱歌",
+      "sourceSummary": "No experience is needed to join this free singing and theory class",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-dreamers-big-stories-2026-11-03": {
+      "sourceTitle": "NAIDOC Poster exhibition - 50 years of Deadly",
+      "titleZh": "NAIDOC海报展览-致命的50年",
+      "sourceSummary": "Join us for a special NAIDOC Art Exhibition showcasing NAIDOC posters through the years.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-little-sydney-lives-exhibition-2026-11-03": {
+      "sourceTitle": "Little Sydney Lives Exhibition",
+      "titleZh": "小悉尼生活展",
+      "sourceSummary": "A glimpse of daily life through the eyes of young Sydneysiders aged 5 to 12",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-lorrie-graham-photojournalist-2026-11-03": {
+      "sourceTitle": "Lorrie Graham: Photojournalist",
+      "titleZh": "Lorrie Graham ：摄影记者",
+      "sourceSummary": "Explore five decades of extraordinary photography by one of Australia’s most important and influential photojournalists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-mervyn-bishop-close-up-2026-11-03": {
+      "sourceTitle": "Mervyn Bishop: Close Up",
+      "titleZh": "Mervyn Bishop ：特写",
+      "sourceSummary": "A rare glimpse behind the lens of one of Australia’s most important photographers.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-musical-bingo-and-usd1-dogs-2026-11-03": {
+      "sourceTitle": "Musical bingo and $1 dogs",
+      "titleZh": "音乐宾果游戏和$ 1只狗",
+      "sourceSummary": "Your ultimate Tuesday night out",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-navy-125-commemorating-125-years-of-australias-navy-2026-11-03": {
+      "sourceTitle": "Navy 125 – Commemorating 125 Years of Australia’s Navy",
+      "titleZh": "海军125 –纪念澳大利亚海军125周年",
+      "sourceSummary": "a new exhibition exploring how the Navy has grown alongside Australia, from colonial defence to a modern maritime force.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-discovery-ok-ok-ok-2026-11-03": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-03T03:29:09.020629Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
