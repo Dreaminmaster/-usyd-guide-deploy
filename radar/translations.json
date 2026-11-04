@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-04T02:23:26.910552Z",
+  "updatedAt": "2026-11-04T18:02:09.277544Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 41,
+  "count": 53,
   "entries": {
     "usyd-c25d8425-28cb-4d4e-83a9-e039c1dfa079-2026-11-05": {
       "sourceTitle": "Quantum Innovators Network: Building the Future of Drug Discovery",
@@ -114,14 +114,6 @@
       "titleZh": "NASA太空应用挑战准备和团队组建日！",
       "sourceSummary": "Free community meetup ahead of the 14–15 November NASA Space Apps Challenge. Review NASA challenge prompts, brainstorm and meet teammates. Bring a laptop; pizza provided.",
       "summaryZh": "在11月14日至15日美国宇航局太空应用挑战赛之前举行的免费社区见面会。查看NASA挑战提示，头脑风暴并结识队友。带上笔记本电脑；提供披萨。",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-5ef3f4ce-c18f-4dd4-b2d6-aa796de3680d-2026-11-04": {
-      "sourceTitle": "2026 Carney Public Lecture: Coroners and risk prevention: riders, recommendations and required responses",
-      "titleZh": "2026年卡尼公开讲座：验尸官和风险预防：乘客、建议和所需应对措施",
-      "sourceSummary": "Professor Ian Freckelton will deliver the 2026 Carney Public Lecture on developments in coronial law and practice, with responses from Sarouche Razi and Danielle Captain-Webb. 费用说明：free",
-      "summaryZh": "",
       "translatedAt": "2026-11-03T17:53:12.129908Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -245,14 +237,6 @@
       "translatedAt": "2026-11-04T02:23:26.910552Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-2f451b5d-18eb-49ca-bddd-9698688887e9-2026-11-04": {
-      "sourceTitle": "Michael Pollan’s Journey into Consciousness",
-      "titleZh": "迈克尔·波伦的意识之旅",
-      "sourceSummary": "Bestselling author and Harvard Professor Michael Pollan on his new book, A World Appears. Part of Curious at Sydney Opera House. Co-presented with the University of Sydney. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-d2bb2ce1-5b16-4247-a1bf-c8e7c5c4de49-2026-11-09": {
       "sourceTitle": "Tim Winton: Songs from the Firefront Book Launch",
       "titleZh": "蒂姆·温顿：前线图书发布会上的歌曲",
@@ -331,6 +315,118 @@
       "sourceSummary": "Join us for the first national one-day symposium exploring contemporary and emerging conversations at the intersection of languages education, decolonial thought, Indigenising curriculum, and socially responsive pedagogies in higher education. 费用说明：free",
       "summaryZh": "",
       "translatedAt": "2026-11-04T02:23:26.910552Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-6076702d-2e29-42bd-bc9b-0c5f5eea97b7-2026-11-26": {
+      "sourceTitle": "The Warren Centre presents: Empowering Communities with Communication & AI",
+      "titleZh": "沃伦中心呈现：通过沟通和人工智能赋予社区权力",
+      "sourceSummary": "We explore the critical intersection of telecomms infrastructure, data sovereignty, and Artificial Intelligence (AI) within humanitarian contexts in the Pacific Islands. Our speakers will address unique geographical and energy-related constraints while showcas",
+      "summaryZh": "我们探讨了电信基础设施、数据主权和人工智能（ AI ）在太平洋岛屿人道主义背景下的关键交叉点。我们的演讲者将讨论独特的地理和能源相关的限制，同时展示",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-262129-2026-11-26": {
+      "sourceTitle": "Migration webinar for coursework students",
+      "titleZh": "针对课程作业学生的迁移网络研讨会",
+      "sourceSummary": "Thursday 26 November 2026 2–4pm Zoom Join SUPRA Legal Service to find out about student visas and the different visa options available after your studies – tailored specifically for coursework students! Questions about any area of migration law will be taken b",
+      "summaryZh": "2026年11月26日星期四下午2-4点Zoom加入SUPRA法律服务，了解学生签证和学习后可用的不同签证选项–专为课程作业学生量身定制！将回答有关移民法任何领域的问题b",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-91c91289-e195-4a13-a017-8315c7312496-2026-11-12": {
+      "sourceTitle": "Young Refugee",
+      "titleZh": "年轻难民",
+      "sourceSummary": "Experience the powerful narratives of child refugees, now teenagers, as they bravely share their real-life journeys of escaping war and persecution to start anew in Australia. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-70507112-690e-4420-ab5e-aa8849f09856-2026-11-17": {
+      "sourceTitle": "From prehistoric qubits to building a useful quantum computer",
+      "titleZh": "从史前量子比特到构建有用的量子计算机",
+      "sourceSummary": "Join us for a special public lecture with 2025 Nobel Prize in Physics laureate Professor John M. Martinis, University of California. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-4765c2d2-2b29-46b6-b1cf-b184c720e98e-2026-11-18": {
+      "sourceTitle": "Beaches and Sharks: A Free Town Hall on Beach Safety This Summer",
+      "titleZh": "海滩和鲨鱼：今年夏天海滩安全的免费市政厅",
+      "sourceSummary": "Join the University of Sydney, Surf Life Saving NSW and Surfing NSW for a free community town hall exploring shark risk, beach safety, and the latest approaches to keeping beachgoers safe this summer. Hear from A/Prof Chris Pepin-Neff and other leading experts",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-6d66b4d4-b000-46ed-bfcc-4e9a7a239360-2026-11-19": {
+      "sourceTitle": "Tahkoe | Seymour Sounds (Free Event)",
+      "titleZh": "Tahkoe | Seymour Sounds （免费活动）",
+      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-56920707-1705-4404-9f26-4d88161b70a0-2026-11-24": {
+      "sourceTitle": "Sydney Ideas – Conversations for Good: Across generations",
+      "titleZh": "悉尼创意–善的对话：代代相传",
+      "sourceSummary": "What can we learn from the art of debate to strengthen public debate and social resilience? Hear from Bo Seo, author of the acclaimed book Good Arguments and two-time world debate champion, along with University of Sydney Student President and world debate fin",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-57802ce2-86f2-4c3e-a105-f363bea6c12b-2026-11-26": {
+      "sourceTitle": "SydneyMSK Annual Scientific Meeting",
+      "titleZh": "悉尼MSK年度科学会议",
+      "sourceSummary": "We warmly invite you to the 2026 Sydney Musculoskeletal Research Centre (SydneyMSK) Annual Scientific Meeting (ASM). The ASM is the major research symposium for SydneyMSK, providing a showcase of research activities and achievements across the centre and servi",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usu-verge-white-jade-orchids-2026-11-05": {
+      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
+      "titleZh": "白玉兰·边缘画廊展",
+      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usu-verge-white-jade-orchids-2026-11-06": {
+      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
+      "titleZh": "白玉兰·边缘画廊展",
+      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usu-verge-white-jade-orchids-2026-11-09": {
+      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
+      "titleZh": "白玉兰·边缘画廊展",
+      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usu-verge-white-jade-orchids-2026-11-10": {
+      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
+      "titleZh": "白玉兰·边缘画廊展",
+      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-usu-verge-white-jade-orchids-2026-11-11": {
+      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
+      "titleZh": "白玉兰·边缘画廊展",
+      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-91c91289-e195-4a13-a017-8315c7312496-2026-11-13": {
+      "sourceTitle": "Young Refugee · 第2天",
+      "titleZh": "Young Refugee · 第2天",
+      "sourceSummary": "Experience the powerful narratives of child refugees, now teenagers, as they bravely share their real-life journeys of escaping war and persecution to start anew in Australia. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-04T18:02:09.277544Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
