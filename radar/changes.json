@@ -1,10 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-04T18:01:47.662907Z",
-  "sourceCheckedAt": "2026-11-04T18:02:09.161Z",
+  "checkedAt": "2026-11-05T02:30:11.106932Z",
+  "sourceCheckedAt": "2026-11-05T02:30:26.363Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "supra-267142-2026-11-07",
+      "title": "SUPRA at Usyd Community Festival!",
+      "date": "2026-11-07",
+      "url": "https://supra.net.au/event/supra-at-usyd-community-festival/",
+      "priority": "medium",
+      "detectedAt": "2026-11-05T02:30:11.106932Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "supra-267142-2026-11-07",
+      "title": "SUPRA at Usyd Community Festival!",
+      "date": "2026-11-07",
+      "url": "https://supra.net.au/event/supra-at-usyd-community-festival/",
+      "priority": "medium",
+      "detectedAt": "2026-11-05T02:30:11.106932Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "usyd-4765c2d2-2b29-46b6-b1cf-b184c720e98e-2026-11-18",
@@ -1000,20 +1021,10 @@
       "priority": "low",
       "detectedAt": "2026-10-29T01:51:07.627510Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usyd-health-halloween-2026-10-29",
-      "title": "USYD Health Halloween Party 2026",
-      "date": "2026-10-29",
-      "url": "https://events.humanitix.com/usyd-health-halloween-party-2026",
-      "priority": "medium",
-      "detectedAt": "2026-10-29T01:00:03.284574Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
