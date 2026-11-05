@@ -1,18 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-05T02:30:26.530163Z",
+  "updatedAt": "2026-11-05T18:05:22.515237Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 67,
+  "count": 74,
   "entries": {
-    "usyd-c25d8425-28cb-4d4e-83a9-e039c1dfa079-2026-11-05": {
-      "sourceTitle": "Quantum Innovators Network: Building the Future of Drug Discovery",
-      "titleZh": "量子创新者网络：共建药物研发的未来",
-      "sourceSummary": "Discover how cutting-edge AI and quantum technologies are shaping the future of drug discovery. Hear from Dr Mark Waller, Founder and CEO of Pending AI, about his journey from academic researcher to deep-tech entrepreneur, the challenges he has faced along the",
-      "summaryZh": "了解尖端人工智能和量子技术如何塑造药物发现的未来。聆听Pending AI创始人兼首席执行官Mark Waller博士讲述他从学术研究员到深度技术企业家的旅程，以及他所面临的挑战",
-      "translatedAt": "2026-10-14T15:12:20.103942Z",
-      "provider": "human-reviewed initial title translation"
-    },
     "usyd-4f382734-5af6-492e-ac28-3469d77156af-2026-11-07": {
       "sourceTitle": "University of Sydney Community Festival",
       "titleZh": "悉尼大学社区节",
@@ -77,14 +69,6 @@
       "translatedAt": "2026-11-03T17:53:12.129908Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-9f8bdea9-daf2-4b51-bcc5-11d2f46ccb98-2026-11-05": {
-      "sourceTitle": "Lunchbreak Concert: Flute Ensemble",
-      "titleZh": "午休音乐会：长笛合奏",
-      "sourceSummary": "Join us on Wednesdays and Thursdays for an exhilarating 45-minute lunchbreak concert here at Verbrugghen Hall, with faculties of the Sydney Conservatorium of Music performing solo and ensemble works, including strings, piano, jazz, opera and more! 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-10-28T16:41:40.141077Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-usu-sem2-daytrip-2026-11-06": {
       "sourceTitle": "Semester 2 Day Trip · Yoga on Bondi Beach",
       "titleZh": "2学期一日游·邦迪海滩瑜伽",
@@ -114,22 +98,6 @@
       "titleZh": "NASA太空应用挑战准备和团队组建日！",
       "sourceSummary": "Free community meetup ahead of the 14–15 November NASA Space Apps Challenge. Review NASA challenge prompts, brainstorm and meet teammates. Bring a laptop; pizza provided.",
       "summaryZh": "在11月14日至15日美国宇航局太空应用挑战赛之前举行的免费社区见面会。查看NASA挑战提示，头脑风暴并结识队友。带上笔记本电脑；提供披萨。",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-1a0ecd8c-aa61-4cd9-8279-f71b5508bb89-2026-11-05": {
-      "sourceTitle": "Setwun | Seymour Sounds (Free Event)",
-      "titleZh": "Setwun | Seymour Sounds （免费活动）",
-      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-cad0a312-d2e4-467c-9b66-63ed567cba06-2026-11-05": {
-      "sourceTitle": "'Looking for Alibrandi': in conversation with the Producer",
-      "titleZh": "“寻找阿里布兰迪” ：与制片人交谈",
-      "sourceSummary": "Please join the Friends of the Library for their end-of-year event, 'Looking for Alibrandi: in conversation with the producer. 费用说明：free",
-      "summaryZh": "",
       "translatedAt": "2026-11-03T17:53:12.129908Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -211,22 +179,6 @@
       "sourceSummary": "Dr Sue Keay, director of UNSW AI Institute and founder of Robotics Australia Group, discusses AI, automation and the future of work.",
       "summaryZh": "",
       "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usu-rock-against-racism-2026-11-05": {
-      "sourceTitle": "Rock Against Racism",
-      "titleZh": "摇滚反种族主义",
-      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usu-whos-the-diva-queer-look-alike-contest-party-2026-11-05": {
-      "sourceTitle": "Who's the Diva? Queer look-alike contest + party",
-      "titleZh": "Diva是谁？酷儿造型比赛+派对",
-      "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-slow-looking-workshop-white-jade-orchids-2026-11-11": {
@@ -381,14 +333,6 @@
       "translatedAt": "2026-11-04T18:02:09.277544Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "gpt-usu-verge-white-jade-orchids-2026-11-05": {
-      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
-      "titleZh": "白玉兰·边缘画廊展",
-      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-usu-verge-white-jade-orchids-2026-11-06": {
       "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
       "titleZh": "白玉兰·边缘画廊展",
@@ -539,6 +483,118 @@
       "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
       "summaryZh": "",
       "translatedAt": "2026-11-05T02:30:26.530163Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-1492b2d2-5ad8-4eb8-bcba-51832693945a-2026-11-27": {
+      "sourceTitle": "Cabaret, Cocktails & Karaoke at the Seymour | Friday 27 November",
+      "titleZh": "西摩歌舞厅歌舞表演、鸡尾酒和卡拉OK | 11月27日（周五）",
+      "sourceSummary": "One last encore before the curtain falls on the year. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-9fdb51a0-83f0-4e97-8252-e2376eed2d3d-2026-12-08": {
+      "sourceTitle": "Carillon Recital and Free Tour",
+      "titleZh": "Carillon独奏会和免费之旅",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-869963cd-67ca-4dfa-ac06-2d465b7c699e-2026-12-13": {
+      "sourceTitle": "Sunday Free Carillon Recital",
+      "titleZh": "周日免费Carillon独奏会",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-953cab38-d23e-4f42-bff0-d84b14dd320d-2026-12-15": {
+      "sourceTitle": "Carillon Recital and Free Tour",
+      "titleZh": "Carillon独奏会和免费之旅",
+      "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-96266268-b834-46dc-a8bd-896eaf998bd9-2026-11-28": {
+      "sourceTitle": "Manfredo Lament | Seymour Sounds (Free Event)",
+      "titleZh": "Manfredo Lament | Seymour Sounds （免费活动）",
+      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-eca3b500-a9ba-44a2-8f5d-7621847aee15-2026-12-01": {
+      "sourceTitle": "15th Annual Warren Hogan Memorial Lecture",
+      "titleZh": "第15届沃伦·霍根纪念讲座",
+      "sourceSummary": "The School of Economics warmly invites you to the 15th Annual Warren Hogan Memorial Lecture, featuring keynote speaker Danielle Wood, Chair of the Productivity Commission of Australia. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-0c76154d-ba3e-4daa-af2f-a3e91f87eb69-2026-12-03": {
+      "sourceTitle": "Yasmina Sadiki | Seymour Sounds (Free Event)",
+      "titleZh": "Yasmina Sadiki | Seymour Sounds （免费活动）",
+      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-8e3d6ba8-1d17-4f6a-9d1c-f7937e2f53e2-2026-12-05": {
+      "sourceTitle": "RIAH | Seymour Sounds (Free Event)",
+      "titleZh": "RIAH | Seymour Sounds （免费活动）",
+      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-cd86264e-5cc5-43ff-8b13-fea6ea7f3eb3-2026-12-10": {
+      "sourceTitle": "Hey, Love | Seymour Sounds (Free Event)",
+      "titleZh": "嘿，爱| Seymour Sounds （免费活动）",
+      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-9f1e0444-c589-49b6-a76b-71fb3679fdd1-2026-12-12": {
+      "sourceTitle": "Jerome Blazé | Seymour Sounds (Free Event)",
+      "titleZh": "Jerome Blazé | Seymour Sounds （免费活动）",
+      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-e4f19769-4d27-436e-a23b-10c290df8981-2026-11-28": {
+      "sourceTitle": "Sydney University Graduate Choir: Christmas Concert - Sydney Sings®",
+      "titleZh": "悉尼大学研究生合唱团：圣诞音乐会- Sydney Sings ®",
+      "sourceSummary": "Our 2026 Sydney Sings concert features two brilliant German composers who succeeded at the English Court in London, the great G. F. Handel and Johann Christian Bach, known as ‘London Bach’. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-a04cfa5f-d729-45e3-95f4-5a5723845ed9-2026-12-05": {
+      "sourceTitle": "Sydney University Choir's 2026 Sydney Sings Concert: From Leipzig to London: Christmas Concert",
+      "titleZh": "悉尼大学合唱团2026年悉尼歌唱音乐会：从莱比锡到伦敦：圣诞音乐会",
+      "sourceSummary": "Our 2026 Sydney Sings concert features two brilliant German composers who succeeded at the English Court in London, the great G. F. Handel and his admirer, C.P.E. Bach, the second son of J.S. Bach. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-01": {
+      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music",
+      "titleZh": "CHIME 2026 ：中国音乐的生态维度",
+      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-02": {
+      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第2天",
+      "titleZh": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第2天",
+      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-05T18:05:22.515237Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

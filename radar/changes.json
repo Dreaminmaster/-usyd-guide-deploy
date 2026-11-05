@@ -1,20 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-05T02:30:11.106932Z",
-  "sourceCheckedAt": "2026-11-05T02:30:26.363Z",
+  "checkedAt": "2026-11-05T18:05:06.559763Z",
+  "sourceCheckedAt": "2026-11-05T18:05:22.422Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "supra-267142-2026-11-07",
-      "title": "SUPRA at Usyd Community Festival!",
-      "date": "2026-11-07",
-      "url": "https://supra.net.au/event/supra-at-usyd-community-festival/",
-      "priority": "medium",
-      "detectedAt": "2026-11-05T02:30:11.106932Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1024,7 +1013,7 @@
     }
   ],
   "counts": {
-    "new": 1,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
