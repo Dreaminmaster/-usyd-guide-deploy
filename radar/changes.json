@@ -1,20 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-06T02:30:34.032902Z",
-  "sourceCheckedAt": "2026-11-06T02:30:52.298Z",
+  "checkedAt": "2026-11-06T17:31:23.654447Z",
+  "sourceCheckedAt": "2026-11-06T17:31:44.656Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "usyd-a1caee7b-ec11-45aa-8d70-98c2546cd15c-2026-11-17",
-      "title": "Work, Time and Equality: The Four-Day Week in Research and Practice - Seminar and Industry Panel",
-      "date": "2026-11-17",
-      "url": "https://whatson.sydney.edu.au/event/a1caee7b-ec11-45aa-8d70-98c2546cd15c/Work%2C-Time-and-Equality%3A-The-Four-Day-Week-in-Research-and-Practice---Seminar-and-Industry-Panel",
-      "priority": "low",
-      "detectedAt": "2026-11-06T02:30:34.032902Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1024,7 +1013,7 @@
     }
   ],
   "counts": {
-    "new": 1,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
