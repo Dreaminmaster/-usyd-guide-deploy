@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-05T18:05:22.515237Z",
+  "updatedAt": "2026-11-06T02:30:52.471850Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 74,
+  "count": 78,
   "entries": {
     "usyd-4f382734-5af6-492e-ac28-3469d77156af-2026-11-07": {
       "sourceTitle": "University of Sydney Community Festival",
@@ -595,6 +595,38 @@
       "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
       "summaryZh": "",
       "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-a1caee7b-ec11-45aa-8d70-98c2546cd15c-2026-11-17": {
+      "sourceTitle": "Work, Time and Equality: The Four-Day Week in Research and Practice - Seminar and Industry Panel",
+      "titleZh": "工作、时间和平等：为期四天的研究和实践周-研讨会和行业小组讨论",
+      "sourceSummary": "Can a four-day work week improve gender equality while sustaining organisational performance? The Australian Centre for Gender Equality and Inclusion at Work invites you to join us in-person and online for a discussion on the opportunities and challenges of re",
+      "summaryZh": "",
+      "translatedAt": "2026-11-06T02:30:52.471850Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-03": {
+      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第3天",
+      "titleZh": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第3天",
+      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-06T02:30:52.471850Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-04": {
+      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第4天",
+      "titleZh": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第4天",
+      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-06T02:30:52.471850Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-262106-2026-12-17": {
+      "sourceTitle": "December SUPRA Council meeting",
+      "titleZh": "12月超级理事会会议",
+      "sourceSummary": "Official SUPRA event. See source for eligibility, registration and costs.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-06T02:30:52.471850Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

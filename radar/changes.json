@@ -1,10 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-05T18:05:06.559763Z",
-  "sourceCheckedAt": "2026-11-05T18:05:22.422Z",
+  "checkedAt": "2026-11-06T02:30:34.032902Z",
+  "sourceCheckedAt": "2026-11-06T02:30:52.298Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "usyd-a1caee7b-ec11-45aa-8d70-98c2546cd15c-2026-11-17",
+      "title": "Work, Time and Equality: The Four-Day Week in Research and Practice - Seminar and Industry Panel",
+      "date": "2026-11-17",
+      "url": "https://whatson.sydney.edu.au/event/a1caee7b-ec11-45aa-8d70-98c2546cd15c/Work%2C-Time-and-Equality%3A-The-Four-Day-Week-in-Research-and-Practice---Seminar-and-Industry-Panel",
+      "priority": "low",
+      "detectedAt": "2026-11-06T02:30:34.032902Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "usyd-a1caee7b-ec11-45aa-8d70-98c2546cd15c-2026-11-17",
+      "title": "Work, Time and Equality: The Four-Day Week in Research and Practice - Seminar and Industry Panel",
+      "date": "2026-11-17",
+      "url": "https://whatson.sydney.edu.au/event/a1caee7b-ec11-45aa-8d70-98c2546cd15c/Work%2C-Time-and-Equality%3A-The-Four-Day-Week-in-Research-and-Practice---Seminar-and-Industry-Panel",
+      "priority": "low",
+      "detectedAt": "2026-11-06T02:30:34.032902Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "supra-267142-2026-11-07",
@@ -1000,20 +1021,10 @@
       "priority": "low",
       "detectedAt": "2026-10-29T01:51:07.627510Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usu-verge-white-jade-orchids-2026-11-11",
-      "title": "White Jade Orchids · Verge Gallery Exhibition",
-      "date": "2026-11-11",
-      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
-      "priority": "low",
-      "detectedAt": "2026-10-29T01:51:07.627510Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
