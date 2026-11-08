@@ -1,38 +1,38 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-08T01:28:44.870Z",
-  "archivedAt": "2026-11-08T01:28:25.350418Z",
+  "checkedAt": "2026-11-08T16:42:32.743Z",
+  "archivedAt": "2026-11-08T16:42:12.260246Z",
   "timezone": "Australia/Sydney",
-  "today": "2026-11-08",
+  "today": "2026-11-09",
   "status": "partial",
   "summary": {
-    "events": 64,
-    "news": 17,
+    "events": 62,
+    "news": 16,
     "high": 0,
     "recommended": 10,
-    "fromWebsite": 58,
+    "fromWebsite": 56,
     "fromCityDiscovery": 0,
     "fromGPT": 6,
     "gptEnriched": 0,
     "successfulSources": 2,
     "failedSources": 1,
-    "fetchMs": 18816
+    "fetchMs": 19829
   },
   "sources": [
     {
       "name": "悉尼大学 What's On",
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
-      "message": "已通过官方公开活动查询接口读取 52 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-11-08T01:28:44.828Z",
-      "recordCount": 52
+      "message": "已通过官方公开活动查询接口读取 49 条未来活动（10 页）；结果较多，已达到安全分页上限",
+      "checkedAt": "2026-11-08T16:42:32.703Z",
+      "recordCount": 49
     },
     {
       "name": "USU 学生会",
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "ok",
       "message": "已提取 1 条日期明确的公开活动",
-      "checkedAt": "2026-11-08T01:28:27.778Z",
+      "checkedAt": "2026-11-08T16:42:14.547Z",
       "recordCount": 1
     },
     {
@@ -40,7 +40,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-08T01:28:28.677Z",
+      "checkedAt": "2026-11-08T16:42:15.606Z",
       "recordCount": 0
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-08T01:28:27.470Z",
+      "checkedAt": "2026-11-08T16:42:14.372Z",
       "recordCount": 0
     },
     {
@@ -56,7 +56,7 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-08T01:28:28.364Z",
+      "checkedAt": "2026-11-08T16:42:15.734Z",
       "recordCount": 0
     },
     {
@@ -65,7 +65,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "官网可访问，但尚未解析到符合条件的活动。",
-      "checkedAt": "2026-11-08T01:28:28.244Z"
+      "checkedAt": "2026-11-08T16:42:15.270Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +73,7 @@
       "status": "ok",
       "recordCount": 6,
       "message": "已自动提取 6 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-11-08T01:28:27.608Z"
+      "checkedAt": "2026-11-08T16:42:14.313Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +81,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-08T01:28:27.788Z"
+      "checkedAt": "2026-11-08T16:42:15.822Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +89,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-08T01:28:28.088Z"
+      "checkedAt": "2026-11-08T16:42:15.799Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +97,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-08T01:28:28.333Z"
+      "checkedAt": "2026-11-08T16:42:15.213Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +105,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-08T01:28:28.721Z"
+      "checkedAt": "2026-11-08T16:42:15.227Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,7 +113,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-08T01:28:28.720Z"
+      "checkedAt": "2026-11-08T16:42:15.716Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -121,7 +121,7 @@
       "status": "ok",
       "recordCount": 1,
       "message": "已读取 2 个官方活动页面，解析到 1 条日程",
-      "checkedAt": "2026-11-08T01:28:27.777Z"
+      "checkedAt": "2026-11-08T16:42:14.521Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,15 +129,15 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-11-08T01:28:30.080Z"
+      "checkedAt": "2026-11-08T16:42:17.049Z"
     },
     {
       "name": "SUPRA · 活动接口",
       "url": "https://supra.net.au/events/",
       "status": "ok",
-      "recordCount": 8,
+      "recordCount": 7,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-11-08T01:28:28.521Z"
+      "checkedAt": "2026-11-08T16:42:15.600Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,7 +145,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-11-08T01:28:28.387Z"
+      "checkedAt": "2026-11-08T16:42:15.212Z"
     },
     {
       "name": "city-discovery",
@@ -159,49 +159,11 @@
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
       "recordCount": 6,
-      "checkedAt": "2026-11-08T01:28:27.009Z",
+      "checkedAt": "2026-11-08T16:42:13.820Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
   "events": [
-    {
-      "id": "usyd-f2aae7cf-ade3-4b5d-843b-4b79df7ab657-2026-11-08",
-      "title": "Sunday Free Carillon Recital",
-      "date": "2026-11-08",
-      "time": "13:00–13:45",
-      "location": "The Quadrangle, University Place, Camperdown",
-      "category": "culture",
-      "priority": "low",
-      "score": 60,
-      "summary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
-      "eligibility": "公开活动；具体参加要求请查看官网",
-      "registration": "请打开官方链接核实报名、名额与费用",
-      "confidence": "confirmed",
-      "sourceName": "University of Sydney What’s On",
-      "url": "https://whatson.sydney.edu.au/event/f2aae7cf-ade3-4b5d-843b-4b79df7ab657/Sunday-Free-Carillon-Recital",
-      "verified": "2026-11-08",
-      "feedSource": "university",
-      "priorityReason": "Advertised free; Arts and culture; This week"
-    },
-    {
-      "id": "supra-266073-2026-11-08",
-      "title": "BODYJAM for SUPRA members",
-      "date": "2026-11-08",
-      "time": "15:00–16:00",
-      "location": "Group Fitness Studio, SUSAC",
-      "category": "culture",
-      "priority": "low",
-      "score": 11,
-      "summary": "Group Fitness Studio, Sydney Uni Sports & Aquatic Centre (SUSAC) Join SUPRA for BODYJAM! BODYJAM is a high-energy dance workout that combines the latest sounds and moves with the best of urban and hip-hop culture. It is an exercise class that lets you dance your way towards your fitness goals. The intensity level is entirely up to you. Re",
-      "eligibility": "SUPRA members / postgraduates. CET eligibility NOT confirmed.",
-      "registration": "Check the organiser's official registration page",
-      "confidence": "confirmed",
-      "sourceName": "SUPRA · Postgraduate representative association",
-      "url": "https://supra.net.au/event/bodyjam-for-supra-members-12/",
-      "verified": "2026-11-08",
-      "feedSource": "associations",
-      "priorityReason": "This week"
-    },
     {
       "id": "usyd-e113361c-07b5-4285-a36c-7dc71ee0b822-2026-11-09",
       "title": "School of Languages and Cultures research Day S2 2026",
@@ -217,7 +179,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/e113361c-07b5-4285-a36c-7dc71ee0b822/School-of-Languages-and-Cultures-research-Day-S2-2026",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -236,7 +198,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/d2bb2ce1-5b16-4247-a1bf-c8e7c5c4de49/Tim-Winton%3A-Songs-from-the-Firefront-Book-Launch",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "This week"
     },
@@ -277,7 +239,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/migration-webinar-for-485-visa-applicants-8/",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "associations",
       "priorityReason": "Student support / visas; This week"
     },
@@ -318,7 +280,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/0c328285-ea95-4cd4-9621-378045408011/Carillon-Recital-and-Free-Tour---Remembrance",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture; This week"
     },
@@ -359,7 +321,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/447ef249-c789-4bf0-bc8f-c88d9c99d3d1/The-Impact-Factor%3A-From-microbes-to-megafauna---Why-every-lifeform-matters",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -400,7 +362,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/9852614e-469c-4ef8-977e-179d9c9845b6/Pacific-Collective-Public-Online-Seminars-(November-2026)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -419,7 +381,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/76dff06f-d6e0-4295-b56a-c57fd1fb3936/Close-and-Personal%3A-On-Practical-Criticism-as-Assessment-Practice",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -438,7 +400,7 @@
       "confidence": "confirmed",
       "sourceName": "USU 官方活动日历",
       "url": "https://usu.edu.au/events/slow-looking-workshop-white-jade-orchids",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Student union / local; This week"
     },
@@ -479,7 +441,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/migration-webinar-for-hdr-students-18/",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "associations",
       "priorityReason": "Student support / visas; This week"
     },
@@ -498,7 +460,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/84ff456c-a195-4195-be64-c77887330e38/The-Uncertain-Image",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -517,7 +479,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/433c69cb-c871-4b03-927f-eb1fd3bd36ae/Sydney-Biomedical-Accelerator-Showcase",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -536,7 +498,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/2d189e57-a640-42ef-a4bf-e2d9adcb3ab4/Discover-Rare-Books-and-Special-Collections%3A-Weird-%26-Wonderful",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -555,7 +517,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/f1483c52-f765-4d7b-921b-d350df2585d3/Showcase-%26-Pitch-invitation%3A-Action-on-Prediabetes%2C-Diabetes-%26-Severe-Obesity-hosted-by-the-Diabetes-and-Obesity-Clinical-Academic",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -574,7 +536,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/a25751ba-0cf9-4eda-842f-7352a7d4dfe8/AGUM-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -593,7 +555,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/91c91289-e195-4a13-a017-8315c7312496/Young-Refugee",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "This week"
     },
@@ -634,7 +596,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/eca2af51-613a-46d4-816f-d251dd3e8c3e/Discover-Research-Opportunities-at-HHURRI",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -653,7 +615,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/91c91289-e195-4a13-a017-8315c7312496/Young-Refugee",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "This week"
     },
@@ -672,7 +634,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/f80300dc-8525-4602-9055-c1e5e4e93f14/Flux-State-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -691,7 +653,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/91c91289-e195-4a13-a017-8315c7312496/Young-Refugee",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "This week"
     },
@@ -710,7 +672,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/c5d84b96-c9f3-4836-9a60-869a63b9b097/Sunday-Free-Carillon-Recital",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture; This week"
     },
@@ -729,7 +691,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/carers-network-play-and-chat/",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "associations",
       "priorityReason": "This week"
     },
@@ -741,16 +703,16 @@
       "location": "Susan Wakil Health Building, the University of Sydney",
       "category": "welfare",
       "priority": "low",
-      "score": 37,
+      "score": 50,
       "summary": "Monday, 16 Nov 2026 08:30 AM – 9:00 AM Join us for a one-day, in-person symposium bringing together HDR students working in cancer research. The event will feature keynote speakers, a panel Q&A, and student presentations. 费用说明：free",
       "eligibility": "公开活动；具体参加要求请查看官网",
       "registration": "请打开官方链接核实报名、名额与费用",
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/4d01c586-f78f-4e29-87f7-e363db954559/2026-HDR-Student-Cancer-Research-Symposium",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
-      "priorityReason": "Advertised free"
+      "priorityReason": "Advertised free; This week"
     },
     {
       "id": "usyd-eaccf779-2687-4388-aba7-8934a90ac8d2-2026-11-16",
@@ -760,16 +722,16 @@
       "location": "A02-Social Sciences Building Seminar Room 210",
       "category": "academic",
       "priority": "low",
-      "score": 37,
+      "score": 50,
       "summary": "Join us for the first national one-day symposium exploring contemporary and emerging conversations at the intersection of languages education, decolonial thought, Indigenising curriculum, and socially responsive pedagogies in higher education. 费用说明：free",
       "eligibility": "公开活动；具体参加要求请查看官网",
       "registration": "请打开官方链接核实报名、名额与费用",
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/eaccf779-2687-4388-aba7-8934a90ac8d2/Decolonial-Language-Pedagogies-in-Australia-Higher-Education",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
-      "priorityReason": "Advertised free"
+      "priorityReason": "Advertised free; This week"
     },
     {
       "id": "usyd-a1caee7b-ec11-45aa-8d70-98c2546cd15c-2026-11-17",
@@ -786,7 +748,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/a1caee7b-ec11-45aa-8d70-98c2546cd15c/Work%2C-Time-and-Equality%3A-The-Four-Day-Week-in-Research-and-Practice---Seminar-and-Industry-Panel",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -805,7 +767,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/70507112-690e-4420-ab5e-aa8849f09856/From-prehistoric-qubits-to-building-a-useful-quantum-computer",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -824,7 +786,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/4765c2d2-2b29-46b6-b1cf-b184c720e98e/Beaches-and-Sharks%3A-A-Free-Town-Hall-on-Beach-Safety-This-Summer",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -843,7 +805,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/6d66b4d4-b000-46ed-bfcc-4e9a7a239360/Tahkoe-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -862,7 +824,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/56920707-1705-4404-9f26-4d88161b70a0/Sydney-Ideas-%E2%80%93-Conversations-for-Good%3A-Across-generations",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -881,7 +843,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/8bf12ce5-e0dd-459e-b499-d74f6a61f95a/Misconduct-policies-in-light-of-increased-generative-AI-use",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -900,7 +862,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/6076702d-2e29-42bd-bc9b-0c5f5eea97b7/The-Warren-Centre-presents%3A-Empowering-Communities-with-Communication-%26-AI",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -919,7 +881,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/migration-webinar-for-coursework-students-18/",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "associations",
       "priorityReason": "Student support / visas"
     },
@@ -938,7 +900,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/57802ce2-86f2-4c3e-a105-f363bea6c12b/SydneyMSK-Annual-Scientific-Meeting",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -957,7 +919,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/86036b79-c253-4cb7-901a-fe3cc42f0000/Exploring-the-role-of-intermediaries-in-criminal-justice-processes",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -976,7 +938,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/november-supra-council-meeting-5/",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "associations",
       "priorityReason": "General event"
     },
@@ -995,7 +957,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/1492b2d2-5ad8-4eb8-bcba-51832693945a/Cabaret%2C-Cocktails-%26-Karaoke-at-the-Seymour-%7C-Friday-27-November",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1014,7 +976,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/96266268-b834-46dc-a8bd-896eaf998bd9/Manfredo-Lament-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1033,7 +995,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/e4f19769-4d27-436e-a23b-10c290df8981/Sydney-University-Graduate-Choir%3A-Christmas-Concert---Sydney-Sings%C2%AE",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Arts and culture"
     },
@@ -1052,7 +1014,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/d9a37489-d6b3-420c-8953-51367df9655d/Artificial-Intelligence-and-Human-Creativity",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -1071,7 +1033,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/eca3b500-a9ba-44a2-8f5d-7621847aee15/15th-Annual-Warren-Hogan-Memorial-Lecture",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1090,7 +1052,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1109,7 +1071,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/0ed2cd81-df6a-43e4-922c-13eaa43c42a9/ITLS-Seminar-Series%3A-Leadership%2C-Policy-and-Research%3A-Professor-Emeritus-Avishai-(Avi)-Ceder",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -1128,7 +1090,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1147,7 +1109,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/0c76154d-ba3e-4daa-af2f-a3e91f87eb69/Yasmina-Sadiki-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1166,7 +1128,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1185,7 +1147,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1204,7 +1166,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/8e3d6ba8-1d17-4f6a-9d1c-f7937e2f53e2/RIAH-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1223,7 +1185,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/a04cfa5f-d729-45e3-95f4-5a5723845ed9/Sydney-University-Choir's-2026-Sydney-Sings-Concert%3A-From-Leipzig-to-London%3A-Christmas-Concert",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Arts and culture"
     },
@@ -1242,7 +1204,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/c974666e-bd35-4d44-9987-1ea2b36eca99/Sunday-Free-Carillon-Recital",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -1261,7 +1223,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/9fdb51a0-83f0-4e97-8252-e2376eed2d3d/Carillon-Recital-and-Free-Tour",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -1280,7 +1242,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/a289711c-2a6a-42e8-a9ba-b1c0758a67c2/Faculty-of-Engineering-Dean's-Lecture-Series-with-Dr-Alan-Finkel-AC",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -1299,7 +1261,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/cd86264e-5cc5-43ff-8b13-fea6ea7f3eb3/Hey%2C-Love-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1318,7 +1280,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/9f1e0444-c589-49b6-a76b-71fb3679fdd1/Jerome-Blaz%C3%A9-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1337,7 +1299,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/869963cd-67ca-4dfa-ac06-2d465b7c699e/Sunday-Free-Carillon-Recital",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -1356,7 +1318,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/953cab38-d23e-4f42-bff0-d84b14dd320d/Carillon-Recital-and-Free-Tour",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -1375,7 +1337,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/migration-webinar-for-485-visa-applicants-9/",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "associations",
       "priorityReason": "Student support / visas"
     },
@@ -1394,7 +1356,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/december-supra-council-meeting-3/",
-      "verified": "2026-11-08",
+      "verified": "2026-11-09",
       "feedSource": "associations",
       "priorityReason": "General event"
     }
@@ -1517,16 +1479,6 @@
       "summary": "Service NSW 官方公告；点击查看政策适用范围和生效时间。",
       "url": "https://www.service.nsw.gov.au/news/digital-licence-shifts-up-a-gear-for-western-sydney-and-blue-mountains-drivers",
       "type": "service"
-    },
-    {
-      "id": "transport-news-2026-upcoming-trackwork-sydney-to-broken-hill",
-      "title": "Upcoming trackwork Sydney to Broken Hill Regional train regional-train",
-      "date": "2026-09-24",
-      "source": "Transport for NSW",
-      "summary": "Transport for NSW 官方交通消息；前往官网核实适用线路、日期和即时运行情况。",
-      "url": "https://transportnsw.info/news/2026/upcoming-trackwork-sydney-to-broken-hill",
-      "type": "transport",
-      "dateReliable": true
     },
     {
       "id": "service-refresh-your-driver-knowledge-this-road-rules-awareness-week",
