@@ -1,26 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-06T02:30:52.471850Z",
+  "updatedAt": "2026-11-09T20:47:55.880835Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 78,
+  "count": 60,
   "entries": {
-    "usyd-4f382734-5af6-492e-ac28-3469d77156af-2026-11-07": {
-      "sourceTitle": "University of Sydney Community Festival",
-      "titleZh": "悉尼大学社区节",
-      "sourceSummary": "Join us at the University of Sydney Community Festival for a free, full day of fun for family, friends and community! Explore behind the scenes, connect with friends and family, and discover the campus as you've never seen it before. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
-    "usyd-f2aae7cf-ade3-4b5d-843b-4b79df7ab657-2026-11-08": {
-      "sourceTitle": "Sunday Free Carillon Recital",
-      "titleZh": "周日免费钟琴演奏会",
-      "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
-      "provider": "human-reviewed initial title translation"
-    },
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
       "titleZh": "周日免费钟琴演奏会",
@@ -61,22 +45,6 @@
       "translatedAt": "2026-10-28T06:49:05.189200Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "gpt-digital-village-lean-coffee-2026-11-06": {
-      "sourceTitle": "Digital Village Lean Coffee Meetup",
-      "titleZh": "数字村精益咖啡见面会",
-      "sourceSummary": "Free participant-led discussion meetup for developers, designers, product managers and technology professionals; topics often include AI and the future of work. University morning classes may conflict.",
-      "summaryZh": "为开发人员、设计师、产品经理和技术专业人士举办免费的参与者主导的讨论见面会；主题通常包括人工智能和工作的未来。大学早课可能会发生冲突。",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "gpt-usu-sem2-daytrip-2026-11-06": {
-      "sourceTitle": "Semester 2 Day Trip · Yoga on Bondi Beach",
-      "titleZh": "2学期一日游·邦迪海滩瑜伽",
-      "sourceSummary": "One actual scheduled instance of USU Semester 2 Day Trips, not a daily event spanning August to November. Check the individual booking details before travel.",
-      "summaryZh": "一次实际安排的USU第2学期一日游，而不是8月至11月的每日活动。出行前请查看个人预订详情。",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-0c328285-ea95-4cd4-9621-378045408011-2026-11-10": {
       "sourceTitle": "Carillon Recital and Free Tour - Remembrance",
       "titleZh": "Carillon独奏和免费之旅：纪念",
@@ -91,62 +59,6 @@
       "sourceSummary": "UNSW Engineering and Engineering Spinout Club host a free panel and networking reception with founders, investors and researchers about commercialising Australian innovation.",
       "summaryZh": "",
       "translatedAt": "2026-11-02T20:23:52.841377Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "gpt-codeforsydney-nasa-space-apps-prep-2026-11-07": {
-      "sourceTitle": "NASA Space Apps Challenge Prep & Team Formation Day!",
-      "titleZh": "NASA太空应用挑战准备和团队组建日！",
-      "sourceSummary": "Free community meetup ahead of the 14–15 November NASA Space Apps Challenge. Review NASA challenge prompts, brainstorm and meet teammates. Bring a laptop; pizza provided.",
-      "summaryZh": "在11月14日至15日美国宇航局太空应用挑战赛之前举行的免费社区见面会。查看NASA挑战提示，头脑风暴并结识队友。带上笔记本电脑；提供披萨。",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-8a898a20-c921-4ee8-896e-83c9e9af1590-2026-11-06": {
-      "sourceTitle": "Rumination and Political Life: Anna Burns’s Milkman Masterclass by Amanda S. Anderson (Brown)",
-      "titleZh": "反刍与政治生活：安娜·伯恩斯的牛奶工大师班，作者：阿曼达· S ·安德森（ Amanda S. Anderson ） （布朗）",
-      "sourceSummary": "The Novel Network presents a masterclass by Amanda Anderson, the Andrew W. Mellon Professor of Humanities and English at Brown University. Co hosted by the Literary Provocations Hub UNSW. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-93f5df34-74d7-4642-a48d-2b8e27dd1a83-2026-11-06": {
-      "sourceTitle": "German Research Seminar: Donna Brett (Sydney), “‘A Strange Tissue of Space and Time’: The Photobooks of August Sander and Heinrich Hoffmann.”",
-      "titleZh": "德国研究研讨会： Donna Brett （悉尼） ， “A Strange Tissue of Space and Time” ： The Photobooks of August Sander and Heinrich Hoffmann。",
-      "sourceSummary": "Walter Benjamin’s essay “The Work of Art in the Age of Mechanical Reproduction,” from the mid-1930s,coincided with the centrality of photographs to the illustrated press, magazines, and journalism. This seminar considers Benjamin’s concept of the aura as it pe",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-dc6bfcc8-b752-4fbf-8f06-31862186094e-2026-11-06": {
-      "sourceTitle": "Social Work Alumni Reunion",
-      "titleZh": "社会工作校友团聚",
-      "sourceSummary": "We're bringing together Social Work graduates for a special reunion event! 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-31b5c795-26f9-4cf4-a988-b3307f4b5501-2026-11-07": {
-      "sourceTitle": "Ella Haber | Seymour Sounds (Free Event)",
-      "titleZh": "Ella Haber | Seymour Sounds （免费活动）",
-      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-482dea66-03e0-495f-b6f8-64de5aee33f3-2026-11-07": {
-      "sourceTitle": "Past and Future Seymour: With Joanne Kee and Robert Love",
-      "titleZh": "与Joanne Kee和Robert Love一起探索Seymour的过去和未来",
-      "sourceSummary": "A conversation about Seymour's history, evolution, and what's next. Join us for a special afternoon during the University of Sydney Community Festival to explore the story of Seymour, from its rich past to its future possibilities. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-e113361c-07b5-4285-a36c-7dc71ee0b822-2026-11-09": {
-      "sourceTitle": "School of Languages and Cultures research Day S2 2026",
-      "titleZh": "语言与文化学院研究日S2 2026",
-      "sourceSummary": "Join us for SLC Research Day S2 2026 to explore fresh perspectives on language, culture, identity and society. Discover the diverse research taking place across the School of Languages and Cultures. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-447ef249-c789-4bf0-bc8f-c88d9c99d3d1-2026-11-10": {
@@ -185,14 +97,6 @@
       "sourceTitle": "Verge Gallery: Slow looking workshop",
       "titleZh": "Verge Gallery ：外观缓慢的工作坊",
       "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-d2bb2ce1-5b16-4247-a1bf-c8e7c5c4de49-2026-11-09": {
-      "sourceTitle": "Tim Winton: Songs from the Firefront Book Launch",
-      "titleZh": "蒂姆·温顿：前线图书发布会上的歌曲",
-      "sourceSummary": "Join Tim Winton at Seymour in conversation with Michaela Kalowski to celebrate his new book, Songs from the Firefront, this November. 费用说明：paid",
       "summaryZh": "",
       "translatedAt": "2026-11-04T02:23:26.910552Z",
       "provider": "MyMemory (free, best effort)"
@@ -333,22 +237,6 @@
       "translatedAt": "2026-11-04T18:02:09.277544Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "gpt-usu-verge-white-jade-orchids-2026-11-06": {
-      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
-      "titleZh": "白玉兰·边缘画廊展",
-      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "gpt-usu-verge-white-jade-orchids-2026-11-09": {
-      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
-      "titleZh": "白玉兰·边缘画廊展",
-      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-usu-verge-white-jade-orchids-2026-11-10": {
       "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
       "titleZh": "白玉兰·边缘画廊展",
@@ -371,14 +259,6 @@
       "sourceSummary": "Experience the powerful narratives of child refugees, now teenagers, as they bravely share their real-life journeys of escaping war and persecution to start anew in Australia. 费用说明：paid",
       "summaryZh": "",
       "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-267142-2026-11-07": {
-      "sourceTitle": "SUPRA at Usyd Community Festival!",
-      "titleZh": "在Usyd社区节上欣赏SUPRA ！",
-      "sourceSummary": "Saturday 7 November 2026 11am – 4pm Eastern Avenue, in front of the New Law Building SUPRA will be part of the Usyd Community Festival this Saturday! We’ll have a stall on Eastern Avenue, right in front of the New Law Building. Whether you’d like to learn more",
-      "summaryZh": "2026年11月7日（星期六）上午11点–下午4点东部大道，在上面的新法律大楼前，本周六将参加Usyd社区节！我们在新法律大楼前面的东大街上有一个摊位。您是否想了解更多信息",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-91c91289-e195-4a13-a017-8315c7312496-2026-11-14": {
@@ -409,38 +289,6 @@
       "sourceTitle": "Exploring the role of intermediaries in criminal justice processes",
       "titleZh": "探索中介在刑事司法程序中的作用",
       "sourceSummary": "Criminal Law CPD Series 2026-27: Webinar 8 of 8 This webinar is part of the 2026/27 Criminal Law CPD Series, which features eight recorded webinars led by experts from the University of Sydney and the legal profession. CPD areas: Professional skills; Ethics & ",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-266067-2026-11-07": {
-      "sourceTitle": "Indoor rock climbing for SUPRA members",
-      "titleZh": "适合超级会员的室内攀岩体验",
-      "sourceSummary": "The Ledge Climbing Centre Come and rock climb with SUPRA! Climbs cater to all levels of skill and ability. This is a great sport for new and experienced climbers – practice, be challenged, and excel! Registration is essential. Ticket registrations open at 9am ",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-266069-2026-11-07": {
-      "sourceTitle": "Yoga for SUPRA members",
-      "titleZh": "为超级会员准备的瑜伽",
-      "sourceSummary": "Group Fitness Studio, Sydney Uni Sports & Aquatic Centre Join SUPRA for Yoga! Yoga combines breathing, flexibility and strength work to build body awareness and release stress. Suitable for all fitness levels, whether it’s your first class or your hundredth. P",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-266071-2026-11-07": {
-      "sourceTitle": "BODYBALANCE for SUPRA members",
-      "titleZh": "BODYBALANCE FOR SUPRA成员",
-      "sourceSummary": "Group Fitness Studio, Sydney Uni Sports & Aquatic Centre Join SUPRA for BODYBALANCE! BODYBALANCE™ combines yoga, tai chi and pilates for a holistic workout. This class is designed to improve your flexibility, core strength, and mental wellbeing. Registration i",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-266073-2026-11-08": {
-      "sourceTitle": "BODYJAM for SUPRA members",
-      "titleZh": "BODYJAM （适用于超级会员）",
-      "sourceSummary": "Group Fitness Studio, Sydney Uni Sports & Aquatic Centre (SUSAC) Join SUPRA for BODYJAM! BODYJAM is a high-energy dance workout that combines the latest sounds and moves with the best of urban and hip-hop culture. It is an exercise class that lets you dance yo",
       "summaryZh": "",
       "translatedAt": "2026-11-05T02:30:26.530163Z",
       "provider": "MyMemory (free, best effort)"
@@ -627,6 +475,14 @@
       "sourceSummary": "Official SUPRA event. See source for eligibility, registration and costs.",
       "summaryZh": "",
       "translatedAt": "2026-11-06T02:30:52.471850Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21": {
+      "sourceTitle": "Book Launch: Motherhood, Labour and Care in the 21st Century",
+      "titleZh": "图书发布： 21世纪的母亲、劳动和护理",
+      "sourceSummary": "Join Dr. Sheree Gregory and Professor Kate Huppatz at Gleebooks, for an in conversation discussion with Professor Gaby Ramia, as they celebrate the release of Motherhood, Labour and Care in the 21st Century. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-09T20:47:55.880835Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

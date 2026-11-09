@@ -1,10 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-09T01:45:05.877841Z",
-  "sourceCheckedAt": "2026-11-09T01:45:24.006Z",
+  "checkedAt": "2026-11-09T20:47:40.758111Z",
+  "sourceCheckedAt": "2026-11-09T20:47:55.703Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21",
+      "title": "Book Launch: Motherhood, Labour and Care in the 21st Century",
+      "date": "2026-11-21",
+      "url": "https://whatson.sydney.edu.au/event/11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc/Book-Launch%3A-Motherhood%2C-Labour-and-Care-in-the-21st-Century",
+      "priority": "low",
+      "detectedAt": "2026-11-09T20:47:40.758111Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21",
+      "title": "Book Launch: Motherhood, Labour and Care in the 21st Century",
+      "date": "2026-11-21",
+      "url": "https://whatson.sydney.edu.au/event/11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc/Book-Launch%3A-Motherhood%2C-Labour-and-Care-in-the-21st-Century",
+      "priority": "low",
+      "detectedAt": "2026-11-09T20:47:40.758111Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "usyd-a1caee7b-ec11-45aa-8d70-98c2546cd15c-2026-11-17",
@@ -1000,20 +1021,10 @@
       "priority": "low",
       "detectedAt": "2026-10-29T01:51:07.627510Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usu-verge-white-jade-orchids-2026-11-10",
-      "title": "White Jade Orchids · Verge Gallery Exhibition",
-      "date": "2026-11-10",
-      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
-      "priority": "low",
-      "detectedAt": "2026-10-29T01:51:07.627510Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
