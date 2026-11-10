@@ -1,20 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-09T20:47:40.758111Z",
-  "sourceCheckedAt": "2026-11-09T20:47:55.703Z",
+  "checkedAt": "2026-11-10T04:09:34.425982Z",
+  "sourceCheckedAt": "2026-11-10T04:09:48.322Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21",
-      "title": "Book Launch: Motherhood, Labour and Care in the 21st Century",
-      "date": "2026-11-21",
-      "url": "https://whatson.sydney.edu.au/event/11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc/Book-Launch%3A-Motherhood%2C-Labour-and-Care-in-the-21st-Century",
-      "priority": "low",
-      "detectedAt": "2026-11-09T20:47:40.758111Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1024,7 +1013,7 @@
     }
   ],
   "counts": {
-    "new": 1,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
