@@ -1,10 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-11T17:55:00.988407Z",
-  "sourceCheckedAt": "2026-11-11T17:55:14.970Z",
+  "checkedAt": "2026-11-12T03:04:29.843692Z",
+  "sourceCheckedAt": "2026-11-12T03:04:46.029Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "usyd-ca049a09-28ca-4ee8-8a91-6781e7721e64-2026-12-02",
+      "title": "DHIN End of Year Celebration",
+      "date": "2026-12-02",
+      "url": "https://whatson.sydney.edu.au/event/ca049a09-28ca-4ee8-8a91-6781e7721e64/DHIN-End-of-Year-Celebration",
+      "priority": "low",
+      "detectedAt": "2026-11-12T03:04:29.843692Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "usyd-ca049a09-28ca-4ee8-8a91-6781e7721e64-2026-12-02",
+      "title": "DHIN End of Year Celebration",
+      "date": "2026-12-02",
+      "url": "https://whatson.sydney.edu.au/event/ca049a09-28ca-4ee8-8a91-6781e7721e64/DHIN-End-of-Year-Celebration",
+      "priority": "low",
+      "detectedAt": "2026-11-12T03:04:29.843692Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21",
@@ -1000,20 +1021,10 @@
       "priority": "low",
       "detectedAt": "2026-10-29T01:51:07.627510Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-usu-verge-white-jade-orchids-2026-11-09",
-      "title": "White Jade Orchids · Verge Gallery Exhibition",
-      "date": "2026-11-09",
-      "url": "https://usu.edu.au/events/verge-gallery-white-jade-orchids/",
-      "priority": "low",
-      "detectedAt": "2026-10-29T01:51:07.627510Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,

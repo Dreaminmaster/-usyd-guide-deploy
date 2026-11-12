@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-09T20:47:55.880835Z",
+  "updatedAt": "2026-11-12T03:04:46.216666Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 60,
+  "count": 50,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -21,14 +21,6 @@
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
     },
-    "supra-263130-2026-11-10": {
-      "sourceTitle": "Migration webinar for 485 visa applicants",
-      "titleZh": "面向485签证申请人的移民网络研讨会",
-      "sourceSummary": "Tuesday 10 November 2026 10am–midday Zoom Need help preparing your 485 visa application? Join SUPRA Legal Service for a practical session covering what you need, how to prepare, and answers to common questions about 485 visas. Each section includes a short Q&A",
-      "summaryZh": "2026年11月10日（星期二）上午10点至中午Zoom在准备485签证申请时需要帮助吗？加入SUPRA法律服务，参加实用课程，了解您的需求、准备方法以及有关485签证的常见问题解答。每个部分都包括一个简短的问答",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "supra-262118-2026-11-12": {
       "sourceTitle": "Migration webinar for HDR students",
       "titleZh": "面向HDR学生的迁移网络研讨会",
@@ -37,68 +29,12 @@
       "translatedAt": "2026-11-04T02:23:26.910552Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "gpt-usyd-impact-factor-biodiversity-2026-10-22": {
-      "sourceTitle": "The Impact Factor: From microbes to megafauna",
-      "titleZh": "影响因素：从微生物到巨型动物",
-      "sourceSummary": "Free public science conversation hosted by Professor Alice Motion, with researchers exploring biodiversity, conservation genomics, insects and coral reef ecosystems.",
-      "summaryZh": "由Alice Motion教授主持的免费公共科学对话，研究人员将探索生物多样性、保护基因组学、昆虫和珊瑚礁生态系统。",
-      "translatedAt": "2026-10-28T06:49:05.189200Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-0c328285-ea95-4cd4-9621-378045408011-2026-11-10": {
-      "sourceTitle": "Carillon Recital and Free Tour - Remembrance",
-      "titleZh": "Carillon独奏和免费之旅：纪念",
-      "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T20:23:52.841377Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "gpt-engineering-entrepreneurship-2026-11-10": {
-      "sourceTitle": "Engineering the Future: The Entrepreneurship Paradox",
-      "titleZh": "设计未来：创业悖论",
-      "sourceSummary": "UNSW Engineering and Engineering Spinout Club host a free panel and networking reception with founders, investors and researchers about commercialising Australian innovation.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-02T20:23:52.841377Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-447ef249-c789-4bf0-bc8f-c88d9c99d3d1-2026-11-10": {
-      "sourceTitle": "The Impact Factor: From microbes to megafauna - Why every lifeform matters",
-      "titleZh": "影响因素：从微生物到巨型动物--为什么每个生命形式都很重要",
-      "sourceSummary": "***Date change**** Join us on Tuesday 10 November 2026 at the Seymour Centre for our second public event in the Faculty of Science's exciting new series, The Impact Factor! 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-76dff06f-d6e0-4295-b56a-c57fd1fb3936-2026-11-11": {
-      "sourceTitle": "Close and Personal: On Practical Criticism as Assessment Practice",
-      "titleZh": "亲密和个人：作为评估实践的实践批评",
-      "sourceSummary": "This paper offers a brief historical survey of practical criticism in Australia through the writings of some of its earliest proponents and practitioners. What we might learn from the history of close reading's institutionalisation at a juncture when we are pe",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-9852614e-469c-4ef8-977e-179d9c9845b6-2026-11-11": {
-      "sourceTitle": "Pacific Collective Public Online Seminars (November 2026)",
-      "titleZh": "太平洋集体公共在线研讨会（ 2026年11月）",
-      "sourceSummary": "The University of Sydney Pacific Collective strives to drive meaningful relationships and create a shared response within the region. We endeavour to share, showcase and sustain interactions with and alongside Pacific peoples and their communities. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-unsw-future-ai-2026-11-13": {
       "sourceTitle": "The Future of AI @ UNSW House",
       "titleZh": "AI的未来@ UNSW House",
       "sourceSummary": "Dr Sue Keay, director of UNSW AI Institute and founder of Robotics Australia Group, discusses AI, automation and the future of work.",
       "summaryZh": "",
       "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usu-slow-looking-workshop-white-jade-orchids-2026-11-11": {
-      "sourceTitle": "Verge Gallery: Slow looking workshop",
-      "titleZh": "Verge Gallery ：外观缓慢的工作坊",
-      "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-2d189e57-a640-42ef-a4bf-e2d9adcb3ab4-2026-11-12": {
@@ -233,22 +169,6 @@
       "sourceTitle": "SydneyMSK Annual Scientific Meeting",
       "titleZh": "悉尼MSK年度科学会议",
       "sourceSummary": "We warmly invite you to the 2026 Sydney Musculoskeletal Research Centre (SydneyMSK) Annual Scientific Meeting (ASM). The ASM is the major research symposium for SydneyMSK, providing a showcase of research activities and achievements across the centre and servi",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "gpt-usu-verge-white-jade-orchids-2026-11-10": {
-      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
-      "titleZh": "白玉兰·边缘画廊展",
-      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "gpt-usu-verge-white-jade-orchids-2026-11-11": {
-      "sourceTitle": "White Jade Orchids · Verge Gallery Exhibition",
-      "titleZh": "白玉兰·边缘画廊展",
-      "sourceSummary": "Chun Yin Rainbow Chan's exhibition runs 6 Oct–13 Nov; this is a confirmed gallery opening day, not a new exhibition opening.",
       "summaryZh": "",
       "translatedAt": "2026-11-04T18:02:09.277544Z",
       "provider": "MyMemory (free, best effort)"
@@ -413,14 +333,6 @@
       "translatedAt": "2026-11-05T18:05:22.515237Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-e4f19769-4d27-436e-a23b-10c290df8981-2026-11-28": {
-      "sourceTitle": "Sydney University Graduate Choir: Christmas Concert - Sydney Sings®",
-      "titleZh": "悉尼大学研究生合唱团：圣诞音乐会- Sydney Sings ®",
-      "sourceSummary": "Our 2026 Sydney Sings concert features two brilliant German composers who succeeded at the English Court in London, the great G. F. Handel and Johann Christian Bach, known as ‘London Bach’. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-a04cfa5f-d729-45e3-95f4-5a5723845ed9-2026-12-05": {
       "sourceTitle": "Sydney University Choir's 2026 Sydney Sings Concert: From Leipzig to London: Christmas Concert",
       "titleZh": "悉尼大学合唱团2026年悉尼歌唱音乐会：从莱比锡到伦敦：圣诞音乐会",
@@ -483,6 +395,14 @@
       "sourceSummary": "Join Dr. Sheree Gregory and Professor Kate Huppatz at Gleebooks, for an in conversation discussion with Professor Gaby Ramia, as they celebrate the release of Motherhood, Labour and Care in the 21st Century. 费用说明：free",
       "summaryZh": "",
       "translatedAt": "2026-11-09T20:47:55.880835Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-ca049a09-28ca-4ee8-8a91-6781e7721e64-2026-12-02": {
+      "sourceTitle": "DHIN End of Year Celebration",
+      "titleZh": "DHIN 年终庆祝活动",
+      "sourceSummary": "Celebrate DHIN’s 2026 achievements with a short presentation, networking, drinks, and catering provided. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T03:04:46.216666Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
