@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-12T03:04:46.216666Z",
+  "updatedAt": "2026-11-12T18:22:18.054665Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 50,
+  "count": 57,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -21,60 +21,12 @@
       "translatedAt": "2026-10-13T10:19:46.718Z",
       "provider": "human-reviewed initial title translation"
     },
-    "supra-262118-2026-11-12": {
-      "sourceTitle": "Migration webinar for HDR students",
-      "titleZh": "面向HDR学生的迁移网络研讨会",
-      "sourceSummary": "Thursday 12 November 2026 2–4pm Zoom Join SUPRA Legal Service to find out about student visas and the different visa options available after your studies – tailored specifically for HDR students! Questions about any area of migration law will be taken by chat ",
-      "summaryZh": "2026年11月12日星期四下午2-4点Zoom加入SUPRA法律服务，了解学生签证和学习后可用的不同签证选项–专为HDR学生量身定制！有关移民法的任何领域的问题都将通过聊天来解决",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-unsw-future-ai-2026-11-13": {
       "sourceTitle": "The Future of AI @ UNSW House",
       "titleZh": "AI的未来@ UNSW House",
       "sourceSummary": "Dr Sue Keay, director of UNSW AI Institute and founder of Robotics Australia Group, discusses AI, automation and the future of work.",
       "summaryZh": "",
       "translatedAt": "2026-11-03T17:53:12.129908Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-2d189e57-a640-42ef-a4bf-e2d9adcb3ab4-2026-11-12": {
-      "sourceTitle": "Discover Rare Books and Special Collections: Weird & Wonderful",
-      "titleZh": "探索稀有书籍和特别收藏：古怪而精彩",
-      "sourceSummary": "Collections are sometimes unpredictable, with items that surprise and delight. Others are unexpected and unusual. Join us at Fisher Library for this special event, where staff will share hand-selected highlights of weird and wonderful objects from Rare Books &",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-433c69cb-c871-4b03-927f-eb1fd3bd36ae-2026-11-12": {
-      "sourceTitle": "Sydney Biomedical Accelerator Showcase",
-      "titleZh": "悉尼生物医学加速器展",
-      "sourceSummary": "Join us for the Sydney Biomedical Accelerator Showcase, the second event in the Sydney Biomedical Community of Practice series. Participate in a cross-sector conversation exploring how patient needs and lived experience can shape biomedical innovation from res",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-84ff456c-a195-4195-be64-c77887330e38-2026-11-12": {
-      "sourceTitle": "The Uncertain Image",
-      "titleZh": "不确定的图像",
-      "sourceSummary": "A day-long symposium on the expanded and uncertain field of photography. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-a25751ba-0cf9-4eda-842f-7352a7d4dfe8-2026-11-12": {
-      "sourceTitle": "AGUM | Seymour Sounds (Free Event)",
-      "titleZh": "AGUM | Seymour Sounds （免费活动）",
-      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-f1483c52-f765-4d7b-921b-d350df2585d3-2026-11-12": {
-      "sourceTitle": "Showcase & Pitch invitation: Action on Prediabetes, Diabetes & Severe Obesity hosted by the Diabetes and Obesity Clinical Academic Group (DO-CAG)",
-      "titleZh": "展示和宣传邀请：由糖尿病和肥胖症临床学术小组（ DO-CAG ）主办的糖尿病前期、糖尿病和严重肥胖症行动",
-      "sourceSummary": "Sydney Health Partners Diabetes and Obesity Clinical Academic Group (DO-CAG) will be holding an annual showcase on the 12th November- a major part of the focus will be on Early-and Mid-Career researcher and clinician-researchers, via a pitch competition and a ",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-eca2af51-613a-46d4-816f-d251dd3e8c3e-2026-11-13": {
@@ -122,14 +74,6 @@
       "titleZh": "针对课程作业学生的迁移网络研讨会",
       "sourceSummary": "Thursday 26 November 2026 2–4pm Zoom Join SUPRA Legal Service to find out about student visas and the different visa options available after your studies – tailored specifically for coursework students! Questions about any area of migration law will be taken b",
       "summaryZh": "2026年11月26日星期四下午2-4点Zoom加入SUPRA法律服务，了解学生签证和学习后可用的不同签证选项–专为课程作业学生量身定制！将回答有关移民法任何领域的问题b",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-91c91289-e195-4a13-a017-8315c7312496-2026-11-12": {
-      "sourceTitle": "Young Refugee",
-      "titleZh": "年轻难民",
-      "sourceSummary": "Experience the powerful narratives of child refugees, now teenagers, as they bravely share their real-life journeys of escaping war and persecution to start anew in Australia. 费用说明：paid",
-      "summaryZh": "",
       "translatedAt": "2026-11-04T18:02:09.277544Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -403,6 +347,118 @@
       "sourceSummary": "Celebrate DHIN’s 2026 achievements with a short presentation, networking, drinks, and catering provided. 费用说明：free",
       "summaryZh": "",
       "translatedAt": "2026-11-12T03:04:46.216666Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-16": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐食和零食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "USU会员12:00可享免费午餐；悉尼大学学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-17": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐食和零食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "USU会员12:00可享免费午餐；悉尼大学学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-18": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐食和零食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "USU会员12:00可享免费午餐；悉尼大学学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-19": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐点和小食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "USU会员12:00可享免费午餐；USYD学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-23": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐点和小食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-24": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐点和小食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-25": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐食和零食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-exam-ready-2026-11-26": {
+      "sourceTitle": "Exam Ready: free meals and snacks",
+      "titleZh": "备考：免费餐食和零食",
+      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7734-2026-11-26": {
+      "sourceTitle": "Tech fundamentals - AI literacy",
+      "titleZh": "技术基础 - 人工智能素养",
+      "sourceSummary": "Artificial intelligence (AI) is changing the information landscape",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8235-2026-11-14": {
+      "sourceTitle": "Haven Sydney: Free Coding Hackathon (Ages 13-18)",
+      "titleZh": "Haven Sydney：免费编程黑客马拉松（13-18 岁）",
+      "sourceSummary": "Free two-day game dev hackathon for high schoolers aged 13–18. No experience needed, free food and prizes for everyone!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8167-2026-11-18": {
+      "sourceTitle": "Come and get techie",
+      "titleZh": "来体验科技的魅力吧",
+      "sourceSummary": "Get help with a technology question about a device or website",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-13": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-13": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7380-2026-11-13": {
+      "sourceTitle": "Samhain the Spirit of Woollahra Festival Concert",
+      "titleZh": "“萨温节：伍拉拉精神”音乐会",
+      "sourceSummary": "Samhain, the ancient Irish Celtic festival that gave the world Halloween will be celebrated in music, song & spoken word",
+      "summaryZh": "",
+      "translatedAt": "2026-11-12T18:22:18.054665Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
