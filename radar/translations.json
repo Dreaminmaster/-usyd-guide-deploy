@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-13T04:42:08.433531Z",
+  "updatedAt": "2026-11-13T17:47:51.822193Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 98,
+  "count": 88,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -20,22 +20,6 @@
       "summaryZh": "西北大学副教授Mohammad Hosseini主持本次“证据、政策与影响力”协作研讨会",
       "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "human-reviewed initial title translation"
-    },
-    "gpt-unsw-future-ai-2026-11-13": {
-      "sourceTitle": "The Future of AI @ UNSW House",
-      "titleZh": "AI的未来@ UNSW House",
-      "sourceSummary": "Dr Sue Keay, director of UNSW AI Institute and founder of Robotics Australia Group, discusses AI, automation and the future of work.",
-      "summaryZh": "新南威尔士大学人工智能研究所所长兼澳大利亚机器人集团创始人Sue Keay博士探讨了人工智能、自动化和工作的未来。",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-eca2af51-613a-46d4-816f-d251dd3e8c3e-2026-11-13": {
-      "sourceTitle": "Discover Research Opportunities at HHURRI",
-      "titleZh": "发现HHURRI的研究机会",
-      "sourceSummary": "Join us for a one-hour information session hosted by the Henry Halloran Urban & Regional Research Initiative, where we will present our grant schemes, programs, and pathways for research impact, including opportunities to contribute to the Festival of Urbanism",
-      "summaryZh": "欢迎参加由Henry Halloran城市与区域研究计划主办的一小时信息发布会。届时，我们将介绍我们的资助计划、项目以及实现研究影响的途径，包括为城市主义节（Festival of Urbanism）做出贡献的机会。",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
-      "provider": "MyMemory (free, best effort)"
     },
     "usyd-f80300dc-8525-4602-9055-c1e5e4e93f14-2026-11-14": {
       "sourceTitle": "Flux State | Seymour Sounds (Free Event)",
@@ -97,8 +81,8 @@
       "sourceTitle": "Tahkoe | Seymour Sounds (Free Event)",
       "titleZh": "Tahkoe | Seymour Sounds （免费活动）",
       "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "summaryZh": "Seymour Sounds专为那些希望聆听音乐律动的人士打造。在为期六周的时间里，我们将重新开放我们的庭院，举办一系列亲密无间的连续现场演出，悉尼活力四射的新爵士和新灵魂乐坛的重量级人物和新星将轮番登场。",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-56920707-1705-4404-9f26-4d88161b70a0-2026-11-24": {
@@ -115,22 +99,6 @@
       "sourceSummary": "We warmly invite you to the 2026 Sydney Musculoskeletal Research Centre (SydneyMSK) Annual Scientific Meeting (ASM). The ASM is the major research symposium for SydneyMSK, providing a showcase of research activities and achievements across the centre and servi",
       "summaryZh": "",
       "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-91c91289-e195-4a13-a017-8315c7312496-2026-11-13": {
-      "sourceTitle": "Young Refugee · 第2天",
-      "titleZh": "Young Refugee · 第2天",
-      "sourceSummary": "Experience the powerful narratives of child refugees, now teenagers, as they bravely share their real-life journeys of escaping war and persecution to start anew in Australia. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-91c91289-e195-4a13-a017-8315c7312496-2026-11-14": {
-      "sourceTitle": "Young Refugee · 第3天",
-      "titleZh": "Young Refugee · 第3天",
-      "sourceSummary": "Experience the powerful narratives of child refugees, now teenagers, as they bravely share their real-life journeys of escaping war and persecution to start anew in Australia. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
       "provider": "MyMemory (free, best effort)"
     },
     "supra-266779-2026-11-15": {
@@ -337,8 +305,8 @@
       "sourceTitle": "Book Launch: Motherhood, Labour and Care in the 21st Century",
       "titleZh": "图书发布： 21世纪的母亲、劳动和护理",
       "sourceSummary": "Join Dr. Sheree Gregory and Professor Kate Huppatz at Gleebooks, for an in conversation discussion with Professor Gaby Ramia, as they celebrate the release of Motherhood, Labour and Care in the 21st Century. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-09T20:47:55.880835Z",
+      "summaryZh": "在Gleebooks书店，与Sheree Gregory博士和Kate Huppatz教授一起，与Gaby Ramia教授进行一场对话式讨论，共同庆祝《21世纪的母性、劳动与照护》一书的出版。",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-ca049a09-28ca-4ee8-8a91-6781e7721e64-2026-12-02": {
@@ -429,30 +397,6 @@
       "translatedAt": "2026-11-12T18:22:18.054665Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-4128-2026-11-13": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-13": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7380-2026-11-13": {
-      "sourceTitle": "Samhain the Spirit of Woollahra Festival Concert",
-      "titleZh": "“萨温节：伍拉拉精神”音乐会",
-      "sourceSummary": "Samhain, the ancient Irish Celtic festival that gave the world Halloween will be celebrated in music, song & spoken word",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-10570-2026-11-14": {
       "sourceTitle": "Lebanese Festival",
       "titleZh": "黎巴嫩节",
@@ -501,30 +445,6 @@
       "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-5193-2026-11-13": {
-      "sourceTitle": "Theatre of Life Exhibition",
-      "titleZh": "“人生剧场”展览",
-      "sourceSummary": "Welcome to the Theatre of Life",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-13": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8249-2026-11-13": {
-      "sourceTitle": "Vague Transparency from the Fotovague Collective",
-      "titleZh": "来自Fotovague Collective的“模糊的透明”",
-      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-6341-2026-11-14": {
       "sourceTitle": "UPROCK Block Party",
       "titleZh": "UPROCK街区派对",
@@ -557,78 +477,6 @@
       "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10379-2026-11-13": {
-      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
-      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10465-2026-11-13": {
-      "sourceTitle": "Kudos Emerging Awards 2026",
-      "titleZh": "2026年Kudos新兴奖",
-      "sourceSummary": "Celebrating the excellence of artists, designers, and writers from the UNSW creative community.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-3421-2026-11-13": {
-      "sourceTitle": "Computer and mobile phone help",
-      "titleZh": "电脑和手机帮助",
-      "sourceSummary": "Come for help to solve your digital problems",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-13": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6240-2026-11-13": {
-      "sourceTitle": "Community toy reuse volunteer session",
-      "titleZh": "社区玩具再利用志愿者活动",
-      "sourceSummary": "Give pre-loved toys a second life! Join us to clean, sort and prepare donated toys for reuse. Ages 11+",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6348-2026-11-13": {
-      "sourceTitle": "Sydney Cellar Door",
-      "titleZh": "悉尼酒庄直销店",
-      "sourceSummary": "Sydney's largest open air wine tasting experience is coming this November",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6393-2026-11-13": {
-      "sourceTitle": "OK? Ok, ok…",
-      "titleZh": "行行行",
-      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7860-2026-11-13": {
-      "sourceTitle": "Edible Garden Project",
-      "titleZh": "可食用花园项目",
-      "sourceSummary": "Learn to set up an edible garden",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8270-2026-11-13": {
-      "sourceTitle": "Latin Nights by the Bay",
-      "titleZh": "海湾畔的拉丁之夜",
-      "sourceSummary": "We are bringing back the dance heat with another season of Latin Nights by the Bay",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-museum-knowledgeable-object-symposium-2026-2026-11-17": {
       "sourceTitle": "Knowledgeable Object Symposium 2026",
       "titleZh": "2026年知识型对象研讨会",
@@ -645,36 +493,28 @@
       "translatedAt": "2026-11-13T04:41:27.614916Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-museum-objects-that-carry-us-home-2026-11-13": {
-      "sourceTitle": "Objects That Carry Us Home",
-      "titleZh": "带我们回家的物品",
-      "sourceSummary": "A panel discussion of writers about objects and memories.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-museum-being-collected-2026-2026-11-18": {
       "sourceTitle": "Being Collected 2026",
       "titleZh": "2026 年收集中",
       "sourceSummary": "Gnallee Yeebaree bu’ la Yahgabillie (We Connect and Create) collaboration through Indigenous weaving-fibre practices and curation.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
+      "summaryZh": "Gnallee Yeebaree bu’ la Yahgabillie（我们联系并创造）通过原住民编织纤维工艺和策展来实现协作。",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-ideas-conversations-for-good-generations-2026-11-24": {
       "sourceTitle": "Conversations for Good: Across generations",
       "titleZh": "善意对话：跨越代际",
       "sourceSummary": "Hear from Bo Seo, two-time world debating champion, along with USYD student and world debate finalist Archie Wolifson.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
+      "summaryZh": "聆听两届世界辩论冠军Bo Seo以及悉尼大学学生、世界辩论决赛选手Archie Wolifson的见解。",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-museum-aroney-democracy-lecture-2026-2026-11-27": {
       "sourceTitle": "Jazz and Democracy",
       "titleZh": "爵士乐与民主",
       "sourceSummary": "The 2026 Nicholas Aroney Democracy Lecture asks us, can music teach us about democracy and democratic ideas?",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
+      "summaryZh": "2026年尼古拉斯·阿罗尼民主讲座向我们提出一个问题：音乐能否教给我们民主和民主思想？",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-museum-seidler-sessions-2026-11-28": {
@@ -787,6 +627,86 @@
       "sourceSummary": "Come join this friendly community singing group facilitated by Leo Abisaab.",
       "summaryZh": "",
       "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-museum-seidler-sessions-2026-12-05": {
+      "sourceTitle": "Seidler Session 5: Seidler, the Sydney Opera House and thin-shell concrete structures",
+      "titleZh": "Seidler系列课程第5讲：Seidler、悉尼歌剧院和薄壳混凝土结构",
+      "sourceSummary": "Emeritus Professor James Weirick keynote.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-14": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-14": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-14": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-14": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8249-2026-11-14": {
+      "sourceTitle": "Vague Transparency from the Fotovague Collective",
+      "titleZh": "来自Fotovague Collective的“模糊的透明度”",
+      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5193-2026-11-16": {
+      "sourceTitle": "Theatre of Life Exhibition",
+      "titleZh": "“人生剧场”展览",
+      "sourceSummary": "Welcome to the Theatre of Life",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-14": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10413-2026-11-14": {
+      "sourceTitle": "Bondi Outdoor Cinema",
+      "titleZh": "邦迪露天电影院",
+      "sourceSummary": "Free outdoor film screenings at Bondi Pavilion with popcorn and ocean sounds.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10465-2026-11-14": {
+      "sourceTitle": "Kudos Emerging Awards 2026",
+      "titleZh": "2026年Kudos新兴奖",
+      "sourceSummary": "Celebrating the excellence of artists, designers, and writers from the UNSW creative community.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T17:47:51.822193Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
