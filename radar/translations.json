@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-12T18:22:18.054665Z",
+  "updatedAt": "2026-11-13T02:39:24.242251Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 57,
+  "count": 71,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -385,24 +385,24 @@
       "sourceTitle": "Exam Ready: free meals and snacks",
       "titleZh": "备考：免费餐点和小食",
       "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "summaryZh": "USU会员12:00可享免费午餐；USYD学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-exam-ready-2026-11-24": {
       "sourceTitle": "Exam Ready: free meals and snacks",
       "titleZh": "备考：免费餐点和小食",
       "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "summaryZh": "USU会员12:00可享免费午餐；悉尼大学学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-exam-ready-2026-11-25": {
       "sourceTitle": "Exam Ready: free meals and snacks",
       "titleZh": "备考：免费餐食和零食",
       "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "summaryZh": "USU会员12:00可享免费午餐；USYD学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-exam-ready-2026-11-26": {
@@ -459,6 +459,118 @@
       "sourceSummary": "Samhain, the ancient Irish Celtic festival that gave the world Halloween will be celebrated in music, song & spoken word",
       "summaryZh": "",
       "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10570-2026-11-14": {
+      "sourceTitle": "Lebanese Festival",
+      "titleZh": "黎巴嫩节",
+      "sourceSummary": "Celebrate the spirit of Lebanon with two days of authentic flavours, vibrant sounds and entertainment at Hay St.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6900-2026-11-14": {
+      "sourceTitle": "The Social Enterprise Festival",
+      "titleZh": "社会企业节",
+      "sourceSummary": "Curious about social enterprise? Come along to the biggest festival in Australia for business-for-good. Free entry!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7428-2026-11-21": {
+      "sourceTitle": "with, together:greens & browns - Shelley Watters,Emily Simek",
+      "titleZh": "与……一起：绿色和棕色 - Shelley Watters、Emily Simek",
+      "sourceSummary": "an expansive, collaborative project that explores gardening as a context for art-making mediated by technology",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5567-2026-11-24": {
+      "sourceTitle": "Come and get techie",
+      "titleZh": "来体验科技的魅力吧",
+      "sourceSummary": "Get help with a technology question about a device or website from our City of Sydney Library team",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5817-2026-11-21": {
+      "sourceTitle": "Culture Alive Festivals",
+      "titleZh": "文化活力节",
+      "sourceSummary": "Take a trip around the globe with free festivals celebrating food, music and culture from around the world.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10549-2026-11-24": {
+      "sourceTitle": "Inner West Disability Forum Community Festival & Showcase",
+      "titleZh": "内西区残疾人论坛社区节庆与展示会",
+      "sourceSummary": "Celebrate the International Day of People with Disability with performances, art, and community connections.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5193-2026-11-13": {
+      "sourceTitle": "Theatre of Life Exhibition",
+      "titleZh": "“人生剧场”展览",
+      "sourceSummary": "Welcome to the Theatre of Life",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-13": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-13": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8249-2026-11-13": {
+      "sourceTitle": "Vague Transparency from the Fotovague Collective",
+      "titleZh": "来自Fotovague Collective的“模糊的透明”",
+      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6341-2026-11-14": {
+      "sourceTitle": "UPROCK Block Party",
+      "titleZh": "UPROCK街区派对",
+      "sourceSummary": "Urban arts festival",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6799-2026-11-14": {
+      "sourceTitle": "Firstdraft's 40th Birthday Party",
+      "titleZh": "Firstdraft 40 周年庆生派对",
+      "sourceSummary": "Join Sydney's oldest early-career arts organisation in celebrating 40 years of 2,000+ artists and 1,000+ exhibitions.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7499-2026-11-14": {
+      "sourceTitle": "Samhain the Spirit of Woollahra, Family Fun day",
+      "titleZh": "万圣节：伍拉拉的灵魂，家庭欢乐日",
+      "sourceSummary": "children's activities & Irish music for everyone inspired by Samhain the original Irish Halloween festival",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7443-2026-11-15": {
+      "sourceTitle": "Santa Paws 2026",
+      "titleZh": "2026 年圣诞爪爪",
+      "sourceSummary": "Sydney’s biggest pet Christmas festival returns to Centennial Park to raise $100k for rescue animals",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
