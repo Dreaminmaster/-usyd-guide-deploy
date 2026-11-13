@@ -4,7 +4,7 @@ from pathlib import Path
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from radar_archive import NEWS_FIELDS, PUBLIC_FIELDS, get_feed, project
+from radar_archive import NEWS_FIELDS, PUBLIC_FIELDS, get_feed, project, coverage_summary
 from unittest.mock import patch
 import json
 
@@ -71,6 +71,21 @@ class RadarArchiveProjectionTests(unittest.TestCase):
         self.assertNotIn("titleZh", saved)
         self.assertNotIn("summaryZh", saved)
 
+
+    def test_coverage_distinguishes_empty_from_http_failure(self):
+        entries = [
+            {"name": "USU", "status": "ok", "recordCount": 0},
+            {"name": "USYD Museum", "status": "ok", "recordCount": 8},
+            {"name": "Sydney Ideas", "status": "partial", "recordCount": 0},
+            {"name": "SRC Students", "status": "failed", "recordCount": 0},
+        ]
+        report = coverage_summary(entries)
+        self.assertEqual(report["sourceCount"], 4)
+        self.assertEqual(report["failed"], ["SRC Students"])
+        self.assertEqual(report["partial"], ["Sydney Ideas"])
+        self.assertEqual(report["zeroExtracted"], ["USU", "Sydney Ideas"])
+        self.assertEqual(report["campusZeroExtracted"], ["USU", "Sydney Ideas"])
+        self.assertFalse(report["complete"])
 
 if __name__ == "__main__":
     unittest.main()
