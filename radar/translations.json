@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-13T04:41:27.614916Z",
+  "updatedAt": "2026-11-13T04:42:08.433531Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 88,
+  "count": 98,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -49,16 +49,16 @@
       "sourceTitle": "2026 HDR Student Cancer Research Symposium",
       "titleZh": "2026年HDR学生癌症研究研讨会",
       "sourceSummary": "Monday, 16 Nov 2026 08:30 AM – 9:00 AM Join us for a one-day, in-person symposium bringing together HDR students working in cancer research. The event will feature keynote speakers, a panel Q&A, and student presentations. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
+      "summaryZh": "2026年11月16日（星期一）上午8:30 – 上午9:00欢迎参加为期一天的现场研讨会，该研讨会将汇集从事癌症研究的HDR学生。活动将包括主旨演讲、小组问答和学生报告。",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-eaccf779-2687-4388-aba7-8934a90ac8d2-2026-11-16": {
       "sourceTitle": "Decolonial Language Pedagogies in Australia Higher Education",
       "titleZh": "澳大利亚高等教育中的非殖民语言教学法",
       "sourceSummary": "Join us for the first national one-day symposium exploring contemporary and emerging conversations at the intersection of languages education, decolonial thought, Indigenising curriculum, and socially responsive pedagogies in higher education. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T02:23:26.910552Z",
+      "summaryZh": "欢迎参加首届全国一日研讨会，共同探讨语言教育、去殖民化思想、课程本土化以及高等教育中具有社会责任感的教学方法等交叉领域的当代和新兴议题。",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-6076702d-2e29-42bd-bc9b-0c5f5eea97b7-2026-11-26": {
@@ -81,16 +81,16 @@
       "sourceTitle": "From prehistoric qubits to building a useful quantum computer",
       "titleZh": "从史前量子比特到构建有用的量子计算机",
       "sourceSummary": "Join us for a special public lecture with 2025 Nobel Prize in Physics laureate Professor John M. Martinis, University of California. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "summaryZh": "诚邀您参加由加州大学2025年诺贝尔物理学奖得主John M. Martinis教授主讲的特别公开讲座。",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-4765c2d2-2b29-46b6-b1cf-b184c720e98e-2026-11-18": {
       "sourceTitle": "Beaches and Sharks: A Free Town Hall on Beach Safety This Summer",
       "titleZh": "海滩和鲨鱼：今年夏天海滩安全的免费市政厅",
       "sourceSummary": "Join the University of Sydney, Surf Life Saving NSW and Surfing NSW for a free community town hall exploring shark risk, beach safety, and the latest approaches to keeping beachgoers safe this summer. Hear from A/Prof Chris Pepin-Neff and other leading experts",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "summaryZh": "与悉尼大学、新南威尔士州冲浪救生协会和新南威尔士州冲浪协会一起参加一场免费的社区座谈会，探讨鲨鱼风险、海滩安全以及今夏确保海滩游客安全的最新方法。聆听Chris Pepin-Neff副教授及其他知名专家的见解",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-6d66b4d4-b000-46ed-bfcc-4e9a7a239360-2026-11-19": {
@@ -305,8 +305,8 @@
       "sourceTitle": "Work, Time and Equality: The Four-Day Week in Research and Practice - Seminar and Industry Panel",
       "titleZh": "工作、时间和平等：为期四天的研究和实践周-研讨会和行业小组讨论",
       "sourceSummary": "Can a four-day work week improve gender equality while sustaining organisational performance? The Australian Centre for Gender Equality and Inclusion at Work invites you to join us in-person and online for a discussion on the opportunities and challenges of re",
-      "summaryZh": "",
-      "translatedAt": "2026-11-06T02:30:52.471850Z",
+      "summaryZh": "四天工作制能否在维持组织绩效的同时促进性别平等？澳大利亚工作场所性别平等与包容中心诚邀您线下和线上参与，共同探讨实施四天工作制的机遇与挑战。",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-03": {
@@ -707,6 +707,86 @@
       "sourceSummary": "Celebrate Asian culture with food, drinks, live music and workshops at this community pop-up.",
       "summaryZh": "",
       "translatedAt": "2026-11-13T04:41:27.614916Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6270-2026-11-14": {
+      "sourceTitle": "Latin Nights - Block Party at Hay St",
+      "titleZh": "拉丁之夜 - 海伊街街区派对",
+      "sourceSummary": "Salsa, bachata, live music and DJs take over two dance floors every Saturday night at Hay St Market.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8430-2026-11-14": {
+      "sourceTitle": "Drop-in Workshop with Artist Samuel Chan",
+      "titleZh": "艺术家Samuel Chan的开放式工作坊",
+      "sourceSummary": "Join Woollahra Gallery at Redleaf Artist in Residence Samuel Chan to learn how to fold a traditional sampan boat",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-3718-2026-11-16": {
+      "sourceTitle": "Forms and case management help in Mandarin and Hokkien",
+      "titleZh": "提供普通话和闽南语的表格填写和个案管理帮助",
+      "sourceSummary": "This free service is provided by Chinese Australian Services Society (CASS) trained volunteers and caseworkers.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4204-2026-11-16": {
+      "sourceTitle": "Come and get techie at Surry Hills Library",
+      "titleZh": "来Surry Hills图书馆体验科技魅力",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4205-2026-11-16": {
+      "sourceTitle": "Come and get techie at Kings Cross Library",
+      "titleZh": "来国王十字图书馆体验科技魅力",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6422-2026-11-16": {
+      "sourceTitle": "Learn Spanish by reading - Level A1 beginners",
+      "titleZh": "通过阅读学习西班牙语 - A1 级初学者",
+      "sourceSummary": "Strengthen your Spanish while enjoying the library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6703-2026-11-16": {
+      "sourceTitle": "Music instrument class",
+      "titleZh": "乐器课程",
+      "sourceSummary": "Learn how to play the ukulele, hulusi and erhu in this fun class for Mandarin and Cantonese speakers",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6954-2026-11-16": {
+      "sourceTitle": "StudioRCC Ableton Live 12: 10-week beginner course",
+      "titleZh": "StudioRCC Ableton Live 12：10周入门课程",
+      "sourceSummary": "Learn the fundamentals of Ableton Live 12. Facilitated by Dyan Tai",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7438-2026-11-16": {
+      "sourceTitle": "Free Salsa Classes in Surry Hills",
+      "titleZh": "萨里山的免费萨尔萨舞课程",
+      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7743-2026-11-16": {
+      "sourceTitle": "StudioRCC beginner singing group lessons",
+      "titleZh": "StudioRCC 初学者声乐小组课",
+      "sourceSummary": "Come join this friendly community singing group facilitated by Leo Abisaab.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:42:08.433531Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

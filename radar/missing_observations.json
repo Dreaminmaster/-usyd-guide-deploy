@@ -1,16 +1,1 @@
-{
-  "city-6384-2026-11-13": {
-    "observations": 1,
-    "firstMissingAt": "2026-11-13T04:41:25.578774Z",
-    "title": "Dream Horse",
-    "date": "2026-11-13",
-    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse"
-  },
-  "city-10413-2026-11-13": {
-    "observations": 1,
-    "firstMissingAt": "2026-11-13T04:41:25.578774Z",
-    "title": "Bondi Outdoor Cinema",
-    "date": "2026-11-13",
-    "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondi-outdoor-cinema"
-  }
-}
+{}
