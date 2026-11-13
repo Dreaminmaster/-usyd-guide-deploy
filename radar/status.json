@@ -1,20 +1,64 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-13T04:36:30.465548Z",
-  "feedCheckedAt": "2026-11-13T04:36:45.379Z",
+  "checkedAt": "2026-11-13T04:41:25.578774Z",
+  "feedCheckedAt": "2026-11-13T04:41:27.462Z",
   "feedStatus": "ok",
-  "events": 93,
+  "events": 112,
   "news": 17,
-  "sourceCount": 23,
+  "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "push",
   "lastScheduledRunAt": "2026-11-13T02:39:10.245050Z",
   "changes": {
-    "new": 1,
+    "new": 21,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
     "notObserved": 0
+  },
+  "coverage": {
+    "sourceCount": 25,
+    "failed": [],
+    "partial": [
+      "悉尼大学 What's On",
+      "USU 学生会",
+      "NTEU 教职员工工会",
+      "NTEU 工业行动动态",
+      "SUPRA 研究生协会",
+      "City of Sydney · What's On",
+      "NSW Government · 节庆活动",
+      "Transport for NSW · 出行警报",
+      "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
+      "SRC · 本科生代表组织活动",
+      "USU · Official public event calendar"
+    ],
+    "zeroExtracted": [
+      "USU 学生会",
+      "NTEU 教职员工工会",
+      "NTEU 工业行动动态",
+      "SUPRA 研究生协会",
+      "City of Sydney · What's On",
+      "NSW Government · 节庆活动",
+      "Transport for NSW · 出行警报",
+      "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
+      "USU · 全部公开活动",
+      "SRC · 本科生代表组织活动"
+    ],
+    "campusZeroExtracted": [
+      "USU 学生会",
+      "SUPRA 研究生协会",
+      "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
+      "USU · 全部公开活动",
+      "SRC · 本科生代表组织活动"
+    ],
+    "complete": false,
+    "notice": "HTTP 200 is not complete coverage. A source with zero extracted events may have no upcoming listings or a changed page; check organiser."
   },
   "initialSnapshot": false
 }

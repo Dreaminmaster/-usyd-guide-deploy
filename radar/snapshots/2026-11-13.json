@@ -1,22 +1,66 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-13T04:36:45.379Z",
-  "archivedAt": "2026-11-13T04:36:30.465548Z",
+  "checkedAt": "2026-11-13T04:41:27.462Z",
+  "archivedAt": "2026-11-13T04:41:25.578774Z",
   "timezone": "Australia/Sydney",
   "today": "2026-11-13",
   "status": "ok",
   "summary": {
-    "events": 93,
+    "events": 112,
     "news": 17,
     "high": 0,
-    "recommended": 10,
+    "recommended": 12,
     "fromWebsite": 42,
-    "fromCityDiscovery": 50,
+    "fromCityDiscovery": 69,
     "fromGPT": 1,
     "gptEnriched": 0,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 14087
+    "fetchMs": 1675
+  },
+  "coverage": {
+    "sourceCount": 25,
+    "failed": [],
+    "partial": [
+      "悉尼大学 What's On",
+      "USU 学生会",
+      "NTEU 教职员工工会",
+      "NTEU 工业行动动态",
+      "SUPRA 研究生协会",
+      "City of Sydney · What's On",
+      "NSW Government · 节庆活动",
+      "Transport for NSW · 出行警报",
+      "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
+      "SRC · 本科生代表组织活动",
+      "USU · Official public event calendar"
+    ],
+    "zeroExtracted": [
+      "USU 学生会",
+      "NTEU 教职员工工会",
+      "NTEU 工业行动动态",
+      "SUPRA 研究生协会",
+      "City of Sydney · What's On",
+      "NSW Government · 节庆活动",
+      "Transport for NSW · 出行警报",
+      "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
+      "USU · 全部公开活动",
+      "SRC · 本科生代表组织活动"
+    ],
+    "campusZeroExtracted": [
+      "USU 学生会",
+      "SUPRA 研究生协会",
+      "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
+      "USU · 全部公开活动",
+      "SRC · 本科生代表组织活动"
+    ],
+    "complete": false,
+    "notice": "HTTP 200 is not complete coverage. A source with zero extracted events may have no upcoming listings or a changed page; check organiser."
   },
   "sources": [
     {
@@ -24,7 +68,7 @@
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
       "message": "已通过官方公开活动查询接口读取 43 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-11-13T04:36:45.342Z",
+      "checkedAt": "2026-11-13T04:40:33.234Z",
       "recordCount": 43
     },
     {
@@ -32,7 +76,7 @@
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "partial",
       "message": "页面可访问，但未能可靠识别新增公开活动",
-      "checkedAt": "2026-11-13T04:36:32.855Z",
+      "checkedAt": "2026-11-13T04:40:21.416Z",
       "recordCount": 0
     },
     {
@@ -40,7 +84,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-13T04:36:33.970Z",
+      "checkedAt": "2026-11-13T04:40:22.536Z",
       "recordCount": 0
     },
     {
@@ -48,7 +92,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-13T04:36:32.857Z",
+      "checkedAt": "2026-11-13T04:40:21.370Z",
       "recordCount": 0
     },
     {
@@ -56,7 +100,7 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-13T04:36:33.735Z",
+      "checkedAt": "2026-11-13T04:40:22.475Z",
       "recordCount": 0
     },
     {
@@ -65,7 +109,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "官网可访问，但尚未解析到符合条件的活动。",
-      "checkedAt": "2026-11-13T04:36:34.979Z"
+      "checkedAt": "2026-11-13T04:40:23.265Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -73,7 +117,7 @@
       "status": "ok",
       "recordCount": 6,
       "message": "已自动提取 6 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-11-13T04:36:32.743Z"
+      "checkedAt": "2026-11-13T04:40:21.416Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -81,7 +125,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-13T04:36:32.839Z"
+      "checkedAt": "2026-11-13T04:40:21.420Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -89,7 +133,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-13T04:36:34.478Z"
+      "checkedAt": "2026-11-13T04:40:22.681Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -97,7 +141,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-13T04:36:33.709Z"
+      "checkedAt": "2026-11-13T04:40:21.880Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -105,7 +149,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-13T04:36:33.721Z"
+      "checkedAt": "2026-11-13T04:40:22.211Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -113,7 +157,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-13T04:36:33.737Z"
+      "checkedAt": "2026-11-13T04:40:22.212Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -121,7 +165,7 @@
       "status": "ok",
       "recordCount": 0,
       "message": "已读取 2 个官方活动页面，解析到 0 条日程",
-      "checkedAt": "2026-11-13T04:36:33.096Z"
+      "checkedAt": "2026-11-13T04:40:20.952Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -129,7 +173,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-11-13T04:36:35.920Z"
+      "checkedAt": "2026-11-13T04:40:20.932Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -137,7 +181,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-11-13T04:36:34.230Z"
+      "checkedAt": "2026-11-13T04:40:22.585Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -145,15 +189,15 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-11-13T04:36:33.813Z"
+      "checkedAt": "2026-11-13T04:40:22.211Z"
     },
     {
       "name": "City of Sydney · Workshops",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events",
       "status": "ok",
       "recordCount": 48,
-      "message": "Official event-search JSON returned 52 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-13T04:36:31.951Z"
+      "message": "Official event-search JSON returned 50 matches; only verified upcoming start dates are included; this is not exhaustive",
+      "checkedAt": "2026-11-13T04:41:25.866Z"
     },
     {
       "name": "City of Sydney · Technology",
@@ -161,7 +205,7 @@
       "status": "ok",
       "recordCount": 17,
       "message": "Official event-search JSON returned 17 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-13T04:36:31.951Z"
+      "checkedAt": "2026-11-13T04:41:25.866Z"
     },
     {
       "name": "City of Sydney · Coding",
@@ -169,7 +213,7 @@
       "status": "ok",
       "recordCount": 27,
       "message": "Official event-search JSON returned 27 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-13T04:36:31.951Z"
+      "checkedAt": "2026-11-13T04:41:25.866Z"
     },
     {
       "name": "City of Sydney · Seminars",
@@ -177,15 +221,31 @@
       "status": "ok",
       "recordCount": 6,
       "message": "Official event-search JSON returned 6 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-13T04:36:31.951Z"
+      "checkedAt": "2026-11-13T04:41:25.866Z"
     },
     {
       "name": "City of Sydney · Festivals",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events",
       "status": "ok",
-      "recordCount": 36,
-      "message": "Official event-search JSON returned 36 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-13T04:36:31.951Z"
+      "recordCount": 28,
+      "message": "Official event-search JSON returned 28 matches; only verified upcoming start dates are included; this is not exhaustive",
+      "checkedAt": "2026-11-13T04:41:25.866Z"
+    },
+    {
+      "name": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events.html",
+      "status": "ok",
+      "recordCount": 10,
+      "message": "11 structured listings parsed; 10 upcoming verified start dates; multi-day activities are not expanded into unverified sessions",
+      "checkedAt": "2026-11-13T04:41:25.866Z"
+    },
+    {
+      "name": "University of Sydney · Sydney Ideas",
+      "url": "https://www.sydney.edu.au/engage/events-sponsorships/sydney-ideas.html",
+      "status": "ok",
+      "recordCount": 1,
+      "message": "45 structured listings parsed; 1 upcoming verified start dates; multi-day activities are not expanded into unverified sessions",
+      "checkedAt": "2026-11-13T04:41:25.866Z"
     },
     {
       "name": "USU · Official public event calendar",
@@ -193,14 +253,14 @@
       "status": "partial",
       "recordCount": 8,
       "message": "Read 8 event cards. Added only single-date official entries or explicitly confirmed Mon–Thu Exam Ready sessions; other ranges intentionally not expanded.",
-      "checkedAt": "2026-11-13T04:36:31.951Z"
+      "checkedAt": "2026-11-13T04:41:25.866Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
       "recordCount": 1,
-      "checkedAt": "2026-11-13T04:36:32.216Z",
+      "checkedAt": "2026-11-13T04:41:25.879Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
@@ -245,6 +305,25 @@
       "verified": "2026-11-13",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
+    },
+    {
+      "id": "usyd-museum-objects-that-carry-us-home-2026-11-13",
+      "title": "Objects That Carry Us Home",
+      "date": "2026-11-13",
+      "time": "13:00–14:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "culture",
+      "priority": "low",
+      "score": 45,
+      "summary": "A panel discussion of writers about objects and memories.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/objects-that-carry-us-home.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
     },
     {
       "id": "usyd-91c91289-e195-4a13-a017-8315c7312496-2026-11-13",
@@ -394,25 +473,6 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "verified": "2026-11-13",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-6384-2026-11-13",
-      "title": "Dream Horse",
-      "date": "2026-11-13",
-      "time": "00:00–23:59",
-      "location": "City of Sydney Creative Studios",
-      "category": "culture",
-      "priority": "low",
-      "score": 18,
-      "summary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
       "verified": "2026-11-13",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
@@ -584,25 +644,6 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "verified": "2026-11-13",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-10413-2026-11-13",
-      "title": "Bondi Outdoor Cinema",
-      "date": "2026-11-13",
-      "time": "19:30–21:30",
-      "location": "Bondi Pavilion",
-      "category": "culture",
-      "priority": "low",
-      "score": 15,
-      "summary": "Free outdoor film screenings at Bondi Pavilion with popcorn and ocean sounds.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondi-outdoor-cinema",
       "verified": "2026-11-13",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
@@ -1064,6 +1105,63 @@
       "priorityReason": "Classified by source, date and relevance"
     },
     {
+      "id": "city-7438-2026-11-16",
+      "title": "Free Salsa Classes in Surry Hills",
+      "date": "2026-11-16",
+      "time": "18:30–20:30",
+      "location": "196 Albion St",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-3718-2026-11-16",
+      "title": "Forms and case management help in Mandarin and Hokkien",
+      "date": "2026-11-16",
+      "time": "10:00–13:00",
+      "location": "Ultimo Community Centre",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "This free service is provided by Chinese Australian Services Society (CASS) trained volunteers and caseworkers.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/forms-and-case-management-help-in-mandarin-and-hokkien",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "usyd-museum-knowledgeable-object-symposium-2026-2026-11-17",
+      "title": "Knowledgeable Object Symposium 2026",
+      "date": "2026-11-17",
+      "time": "10:00 (multi-day; verify sessions)",
+      "location": "Chau Chak Wing Museum",
+      "category": "academic",
+      "priority": "medium",
+      "score": 64,
+      "summary": "Explore the diverse practical applications for working with objects in educational and museum contexts.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/knowledgeable-object-symposium-2026.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
       "id": "usu-exam-ready-2026-11-17",
       "title": "Exam Ready: free meals and snacks",
       "date": "2026-11-17",
@@ -1121,6 +1219,158 @@
       "priorityReason": "Advertised free; This week"
     },
     {
+      "id": "city-7145-2026-11-17",
+      "title": "Food preservation workshop with TAFE - Booked out",
+      "date": "2026-11-17",
+      "time": "13:30–15:30",
+      "location": "St Helen’s Community Centre",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "Learn the basics of food preservation in this 8-week course",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/food-preservation-workshop-with-tafe",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-8017-2026-11-17",
+      "title": "Social sewing sessions",
+      "date": "2026-11-17",
+      "time": "13:00–15:00",
+      "location": "Reginald Murphy Community Centre",
+      "category": "culture",
+      "priority": "low",
+      "score": 15,
+      "summary": "Come along to sew and chat with friends.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-sewing-sessions",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-6242-2026-11-17",
+      "title": "Maker & Creator 8-12yrs",
+      "date": "2026-11-17",
+      "time": "15:30–16:30",
+      "location": "Darling Square Library",
+      "category": "culture",
+      "priority": "low",
+      "score": 15,
+      "summary": "Play and create with the latest makerspace kits and electronic gadgets",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-and-creator-8-12yrs",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-7934-2026-11-17",
+      "title": "Learn to read music and sing",
+      "date": "2026-11-17",
+      "time": "10:00–12:00",
+      "location": "Ultimo Community Centre",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "No experience is needed to join this free singing and theory class",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-2550-2026-11-17",
+      "title": "Come and get techie: Glebe Library",
+      "date": "2026-11-17",
+      "time": "11:00–12:00",
+      "location": "Glebe Library",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-glebe-library",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-2547-2026-11-17",
+      "title": "Come and get techie: Customs House Library",
+      "date": "2026-11-17",
+      "time": "11:00–12:00",
+      "location": "Customs House Library",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "Got a burning tech question? Get 1:1 tech help at the Library!",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-customs-house",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-5655-2026-11-17",
+      "title": "English class for seniors",
+      "date": "2026-11-17",
+      "time": "14:00–17:00",
+      "location": "Ultimo Community Centre",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "Free weekly class suitable for beginner and intermediate level learners",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/english-class-for-seniors",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-8046-2026-11-17",
+      "title": "Ukulele class: Beginners to advanced",
+      "date": "2026-11-17",
+      "time": "15:00–17:00",
+      "location": "Pyrmont Community Centre",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "Strum your troubles away in this fun class for all ages and levels of experience",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
+      "verified": "2026-11-13",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
       "id": "usu-exam-ready-2026-11-18",
       "title": "Exam Ready: free meals and snacks",
       "date": "2026-11-18",
@@ -1157,6 +1407,25 @@
       "verified": "2026-11-13",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
+    },
+    {
+      "id": "usyd-museum-being-collected-2026-2026-11-18",
+      "title": "Being Collected 2026",
+      "date": "2026-11-18",
+      "time": "18:00–19:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "culture",
+      "priority": "low",
+      "score": 45,
+      "summary": "Gnallee Yeebaree bu’ la Yahgabillie (We Connect and Create) collaboration through Indigenous weaving-fibre practices and curation.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/being-collected-2026.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
     },
     {
       "id": "city-8167-2026-11-18",
@@ -1214,6 +1483,25 @@
       "verified": "2026-11-13",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
+    },
+    {
+      "id": "usyd-museum-shakespeare-memorial-lecture-2026-2026-11-20",
+      "title": "Shakespeare Memorial Lecture: Arthur L. Little Jr",
+      "date": "2026-11-20",
+      "time": "18:00–19:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "academic",
+      "priority": "medium",
+      "score": 64,
+      "summary": "The CREATE Centre presents the 2026 Shakespeare Memorial Lecture at the museum.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/shakespeare-memorial-lecture-2026.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
     },
     {
       "id": "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21",
@@ -1327,6 +1615,25 @@
       "url": "https://usu.edu.au/events/exam-ready-2026-s2",
       "verified": "2026-11-13",
       "feedSource": "associations",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "usyd-ideas-conversations-for-good-generations-2026-11-24",
+      "title": "Conversations for Good: Across generations",
+      "date": "2026-11-24",
+      "time": "18:30–19:30",
+      "location": "See official event page",
+      "category": "culture",
+      "priority": "low",
+      "score": 39,
+      "summary": "Hear from Bo Seo, two-time world debating champion, along with USYD student and world debate finalist Archie Wolifson.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Sydney Ideas",
+      "url": "https://www.sydney.edu.au/engage/events-sponsorships/sydney-ideas/2026/conversations-for-good-generations.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
     {
@@ -1558,6 +1865,25 @@
       "priorityReason": "General event"
     },
     {
+      "id": "usyd-museum-aroney-democracy-lecture-2026-2026-11-27",
+      "title": "Jazz and Democracy",
+      "date": "2026-11-27",
+      "time": "18:00–19:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "culture",
+      "priority": "low",
+      "score": 39,
+      "summary": "The 2026 Nicholas Aroney Democracy Lecture asks us, can music teach us about democracy and democratic ideas?",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/aroney-democracy-lecture-2026.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
       "id": "usyd-1492b2d2-5ad8-4eb8-bcba-51832693945a-2026-11-27",
       "title": "Cabaret, Cocktails & Karaoke at the Seymour | Friday 27 November",
       "date": "2026-11-27",
@@ -1575,6 +1901,25 @@
       "verified": "2026-11-13",
       "feedSource": "university",
       "priorityReason": "General event"
+    },
+    {
+      "id": "usyd-museum-seidler-sessions-2026-11-28",
+      "title": "Seidler Session 4: Architects on Seidler’s Legacy",
+      "date": "2026-11-28",
+      "time": "14:00–15:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "culture",
+      "priority": "low",
+      "score": 39,
+      "summary": "Andrew Andersons, Ed Lippmann and Peter Lonergan in conversation.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
     },
     {
       "id": "usyd-96266268-b834-46dc-a8bd-896eaf998bd9-2026-11-28",
@@ -1596,6 +1941,25 @@
       "priorityReason": "Advertised free"
     },
     {
+      "id": "usyd-museum-sugarfest-2026-11-29",
+      "title": "SugarFest",
+      "date": "2026-11-29",
+      "time": "12:00–16:00",
+      "location": "Chau Chak Wing Museum",
+      "category": "culture",
+      "priority": "low",
+      "score": 39,
+      "summary": "Come celebrate and learn about Oceanic culture, history and music. Dance. Weave. Listen. Yarn. Eat. Explore.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/sugarfest.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
       "id": "usyd-d9a37489-d6b3-420c-8953-51367df9655d-2026-11-30",
       "title": "Artificial Intelligence and Human Creativity",
       "date": "2026-11-30",
@@ -1613,6 +1977,25 @@
       "verified": "2026-11-13",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
+    },
+    {
+      "id": "usyd-museum-ithaca-beyond-the-odyssey-2026-12-01",
+      "title": "Ithaca beyond the Odyssey",
+      "date": "2026-12-01",
+      "time": "13:00–14:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "culture",
+      "priority": "low",
+      "score": 39,
+      "summary": "Hear about new maritime archaeological research into the Greek island of Ithaca, the famed homeland of Odysseus.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/ithaca-beyond-the-odyssey.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
     },
     {
       "id": "usyd-eca3b500-a9ba-44a2-8f5d-7621847aee15-2026-12-01",
@@ -1767,6 +2150,25 @@
       "priorityReason": "General event"
     },
     {
+      "id": "usyd-museum-seidler-sessions-2026-12-05",
+      "title": "Seidler Session 5: Seidler, the Sydney Opera House and thin-shell concrete structures",
+      "date": "2026-12-05",
+      "time": "14:00–15:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "culture",
+      "priority": "low",
+      "score": 39,
+      "summary": "Emeritus Professor James Weirick keynote.",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
       "id": "usyd-8e3d6ba8-1d17-4f6a-9d1c-f7937e2f53e2-2026-12-05",
       "title": "RIAH | Seymour Sounds (Free Event)",
       "date": "2026-12-05",
@@ -1841,6 +2243,25 @@
       "verified": "2026-11-13",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
+    },
+    {
+      "id": "usyd-museum-reimagining-heritage-and-museums-climate-emergency-2026-12-08",
+      "title": "Reimagining heritage and museums for the climate emergency",
+      "date": "2026-12-08",
+      "time": "13:00–14:00",
+      "location": "Nelson Meers Foundation Auditorium",
+      "category": "culture",
+      "priority": "low",
+      "score": 39,
+      "summary": "A panel that asks how, might museums and the cultural sector support actions for climate empowerment?",
+      "eligibility": "Check organiser attendance and registration requirements",
+      "registration": "See the original University of Sydney event page",
+      "confidence": "confirmed",
+      "sourceName": "University of Sydney · Chau Chak Wing Museum",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/reimagining-heritage-and-museums-climate-emergency.html",
+      "verified": "2026-11-13",
+      "feedSource": "usyd-calendar",
+      "priorityReason": "Classified by source, date and relevance"
     },
     {
       "id": "usyd-a289711c-2a6a-42e8-a9ba-b1c0758a67c2-2026-12-10",

@@ -1,21 +1,431 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-13T04:36:30.465548Z",
-  "sourceCheckedAt": "2026-11-13T04:36:45.379Z",
+  "checkedAt": "2026-11-13T04:41:25.578774Z",
+  "sourceCheckedAt": "2026-11-13T04:41:27.462Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "city-4204-2026-11-16",
-      "title": "Come and get techie at Surry Hills Library",
-      "date": "2026-11-16",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-surry-hills-library",
+      "id": "usyd-museum-objects-that-carry-us-home-2026-11-13",
+      "title": "Objects That Carry Us Home",
+      "date": "2026-11-13",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/objects-that-carry-us-home.html",
       "priority": "low",
-      "detectedAt": "2026-11-13T04:36:30.465548Z",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7438-2026-11-16",
+      "title": "Free Salsa Classes in Surry Hills",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-3718-2026-11-16",
+      "title": "Forms and case management help in Mandarin and Hokkien",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/forms-and-case-management-help-in-mandarin-and-hokkien",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-knowledgeable-object-symposium-2026-2026-11-17",
+      "title": "Knowledgeable Object Symposium 2026",
+      "date": "2026-11-17",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/knowledgeable-object-symposium-2026.html",
+      "priority": "medium",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7145-2026-11-17",
+      "title": "Food preservation workshop with TAFE - Booked out",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/food-preservation-workshop-with-tafe",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8017-2026-11-17",
+      "title": "Social sewing sessions",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-sewing-sessions",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6242-2026-11-17",
+      "title": "Maker & Creator 8-12yrs",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-and-creator-8-12yrs",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7934-2026-11-17",
+      "title": "Learn to read music and sing",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2550-2026-11-17",
+      "title": "Come and get techie: Glebe Library",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-glebe-library",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2547-2026-11-17",
+      "title": "Come and get techie: Customs House Library",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-customs-house",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5655-2026-11-17",
+      "title": "English class for seniors",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/english-class-for-seniors",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8046-2026-11-17",
+      "title": "Ukulele class: Beginners to advanced",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-being-collected-2026-2026-11-18",
+      "title": "Being Collected 2026",
+      "date": "2026-11-18",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/being-collected-2026.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-shakespeare-memorial-lecture-2026-2026-11-20",
+      "title": "Shakespeare Memorial Lecture: Arthur L. Little Jr",
+      "date": "2026-11-20",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/shakespeare-memorial-lecture-2026.html",
+      "priority": "medium",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-ideas-conversations-for-good-generations-2026-11-24",
+      "title": "Conversations for Good: Across generations",
+      "date": "2026-11-24",
+      "url": "https://www.sydney.edu.au/engage/events-sponsorships/sydney-ideas/2026/conversations-for-good-generations.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-aroney-democracy-lecture-2026-2026-11-27",
+      "title": "Jazz and Democracy",
+      "date": "2026-11-27",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/aroney-democracy-lecture-2026.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-seidler-sessions-2026-11-28",
+      "title": "Seidler Session 4: Architects on Seidler’s Legacy",
+      "date": "2026-11-28",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-sugarfest-2026-11-29",
+      "title": "SugarFest",
+      "date": "2026-11-29",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/sugarfest.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-ithaca-beyond-the-odyssey-2026-12-01",
+      "title": "Ithaca beyond the Odyssey",
+      "date": "2026-12-01",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/ithaca-beyond-the-odyssey.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-seidler-sessions-2026-12-05",
+      "title": "Seidler Session 5: Seidler, the Sydney Opera House and thin-shell concrete structures",
+      "date": "2026-12-05",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-reimagining-heritage-and-museums-climate-emergency-2026-12-08",
+      "title": "Reimagining heritage and museums for the climate emergency",
+      "date": "2026-12-08",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/reimagining-heritage-and-museums-climate-emergency.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "usyd-museum-objects-that-carry-us-home-2026-11-13",
+      "title": "Objects That Carry Us Home",
+      "date": "2026-11-13",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/objects-that-carry-us-home.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7438-2026-11-16",
+      "title": "Free Salsa Classes in Surry Hills",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-3718-2026-11-16",
+      "title": "Forms and case management help in Mandarin and Hokkien",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/forms-and-case-management-help-in-mandarin-and-hokkien",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-knowledgeable-object-symposium-2026-2026-11-17",
+      "title": "Knowledgeable Object Symposium 2026",
+      "date": "2026-11-17",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/knowledgeable-object-symposium-2026.html",
+      "priority": "medium",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7145-2026-11-17",
+      "title": "Food preservation workshop with TAFE - Booked out",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/food-preservation-workshop-with-tafe",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8017-2026-11-17",
+      "title": "Social sewing sessions",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-sewing-sessions",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6242-2026-11-17",
+      "title": "Maker & Creator 8-12yrs",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/maker-and-creator-8-12yrs",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7934-2026-11-17",
+      "title": "Learn to read music and sing",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2550-2026-11-17",
+      "title": "Come and get techie: Glebe Library",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-glebe-library",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2547-2026-11-17",
+      "title": "Come and get techie: Customs House Library",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-customs-house",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5655-2026-11-17",
+      "title": "English class for seniors",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/english-class-for-seniors",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8046-2026-11-17",
+      "title": "Ukulele class: Beginners to advanced",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-being-collected-2026-2026-11-18",
+      "title": "Being Collected 2026",
+      "date": "2026-11-18",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/being-collected-2026.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-shakespeare-memorial-lecture-2026-2026-11-20",
+      "title": "Shakespeare Memorial Lecture: Arthur L. Little Jr",
+      "date": "2026-11-20",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/shakespeare-memorial-lecture-2026.html",
+      "priority": "medium",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-ideas-conversations-for-good-generations-2026-11-24",
+      "title": "Conversations for Good: Across generations",
+      "date": "2026-11-24",
+      "url": "https://www.sydney.edu.au/engage/events-sponsorships/sydney-ideas/2026/conversations-for-good-generations.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-aroney-democracy-lecture-2026-2026-11-27",
+      "title": "Jazz and Democracy",
+      "date": "2026-11-27",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/aroney-democracy-lecture-2026.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-seidler-sessions-2026-11-28",
+      "title": "Seidler Session 4: Architects on Seidler’s Legacy",
+      "date": "2026-11-28",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-sugarfest-2026-11-29",
+      "title": "SugarFest",
+      "date": "2026-11-29",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/sugarfest.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-ithaca-beyond-the-odyssey-2026-12-01",
+      "title": "Ithaca beyond the Odyssey",
+      "date": "2026-12-01",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/ithaca-beyond-the-odyssey.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-seidler-sessions-2026-12-05",
+      "title": "Seidler Session 5: Seidler, the Sydney Opera House and thin-shell concrete structures",
+      "date": "2026-12-05",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-museum-reimagining-heritage-and-museums-climate-emergency-2026-12-08",
+      "title": "Reimagining heritage and museums for the climate emergency",
+      "date": "2026-12-08",
+      "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/reimagining-heritage-and-museums-climate-emergency.html",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:41:25.578774Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-4204-2026-11-16",
@@ -806,221 +1216,10 @@
       "priority": "low",
       "detectedAt": "2026-11-01T16:50:03.342439Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-theatre-of-life-exhibition-2026-11-02",
-      "title": "Theatre of Life Exhibition",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-daily-service-of-remembrance-2026-11-02",
-      "title": "Daily Service of Remembrance",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/daily-service-of-remembrance",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-dream-horse-2026-11-02",
-      "title": "Dream Horse",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-live-music-at-foys-2026-11-02",
-      "title": "Live Music at Foys",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/live-music-at-foys",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ur-wayii-incoming-tide-2026-11-02",
-      "title": "Ur Wayii (Incoming Tide)",
-      "date": "2026-11-02",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ur-wayii-incoming-tide",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-first-nations-employment-support-2026-11-03",
-      "title": "First Nations employment support",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/first-nations-employment-support",
-      "priority": "medium",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-opera-in-the-pub-at-the-harold-opera-hijinks-2026-11-03",
-      "title": "Opera in the Pub - Race You To The Opera",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/opera-in-the-pub-at-the-harold-opera-hijinks",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-abstract-synergies-kevin-white-and-sergei-shatrov-2026-11-03",
-      "title": "Abstract Synergies: Kevin White & Sergei Shatrov",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/abstract-synergies-kevin-white-and-sergei-shatrov",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-hy-rocks-fitness-club-at-the-rocks-2026-11-03",
-      "title": "Hy-Rocks Fitness Club at The Rocks",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/hy-rocks-fitness-club-at-the-rocks",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-le-marche-french-market-2026-12-06",
-      "title": "Le Marché-French market",
-      "oldDate": "2026-11-01",
-      "date": "2026-12-06",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/le-marche-french-market",
-      "priority": "low",
-      "detectedAt": "2026-11-01T16:50:03.342439Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-how-to-become-a-business-that-ai-recommends-2026-11-01",
-      "title": "How to become a business that AI recommends",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/how-to-become-a-business-that-ai-recommends",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-halloween-at-hay-st-2026-11-01",
-      "title": "Halloween at Hay St",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/halloween-at-hay-st",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-point-and-shoot-australian-veteran-photography-exhibition-2026-11-01",
-      "title": "Point & Shoot Australian Veteran Photography Exhibition",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/point-and-shoot-australian-veteran-photography-exhibition",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-when-art-meets-science-government-house-sydney-2026-11-01",
-      "title": "When Art Meets Science Government House Sydney",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/when-art-meets-science-government-house-sydney",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-randwick-eco-living-festival-2026-11-01",
-      "title": "Randwick Eco living Festival",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/randwick-eco-living-festival",
-      "priority": "medium",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-le-marche-french-market-2026-11-01",
-      "title": "Le Marché-French market",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/le-marche-french-market",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-bondis-vintage-and-pre-loved-markets-2026-11-01",
-      "title": "Bondi's Vintage and Pre Loved Markets",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondis-vintage-and-pre-loved-markets",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-marrickville-organic-food-market-2026-11-01",
-      "title": "Marrickville Organic Food Market",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/marrickville-organic-food-market",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-ockerfest-2026-2026-11-01",
-      "title": "Ockerfest 2026",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ockerfest-2026",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-parliament-unpacked-the-architecture-of-democracy-2026-11-01",
-      "title": "Parliament Unpacked: The Architecture of Democracy",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/parliament-unpacked-the-architecture-of-democracy",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-pearling-elders-2026-11-01",
-      "title": "Pearling Elders",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/pearling-elders",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 1,
+    "new": 21,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
