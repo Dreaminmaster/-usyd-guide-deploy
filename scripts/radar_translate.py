@@ -18,9 +18,9 @@ from urllib.parse import urlencode
 import urllib.request
 
 SERVICE = "https://api.mymemory.translated.net/get"
-MAX_EVENTS_PER_RUN = 14
-MAX_REQUESTS_PER_RUN = 18
-MAX_SUMMARIES_PER_RUN = 4
+MAX_EVENTS_PER_RUN = 10
+MAX_REQUESTS_PER_RUN = 16
+MAX_SUMMARIES_PER_RUN = 10
 MAX_ENTRIES = 550
 CJK = re.compile(r"[\u3400-\u9fff]")
 BLOCK = re.compile(r"MYMEMORY WARNING|QUOTA EXCEEDED|PLEASE TRY LATER|MAXIMUM DAILY USAGE", re.I)
@@ -107,7 +107,12 @@ def update(root):
         if used >= MAX_REQUESTS_PER_RUN or summaries_done >= MAX_SUMMARIES_PER_RUN or failures >= 3:
             break
         summary = str(e.get("summary") or "")[:260]
-        if not summary or CJK.search(summary) or float(e.get("score") or 0) < 55:
+        # USYD descriptions often end with a Chinese fee note. That does not
+        # mean the English event description was translated. Remove only the
+        # appended metadata before calling the provider; retain the original
+        # sourceSummary hash for reliable cache invalidation.
+        english = re.sub(r"\s*费用说明[:：].*$", "", summary).strip()
+        if not english or not re.search(r"[A-Za-z]{3}", english) or float(e.get("score") or 0) < 35:
             continue
         event_id, title = str(e["id"]), str(e["title"])[:180]
         old = entries.get(event_id) or {}
@@ -115,7 +120,7 @@ def update(root):
             continue
         if old.get("sourceSummary") == summary and old.get("summaryZh"):
             continue
-        chinese = translate(summary)
+        chinese = translate(english)
         used += 1
         time.sleep(0.55)
         if not chinese:
