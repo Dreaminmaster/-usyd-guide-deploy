@@ -41,7 +41,8 @@ class TranslationArchiveTests(unittest.TestCase):
             self.assertEqual(len(requests), translation.MAX_REQUESTS_PER_RUN)
             self.assertEqual(len(written), translation.MAX_EVENTS_PER_RUN)
             self.assertEqual(sum(bool(v.get("summaryZh")) for v in written.values()),
-                             translation.MAX_SUMMARIES_PER_RUN)
+                             min(translation.MAX_SUMMARIES_PER_RUN,
+                                 translation.MAX_REQUESTS_PER_RUN - translation.MAX_EVENTS_PER_RUN))
             self.assertTrue(all("sourceTitle" in v for v in written.values()))
 
     def test_manual_title_kept_and_summary_added(self):
@@ -57,6 +58,26 @@ class TranslationArchiveTests(unittest.TestCase):
             got = json.loads((root / "translations.json").read_text())["entries"]["example-1"]
             self.assertEqual(got["titleZh"], "人工校对标题")
             self.assertEqual(got["summaryZh"], "中文简介")
+
+    def test_bilingual_fee_note_does_not_block_english_summary_translation(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            e = event(1)
+            e["summary"] = "Learn about the latest robotics discoveries. 费用说明：free"
+            old = {"sourceTitle": e["title"], "titleZh": "机器人讲座",
+                   "sourceSummary": e["summary"], "summaryZh": ""}
+            self.fixture(root, [e], {e["id"]: old})
+            calls = []
+            def translate_stub(value):
+                calls.append(value)
+                return "了解最新机器人研究成果"
+            with patch.object(translation, "translate", side_effect=translate_stub), \
+                 patch.object(translation.time, "sleep", return_value=None):
+                translation.update(root)
+            got = json.loads((root / "translations.json").read_text())["entries"][e["id"]]
+            self.assertEqual(calls, ["Learn about the latest robotics discoveries."])
+            self.assertEqual(got["sourceSummary"], e["summary"])
+            self.assertEqual(got["summaryZh"], "了解最新机器人研究成果")
 
     def test_provider_failure_keeps_old_cache(self):
         with tempfile.TemporaryDirectory() as tmp:
