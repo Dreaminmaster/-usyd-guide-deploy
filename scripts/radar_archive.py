@@ -43,6 +43,29 @@ def get_feed():
 def project(record, fields):
     return {key: record[key] for key in fields if record.get(key) is not None}
 
+def coverage_summary(sources):
+    """Report source completeness separately from HTTP/aggregator success.
+
+    Zero extracted events is a watch item, not proof that an organiser ran
+    nothing. Unknown/unreliable sources must not be counted as complete.
+    """
+    sources = sources or []
+    failed = [s.get("name", "unknown") for s in sources if s.get("status") == "failed"]
+    partial = [s.get("name", "unknown") for s in sources if s.get("status") == "partial"]
+    zeros = [s.get("name", "unknown") for s in sources
+             if s.get("status") in ("ok", "partial") and s.get("recordCount") == 0]
+    campus = [name for name in zeros
+              if any(term in name.lower() for term in
+                     ("usu", "usyd", "student", "src", "supra", "museum", "sydney ideas", "学生"))]
+    return {
+        "sourceCount": len(sources), "failed": failed, "partial": partial,
+        "zeroExtracted": zeros, "campusZeroExtracted": campus,
+        "complete": False,
+        "notice": ("HTTP 200 is not complete coverage. A source with zero extracted "
+                   "events may have no upcoming listings or a changed page; check organiser.")
+    }
+
+
 def main(root):
     root.mkdir(parents=True, exist_ok=True)
     now = dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z")
@@ -53,6 +76,7 @@ def main(root):
         "schema": 1, "checkedAt": feed["checkedAt"], "archivedAt": now,
         "timezone": "Australia/Sydney", "today": date, "status": feed.get("status"),
         "summary": feed["summary"],
+        "coverage": coverage_summary(feed.get("sources")),
         "sources": [{k: v for k, v in s.items() if k in
                      ("name", "status", "recordCount", "url", "message", "checkedAt")}
                     for s in feed.get("sources", [])],
@@ -113,6 +137,7 @@ def main(root):
               "runEvent": run_event,
               "lastScheduledRunAt": now if run_event == "schedule" else previous_status.get("lastScheduledRunAt"),
               "changes": changes_log["counts"],
+              "coverage": snapshot["coverage"],
               "initialSnapshot": False}
     (root / "status.json").write_text(
         json.dumps(status, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
