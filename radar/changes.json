@@ -1,10 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-13T02:39:10.245050Z",
-  "sourceCheckedAt": "2026-11-13T02:39:24.042Z",
+  "checkedAt": "2026-11-13T04:36:30.465548Z",
+  "sourceCheckedAt": "2026-11-13T04:36:45.379Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "city-4204-2026-11-16",
+      "title": "Come and get techie at Surry Hills Library",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-surry-hills-library",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:36:30.465548Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-4204-2026-11-16",
+      "title": "Come and get techie at Surry Hills Library",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-surry-hills-library",
+      "priority": "low",
+      "detectedAt": "2026-11-13T04:36:30.465548Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-4128-2026-11-13",
@@ -996,20 +1017,10 @@
       "priority": "low",
       "detectedAt": "2026-10-31T15:45:25.186032Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-remy-faint-a-site-of-unfolding-2026-11-01",
-      "title": "Remy Faint: A Site of Unfolding",
-      "date": "2026-11-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/remy-faint-a-site-of-unfolding",
-      "priority": "low",
-      "detectedAt": "2026-10-31T15:45:25.186032Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,

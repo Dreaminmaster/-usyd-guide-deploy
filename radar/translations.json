@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-13T02:39:24.242251Z",
+  "updatedAt": "2026-11-13T04:36:45.558567Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 71,
+  "count": 80,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
       "titleZh": "周日免费钟琴演奏会",
       "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "summaryZh": "来听听悉尼大学钟琴的54个钟声，由我们的钟琴演奏家之一演奏。",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "human-reviewed initial title translation"
     },
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
       "titleZh": "生成式 AI 使用增长背景下的学术不端政策",
       "sourceSummary": "A/Prof Mohammad Hosseini, Northwestern University, presents this Evidence Policy and Influence Collaborative Seminar 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-10-13T10:19:46.718Z",
+      "summaryZh": "西北大学副教授Mohammad Hosseini主持本次“证据、政策与影响力”协作研讨会",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "human-reviewed initial title translation"
     },
     "gpt-unsw-future-ai-2026-11-13": {
@@ -161,16 +161,16 @@
       "sourceTitle": "Artificial Intelligence and Human Creativity",
       "titleZh": "人工智能与人类创造力",
       "sourceSummary": "You are invited to join us for one of the most important conversations of the year on the future of creativity in the age of artificial intelligence. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
+      "summaryZh": "诚邀您与我们一同参与今年最重要的对话之一，探讨人工智能时代创造力的未来。",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-0ed2cd81-df6a-43e4-922c-13eaa43c42a9-2026-12-02": {
       "sourceTitle": "ITLS Seminar Series: Leadership, Policy and Research: Professor Emeritus Avishai (Avi) Ceder",
       "titleZh": "ITLS系列研讨会：领导力、政策和研究： Avishai名誉教授（ AVI ） Ceder",
       "sourceSummary": "Rethinking Future Urban Mobility: The Central Role of Public Transport and Artificial Intelligence 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
+      "summaryZh": "重新思考未来城市出行：公共交通和人工智能的核心作用",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-a289711c-2a6a-42e8-a9ba-b1c0758a67c2-2026-12-10": {
@@ -409,16 +409,8 @@
       "sourceTitle": "Exam Ready: free meals and snacks",
       "titleZh": "备考：免费餐食和零食",
       "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7734-2026-11-26": {
-      "sourceTitle": "Tech fundamentals - AI literacy",
-      "titleZh": "技术基础 - 人工智能素养",
-      "sourceSummary": "Artificial intelligence (AI) is changing the information landscape",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "summaryZh": "USU会员12:00可享免费午餐；USYD学生17:30可享免费社区晚餐。所有优惠售完即止。",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-8235-2026-11-14": {
@@ -571,6 +563,86 @@
       "sourceSummary": "Sydney’s biggest pet Christmas festival returns to Centennial Park to raise $100k for rescue animals",
       "summaryZh": "",
       "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-13": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10413-2026-11-13": {
+      "sourceTitle": "Bondi Outdoor Cinema",
+      "titleZh": "邦迪露天电影院",
+      "sourceSummary": "Free outdoor film screenings at Bondi Pavilion with popcorn and ocean sounds.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10465-2026-11-13": {
+      "sourceTitle": "Kudos Emerging Awards 2026",
+      "titleZh": "2026年Kudos新兴奖",
+      "sourceSummary": "Celebrating the excellence of artists, designers, and writers from the UNSW creative community.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-3421-2026-11-13": {
+      "sourceTitle": "Computer and mobile phone help",
+      "titleZh": "电脑和手机帮助",
+      "sourceSummary": "Come for help to solve your digital problems",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-13": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6240-2026-11-13": {
+      "sourceTitle": "Community toy reuse volunteer session",
+      "titleZh": "社区玩具再利用志愿者活动",
+      "sourceSummary": "Give pre-loved toys a second life! Join us to clean, sort and prepare donated toys for reuse. Ages 11+",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6348-2026-11-13": {
+      "sourceTitle": "Sydney Cellar Door",
+      "titleZh": "悉尼酒庄直销店",
+      "sourceSummary": "Sydney's largest open air wine tasting experience is coming this November",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6393-2026-11-13": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7860-2026-11-13": {
+      "sourceTitle": "Edible Garden Project",
+      "titleZh": "可食用花园项目",
+      "sourceSummary": "Learn to set up an edible garden",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8270-2026-11-13": {
+      "sourceTitle": "Latin Nights by the Bay",
+      "titleZh": "海湾畔的拉丁之夜",
+      "sourceSummary": "We are bringing back the dance heat with another season of Latin Nights by the Bay",
+      "summaryZh": "",
+      "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
