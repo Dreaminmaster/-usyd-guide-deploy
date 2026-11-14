@@ -57,12 +57,54 @@ def coverage_summary(sources):
     campus = [name for name in zeros
               if any(term in name.lower() for term in
                      ("usu", "usyd", "student", "src", "supra", "museum", "sydney ideas", "学生"))]
+    # Several channels report the same organiser. Legacy landing-page checks can
+    # return zero while a dedicated official event endpoint provides records.
+    # Keep all raw channel diagnostics, but make actionable organiser-level
+    # gaps depend on *every* channel for that organiser.
+    families = ("USU", "SUPRA", "SRC", "City of Sydney")
+    def organiser(name):
+        name = name.casefold()
+        if "usu" in name or "university of sydney union" in name or "学生会" in name:
+            return "USU"
+        if "supra" in name or "研究生协会" in name:
+            return "SUPRA"
+        if "src" in name or "本科生" in name:
+            return "SRC"
+        if "city of sydney" in name:
+            return "City of Sydney"
+        return None
+
+    provider_coverage = {}
+    for provider in families:
+        channels = [s for s in sources if organiser(s.get("name", "")) == provider]
+        positive = [s for s in channels
+                    if s.get("status") in ("ok", "partial")
+                    and isinstance(s.get("recordCount"), (int, float))
+                    and s["recordCount"] > 0]
+        provider_coverage[provider] = {
+            "sourceCount": len(channels),
+            "channelsWithRecords": [s.get("name", "unknown") for s in positive],
+            # Maximum per-channel only: sums could count the same event repeatedly.
+            "maxChannelRecordCount": max((s["recordCount"] for s in positive), default=0),
+            "zeroChannels": [s.get("name", "unknown") for s in channels
+                             if s.get("status") in ("ok", "partial")
+                             and s.get("recordCount") == 0],
+            "partialChannels": [s.get("name", "unknown") for s in channels
+                                if s.get("status") == "partial"],
+            "hasExtractedRecords": bool(positive),
+        }
+    priority_gaps = [provider for provider, entry in provider_coverage.items()
+                     if not entry["hasExtractedRecords"]]
     return {
         "sourceCount": len(sources), "failed": failed, "partial": partial,
         "zeroExtracted": zeros, "campusZeroExtracted": campus,
+        "providerCoverage": provider_coverage,
+        "priorityProviderGaps": priority_gaps,
         "complete": False,
-        "notice": ("HTTP 200 is not complete coverage. A source with zero extracted "
-                   "events may have no upcoming listings or a changed page; check organiser.")
+        "notice": ("HTTP 200 is not complete coverage. A zero-record source channel "
+                   "may coexist with a different working channel for the same organiser; "
+                   "check providerCoverage before calling an entire organiser unmonitored. "
+                   "Positive counts do not establish complete event coverage.")
     }
 
 
