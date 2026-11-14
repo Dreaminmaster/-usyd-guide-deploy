@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-13T17:47:51.822193Z",
+  "updatedAt": "2026-11-14T02:29:04.578049Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 88,
+  "count": 98,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -105,8 +105,8 @@
       "sourceTitle": "Carers’ Network Play and Chat",
       "titleZh": "照顾者网络游戏和聊天",
       "sourceSummary": "Official SUPRA event. See source for eligibility, registration and costs.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
+      "summaryZh": "SUPRA官方活动。请参阅来源，了解资格、报名和费用信息。",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
     "supra-262104-2026-11-26": {
@@ -521,24 +521,24 @@
       "sourceTitle": "Seidler Session 4: Architects on Seidler’s Legacy",
       "titleZh": "悉乐系列讲座第四讲：建筑师眼中的悉乐遗产",
       "sourceSummary": "Andrew Andersons, Ed Lippmann and Peter Lonergan in conversation.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
+      "summaryZh": "Andrew Andersons、Ed Lippmann和Peter Lonergan正在交谈。",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-museum-sugarfest-2026-11-29": {
       "sourceTitle": "SugarFest",
       "titleZh": "糖果节",
       "sourceSummary": "Come celebrate and learn about Oceanic culture, history and music. Dance. Weave. Listen. Yarn. Eat. Explore.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
+      "summaryZh": "来庆祝并了解大洋洲文化、历史和音乐。舞蹈。编织。聆听。闲聊。美食。探索。",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-museum-ithaca-beyond-the-odyssey-2026-12-01": {
       "sourceTitle": "Ithaca beyond the Odyssey",
       "titleZh": "《奥德赛》之外的伊萨卡",
       "sourceSummary": "Hear about new maritime archaeological research into the Greek island of Ithaca, the famed homeland of Odysseus.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
+      "summaryZh": "了解对希腊伊萨卡岛（奥德修斯的著名故乡）进行的新海洋考古研究。",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-10340-2026-11-14": {
@@ -633,8 +633,8 @@
       "sourceTitle": "Seidler Session 5: Seidler, the Sydney Opera House and thin-shell concrete structures",
       "titleZh": "Seidler系列课程第5讲：Seidler、悉尼歌剧院和薄壳混凝土结构",
       "sourceSummary": "Emeritus Professor James Weirick keynote.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "summaryZh": "荣誉退休教授James Weirick的主旨演讲。",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-4128-2026-11-14": {
@@ -707,6 +707,86 @@
       "sourceSummary": "Celebrating the excellence of artists, designers, and writers from the UNSW creative community.",
       "summaryZh": "",
       "translatedAt": "2026-11-13T17:47:51.822193Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-14": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6348-2026-11-14": {
+      "sourceTitle": "Sydney Cellar Door",
+      "titleZh": "悉尼酒庄直销店",
+      "sourceSummary": "Sydney's largest open air wine tasting experience is coming this November",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6393-2026-11-16": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7765-2026-11-16": {
+      "sourceTitle": "Ukulele for beginners short course",
+      "titleZh": "初学者尤克里里短训班",
+      "sourceSummary": "Try something new, build confidence and have fun",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2546-2026-11-17": {
+      "sourceTitle": "Come and get techie: Newtown Library",
+      "titleZh": "来体验科技：纽敦图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2547-2026-11-17": {
+      "sourceTitle": "Come and get techie: Customs House Library",
+      "titleZh": "来体验科技：海关大楼图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2550-2026-11-17": {
+      "sourceTitle": "Come and get techie: Glebe Library",
+      "titleZh": "来感受科技魅力：格利布图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5655-2026-11-17": {
+      "sourceTitle": "English class for seniors",
+      "titleZh": "老年人英语课",
+      "sourceSummary": "Free weekly class suitable for beginner and intermediate level learners",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6242-2026-11-17": {
+      "sourceTitle": "Maker & Creator 8-12yrs",
+      "titleZh": "创客与创作者 8-12岁",
+      "sourceSummary": "Play and create with the latest makerspace kits and electronic gadgets",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6421-2026-11-17": {
+      "sourceTitle": "Learn Spanish by reading: A2 – New Paths",
+      "titleZh": "通过阅读学习西班牙语：A2 – 新途径",
+      "sourceSummary": "Strengthen your Spanish while enjoying the library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

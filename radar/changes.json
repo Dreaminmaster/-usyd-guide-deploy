@@ -1,181 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-13T17:47:30.943355Z",
-  "sourceCheckedAt": "2026-11-13T17:47:51.722Z",
+  "checkedAt": "2026-11-14T02:28:49.416197Z",
+  "sourceCheckedAt": "2026-11-14T02:29:04.451Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "possible_reschedule",
-      "id": "city-4128-2026-11-14",
-      "title": "Curtains Jazz Festival",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7375-2026-11-14",
-      "title": "Head On Photo Festival 2026",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8418-2026-11-14",
-      "title": "Black Myth",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/black-myth",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8249-2026-11-14",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7958-2026-11-14",
-      "title": "Modernism and World Revolution",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-6384-2026-11-14",
-      "title": "Dream Horse",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5583-2026-11-14",
-      "title": "Frontline yoga at the Anzac Memorial",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-6348-2026-11-14",
-      "title": "Sydney Cellar Door",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-cellar-door",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10465-2026-11-14",
-      "title": "Kudos Emerging Awards 2026",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/kudos-emerging-awards",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10379-2026-11-14",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-10413-2026-11-14",
-      "title": "Bondi Outdoor Cinema",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondi-outdoor-cinema",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5193-2026-11-16",
-      "title": "Theatre of Life Exhibition",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-16",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-6393-2026-11-16",
-      "title": "OK? Ok, ok…",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-16",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-2546-2026-11-17",
-      "title": "Come and get techie: Newtown Library",
-      "date": "2026-11-17",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-newtown-library",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6421-2026-11-17",
-      "title": "Learn Spanish by reading: A2 – New Paths",
-      "date": "2026-11-17",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-spanish-by-reading-a2-new-paths",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7516-2026-11-17",
-      "title": "Free Bachata Classes in Kings Cross",
-      "date": "2026-11-17",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bachata-classes-in-kings-cross",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "possible_reschedule",
@@ -1190,10 +1018,10 @@
     }
   ],
   "counts": {
-    "new": 5,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 11,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
