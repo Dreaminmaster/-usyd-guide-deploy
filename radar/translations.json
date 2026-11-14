@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-14T16:37:42.975602Z",
+  "updatedAt": "2026-11-14T22:31:23.085360Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 88,
+  "count": 98,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -209,16 +209,16 @@
       "sourceTitle": "Yasmina Sadiki | Seymour Sounds (Free Event)",
       "titleZh": "Yasmina Sadiki | Seymour Sounds （免费活动）",
       "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "Seymour Sounds专为那些希望聆听音乐律动的人士打造。在为期六周的时间里，我们将重新开放我们的庭院，举办一系列亲密连场的现场演出，悉尼活力四射的新爵士和新灵魂乐坛的重量级人物和新星将轮番登场。",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-8e3d6ba8-1d17-4f6a-9d1c-f7937e2f53e2-2026-12-05": {
       "sourceTitle": "RIAH | Seymour Sounds (Free Event)",
       "titleZh": "RIAH | Seymour Sounds （免费活动）",
       "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "Seymour Sounds专为那些希望聆听音乐律动的人士打造。在为期六周的时间里，我们将重新开放我们的庭院，举办一系列亲密无间的连续现场演出，悉尼活力四射的新爵士和新灵魂乐坛的重量级人物和新星将轮番登场。",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-cd86264e-5cc5-43ff-8b13-fea6ea7f3eb3-2026-12-10": {
@@ -305,8 +305,8 @@
       "sourceTitle": "DHIN End of Year Celebration",
       "titleZh": "DHIN 年终庆祝活动",
       "sourceSummary": "Celebrate DHIN’s 2026 achievements with a short presentation, networking, drinks, and catering provided. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T03:04:46.216666Z",
+      "summaryZh": "通过简短的演讲、社交、饮品和餐饮，庆祝 DHIN 在 2026 年取得的成就。",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-exam-ready-2026-11-16": {
@@ -707,6 +707,86 @@
       "sourceSummary": "Come along to sew and chat with friends.",
       "summaryZh": "",
       "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8235-2026-11-15": {
+      "sourceTitle": "Haven Sydney: Free Coding Hackathon (Ages 13-18)",
+      "titleZh": "Haven Sydney：免费编程黑客马拉松（13-18 岁）",
+      "sourceSummary": "Free two-day game dev hackathon for high schoolers aged 13–18. No experience needed, free food and prizes for everyone!",
+      "summaryZh": "面向13–18岁高中生的免费为期两天的游戏开发黑客马拉松。无需经验，人人都有免费美食和奖品！",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10570-2026-11-15": {
+      "sourceTitle": "Lebanese Festival",
+      "titleZh": "黎巴嫩节",
+      "sourceSummary": "Celebrate the spirit of Lebanon with two days of authentic flavours, vibrant sounds and entertainment at Hay St.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-15": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-15": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-15": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-15": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8249-2026-11-15": {
+      "sourceTitle": "Vague Transparency from the Fotovague Collective",
+      "titleZh": "来自Fotovague Collective的“模糊的透明”",
+      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-15": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10413-2026-11-15": {
+      "sourceTitle": "Bondi Outdoor Cinema",
+      "titleZh": "邦迪露天电影院",
+      "sourceSummary": "Free outdoor film screenings at Bondi Pavilion with popcorn and ocean sounds.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10465-2026-11-15": {
+      "sourceTitle": "Kudos Emerging Awards 2026",
+      "titleZh": "2026年Kudos新兴奖",
+      "sourceSummary": "Celebrating the excellence of artists, designers, and writers from the UNSW creative community.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:23.085360Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

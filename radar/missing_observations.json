@@ -1,1 +1,93 @@
-{}
+{
+  "city-2549-2026-11-18": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Come and get techie: Green Square Library",
+    "date": "2026-11-18",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library"
+  },
+  "city-8140-2026-11-18": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Green Square Sings",
+    "date": "2026-11-18",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-sings"
+  },
+  "city-5709-2026-11-18": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Guitar/bass beginner & intermediate group lessons",
+    "date": "2026-11-18",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson"
+  },
+  "city-5534-2026-11-18": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Song writing camp with Josh Keys -ongoing program",
+    "date": "2026-11-18",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/song-writing-camp-with-josh-keys"
+  },
+  "city-7517-2026-11-18": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Free Salsa Classes in Kings Cross",
+    "date": "2026-11-18",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo"
+  },
+  "city-6261-2026-11-18": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Salsa Wednesdays at Hay St",
+    "date": "2026-11-18",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/salsa-wednesdays-at-hay-st"
+  },
+  "city-6702-2026-11-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Chinese painting for beginners to advanced",
+    "date": "2026-11-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/introduction-to-chinese-painting"
+  },
+  "city-2548-2026-11-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Come and get techie: Darling Square Library",
+    "date": "2026-11-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie"
+  },
+  "city-10552-2026-11-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Make and print your own holiday cards with Canva",
+    "date": "2026-11-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/make-and-print-your-own-holiday-cards-with-canva"
+  },
+  "city-7963-2026-11-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Movement and dance class",
+    "date": "2026-11-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/movement-and-dance"
+  },
+  "city-7949-2026-11-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "iMeditate free meditation",
+    "date": "2026-11-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-classes"
+  },
+  "city-6454-2026-11-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Mu Meson Film Nights: Midnite Spares + Ozploitation",
+    "date": "2026-11-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/mu-meson-film-nights-midnite-spares-ozploitation"
+  },
+  "city-8423-2026-11-19": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-14T22:31:22.639361Z",
+    "title": "Open Mic Karaoke",
+    "date": "2026-11-19",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/open-mic-karaoke"
+  }
+}
