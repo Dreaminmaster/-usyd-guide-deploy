@@ -1,140 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-14T22:31:22.639361Z",
-  "sourceCheckedAt": "2026-11-14T22:31:22.883Z",
+  "checkedAt": "2026-11-14T22:31:58.327029Z",
+  "sourceCheckedAt": "2026-11-14T22:31:58.523Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "city-8235-2026-11-15",
-      "title": "Haven Sydney: Free Coding Hackathon (Ages 13-18)",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/haven-sydney-free-coding-hackathon-ages-13-18",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10570-2026-11-15",
-      "title": "Lebanese Festival",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/lebanese-festival-at-hay-st-copy",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-4128-2026-11-15",
-      "title": "Curtains Jazz Festival",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7375-2026-11-15",
-      "title": "Head On Photo Festival 2026",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8418-2026-11-15",
-      "title": "Black Myth",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/black-myth",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8249-2026-11-15",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7958-2026-11-15",
-      "title": "Modernism and World Revolution",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6384-2026-11-15",
-      "title": "Dream Horse",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-5583-2026-11-15",
-      "title": "Frontline yoga at the Anzac Memorial",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6348-2026-11-15",
-      "title": "Sydney Cellar Door",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-cellar-door",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10465-2026-11-15",
-      "title": "Kudos Emerging Awards 2026",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/kudos-emerging-awards",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10379-2026-11-15",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10413-2026-11-15",
-      "title": "Bondi Outdoor Cinema",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondi-outdoor-cinema",
-      "priority": "low",
-      "detectedAt": "2026-11-14T22:31:22.639361Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1149,7 +1018,7 @@
     }
   ],
   "counts": {
-    "new": 13,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,

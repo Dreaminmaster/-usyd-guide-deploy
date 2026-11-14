@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-14T22:31:23.085360Z",
+  "updatedAt": "2026-11-14T22:31:58.631018Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 98,
+  "count": 104,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -137,8 +137,8 @@
       "sourceTitle": "Faculty of Engineering Dean's Lecture Series with Dr Alan Finkel AC",
       "titleZh": "Alan Finkel AC博士的工程学院院长系列讲座",
       "sourceSummary": "The Dean of Engineering warmly invites you to attend the Dean's Lecture presentation delivered by Dr Alan Finkel AC on AI: Everything, Everywhere, All at Once. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
+      "summaryZh": "工程学院院长诚挚邀请您参加由Alan Finkel AC博士主讲的院长讲座，主题为“人工智能：无处不在，无时不有”。",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "supra-263132-2026-12-17": {
@@ -169,24 +169,24 @@
       "sourceTitle": "Carillon Recital and Free Tour",
       "titleZh": "Carillon独奏会和免费之旅",
       "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "来听听悉尼大学历史悠久的钟琴，由我们的钟琴师之一演奏54个钟声。",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-869963cd-67ca-4dfa-ac06-2d465b7c699e-2026-12-13": {
       "sourceTitle": "Sunday Free Carillon Recital",
       "titleZh": "周日免费Carillon独奏会",
       "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "来听听悉尼大学钟琴的54口钟声，由我们的钟琴演奏家之一演奏。",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-953cab38-d23e-4f42-bff0-d84b14dd320d-2026-12-15": {
       "sourceTitle": "Carillon Recital and Free Tour",
       "titleZh": "Carillon独奏会和免费之旅",
       "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "来听听悉尼大学历史悠久的钟琴，由我们的钟琴师之一演奏54个钟声。",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-96266268-b834-46dc-a8bd-896eaf998bd9-2026-11-28": {
@@ -241,8 +241,8 @@
       "sourceTitle": "Sydney University Choir's 2026 Sydney Sings Concert: From Leipzig to London: Christmas Concert",
       "titleZh": "悉尼大学合唱团2026年悉尼歌唱音乐会：从莱比锡到伦敦：圣诞音乐会",
       "sourceSummary": "Our 2026 Sydney Sings concert features two brilliant German composers who succeeded at the English Court in London, the great G. F. Handel and his admirer, C.P.E. Bach, the second son of J.S. Bach. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "我们的2026年悉尼歌唱音乐会（Sydney Sings）将上演两位杰出德国作曲家的作品，他们曾在伦敦的英国宫廷取得成功，他们就是伟大的乔治·弗里德里希·亨德尔（G. F. Handel）和他的崇拜者、约翰·塞巴斯蒂安·巴赫（J.S. Bach）的次子卡尔·菲利普·埃马努埃尔·巴赫（C.P.E. Bach）。",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-01": {
@@ -377,16 +377,16 @@
       "sourceTitle": "Come and get techie",
       "titleZh": "来体验科技的魅力吧",
       "sourceSummary": "Get help with a technology question about a device or website",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
+      "summaryZh": "就有关设备或网站的技术问题寻求帮助",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-7428-2026-11-21": {
       "sourceTitle": "with, together:greens & browns - Shelley Watters,Emily Simek",
       "titleZh": "与……一起：绿色和棕色 - Shelley Watters、Emily Simek",
       "sourceSummary": "an expansive, collaborative project that explores gardening as a context for art-making mediated by technology",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
+      "summaryZh": "这是一个广泛的协作项目，旨在探索以园艺为背景、以技术为媒介的艺术创作。",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-5567-2026-11-24": {
@@ -787,6 +787,54 @@
       "sourceSummary": "Celebrating the excellence of artists, designers, and writers from the UNSW creative community.",
       "summaryZh": "",
       "translatedAt": "2026-11-14T22:31:23.085360Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-15": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6348-2026-11-15": {
+      "sourceTitle": "Sydney Cellar Door",
+      "titleZh": "悉尼酒庄直销店",
+      "sourceSummary": "Sydney's largest open air wine tasting experience is coming this November",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8046-2026-11-17": {
+      "sourceTitle": "Ukulele class: Beginners to advanced",
+      "titleZh": "尤克里里课程：初级到高级",
+      "sourceSummary": "Strum your troubles away in this fun class for all ages and levels of experience",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8297-2026-11-18": {
+      "sourceTitle": "Carbon Challenge",
+      "titleZh": "碳排放挑战",
+      "sourceSummary": "A workshop & game about carbon emissions",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7221-2026-11-24": {
+      "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
+      "titleZh": "澳大利亚巴洛克静物摄影展",
+      "sourceSummary": "A contemporary still life photography exhibition presented as part of the Head On Photo Festival Open Program.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-museum-reimagining-heritage-and-museums-climate-emergency-2026-12-08": {
+      "sourceTitle": "Reimagining heritage and museums for the climate emergency",
+      "titleZh": "为应对气候紧急情况，重新构想文化遗产和博物馆",
+      "sourceSummary": "A panel that asks how, might museums and the cultural sector support actions for climate empowerment?",
+      "summaryZh": "一个讨论小组，探讨博物馆和文化部门如何支持气候赋能行动。",
+      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
