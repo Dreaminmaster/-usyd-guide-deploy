@@ -87,5 +87,25 @@ class RadarArchiveProjectionTests(unittest.TestCase):
         self.assertEqual(report["campusZeroExtracted"], ["USU", "Sydney Ideas"])
         self.assertFalse(report["complete"])
 
+    def test_provider_rollup_distinguishes_legacy_zero_channels(self):
+        sources = [
+            {"name": "USU 学生会", "status": "partial", "recordCount": 0},
+            {"name": "USU · Official public event calendar", "status": "partial", "recordCount": 8},
+            {"name": "SUPRA 研究生协会", "status": "partial", "recordCount": 0},
+            {"name": "SUPRA · 活动接口", "status": "ok", "recordCount": 5},
+            {"name": "City of Sydney · What's On", "status": "partial", "recordCount": 0},
+            {"name": "City of Sydney · Workshops", "status": "ok", "recordCount": 48},
+            {"name": "City of Sydney · Technology", "status": "ok", "recordCount": 17},
+            {"name": "SRC · 本科生代表组织活动", "status": "partial", "recordCount": 0},
+        ]
+        result = coverage_summary(sources)
+        self.assertEqual(result["priorityProviderGaps"], ["SRC"])
+        self.assertEqual(result["providerCoverage"]["USU"]["maxChannelRecordCount"], 8)
+        self.assertTrue(result["providerCoverage"]["SUPRA"]["hasExtractedRecords"])
+        self.assertEqual(result["providerCoverage"]["City of Sydney"]["maxChannelRecordCount"], 48)
+        self.assertIn("USU 学生会", result["zeroExtracted"])
+        self.assertIn("USU 学生会", result["providerCoverage"]["USU"]["zeroChannels"])
+        self.assertFalse(result["complete"])
+
 if __name__ == "__main__":
     unittest.main()
