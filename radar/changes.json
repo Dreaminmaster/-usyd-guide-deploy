@@ -1,10 +1,411 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-14T02:28:49.416197Z",
-  "sourceCheckedAt": "2026-11-14T02:29:04.451Z",
+  "checkedAt": "2026-11-14T16:37:27.383892Z",
+  "sourceCheckedAt": "2026-11-14T16:37:42.867Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "city-6103-2026-11-17",
+      "title": "Fun social dance",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7391-2026-11-17",
+      "title": "From prehistoric qubits to building useful quantum computer",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/from-prehistoric-qubits-to-building-useful-quantum-computer",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8016-2026-11-17",
+      "title": "Social group for Chinese speaking seniors",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-group-for-chinese-speaking-seniors",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5088-2026-11-17",
+      "title": "Musical bingo and $1 dogs",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8297-2026-11-18",
+      "title": "Carbon Challenge",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/carbon-challenge",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2549-2026-11-18",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8140-2026-11-18",
+      "title": "Green Square Sings",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-sings",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5709-2026-11-18",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5534-2026-11-18",
+      "title": "Song writing camp with Josh Keys -ongoing program",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/song-writing-camp-with-josh-keys",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7517-2026-11-18",
+      "title": "Free Salsa Classes in Kings Cross",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6261-2026-11-18",
+      "title": "Salsa Wednesdays at Hay St",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/salsa-wednesdays-at-hay-st",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6702-2026-11-19",
+      "title": "Chinese painting for beginners to advanced",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/introduction-to-chinese-painting",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2548-2026-11-19",
+      "title": "Come and get techie: Darling Square Library",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10552-2026-11-19",
+      "title": "Make and print your own holiday cards with Canva",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/make-and-print-your-own-holiday-cards-with-canva",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7963-2026-11-19",
+      "title": "Movement and dance class",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/movement-and-dance",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7949-2026-11-19",
+      "title": "iMeditate free meditation",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-classes",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6454-2026-11-19",
+      "title": "Mu Meson Film Nights: Midnite Spares + Ozploitation",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mu-meson-film-nights-midnite-spares-ozploitation",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8423-2026-11-19",
+      "title": "Open Mic Karaoke",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/open-mic-karaoke",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10613-2026-11-28",
+      "title": "Free Christmas Wreath Making Workshop at Martin Place",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-christmas-wreath-making-workshop-at-martin-place",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6699-2026-11-28",
+      "title": "Double Bay Christmas Festival",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/double-bay-christmas-festival",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-6103-2026-11-17",
+      "title": "Fun social dance",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7391-2026-11-17",
+      "title": "From prehistoric qubits to building useful quantum computer",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/from-prehistoric-qubits-to-building-useful-quantum-computer",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8016-2026-11-17",
+      "title": "Social group for Chinese speaking seniors",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-group-for-chinese-speaking-seniors",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5088-2026-11-17",
+      "title": "Musical bingo and $1 dogs",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8297-2026-11-18",
+      "title": "Carbon Challenge",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/carbon-challenge",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2549-2026-11-18",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8140-2026-11-18",
+      "title": "Green Square Sings",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-sings",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5709-2026-11-18",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5534-2026-11-18",
+      "title": "Song writing camp with Josh Keys -ongoing program",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/song-writing-camp-with-josh-keys",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7517-2026-11-18",
+      "title": "Free Salsa Classes in Kings Cross",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6261-2026-11-18",
+      "title": "Salsa Wednesdays at Hay St",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/salsa-wednesdays-at-hay-st",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6702-2026-11-19",
+      "title": "Chinese painting for beginners to advanced",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/introduction-to-chinese-painting",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-2548-2026-11-19",
+      "title": "Come and get techie: Darling Square Library",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10552-2026-11-19",
+      "title": "Make and print your own holiday cards with Canva",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/make-and-print-your-own-holiday-cards-with-canva",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7963-2026-11-19",
+      "title": "Movement and dance class",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/movement-and-dance",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7949-2026-11-19",
+      "title": "iMeditate free meditation",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/meditation-classes",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6454-2026-11-19",
+      "title": "Mu Meson Film Nights: Midnite Spares + Ozploitation",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/mu-meson-film-nights-midnite-spares-ozploitation",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8423-2026-11-19",
+      "title": "Open Mic Karaoke",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/open-mic-karaoke",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10613-2026-11-28",
+      "title": "Free Christmas Wreath Making Workshop at Martin Place",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-christmas-wreath-making-workshop-at-martin-place",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6699-2026-11-28",
+      "title": "Double Bay Christmas Festival",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/double-bay-christmas-festival",
+      "priority": "low",
+      "detectedAt": "2026-11-14T16:37:27.383892Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "possible_reschedule",
       "id": "city-4128-2026-11-14",
@@ -815,210 +1216,10 @@
       "priority": "low",
       "detectedAt": "2026-11-12T18:21:59.568091Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usu-exam-ready-2026-11-23",
-      "title": "Exam Ready: free meals and snacks",
-      "date": "2026-11-23",
-      "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usu-exam-ready-2026-11-24",
-      "title": "Exam Ready: free meals and snacks",
-      "date": "2026-11-24",
-      "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-5567-2026-11-24",
-      "title": "Come and get techie",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-redfern-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10549-2026-11-24",
-      "title": "Inner West Disability Forum Community Festival & Showcase",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/inner-west-disability-forum-community-festival-showcase",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7221-2026-11-24",
-      "title": "Australian Baroque Table Still Life Photography Exhibition",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-baroque-table-still-life-photography-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usu-exam-ready-2026-11-25",
-      "title": "Exam Ready: free meals and snacks",
-      "date": "2026-11-25",
-      "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usu-exam-ready-2026-11-26",
-      "title": "Exam Ready: free meals and snacks",
-      "date": "2026-11-26",
-      "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7734-2026-11-26",
-      "title": "Tech fundamentals - AI literacy",
-      "date": "2026-11-26",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/tech-fundamentals-ai-literacy",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-ca049a09-28ca-4ee8-8a91-6781e7721e64-2026-12-02",
-      "title": "DHIN End of Year Celebration",
-      "date": "2026-12-02",
-      "url": "https://whatson.sydney.edu.au/event/ca049a09-28ca-4ee8-8a91-6781e7721e64/DHIN-End-of-Year-Celebration",
-      "priority": "low",
-      "detectedAt": "2026-11-12T03:04:29.843692Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21",
-      "title": "Book Launch: Motherhood, Labour and Care in the 21st Century",
-      "date": "2026-11-21",
-      "url": "https://whatson.sydney.edu.au/event/11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc/Book-Launch%3A-Motherhood%2C-Labour-and-Care-in-the-21st-Century",
-      "priority": "low",
-      "detectedAt": "2026-11-09T20:47:40.758111Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-a1caee7b-ec11-45aa-8d70-98c2546cd15c-2026-11-17",
-      "title": "Work, Time and Equality: The Four-Day Week in Research and Practice - Seminar and Industry Panel",
-      "date": "2026-11-17",
-      "url": "https://whatson.sydney.edu.au/event/a1caee7b-ec11-45aa-8d70-98c2546cd15c/Work%2C-Time-and-Equality%3A-The-Four-Day-Week-in-Research-and-Practice---Seminar-and-Industry-Panel",
-      "priority": "low",
-      "detectedAt": "2026-11-06T02:30:34.032902Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "supra-267142-2026-11-07",
-      "title": "SUPRA at Usyd Community Festival!",
-      "date": "2026-11-07",
-      "url": "https://supra.net.au/event/supra-at-usyd-community-festival/",
-      "priority": "medium",
-      "detectedAt": "2026-11-05T02:30:11.106932Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-4765c2d2-2b29-46b6-b1cf-b184c720e98e-2026-11-18",
-      "title": "Beaches and Sharks: A Free Town Hall on Beach Safety This Summer",
-      "date": "2026-11-18",
-      "url": "https://whatson.sydney.edu.au/event/4765c2d2-2b29-46b6-b1cf-b184c720e98e/Beaches-and-Sharks%3A-A-Free-Town-Hall-on-Beach-Safety-This-Summer",
-      "priority": "low",
-      "detectedAt": "2026-11-04T02:23:10.697948Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-56920707-1705-4404-9f26-4d88161b70a0-2026-11-24",
-      "title": "Sydney Ideas – Conversations for Good: Across generations",
-      "date": "2026-11-24",
-      "url": "https://whatson.sydney.edu.au/event/56920707-1705-4404-9f26-4d88161b70a0/Sydney-Ideas-%E2%80%93-Conversations-for-Good%3A-Across-generations",
-      "priority": "low",
-      "detectedAt": "2026-11-04T02:23:10.697948Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-codeforsydney-nasa-space-apps-prep-2026-11-07",
-      "title": "NASA Space Apps Challenge Prep & Team Formation Day!",
-      "date": "2026-11-07",
-      "url": "https://www.meetup.com/en-au/codeforsydney/events/313473986/",
-      "priority": "medium",
-      "detectedAt": "2026-11-03T17:52:51.842723Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-a289711c-2a6a-42e8-a9ba-b1c0758a67c2-2026-12-10",
-      "title": "Faculty of Engineering Dean's Lecture Series with Dr Alan Finkel AC",
-      "date": "2026-12-10",
-      "url": "https://whatson.sydney.edu.au/event/a289711c-2a6a-42e8-a9ba-b1c0758a67c2/Faculty-of-Engineering-Dean's-Lecture-Series-with-Dr-Alan-Finkel-AC",
-      "priority": "medium",
-      "detectedAt": "2026-11-03T17:52:51.842723Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-a-gift-made-personal-with-lumira-2026-11-03",
-      "title": "A gift made personal with LUMIRA",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-gift-made-personal-with-lumira",
-      "priority": "medium",
-      "detectedAt": "2026-11-03T03:28:53.548855Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-social-dance-in-ultimo-community-centre-2026-11-03",
-      "title": "Fun social dance",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-11-02T20:23:37.827839Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-learn-to-read-music-and-sing-2026-11-03",
-      "title": "Learn to read music and sing",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
-      "priority": "low",
-      "detectedAt": "2026-11-02T20:23:37.827839Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-discovery-musical-bingo-and-usd1-dogs-2026-11-03",
-      "title": "Musical bingo and $1 dogs",
-      "date": "2026-11-03",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
-      "priority": "low",
-      "detectedAt": "2026-11-02T20:23:37.827839Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 20,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,

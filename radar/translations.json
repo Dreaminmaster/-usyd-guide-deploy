@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-14T02:29:04.578049Z",
+  "updatedAt": "2026-11-14T16:37:42.975602Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 98,
+  "count": 88,
   "entries": {
     "usyd-c5d84b96-c9f3-4836-9a60-869a63b9b097-2026-11-15": {
       "sourceTitle": "Sunday Free Carillon Recital",
@@ -20,14 +20,6 @@
       "summaryZh": "西北大学副教授Mohammad Hosseini主持本次“证据、政策与影响力”协作研讨会",
       "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "human-reviewed initial title translation"
-    },
-    "usyd-f80300dc-8525-4602-9055-c1e5e4e93f14-2026-11-14": {
-      "sourceTitle": "Flux State | Seymour Sounds (Free Event)",
-      "titleZh": "通量状态| Seymour Sounds （免费活动）",
-      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "Seymour Sounds专为那些希望聆听音乐律动的人士打造。在为期六周的时间里，我们将重新开放我们的庭院，举办一系列亲密连场的现场演出，悉尼活力四射的新爵士和新灵魂乐界的重量级人物和新星将轮番登场。",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
-      "provider": "MyMemory (free, best effort)"
     },
     "usyd-4d01c586-f78f-4e29-87f7-e363db954559-2026-11-16": {
       "sourceTitle": "2026 HDR Student Cancer Research Symposium",
@@ -89,16 +81,16 @@
       "sourceTitle": "Sydney Ideas – Conversations for Good: Across generations",
       "titleZh": "悉尼创意–善的对话：代代相传",
       "sourceSummary": "What can we learn from the art of debate to strengthen public debate and social resilience? Hear from Bo Seo, author of the acclaimed book Good Arguments and two-time world debate champion, along with University of Sydney Student President and world debate fin",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "summaryZh": "我们可以从辩论的艺术中汲取哪些经验，以加强公共辩论和社会韧性？听取备受好评的《Good Arguments》一书的作者、两届世界辩论冠军Bo Seo，以及悉尼大学学生会主席和世界辩论决赛选手的心得体会。",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-57802ce2-86f2-4c3e-a105-f363bea6c12b-2026-11-26": {
       "sourceTitle": "SydneyMSK Annual Scientific Meeting",
       "titleZh": "悉尼MSK年度科学会议",
       "sourceSummary": "We warmly invite you to the 2026 Sydney Musculoskeletal Research Centre (SydneyMSK) Annual Scientific Meeting (ASM). The ASM is the major research symposium for SydneyMSK, providing a showcase of research activities and achievements across the centre and servi",
-      "summaryZh": "",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
+      "summaryZh": "我们诚挚地邀请您参加2026年悉尼肌肉骨骼研究中心（SydneyMSK）年度科学会议（ASM）。ASM是SydneyMSK的主要研究研讨会，旨在展示整个中心和服务部门的研究活动和成果。",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     },
     "supra-266779-2026-11-15": {
@@ -161,8 +153,8 @@
       "sourceTitle": "Sunday Free Carillon Recital",
       "titleZh": "周日免费Carillon独奏会",
       "sourceSummary": "Come hear the 54 bells of the University of Sydney carillon, played by one of our carillonists. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T02:30:26.530163Z",
+      "summaryZh": "来听听悉尼大学钟琴的54个钟声，由我们的钟琴演奏家之一演奏。",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-1492b2d2-5ad8-4eb8-bcba-51832693945a-2026-11-27": {
@@ -201,16 +193,16 @@
       "sourceTitle": "Manfredo Lament | Seymour Sounds (Free Event)",
       "titleZh": "Manfredo Lament | Seymour Sounds （免费活动）",
       "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "Seymour Sounds专为那些希望聆听音乐律动的人士打造。在为期六周的时间里，我们将重新开放我们的庭院，举办一系列亲密无间的连续现场演出，悉尼活力四射的新爵士和新灵魂乐坛的重量级人物和新星将轮番登场。",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-eca3b500-a9ba-44a2-8f5d-7621847aee15-2026-12-01": {
       "sourceTitle": "15th Annual Warren Hogan Memorial Lecture",
       "titleZh": "第15届沃伦·霍根纪念讲座",
       "sourceSummary": "The School of Economics warmly invites you to the 15th Annual Warren Hogan Memorial Lecture, featuring keynote speaker Danielle Wood, Chair of the Productivity Commission of Australia. 费用说明：free",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "经济学院诚挚邀请您参加第15届沃伦·霍根纪念年度讲座，主旨演讲嘉宾为澳大利亚生产力委员会主席丹妮尔·伍德（Danielle Wood）。",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-0c76154d-ba3e-4daa-af2f-a3e91f87eb69-2026-12-03": {
@@ -381,36 +373,12 @@
       "translatedAt": "2026-11-13T04:36:45.558567Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-8235-2026-11-14": {
-      "sourceTitle": "Haven Sydney: Free Coding Hackathon (Ages 13-18)",
-      "titleZh": "Haven Sydney：免费编程黑客马拉松（13-18 岁）",
-      "sourceSummary": "Free two-day game dev hackathon for high schoolers aged 13–18. No experience needed, free food and prizes for everyone!",
-      "summaryZh": "",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-8167-2026-11-18": {
       "sourceTitle": "Come and get techie",
       "titleZh": "来体验科技的魅力吧",
       "sourceSummary": "Get help with a technology question about a device or website",
       "summaryZh": "",
       "translatedAt": "2026-11-12T18:22:18.054665Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10570-2026-11-14": {
-      "sourceTitle": "Lebanese Festival",
-      "titleZh": "黎巴嫩节",
-      "sourceSummary": "Celebrate the spirit of Lebanon with two days of authentic flavours, vibrant sounds and entertainment at Hay St.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6900-2026-11-14": {
-      "sourceTitle": "The Social Enterprise Festival",
-      "titleZh": "社会企业节",
-      "sourceSummary": "Curious about social enterprise? Come along to the biggest festival in Australia for business-for-good. Free entry!",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-7428-2026-11-21": {
@@ -441,30 +409,6 @@
       "sourceTitle": "Inner West Disability Forum Community Festival & Showcase",
       "titleZh": "内西区残疾人论坛社区节庆与展示会",
       "sourceSummary": "Celebrate the International Day of People with Disability with performances, art, and community connections.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6341-2026-11-14": {
-      "sourceTitle": "UPROCK Block Party",
-      "titleZh": "UPROCK街区派对",
-      "sourceSummary": "Urban arts festival",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6799-2026-11-14": {
-      "sourceTitle": "Firstdraft's 40th Birthday Party",
-      "titleZh": "Firstdraft 40 周年庆生派对",
-      "sourceSummary": "Join Sydney's oldest early-career arts organisation in celebrating 40 years of 2,000+ artists and 1,000+ exhibitions.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7499-2026-11-14": {
-      "sourceTitle": "Samhain the Spirit of Woollahra, Family Fun day",
-      "titleZh": "万圣节：伍拉拉的灵魂，家庭欢乐日",
-      "sourceSummary": "children's activities & Irish music for everyone inspired by Samhain the original Irish Halloween festival",
       "summaryZh": "",
       "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
@@ -541,30 +485,6 @@
       "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10340-2026-11-14": {
-      "sourceTitle": "Haus of Marigold: Spring Emergence",
-      "titleZh": "Haus of Marigold：春意盎然",
-      "sourceSummary": "Celebrate Asian culture with food, drinks, live music and workshops at this community pop-up.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6270-2026-11-14": {
-      "sourceTitle": "Latin Nights - Block Party at Hay St",
-      "titleZh": "拉丁之夜 - 海伊街街区派对",
-      "sourceSummary": "Salsa, bachata, live music and DJs take over two dance floors every Saturday night at Hay St Market.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:42:08.433531Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8430-2026-11-14": {
-      "sourceTitle": "Drop-in Workshop with Artist Samuel Chan",
-      "titleZh": "艺术家Samuel Chan的开放式工作坊",
-      "sourceSummary": "Join Woollahra Gallery at Redleaf Artist in Residence Samuel Chan to learn how to fold a traditional sampan boat",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T04:42:08.433531Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-3718-2026-11-16": {
       "sourceTitle": "Forms and case management help in Mandarin and Hokkien",
       "titleZh": "提供普通话和闽南语的表格填写和个案管理帮助",
@@ -637,92 +557,12 @@
       "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-4128-2026-11-14": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-14": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6384-2026-11-14": {
-      "sourceTitle": "Dream Horse",
-      "titleZh": "梦幻骏马",
-      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-14": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8249-2026-11-14": {
-      "sourceTitle": "Vague Transparency from the Fotovague Collective",
-      "titleZh": "来自Fotovague Collective的“模糊的透明度”",
-      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-5193-2026-11-16": {
       "sourceTitle": "Theatre of Life Exhibition",
       "titleZh": "“人生剧场”展览",
       "sourceSummary": "Welcome to the Theatre of Life",
       "summaryZh": "",
       "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10379-2026-11-14": {
-      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
-      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10413-2026-11-14": {
-      "sourceTitle": "Bondi Outdoor Cinema",
-      "titleZh": "邦迪露天电影院",
-      "sourceSummary": "Free outdoor film screenings at Bondi Pavilion with popcorn and ocean sounds.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10465-2026-11-14": {
-      "sourceTitle": "Kudos Emerging Awards 2026",
-      "titleZh": "2026年Kudos新兴奖",
-      "sourceSummary": "Celebrating the excellence of artists, designers, and writers from the UNSW creative community.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-14": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-14T02:29:04.578049Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6348-2026-11-14": {
-      "sourceTitle": "Sydney Cellar Door",
-      "titleZh": "悉尼酒庄直销店",
-      "sourceSummary": "Sydney's largest open air wine tasting experience is coming this November",
-      "summaryZh": "",
-      "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-6393-2026-11-16": {
@@ -787,6 +627,86 @@
       "sourceSummary": "Strengthen your Spanish while enjoying the library",
       "summaryZh": "",
       "translatedAt": "2026-11-14T02:29:04.578049Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10613-2026-11-28": {
+      "sourceTitle": "Free Christmas Wreath Making Workshop at Martin Place",
+      "titleZh": "马丁广场免费圣诞花环制作工坊",
+      "sourceSummary": "Make your own dried-flower Christmas wreath at this free workshop at the Martin Place Christmas Markets.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6699-2026-11-28": {
+      "sourceTitle": "Double Bay Christmas Festival",
+      "titleZh": "双湾圣诞节",
+      "sourceSummary": "Celebrate Christmas in Double Bay with Conrad Sewell, Paulini, Shannon Noll, festive markets, live music and fireworks!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5088-2026-11-17": {
+      "sourceTitle": "Musical bingo and $1 dogs",
+      "titleZh": "音乐宾果游戏和 1 美元热狗",
+      "sourceSummary": "Your ultimate Tuesday night out",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6103-2026-11-17": {
+      "sourceTitle": "Fun social dance",
+      "titleZh": "有趣的社交舞",
+      "sourceSummary": "Learn dance steps for the top dance songs of all times.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7145-2026-11-17": {
+      "sourceTitle": "Food preservation workshop with TAFE - Booked out",
+      "titleZh": "TAFE食品保鲜工作坊——已订满",
+      "sourceSummary": "Learn the basics of food preservation in this 8-week course",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7391-2026-11-17": {
+      "sourceTitle": "From prehistoric qubits to building useful quantum computer",
+      "titleZh": "从史前量子比特到构建有用的量子计算机",
+      "sourceSummary": "Join us for a special public lecture with 2025 Nobel Prize in Physics laureate Professor John M. Martinis.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7516-2026-11-17": {
+      "sourceTitle": "Free Bachata Classes in Kings Cross",
+      "titleZh": "国王十字区的免费巴恰塔舞课程",
+      "sourceSummary": "Discover Bachata with free trial classes in Kings Cross! No experience or partner needed",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7934-2026-11-17": {
+      "sourceTitle": "Learn to read music and sing",
+      "titleZh": "学习识谱和唱歌",
+      "sourceSummary": "No experience is needed to join this free singing and theory class",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8016-2026-11-17": {
+      "sourceTitle": "Social group for Chinese speaking seniors",
+      "titleZh": "华人老年人社交团体",
+      "sourceSummary": "Join this friendly group of older people each week for coffee and conversations",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8017-2026-11-17": {
+      "sourceTitle": "Social sewing sessions",
+      "titleZh": "社交缝纫课",
+      "sourceSummary": "Come along to sew and chat with friends.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
