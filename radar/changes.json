@@ -1,10 +1,305 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-15T01:57:25.119374Z",
-  "sourceCheckedAt": "2026-11-15T01:57:37.259Z",
+  "checkedAt": "2026-11-15T17:13:48.568242Z",
+  "sourceCheckedAt": "2026-11-15T17:14:02.652Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "possible_reschedule",
+      "id": "city-4128-2026-11-16",
+      "title": "Curtains Jazz Festival",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-7375-2026-11-16",
+      "title": "Head On Photo Festival 2026",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-5583-2026-11-16",
+      "title": "Frontline yoga at the Anzac Memorial",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-10465-2026-11-16",
+      "title": "Kudos Emerging Awards 2026",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/kudos-emerging-awards",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-10379-2026-11-16",
+      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-8249-2026-11-17",
+      "title": "Vague Transparency from the Fotovague Collective",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-7958-2026-11-18",
+      "title": "Modernism and World Revolution",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "new",
+      "id": "city-2549-2026-11-18",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8140-2026-11-18",
+      "title": "Green Square Sings",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-sings",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5709-2026-11-18",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5534-2026-11-18",
+      "title": "Song writing camp with Josh Keys -ongoing program",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/song-writing-camp-with-josh-keys",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7517-2026-11-18",
+      "title": "Free Salsa Classes in Kings Cross",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6261-2026-11-18",
+      "title": "Salsa Wednesdays at Hay St",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/salsa-wednesdays-at-hay-st",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6702-2026-11-19",
+      "title": "Chinese painting for beginners to advanced",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/introduction-to-chinese-painting",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "possible_reschedule",
+      "id": "city-4128-2026-11-16",
+      "title": "Curtains Jazz Festival",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-7375-2026-11-16",
+      "title": "Head On Photo Festival 2026",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-5583-2026-11-16",
+      "title": "Frontline yoga at the Anzac Memorial",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-10465-2026-11-16",
+      "title": "Kudos Emerging Awards 2026",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/kudos-emerging-awards",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-10379-2026-11-16",
+      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-16",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-8249-2026-11-17",
+      "title": "Vague Transparency from the Fotovague Collective",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-17",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "possible_reschedule",
+      "id": "city-7958-2026-11-18",
+      "title": "Modernism and World Revolution",
+      "oldDate": "2026-11-15",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "Date differs across public snapshots; verify at organiser."
+    },
+    {
+      "kind": "new",
+      "id": "city-2549-2026-11-18",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-8140-2026-11-18",
+      "title": "Green Square Sings",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-sings",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5709-2026-11-18",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5534-2026-11-18",
+      "title": "Song writing camp with Josh Keys -ongoing program",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/song-writing-camp-with-josh-keys",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-7517-2026-11-18",
+      "title": "Free Salsa Classes in Kings Cross",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6261-2026-11-18",
+      "title": "Salsa Wednesdays at Hay St",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/salsa-wednesdays-at-hay-st",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-6702-2026-11-19",
+      "title": "Chinese painting for beginners to advanced",
+      "date": "2026-11-19",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/introduction-to-chinese-painting",
+      "priority": "low",
+      "detectedAt": "2026-11-15T17:13:48.568242Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "city-8235-2026-11-15",
@@ -181,76 +476,6 @@
       "title": "Carbon Challenge",
       "date": "2026-11-18",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/carbon-challenge",
-      "priority": "low",
-      "detectedAt": "2026-11-14T16:37:27.383892Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-2549-2026-11-18",
-      "title": "Come and get techie: Green Square Library",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
-      "priority": "low",
-      "detectedAt": "2026-11-14T16:37:27.383892Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8140-2026-11-18",
-      "title": "Green Square Sings",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/green-square-sings",
-      "priority": "low",
-      "detectedAt": "2026-11-14T16:37:27.383892Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-5709-2026-11-18",
-      "title": "Guitar/bass beginner & intermediate group lessons",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
-      "priority": "low",
-      "detectedAt": "2026-11-14T16:37:27.383892Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-5534-2026-11-18",
-      "title": "Song writing camp with Josh Keys -ongoing program",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/song-writing-camp-with-josh-keys",
-      "priority": "low",
-      "detectedAt": "2026-11-14T16:37:27.383892Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7517-2026-11-18",
-      "title": "Free Salsa Classes in Kings Cross",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo",
-      "priority": "low",
-      "detectedAt": "2026-11-14T16:37:27.383892Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6261-2026-11-18",
-      "title": "Salsa Wednesdays at Hay St",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/salsa-wednesdays-at-hay-st",
-      "priority": "low",
-      "detectedAt": "2026-11-14T16:37:27.383892Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6702-2026-11-19",
-      "title": "Chinese painting for beginners to advanced",
-      "date": "2026-11-19",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/introduction-to-chinese-painting",
       "priority": "low",
       "detectedAt": "2026-11-14T16:37:27.383892Z",
       "notice": "First observed in Radar snapshot"
@@ -945,83 +1170,13 @@
       "priority": "low",
       "detectedAt": "2026-11-12T18:21:59.568091Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7499-2026-11-14",
-      "title": "Samhain the Spirit of Woollahra, Family Fun day",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/samhain-the-spirit-of-woollahra-family-fun-day",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6799-2026-11-14",
-      "title": "Firstdraft's 40th Birthday Party",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/firstdrafts-40th-birthday-party",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8430-2026-11-14",
-      "title": "Drop-in Workshop with Artist Samuel Chan",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/paper-sculpture-workshop-with-artist-samuel-chan",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10340-2026-11-14",
-      "title": "Haus of Marigold: Spring Emergence",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/haus-of-marigold-spring-emergence",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6270-2026-11-14",
-      "title": "Latin Nights - Block Party at Hay St",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/latin-nights-block-party-at-hay-st",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7443-2026-11-15",
-      "title": "Santa Paws 2026",
-      "date": "2026-11-15",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/santa-paws",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usu-exam-ready-2026-11-16",
-      "title": "Exam Ready: free meals and snacks",
-      "date": "2026-11-16",
-      "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "priority": "medium",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 7,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 7,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
