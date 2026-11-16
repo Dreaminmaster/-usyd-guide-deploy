@@ -6,7 +6,7 @@
 - Expected HTML bytes: 333239
 - Expected HTML SHA-256: 5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31
 - Verified: common shortcuts, concise article structure, source labels, removed meta copy and JavaScript syntax
-- Checked at: 2026-11-14T22:31:25Z
+- Checked at: 2026-11-16T21:28:03Z
 
 ```text
 attempt=1 path=index.html status=200 bytes=333239 sha256=5cdacc4e0193b85ee7e8f809000bb3791b681e3dd5dfcbff8886fbabbe140b31
