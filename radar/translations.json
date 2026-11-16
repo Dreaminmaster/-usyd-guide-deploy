@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-16T20:31:31.751834Z",
+  "updatedAt": "2026-11-16T21:28:13.129853Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 93,
+  "count": 103,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -747,6 +747,86 @@
       "sourceSummary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
       "summaryZh": "",
       "translatedAt": "2026-11-16T20:31:31.751834Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-ai-x-security-2026-11-18": {
+      "sourceTitle": "AI X #5: Hacked? Leaked? Stay safe in the AI age",
+      "titleZh": "AI X #5：被黑客入侵了？信息泄露？在人工智能时代保持安全",
+      "sourceSummary": "Free public AI security meetup covering prompt-injection risks, sensitive data, and private AI deployments; English/Mandarin live translation.",
+      "summaryZh": "免费的公共人工智能安全见面会，内容涉及提示注入风险、敏感数据和私有人工智能部署；提供英语/普通话现场翻译。",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-vercel-ai-syd-2026-11-18": {
+      "sourceTitle": "AI SYD — Vercel Community",
+      "titleZh": "AI SYD — Vercel 社区",
+      "sourceSummary": "AI developer meetup featuring Vercel, Cognition and Harrison AI lightning talks, pizza and networking.",
+      "summaryZh": "人工智能开发者见面会，将有Vercel、Cognition和Harrison AI的闪电演讲，以及披萨和社交活动。",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-claude-sydney-builders-2026-11-24": {
+      "sourceTitle": "Claude Sydney Meetup — Claude Code, AI Agents & Builders",
+      "titleZh": "Claude Sydney见面会 — Claude Code、AI代理和开发者",
+      "sourceSummary": "Builder meetup with practical talks on coordinating Claude Code and Codex agents, real-world demos and developer networking.",
+      "summaryZh": "开发者见面会，将开展关于协调Claude Code和Codex代理的实用讲座、真实案例演示以及开发者交流活动。",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-city-of-sydney-sumer-open-day-2026-12-05": {
+      "sourceTitle": "City of Sydney: Sumer Open Day",
+      "titleZh": "悉尼市：夏季开放日",
+      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6454-2026-11-19": {
+      "sourceTitle": "Mu Meson Film Nights: Midnite Spares + Ozploitation",
+      "titleZh": "Mu Meson电影之夜：午夜备胎 + 澳式剥削片",
+      "sourceSummary": "See cult Australian action film Midnite Spares, followed by Richard Kuipers on the wild history of Ozploitation cinema.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7438-2026-11-19": {
+      "sourceTitle": "Free Salsa Classes in Surry Hills",
+      "titleZh": "萨里山的免费萨尔萨舞课程",
+      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7949-2026-11-19": {
+      "sourceTitle": "iMeditate free meditation",
+      "titleZh": "iMeditate免费冥想",
+      "sourceSummary": "Find you inner peace amidst the hustle of the city",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7963-2026-11-19": {
+      "sourceTitle": "Movement and dance class",
+      "titleZh": "肢体动作和舞蹈课",
+      "sourceSummary": "Learn different styles of dance including line, square and Chinese folk in this class for older adults.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8423-2026-11-19": {
+      "sourceTitle": "Open Mic Karaoke",
+      "titleZh": "开放麦卡拉 OK",
+      "sourceSummary": "End of year team building activity, sorted!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6240-2026-11-20": {
+      "sourceTitle": "Community toy reuse volunteer session",
+      "titleZh": "社区玩具再利用志愿者活动",
+      "sourceSummary": "Give pre-loved toys a second life! Join us to clean, sort and prepare donated toys for reuse. Ages 11+",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T21:28:13.129853Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

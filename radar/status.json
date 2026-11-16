@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-16T20:31:16.715657Z",
-  "feedCheckedAt": "2026-11-16T20:31:31.564Z",
+  "checkedAt": "2026-11-16T21:27:59.336788Z",
+  "feedCheckedAt": "2026-11-16T21:28:13.038Z",
   "feedStatus": "ok",
-  "events": 100,
+  "events": 104,
   "news": 16,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
-  "runEvent": "schedule",
+  "runEvent": "push",
   "lastScheduledRunAt": "2026-11-16T20:31:16.715657Z",
   "changes": {
-    "new": 9,
+    "new": 4,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 7,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "coverage": {
@@ -45,9 +45,7 @@
       "USYD Students · 学生服务",
       "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
-      "USU · 全部公开活动",
-      "SRC · 本科生代表组织活动",
-      "GPT-reviewed public discoveries (GitHub)"
+      "SRC · 本科生代表组织活动"
     ],
     "campusZeroExtracted": [
       "USU 学生会",
@@ -55,19 +53,18 @@
       "USYD Students · 学生服务",
       "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
-      "USU · 全部公开活动",
       "SRC · 本科生代表组织活动"
     ],
     "providerCoverage": {
       "USU": {
         "sourceCount": 3,
         "channelsWithRecords": [
+          "USU · 全部公开活动",
           "USU · Official public event calendar"
         ],
         "maxChannelRecordCount": 7,
         "zeroChannels": [
-          "USU 学生会",
-          "USU · 全部公开活动"
+          "USU 学生会"
         ],
         "partialChannels": [
           "USU 学生会",
