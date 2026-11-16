@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-15T17:14:02.796144Z",
+  "updatedAt": "2026-11-16T02:12:51.217748Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 99,
+  "count": 103,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -781,20 +781,52 @@
       "translatedAt": "2026-11-15T17:14:02.796144Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-5534-2026-11-18": {
-      "sourceTitle": "Song writing camp with Josh Keys -ongoing program",
-      "titleZh": "Josh Keys 的歌曲创作营——正在进行的计划",
-      "sourceSummary": "Last Minute Productions / Music StudioRCC",
-      "summaryZh": "",
-      "translatedAt": "2026-11-15T17:14:02.796144Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-5709-2026-11-18": {
       "sourceTitle": "Guitar/bass beginner & intermediate group lessons",
       "titleZh": "吉他/贝斯初级和中级团体课程",
       "sourceSummary": "Join this friendly 10 week course",
       "summaryZh": "",
       "translatedAt": "2026-11-15T17:14:02.796144Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6261-2026-11-18": {
+      "sourceTitle": "Salsa Wednesdays at Hay St",
+      "titleZh": "海街的周三萨尔萨舞之夜",
+      "sourceSummary": "Turn your midweek into a dance floor –  lesson, DJ and live Latin music.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T02:12:51.217748Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7517-2026-11-18": {
+      "sourceTitle": "Free Salsa Classes in Kings Cross",
+      "titleZh": "国王十字区的免费萨尔萨舞课程",
+      "sourceSummary": "Discover the fun and energy of salsa with our Wednesday night classes in Kings Cross",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T02:12:51.217748Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8140-2026-11-18": {
+      "sourceTitle": "Green Square Sings",
+      "titleZh": "格林广场歌唱",
+      "sourceSummary": "Come meet your neighbours and learn to sing in a welcoming environment",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T02:12:51.217748Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2548-2026-11-19": {
+      "sourceTitle": "Come and get techie: Darling Square Library",
+      "titleZh": "来体验科技：达令广场图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T02:12:51.217748Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6702-2026-11-19": {
+      "sourceTitle": "Chinese painting for beginners to advanced",
+      "titleZh": "适合初学者到高级水平的中国画课程",
+      "sourceSummary": "A free weekly class for beginners, led by an experienced Mandarin speaking tutor.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-16T02:12:51.217748Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
