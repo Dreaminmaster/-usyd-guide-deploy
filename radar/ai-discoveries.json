@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T00:00:00Z",
+  "updatedAt": "2026-11-18T00:00:00Z",
   "source": "Curated official-event discoveries (ChatGPT-assisted cross-source verification)",
   "policy": "Public official events only. No private university messages, personal information, or unverified claims.",
   "events": [
@@ -1037,6 +1037,28 @@
       "url": "https://luma.com/vercel-e907",
       "verification": "Organiser Luma page confirms programme, venue area and approval requirement; date and free listing corroborated by Tech Events Sydney.",
       "priorityReason": "Practical AI engineering networking near campus"
+    },
+    {
+      "id": "gpt-city-bike-tune-up-chippendale-2026-11-19",
+      "title": "Free bike tune-up: Chippendale",
+      "titleZh": "Chippendale 免费自行车检查与调整",
+      "date": "2026-11-19",
+      "time": "08:00–09:30 AEDT",
+      "location": "Chippendale Green, O'Connor Street, Chippendale NSW 2008",
+      "locationZh": "Chippendale Green，O'Connor Street，悉尼",
+      "category": "community",
+      "priority": "medium",
+      "confidence": "confirmed",
+      "summary": "City of Sydney offers free first-come, first-served bike tune-ups and shared-path safety advice; weather dependent and queue may close early.",
+      "summaryZh": "悉尼市政府提供免费自行车检查和调整，并讲解共享道路安全。先到先得，受天气影响，队伍可能提前截止。",
+      "eligibility": "Open to the public; cyclists and riders",
+      "registration": "Free, walk-in, first come first served; no booking stated",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-up-chippendale",
+      "verified": "2026-11-18",
+      "curator": "ChatGPT cross-source review",
+      "verification": "Official City of Sydney event detail confirms Thursday 19 November 08:00–09:30, Chippendale Green, free, first-come and weather-dependent; compared with radar-data latest archive checked 2026-11-17T19:12:32Z and current main curated file.",
+      "priorityReason": "Free practical service near USYD and Central Park, taking place tomorrow"
     }
   ],
   "news": []
