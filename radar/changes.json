@@ -1,20 +1,9 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-17T20:41:38.773228Z",
-  "sourceCheckedAt": "2026-11-17T20:41:57.930Z",
+  "checkedAt": "2026-11-17T20:42:18.051812Z",
+  "sourceCheckedAt": "2026-11-17T20:42:18.360Z",
   "hasBaseline": true,
-  "latest": [
-    {
-      "kind": "new",
-      "id": "gpt-city-bike-tune-up-chippendale-2026-11-19",
-      "title": "Free bike tune-up: Chippendale",
-      "date": "2026-11-19",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-up-chippendale",
-      "priority": "medium",
-      "detectedAt": "2026-11-17T20:41:38.773228Z",
-      "notice": "First observed in Radar snapshot"
-    }
-  ],
+  "latest": [],
   "history": [
     {
       "kind": "new",
@@ -1049,7 +1038,7 @@
     }
   ],
   "counts": {
-    "new": 1,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
