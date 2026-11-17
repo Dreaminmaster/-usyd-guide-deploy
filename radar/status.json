@@ -1,55 +1,58 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-17T04:33:03.985170Z",
-  "feedCheckedAt": "2026-11-17T04:33:16.500Z",
+  "checkedAt": "2026-11-17T19:12:13.562608Z",
+  "feedCheckedAt": "2026-11-17T19:12:32.694Z",
   "feedStatus": "ok",
-  "events": 104,
-  "news": 16,
+  "events": 103,
+  "news": 17,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-17T04:33:03.985170Z",
+  "lastScheduledRunAt": "2026-11-17T19:12:13.562608Z",
   "changes": {
-    "new": 8,
+    "new": 21,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 8,
     "notObserved": 0
   },
   "coverage": {
     "sourceCount": 25,
-    "failed": [
-      "NTEU 教职员工工会",
-      "SUPRA 研究生协会",
-      "SUPRA · 研究生权益",
-      "SUPRA · 活动接口"
-    ],
+    "failed": [],
     "partial": [
       "悉尼大学 What's On",
       "USU 学生会",
+      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
+      "SUPRA 研究生协会",
       "City of Sydney · What's On",
       "NSW Government · 节庆活动",
       "Transport for NSW · 出行警报",
       "USYD Students · 学生服务",
       "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动",
       "USU · Official public event calendar"
     ],
     "zeroExtracted": [
       "USU 学生会",
+      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
+      "SUPRA 研究生协会",
       "City of Sydney · What's On",
       "NSW Government · 节庆活动",
       "Transport for NSW · 出行警报",
       "USYD Students · 学生服务",
       "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动"
     ],
     "campusZeroExtracted": [
       "USU 学生会",
+      "SUPRA 研究生协会",
       "USYD Students · 学生服务",
       "USYD SRC · 本科生权益",
+      "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动"
     ],
     "providerCoverage": {
@@ -59,7 +62,7 @@
           "USU · 全部公开活动",
           "USU · Official public event calendar"
         ],
-        "maxChannelRecordCount": 7,
+        "maxChannelRecordCount": 6,
         "zeroChannels": [
           "USU 学生会"
         ],
@@ -71,11 +74,19 @@
       },
       "SUPRA": {
         "sourceCount": 3,
-        "channelsWithRecords": [],
-        "maxChannelRecordCount": 0,
-        "zeroChannels": [],
-        "partialChannels": [],
-        "hasExtractedRecords": false
+        "channelsWithRecords": [
+          "SUPRA · 活动接口"
+        ],
+        "maxChannelRecordCount": 4,
+        "zeroChannels": [
+          "SUPRA 研究生协会",
+          "SUPRA · 研究生权益"
+        ],
+        "partialChannels": [
+          "SUPRA 研究生协会",
+          "SUPRA · 研究生权益"
+        ],
+        "hasExtractedRecords": true
       },
       "SRC": {
         "sourceCount": 2,
@@ -111,7 +122,6 @@
       }
     },
     "priorityProviderGaps": [
-      "SUPRA",
       "SRC"
     ],
     "complete": false,
