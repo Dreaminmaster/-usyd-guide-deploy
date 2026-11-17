@@ -1,51 +1,171 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-16T21:27:59.336788Z",
-  "sourceCheckedAt": "2026-11-16T21:28:13.038Z",
+  "checkedAt": "2026-11-17T04:33:03.985170Z",
+  "sourceCheckedAt": "2026-11-17T04:33:16.500Z",
   "hasBaseline": true,
   "latest": [
     {
       "kind": "new",
-      "id": "gpt-ai-x-security-2026-11-18",
-      "title": "AI X #5: Hacked? Leaked? Stay safe in the AI age",
-      "date": "2026-11-18",
-      "url": "https://luma.com/1ct2pvx2",
-      "priority": "medium",
-      "detectedAt": "2026-11-16T21:27:59.336788Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-vercel-ai-syd-2026-11-18",
-      "title": "AI SYD — Vercel Community",
-      "date": "2026-11-18",
-      "url": "https://luma.com/vercel-e907",
-      "priority": "medium",
-      "detectedAt": "2026-11-16T21:27:59.336788Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "gpt-claude-sydney-builders-2026-11-24",
-      "title": "Claude Sydney Meetup — Claude Code, AI Agents & Builders",
-      "date": "2026-11-24",
-      "url": "https://luma.com/iuqk4d0l",
-      "priority": "medium",
-      "detectedAt": "2026-11-16T21:27:59.336788Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usu-city-of-sydney-sumer-open-day-2026-12-05",
-      "title": "City of Sydney: Sumer Open Day",
-      "date": "2026-12-05",
-      "url": "https://usu.edu.au/events/city-of-sydney-sumer-open-day",
+      "id": "usyd-5fd53a5f-5136-4c09-9caf-fb9e420c09ae-2026-11-17",
+      "title": "Experimental Economics seminar | Lionel Page | University of Queensland",
+      "date": "2026-11-17",
+      "url": "https://whatson.sydney.edu.au/event/5fd53a5f-5136-4c09-9caf-fb9e420c09ae/Experimental-Economics-seminar-%7C-Lionel-Page-%7C-University-of-Queensland",
       "priority": "low",
-      "detectedAt": "2026-11-16T21:27:59.336788Z",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-cec7a2c2-807f-4b4d-a3e1-5cf67b1e2ab8-2026-11-17",
+      "title": "Microeconometrics & Public Policy seminar | Priyanka Goonetilleke | Texas A&M University School of Law",
+      "date": "2026-11-17",
+      "url": "https://whatson.sydney.edu.au/event/cec7a2c2-807f-4b4d-a3e1-5cf67b1e2ab8/Microeconometrics-%26-Public-Policy-seminar-%7C-Priyanka-Goonetilleke-%7C-Texas-A%26M-University-School-of-Law",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10657-2026-11-18",
+      "title": "Community over Code",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-over-code-sydney-18-19-november-2026",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10688-2026-11-18",
+      "title": "Fair Trade Festive Markets",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/fair-trade-festive-markets",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10703-2026-11-21",
+      "title": "Stanmore Music Festival",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/stanmore-music-festival-1000-performers-9-stages-free",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-922f8b13-ce8a-4755-a336-6cbb4067210f-2026-11-26",
+      "title": "AI and Medicine: Breakthrough, Opportunity, or Public Health Hazard?",
+      "date": "2026-11-26",
+      "url": "https://whatson.sydney.edu.au/event/922f8b13-ce8a-4755-a336-6cbb4067210f/AI-and-Medicine%3A-Breakthrough%2C-Opportunity%2C-or-Public-Health-Hazard%3F",
+      "priority": "medium",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-53746926-f79b-47ef-9dc1-a45c71da1256-2026-12-01",
+      "title": "Microeconomics Theory seminar | Jonathan Newton | Kyoto Institute of Economic Research",
+      "date": "2026-12-01",
+      "url": "https://whatson.sydney.edu.au/event/53746926-f79b-47ef-9dc1-a45c71da1256/Microeconomics-Theory-seminar-%7C-Jonathan-Newton-%7C-Kyoto-Institute-of-Economic-Research",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usu-city-of-sydney-summer-open-day-2026-12-05",
+      "title": "City of Sydney: Summer Open Day",
+      "date": "2026-12-05",
+      "url": "https://usu.edu.au/events/city-of-sydney-summer-open-day",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "usyd-5fd53a5f-5136-4c09-9caf-fb9e420c09ae-2026-11-17",
+      "title": "Experimental Economics seminar | Lionel Page | University of Queensland",
+      "date": "2026-11-17",
+      "url": "https://whatson.sydney.edu.au/event/5fd53a5f-5136-4c09-9caf-fb9e420c09ae/Experimental-Economics-seminar-%7C-Lionel-Page-%7C-University-of-Queensland",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-cec7a2c2-807f-4b4d-a3e1-5cf67b1e2ab8-2026-11-17",
+      "title": "Microeconometrics & Public Policy seminar | Priyanka Goonetilleke | Texas A&M University School of Law",
+      "date": "2026-11-17",
+      "url": "https://whatson.sydney.edu.au/event/cec7a2c2-807f-4b4d-a3e1-5cf67b1e2ab8/Microeconometrics-%26-Public-Policy-seminar-%7C-Priyanka-Goonetilleke-%7C-Texas-A%26M-University-School-of-Law",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10657-2026-11-18",
+      "title": "Community over Code",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-over-code-sydney-18-19-november-2026",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10688-2026-11-18",
+      "title": "Fair Trade Festive Markets",
+      "date": "2026-11-18",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/fair-trade-festive-markets",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10703-2026-11-21",
+      "title": "Stanmore Music Festival",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/stanmore-music-festival-1000-performers-9-stages-free",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-922f8b13-ce8a-4755-a336-6cbb4067210f-2026-11-26",
+      "title": "AI and Medicine: Breakthrough, Opportunity, or Public Health Hazard?",
+      "date": "2026-11-26",
+      "url": "https://whatson.sydney.edu.au/event/922f8b13-ce8a-4755-a336-6cbb4067210f/AI-and-Medicine%3A-Breakthrough%2C-Opportunity%2C-or-Public-Health-Hazard%3F",
+      "priority": "medium",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usyd-53746926-f79b-47ef-9dc1-a45c71da1256-2026-12-01",
+      "title": "Microeconomics Theory seminar | Jonathan Newton | Kyoto Institute of Economic Research",
+      "date": "2026-12-01",
+      "url": "https://whatson.sydney.edu.au/event/53746926-f79b-47ef-9dc1-a45c71da1256/Microeconomics-Theory-seminar-%7C-Jonathan-Newton-%7C-Kyoto-Institute-of-Economic-Research",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "usu-city-of-sydney-summer-open-day-2026-12-05",
+      "title": "City of Sydney: Summer Open Day",
+      "date": "2026-12-05",
+      "url": "https://usu.edu.au/events/city-of-sydney-summer-open-day",
+      "priority": "low",
+      "detectedAt": "2026-11-17T04:33:03.985170Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "gpt-ai-x-security-2026-11-18",
@@ -990,90 +1110,10 @@
       "priority": "low",
       "detectedAt": "2026-11-13T04:41:25.578774Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-4204-2026-11-16",
-      "title": "Come and get techie at Surry Hills Library",
-      "date": "2026-11-16",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-surry-hills-library",
-      "priority": "low",
-      "detectedAt": "2026-11-13T04:36:30.465548Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-4128-2026-11-13",
-      "title": "Curtains Jazz Festival",
-      "date": "2026-11-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7375-2026-11-13",
-      "title": "Head On Photo Festival 2026",
-      "date": "2026-11-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7380-2026-11-13",
-      "title": "Samhain the Spirit of Woollahra Festival Concert",
-      "date": "2026-11-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/samhain-the-spirit-of-woollahra-festival-concert",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8418-2026-11-13",
-      "title": "Black Myth",
-      "date": "2026-11-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/black-myth",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-5193-2026-11-13",
-      "title": "Theatre of Life Exhibition",
-      "date": "2026-11-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8249-2026-11-13",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "date": "2026-11-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7958-2026-11-13",
-      "title": "Modernism and World Revolution",
-      "date": "2026-11-13",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-12T18:21:59.568091Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 4,
+    "new": 8,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
