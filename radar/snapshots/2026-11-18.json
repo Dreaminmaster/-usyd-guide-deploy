@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-17T19:12:32.694Z",
-  "archivedAt": "2026-11-17T19:12:13.562608Z",
+  "checkedAt": "2026-11-17T20:41:57.930Z",
+  "archivedAt": "2026-11-17T20:41:38.773228Z",
   "timezone": "Australia/Sydney",
   "today": "2026-11-18",
   "status": "ok",
   "summary": {
-    "events": 103,
+    "events": 104,
     "news": 17,
     "high": 0,
-    "recommended": 15,
+    "recommended": 16,
     "fromWebsite": 36,
     "fromCityDiscovery": 64,
-    "fromGPT": 3,
+    "fromGPT": 4,
     "gptEnriched": 0,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 18454
+    "fetchMs": 18616
   },
   "coverage": {
     "sourceCount": 25,
@@ -135,7 +135,7 @@
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
       "message": "已通过官方公开活动查询接口读取 35 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-11-17T19:12:32.652Z",
+      "checkedAt": "2026-11-17T20:41:57.886Z",
       "recordCount": 35
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "partial",
       "message": "页面可访问，但未能可靠识别新增公开活动",
-      "checkedAt": "2026-11-17T19:12:15.933Z",
+      "checkedAt": "2026-11-17T20:41:41.116Z",
       "recordCount": 0
     },
     {
@@ -151,7 +151,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-17T19:12:16.895Z",
+      "checkedAt": "2026-11-17T20:41:41.953Z",
       "recordCount": 0
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-17T19:12:15.860Z",
+      "checkedAt": "2026-11-17T20:41:41.014Z",
       "recordCount": 0
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-17T19:12:16.758Z",
+      "checkedAt": "2026-11-17T20:41:42.257Z",
       "recordCount": 0
     },
     {
@@ -176,7 +176,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "官网可访问，但尚未解析到符合条件的活动。",
-      "checkedAt": "2026-11-17T19:12:16.767Z"
+      "checkedAt": "2026-11-17T20:41:42.575Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -184,7 +184,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-11-17T19:12:15.797Z"
+      "checkedAt": "2026-11-17T20:41:41.058Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -192,7 +192,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-17T19:12:17.481Z"
+      "checkedAt": "2026-11-17T20:41:41.072Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -200,7 +200,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-17T19:12:16.454Z"
+      "checkedAt": "2026-11-17T20:41:42.266Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -208,7 +208,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-17T19:12:16.730Z"
+      "checkedAt": "2026-11-17T20:41:41.939Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -216,7 +216,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-17T19:12:16.677Z"
+      "checkedAt": "2026-11-17T20:41:41.875Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -224,7 +224,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-17T19:12:16.694Z"
+      "checkedAt": "2026-11-17T20:41:42.198Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -232,7 +232,7 @@
       "status": "ok",
       "recordCount": 1,
       "message": "已读取 2 个官方活动页面，解析到 1 条日程",
-      "checkedAt": "2026-11-17T19:12:15.935Z"
+      "checkedAt": "2026-11-17T20:41:41.105Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -240,7 +240,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-11-17T19:12:17.030Z"
+      "checkedAt": "2026-11-17T20:41:43.740Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -248,7 +248,7 @@
       "status": "ok",
       "recordCount": 4,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-11-17T19:12:16.783Z"
+      "checkedAt": "2026-11-17T20:41:42.117Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -256,7 +256,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-11-17T19:12:16.663Z"
+      "checkedAt": "2026-11-17T20:41:41.788Z"
     },
     {
       "name": "City of Sydney · Workshops",
@@ -264,7 +264,7 @@
       "status": "ok",
       "recordCount": 47,
       "message": "Official event-search JSON returned 50 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "City of Sydney · Technology",
@@ -272,7 +272,7 @@
       "status": "ok",
       "recordCount": 17,
       "message": "Official event-search JSON returned 17 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "City of Sydney · Coding",
@@ -280,7 +280,7 @@
       "status": "ok",
       "recordCount": 23,
       "message": "Official event-search JSON returned 23 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "City of Sydney · Seminars",
@@ -288,7 +288,7 @@
       "status": "ok",
       "recordCount": 6,
       "message": "Official event-search JSON returned 6 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "City of Sydney · Festivals",
@@ -296,7 +296,7 @@
       "status": "ok",
       "recordCount": 27,
       "message": "Official event-search JSON returned 27 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "University of Sydney · Chau Chak Wing Museum",
@@ -304,7 +304,7 @@
       "status": "ok",
       "recordCount": 7,
       "message": "8 structured listings parsed; 7 upcoming verified start dates; multi-day activities are not expanded into unverified sessions",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "University of Sydney · Sydney Ideas",
@@ -312,7 +312,7 @@
       "status": "ok",
       "recordCount": 1,
       "message": "45 structured listings parsed; 1 upcoming verified start dates; multi-day activities are not expanded into unverified sessions",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "USU · Official public event calendar",
@@ -320,14 +320,14 @@
       "status": "partial",
       "recordCount": 6,
       "message": "Read 8 event cards. Added only single-date official entries or explicitly confirmed Mon–Thu Exam Ready sessions; other ranges intentionally not expanded.",
-      "checkedAt": "2026-11-17T19:12:14.874Z"
+      "checkedAt": "2026-11-17T20:41:39.993Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
-      "recordCount": 3,
-      "checkedAt": "2026-11-17T19:12:15.282Z",
+      "recordCount": 4,
+      "checkedAt": "2026-11-17T20:41:40.139Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
@@ -736,6 +736,28 @@
       "verified": "2026-11-18",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "gpt-city-bike-tune-up-chippendale-2026-11-19",
+      "title": "Free bike tune-up: Chippendale",
+      "titleZh": "Chippendale 免费自行车检查与调整",
+      "date": "2026-11-19",
+      "time": "08:00–09:30 AEDT",
+      "location": "Chippendale Green, O'Connor Street, Chippendale NSW 2008",
+      "locationZh": "Chippendale Green，O'Connor Street，悉尼",
+      "category": "academic",
+      "priority": "medium",
+      "score": 69,
+      "summary": "City of Sydney offers free first-come, first-served bike tune-ups and shared-path safety advice; weather dependent and queue may close early.",
+      "summaryZh": "悉尼市政府提供免费自行车检查和调整，并讲解共享道路安全。先到先得，受天气影响，队伍可能提前截止。",
+      "eligibility": "Open to the public; cyclists and riders",
+      "registration": "Free, walk-in, first come first served; no booking stated",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney · What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bike-tune-up-chippendale",
+      "verified": "2026-11-18",
+      "feedSource": "gpt-reviewed",
+      "priorityReason": "Free practical service near USYD and Central Park, taking place tomorrow"
     },
     {
       "id": "usu-exam-ready-2026-11-19",
