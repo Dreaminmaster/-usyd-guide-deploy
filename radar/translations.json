@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-17T19:12:32.819613Z",
+  "updatedAt": "2026-11-18T03:43:33.242761Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 83,
+  "count": 93,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -667,6 +667,86 @@
       "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
       "summaryZh": "",
       "translatedAt": "2026-11-17T19:12:32.819613Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "gpt-city-bike-tune-up-chippendale-2026-11-19": {
+      "sourceTitle": "Free bike tune-up: Chippendale",
+      "titleZh": "免费自行车保养：奇彭代尔",
+      "sourceSummary": "City of Sydney offers free first-come, first-served bike tune-ups and shared-path safety advice; weather dependent and queue may close early.",
+      "summaryZh": "悉尼市政府提供先到先得的免费自行车保养服务和共用道路安全建议；服务视天气情况而定，排队可能提前截止。",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-267243-2026-11-19": {
+      "sourceTitle": "Supervisor of the Year Awards 2026",
+      "titleZh": "2026年度最佳主管奖",
+      "sourceSummary": "Thursday 19 November 2026 4–6pm Courtyard Restaurant & Bar Join SUPRA for the 2026 Supervisor of the Year Awards – an evening celebrating outstanding supervisors and their contributions to HDR students’ research journeys. Come together with HDR students, super",
+      "summaryZh": "2026年11月19日（星期四）下午4点至6点Courtyard餐厅酒吧与SUPRA一起参加2026年度最佳导师奖颁奖晚会，表彰优秀导师及其对HDR学生研究历程的贡献。与HDR学生、导师和教职员工欢聚一堂，",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5655-2026-11-18": {
+      "sourceTitle": "English class for seniors",
+      "titleZh": "老年人英语课",
+      "sourceSummary": "Free weekly class suitable for beginner and intermediate level learners",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6393-2026-11-18": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-3901-2026-11-19": {
+      "sourceTitle": "DJ Nights",
+      "titleZh": "DJ之夜",
+      "sourceSummary": "Thursdays just got better!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6269-2026-11-19": {
+      "sourceTitle": "Line Dancing Thursdays at Hay St",
+      "titleZh": "周四在 Hay St 跳排舞",
+      "sourceSummary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10554-2026-11-20": {
+      "sourceTitle": "DHL Summer Sessions with Maple Social Club",
+      "titleZh": "DHL 夏季课程，携手 Maple Social Club",
+      "sourceSummary": "Free coffee and DJ sets with Maple Social Club thank volunteer surf lifesavers at Bondi.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-3421-2026-11-20": {
+      "sourceTitle": "Computer and mobile phone help",
+      "titleZh": "电脑和手机帮助",
+      "sourceSummary": "Come for help to solve your digital problems",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6240-2026-11-20": {
+      "sourceTitle": "Community toy reuse volunteer session",
+      "titleZh": "社区玩具再利用志愿者活动",
+      "sourceSummary": "Give pre-loved toys a second life! Join us to clean, sort and prepare donated toys for reuse. Ages 11+",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8032-2026-11-20": {
+      "sourceTitle": "Sydney City Guided Chan Meditation Beginners Welcome @Ultimo",
+      "titleZh": "悉尼市禅修导览体验，欢迎初学者参与 @Ultimo",
+      "sourceSummary": "FREE CLASS 2nd Sunday morning 12pm-2.30pm 4th Friday 6-7.30pm Guided Outdoor Moving Meditation Indoor Sitting Meditation",
+      "summaryZh": "",
+      "translatedAt": "2026-11-18T03:43:33.242761Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

@@ -1,10 +1,31 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-17T20:42:18.051812Z",
-  "sourceCheckedAt": "2026-11-17T20:42:18.360Z",
+  "checkedAt": "2026-11-18T03:43:22.056779Z",
+  "sourceCheckedAt": "2026-11-18T03:43:33.128Z",
   "hasBaseline": true,
-  "latest": [],
+  "latest": [
+    {
+      "kind": "new",
+      "id": "supra-267243-2026-11-19",
+      "title": "Supervisor of the Year Awards 2026",
+      "date": "2026-11-19",
+      "url": "https://supra.net.au/event/supervisor-of-the-year-awards-2026/",
+      "priority": "low",
+      "detectedAt": "2026-11-18T03:43:22.056779Z",
+      "notice": "First observed in Radar snapshot"
+    }
+  ],
   "history": [
+    {
+      "kind": "new",
+      "id": "supra-267243-2026-11-19",
+      "title": "Supervisor of the Year Awards 2026",
+      "date": "2026-11-19",
+      "url": "https://supra.net.au/event/supervisor-of-the-year-awards-2026/",
+      "priority": "low",
+      "detectedAt": "2026-11-18T03:43:22.056779Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "new",
       "id": "gpt-city-bike-tune-up-chippendale-2026-11-19",
@@ -1024,21 +1045,10 @@
       "priority": "low",
       "detectedAt": "2026-11-13T17:47:30.943355Z",
       "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10379-2026-11-14",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "oldDate": "2026-11-13",
-      "date": "2026-11-14",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-13T17:47:30.943355Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
     }
   ],
   "counts": {
-    "new": 0,
+    "new": 1,
     "newlyObserved": 0,
     "updated": 0,
     "possibleReschedule": 0,
