@@ -1,28 +1,29 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-18T18:52:19.280529Z",
-  "feedCheckedAt": "2026-11-18T18:52:40.751Z",
+  "checkedAt": "2026-11-19T03:34:30.289357Z",
+  "feedCheckedAt": "2026-11-19T03:34:44.104Z",
   "feedStatus": "ok",
   "events": 101,
   "news": 17,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-18T18:52:19.280529Z",
+  "lastScheduledRunAt": "2026-11-19T03:34:30.289357Z",
   "changes": {
-    "new": 8,
+    "new": 0,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 9,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "coverage": {
     "sourceCount": 25,
-    "failed": [],
+    "failed": [
+      "NTEU 教职员工工会"
+    ],
     "partial": [
       "悉尼大学 What's On",
       "USU 学生会",
-      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
       "SUPRA 研究生协会",
       "City of Sydney · What's On",
@@ -36,7 +37,6 @@
     ],
     "zeroExtracted": [
       "USU 学生会",
-      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
       "SUPRA 研究生协会",
       "City of Sydney · What's On",
