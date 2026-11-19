@@ -1,29 +1,28 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-19T03:34:30.289357Z",
-  "feedCheckedAt": "2026-11-19T03:34:44.104Z",
+  "checkedAt": "2026-11-19T19:00:34.527492Z",
+  "feedCheckedAt": "2026-11-19T19:00:47.835Z",
   "feedStatus": "ok",
-  "events": 101,
+  "events": 97,
   "news": 17,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-19T03:34:30.289357Z",
+  "lastScheduledRunAt": "2026-11-19T19:00:34.527492Z",
   "changes": {
-    "new": 0,
+    "new": 9,
     "newlyObserved": 0,
-    "updated": 0,
-    "possibleReschedule": 0,
+    "updated": 1,
+    "possibleReschedule": 9,
     "notObserved": 0
   },
   "coverage": {
     "sourceCount": 25,
-    "failed": [
-      "NTEU 教职员工工会"
-    ],
+    "failed": [],
     "partial": [
       "悉尼大学 What's On",
       "USU 学生会",
+      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
       "SUPRA 研究生协会",
       "City of Sydney · What's On",
@@ -37,6 +36,7 @@
     ],
     "zeroExtracted": [
       "USU 学生会",
+      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
       "SUPRA 研究生协会",
       "City of Sydney · What's On",
@@ -62,7 +62,7 @@
           "USU · 全部公开活动",
           "USU · Official public event calendar"
         ],
-        "maxChannelRecordCount": 5,
+        "maxChannelRecordCount": 4,
         "zeroChannels": [
           "USU 学生会"
         ],
@@ -77,7 +77,7 @@
         "channelsWithRecords": [
           "SUPRA · 活动接口"
         ],
-        "maxChannelRecordCount": 5,
+        "maxChannelRecordCount": 4,
         "zeroChannels": [
           "SUPRA 研究生协会",
           "SUPRA · 研究生权益"

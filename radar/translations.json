@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-18T18:52:40.885809Z",
+  "updatedAt": "2026-11-19T19:00:47.960654Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 82,
+  "count": 70,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -19,14 +19,6 @@
       "sourceSummary": "We explore the critical intersection of telecomms infrastructure, data sovereignty, and Artificial Intelligence (AI) within humanitarian contexts in the Pacific Islands. Our speakers will address unique geographical and energy-related constraints while showcas",
       "summaryZh": "我们探讨了电信基础设施、数据主权和人工智能（ AI ）在太平洋岛屿人道主义背景下的关键交叉点。我们的演讲者将讨论独特的地理和能源相关的限制，同时展示",
       "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-6d66b4d4-b000-46ed-bfcc-4e9a7a239360-2026-11-19": {
-      "sourceTitle": "Tahkoe | Seymour Sounds (Free Event)",
-      "titleZh": "Tahkoe | Seymour Sounds （免费活动）",
-      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "Seymour Sounds专为那些希望聆听音乐律动的人士打造。在为期六周的时间里，我们将重新开放我们的庭院，举办一系列亲密无间的连续现场演出，悉尼活力四射的新爵士和新灵魂乐坛的重量级人物和新星将轮番登场。",
-      "translatedAt": "2026-11-13T17:47:51.822193Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-56920707-1705-4404-9f26-4d88161b70a0-2026-11-24": {
@@ -89,8 +81,8 @@
       "sourceTitle": "Cabaret, Cocktails & Karaoke at the Seymour | Friday 27 November",
       "titleZh": "西摩歌舞厅歌舞表演、鸡尾酒和卡拉OK | 11月27日（周五）",
       "sourceSummary": "One last encore before the curtain falls on the year. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-05T18:05:22.515237Z",
+      "summaryZh": "在这一年落下帷幕之前，再来一次返场演出。",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-9fdb51a0-83f0-4e97-8252-e2376eed2d3d-2026-12-08": {
@@ -219,14 +211,6 @@
       "sourceSummary": "Celebrate DHIN’s 2026 achievements with a short presentation, networking, drinks, and catering provided. 费用说明：free",
       "summaryZh": "通过简短的演讲、社交、饮品和餐饮，庆祝 DHIN 在 2026 年取得的成就。",
       "translatedAt": "2026-11-14T22:31:23.085360Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usu-exam-ready-2026-11-19": {
-      "sourceTitle": "Exam Ready: free meals and snacks",
-      "titleZh": "备考：免费餐点和小食",
-      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
-      "summaryZh": "USU会员12:00可享免费午餐；USYD学生17:30可享免费社区晚餐。所有优惠售完即止。",
-      "translatedAt": "2026-11-12T18:22:18.054665Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-exam-ready-2026-11-23": {
@@ -381,75 +365,11 @@
       "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-2548-2026-11-19": {
-      "sourceTitle": "Come and get techie: Darling Square Library",
-      "titleZh": "来体验科技：达令广场图书馆",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
-      "summaryZh": "",
-      "translatedAt": "2026-11-16T02:12:51.217748Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6702-2026-11-19": {
-      "sourceTitle": "Chinese painting for beginners to advanced",
-      "titleZh": "适合初学者到高级水平的中国画课程",
-      "sourceSummary": "A free weekly class for beginners, led by an experienced Mandarin speaking tutor.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-16T02:12:51.217748Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10552-2026-11-19": {
-      "sourceTitle": "Make and print your own holiday cards with Canva",
-      "titleZh": "使用 Canva 制作并打印您自己的节日贺卡",
-      "sourceSummary": "Design and print personalised holiday cards with expert help from the Canva Print team.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-16T20:31:31.751834Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "gpt-claude-sydney-builders-2026-11-24": {
       "sourceTitle": "Claude Sydney Meetup — Claude Code, AI Agents & Builders",
       "titleZh": "Claude Sydney见面会 — Claude Code、AI代理和开发者",
       "sourceSummary": "Builder meetup with practical talks on coordinating Claude Code and Codex agents, real-world demos and developer networking.",
       "summaryZh": "开发者见面会，将开展关于协调Claude Code和Codex代理的实用讲座、真实案例演示以及开发者交流活动。",
-      "translatedAt": "2026-11-16T21:28:13.129853Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6454-2026-11-19": {
-      "sourceTitle": "Mu Meson Film Nights: Midnite Spares + Ozploitation",
-      "titleZh": "Mu Meson电影之夜：午夜备胎 + 澳式剥削片",
-      "sourceSummary": "See cult Australian action film Midnite Spares, followed by Richard Kuipers on the wild history of Ozploitation cinema.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-16T21:28:13.129853Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7438-2026-11-19": {
-      "sourceTitle": "Free Salsa Classes in Surry Hills",
-      "titleZh": "萨里山的免费萨尔萨舞课程",
-      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
-      "summaryZh": "",
-      "translatedAt": "2026-11-16T21:28:13.129853Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7949-2026-11-19": {
-      "sourceTitle": "iMeditate free meditation",
-      "titleZh": "iMeditate免费冥想",
-      "sourceSummary": "Find you inner peace amidst the hustle of the city",
-      "summaryZh": "",
-      "translatedAt": "2026-11-16T21:28:13.129853Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7963-2026-11-19": {
-      "sourceTitle": "Movement and dance class",
-      "titleZh": "肢体动作和舞蹈课",
-      "sourceSummary": "Learn different styles of dance including line, square and Chinese folk in this class for older adults.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-16T21:28:13.129853Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8423-2026-11-19": {
-      "sourceTitle": "Open Mic Karaoke",
-      "titleZh": "开放麦卡拉 OK",
-      "sourceSummary": "End of year team building activity, sorted!",
-      "summaryZh": "",
       "translatedAt": "2026-11-16T21:28:13.129853Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -517,38 +437,6 @@
       "translatedAt": "2026-11-18T18:52:40.885809Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "gpt-city-bike-tune-up-chippendale-2026-11-19": {
-      "sourceTitle": "Free bike tune-up: Chippendale",
-      "titleZh": "免费自行车保养：奇彭代尔",
-      "sourceSummary": "City of Sydney offers free first-come, first-served bike tune-ups and shared-path safety advice; weather dependent and queue may close early.",
-      "summaryZh": "悉尼市政府提供先到先得的免费自行车保养服务和共用道路安全建议；服务视天气情况而定，排队可能提前截止。",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-267243-2026-11-19": {
-      "sourceTitle": "Supervisor of the Year Awards 2026",
-      "titleZh": "2026年度最佳主管奖",
-      "sourceSummary": "Thursday 19 November 2026 4–6pm Courtyard Restaurant & Bar Join SUPRA for the 2026 Supervisor of the Year Awards – an evening celebrating outstanding supervisors and their contributions to HDR students’ research journeys. Come together with HDR students, super",
-      "summaryZh": "2026年11月19日（星期四）下午4点至6点Courtyard餐厅酒吧与SUPRA一起参加2026年度最佳导师奖颁奖晚会，表彰优秀导师及其对HDR学生研究历程的贡献。与HDR学生、导师和教职员工欢聚一堂，",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-3901-2026-11-19": {
-      "sourceTitle": "DJ Nights",
-      "titleZh": "DJ之夜",
-      "sourceSummary": "Thursdays just got better!",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6269-2026-11-19": {
-      "sourceTitle": "Line Dancing Thursdays at Hay St",
-      "titleZh": "周四在 Hay St 跳排舞",
-      "sourceSummary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-10554-2026-11-20": {
       "sourceTitle": "DHL Summer Sessions with Maple Social Club",
       "titleZh": "DHL 夏季课程，携手 Maple Social Club",
@@ -581,70 +469,6 @@
       "translatedAt": "2026-11-18T03:43:33.242761Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-4128-2026-11-19": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-19": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5193-2026-11-19": {
-      "sourceTitle": "Theatre of Life Exhibition",
-      "titleZh": "“人生剧场”展览",
-      "sourceSummary": "Welcome to the Theatre of Life",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-19": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8249-2026-11-19": {
-      "sourceTitle": "Vague Transparency from the Fotovague Collective",
-      "titleZh": "来自Fotovague Collective的“模糊的透明”",
-      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10379-2026-11-19": {
-      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
-      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-19": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6393-2026-11-19": {
-      "sourceTitle": "OK? Ok, ok…",
-      "titleZh": "行行行",
-      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-8270-2026-11-20": {
       "sourceTitle": "Latin Nights by the Bay",
       "titleZh": "海湾畔的拉丁之夜",
@@ -659,6 +483,86 @@
       "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
       "summaryZh": "",
       "translatedAt": "2026-11-18T18:52:40.885809Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-20": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-20": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5193-2026-11-20": {
+      "sourceTitle": "Theatre of Life Exhibition",
+      "titleZh": "“人生剧场”展览",
+      "sourceSummary": "Welcome to the Theatre of Life",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-20": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-20": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8249-2026-11-20": {
+      "sourceTitle": "Vague Transparency from the Fotovague Collective",
+      "titleZh": "来自Fotovague Collective的“模糊的透明”",
+      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-20": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10688-2026-11-20": {
+      "sourceTitle": "Fair Trade Festive Markets",
+      "titleZh": "公平贸易节日市集",
+      "sourceSummary": "Pop-up market featuring Fair Trade gifts handmade by artisans worldwide, supporting ethical income.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-20": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6393-2026-11-20": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-19T19:00:47.960654Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
