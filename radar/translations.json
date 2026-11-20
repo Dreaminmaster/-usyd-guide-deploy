@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-19T19:00:47.960654Z",
+  "updatedAt": "2026-11-20T03:24:17.257659Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 70,
+  "count": 78,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -509,14 +509,6 @@
       "translatedAt": "2026-11-19T19:00:47.960654Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-6384-2026-11-20": {
-      "sourceTitle": "Dream Horse",
-      "titleZh": "梦幻骏马",
-      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-7958-2026-11-20": {
       "sourceTitle": "Modernism and World Revolution",
       "titleZh": "现代主义与世界革命",
@@ -541,14 +533,6 @@
       "translatedAt": "2026-11-19T19:00:47.960654Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10688-2026-11-20": {
-      "sourceTitle": "Fair Trade Festive Markets",
-      "titleZh": "公平贸易节日市集",
-      "sourceSummary": "Pop-up market featuring Fair Trade gifts handmade by artisans worldwide, supporting ethical income.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-5583-2026-11-20": {
       "sourceTitle": "Frontline yoga at the Anzac Memorial",
       "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
@@ -563,6 +547,86 @@
       "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
       "summaryZh": "",
       "translatedAt": "2026-11-19T19:00:47.960654Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10460-2026-11-21": {
+      "sourceTitle": "Handmade for the Holidays: Hand Sewing Workshop",
+      "titleZh": "节日手工坊：手缝工坊",
+      "sourceSummary": "Get into the festive spirit with a little creativity, colour and handmade magic!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6270-2026-11-21": {
+      "sourceTitle": "Latin Nights - Block Party at Hay St",
+      "titleZh": "拉丁之夜 - Hay 街街区派对",
+      "sourceSummary": "Salsa, bachata, live music and DJs take over two dance floors every Saturday night at Hay St Market.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8459-2026-11-22": {
+      "sourceTitle": "Stitched Together",
+      "titleZh": "缝合在一起",
+      "sourceSummary": "A celebration of our community’s amazing achievements at our denim upcycling workshops!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-3718-2026-11-23": {
+      "sourceTitle": "Forms and case management help in Mandarin and Hokkien",
+      "titleZh": "提供普通话和闽南语的表格填写和个案管理帮助",
+      "sourceSummary": "This free service is provided by Chinese Australian Services Society (CASS) trained volunteers and caseworkers.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4204-2026-11-23": {
+      "sourceTitle": "Come and get techie at Surry Hills Library",
+      "titleZh": "来Surry Hills图书馆体验科技魅力",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4205-2026-11-23": {
+      "sourceTitle": "Come and get techie at Kings Cross Library",
+      "titleZh": "来国王十字图书馆体验科技魅力",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6703-2026-11-23": {
+      "sourceTitle": "Music instrument class",
+      "titleZh": "乐器课程",
+      "sourceSummary": "Learn how to play the ukulele, hulusi and erhu in this fun class for Mandarin and Cantonese speakers",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6954-2026-11-23": {
+      "sourceTitle": "StudioRCC Ableton Live 12: 10-week beginner course",
+      "titleZh": "StudioRCC Ableton Live 12：10周入门课程",
+      "sourceSummary": "Learn the fundamentals of Ableton Live 12. Facilitated by Dyan Tai",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7438-2026-11-23": {
+      "sourceTitle": "Free Salsa Classes in Surry Hills",
+      "titleZh": "萨里山的免费萨尔萨舞课程",
+      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7743-2026-11-23": {
+      "sourceTitle": "StudioRCC beginner singing group lessons",
+      "titleZh": "StudioRCC 初级声乐小组课",
+      "sourceSummary": "Come join this friendly community singing group facilitated by Leo Abisaab.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T03:24:17.257659Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

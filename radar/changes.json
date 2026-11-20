@@ -1,215 +1,71 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-19T19:00:34.527492Z",
-  "sourceCheckedAt": "2026-11-19T19:00:47.835Z",
+  "checkedAt": "2026-11-20T03:24:03.224950Z",
+  "sourceCheckedAt": "2026-11-20T03:24:17.062Z",
   "hasBaseline": true,
   "latest": [
     {
-      "kind": "possible_reschedule",
-      "id": "city-4128-2026-11-20",
-      "title": "Curtains Jazz Festival",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7375-2026-11-20",
-      "title": "Head On Photo Festival 2026",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5193-2026-11-20",
-      "title": "Theatre of Life Exhibition",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8249-2026-11-20",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7958-2026-11-20",
-      "title": "Modernism and World Revolution",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
       "kind": "new",
-      "id": "city-6384-2026-11-20",
-      "title": "Dream Horse",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
+      "id": "city-2549-2026-11-25",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-11-25",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
       "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5583-2026-11-20",
-      "title": "Frontline yoga at the Anzac Memorial",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-6393-2026-11-20",
-      "title": "OK? Ok, ok…",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10379-2026-11-20",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-10688-2026-11-20",
-      "title": "Fair Trade Festive Markets",
-      "date": "2026-11-20",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/fair-trade-festive-markets",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
+      "detectedAt": "2026-11-20T03:24:03.224950Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-10501-2026-11-21",
-      "title": "The Ralph Lauren holiday experience",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
+      "id": "city-5709-2026-11-25",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-11-25",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
       "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7438-2026-11-23",
-      "title": "Free Salsa Classes in Surry Hills",
-      "oldDate": "2026-11-19",
-      "date": "2026-11-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "updated",
-      "id": "usyd-ideas-conversations-for-good-generations-2026-11-24",
-      "title": "Conversations for Good: Across generations",
-      "date": "2026-11-24",
-      "url": "https://www.sydney.edu.au/engage/events-sponsorships/sydney-ideas/2026/conversations-for-good-generations.html",
-      "differences": {
-        "location": {
-          "before": "See official event page",
-          "after": "Seymour Centre"
-        }
-      },
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z"
-    },
-    {
-      "kind": "new",
-      "id": "city-2546-2026-11-24",
-      "title": "Come and get techie: Newtown Library",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-newtown-library",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
+      "detectedAt": "2026-11-20T03:24:03.224950Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-7516-2026-11-24",
-      "title": "Free Bachata Classes in Kings Cross",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bachata-classes-in-kings-cross",
+      "id": "city-10624-2026-11-25",
+      "title": "Sale season sorted: build your Brand System with Canva",
+      "date": "2026-11-25",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sale-season-sorted-build-your-brand-system-with-canva",
       "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6103-2026-11-24",
-      "title": "Fun social dance",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8439-2026-11-24",
-      "title": "Sydney Photo Challenge – The Rocks (phones and cameras)",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-sydney-photo-challenge-event-the-rocks",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8016-2026-11-24",
-      "title": "Social group for Chinese speaking seniors",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-group-for-chinese-speaking-seniors",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-5088-2026-11-24",
-      "title": "Musical bingo and $1 dogs",
-      "date": "2026-11-24",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
+      "detectedAt": "2026-11-20T03:24:03.224950Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-2549-2026-11-25",
+      "title": "Come and get techie: Green Square Library",
+      "date": "2026-11-25",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
+      "priority": "low",
+      "detectedAt": "2026-11-20T03:24:03.224950Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-5709-2026-11-25",
+      "title": "Guitar/bass beginner & intermediate group lessons",
+      "date": "2026-11-25",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
+      "priority": "low",
+      "detectedAt": "2026-11-20T03:24:03.224950Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10624-2026-11-25",
+      "title": "Sale season sorted: build your Brand System with Canva",
+      "date": "2026-11-25",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sale-season-sorted-build-your-brand-system-with-canva",
+      "priority": "low",
+      "detectedAt": "2026-11-20T03:24:03.224950Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "possible_reschedule",
       "id": "city-4128-2026-11-20",
@@ -1221,46 +1077,13 @@
       "priority": "low",
       "detectedAt": "2026-11-15T17:13:48.568242Z",
       "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10379-2026-11-16",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "oldDate": "2026-11-15",
-      "date": "2026-11-16",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-15T17:13:48.568242Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8249-2026-11-17",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "oldDate": "2026-11-15",
-      "date": "2026-11-17",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "priority": "low",
-      "detectedAt": "2026-11-15T17:13:48.568242Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7958-2026-11-18",
-      "title": "Modernism and World Revolution",
-      "oldDate": "2026-11-15",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-15T17:13:48.568242Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
     }
   ],
   "counts": {
-    "new": 9,
+    "new": 3,
     "newlyObserved": 0,
-    "updated": 1,
-    "possibleReschedule": 9,
+    "updated": 0,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."

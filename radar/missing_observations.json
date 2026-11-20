@@ -1,1 +1,23 @@
-{}
+{
+  "city-6384-2026-11-20": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-20T03:24:03.224950Z",
+    "title": "Dream Horse",
+    "date": "2026-11-20",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse"
+  },
+  "city-10688-2026-11-20": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-20T03:24:03.224950Z",
+    "title": "Fair Trade Festive Markets",
+    "date": "2026-11-20",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/fair-trade-festive-markets"
+  },
+  "city-10501-2026-11-21": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-20T03:24:03.224950Z",
+    "title": "The Ralph Lauren holiday experience",
+    "date": "2026-11-21",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience"
+  }
+}
