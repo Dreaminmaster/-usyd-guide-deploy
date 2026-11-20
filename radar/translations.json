@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-20T03:24:17.257659Z",
+  "updatedAt": "2026-11-20T18:38:03.518773Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 78,
+  "count": 73,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -277,14 +277,6 @@
       "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-museum-shakespeare-memorial-lecture-2026-2026-11-20": {
-      "sourceTitle": "Shakespeare Memorial Lecture: Arthur L. Little Jr",
-      "titleZh": "莎士比亚纪念讲座：小亚瑟·D·利特尔",
-      "sourceSummary": "The CREATE Centre presents the 2026 Shakespeare Memorial Lecture at the museum.",
-      "summaryZh": "CREATE中心将在博物馆举办2026年莎士比亚纪念讲座。",
-      "translatedAt": "2026-11-13T04:41:27.614916Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-ideas-conversations-for-good-generations-2026-11-24": {
       "sourceTitle": "Conversations for Good: Across generations",
       "titleZh": "善意对话：跨越代际",
@@ -337,8 +329,8 @@
       "sourceTitle": "Free Christmas Wreath Making Workshop at Martin Place",
       "titleZh": "马丁广场免费圣诞花环制作工坊",
       "sourceSummary": "Make your own dried-flower Christmas wreath at this free workshop at the Martin Place Christmas Markets.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-14T16:37:42.975602Z",
+      "summaryZh": "在马丁广场圣诞市场的免费工作坊中，亲手制作干花圣诞花环。",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-6699-2026-11-28": {
@@ -437,118 +429,6 @@
       "translatedAt": "2026-11-18T18:52:40.885809Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10554-2026-11-20": {
-      "sourceTitle": "DHL Summer Sessions with Maple Social Club",
-      "titleZh": "DHL 夏季课程，携手 Maple Social Club",
-      "sourceSummary": "Free coffee and DJ sets with Maple Social Club thank volunteer surf lifesavers at Bondi.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-3421-2026-11-20": {
-      "sourceTitle": "Computer and mobile phone help",
-      "titleZh": "电脑和手机帮助",
-      "sourceSummary": "Come for help to solve your digital problems",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6240-2026-11-20": {
-      "sourceTitle": "Community toy reuse volunteer session",
-      "titleZh": "社区玩具再利用志愿者活动",
-      "sourceSummary": "Give pre-loved toys a second life! Join us to clean, sort and prepare donated toys for reuse. Ages 11+",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8032-2026-11-20": {
-      "sourceTitle": "Sydney City Guided Chan Meditation Beginners Welcome @Ultimo",
-      "titleZh": "悉尼市禅修导览体验，欢迎初学者参与 @Ultimo",
-      "sourceSummary": "FREE CLASS 2nd Sunday morning 12pm-2.30pm 4th Friday 6-7.30pm Guided Outdoor Moving Meditation Indoor Sitting Meditation",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T03:43:33.242761Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8270-2026-11-20": {
-      "sourceTitle": "Latin Nights by the Bay",
-      "titleZh": "海湾畔的拉丁之夜",
-      "sourceSummary": "We are bringing back the dance heat with another season of Latin Nights by the Bay",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8272-2026-11-20": {
-      "sourceTitle": "Floating Christmas Tree",
-      "titleZh": "漂浮圣诞树",
-      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-4128-2026-11-20": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-20": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5193-2026-11-20": {
-      "sourceTitle": "Theatre of Life Exhibition",
-      "titleZh": "“人生剧场”展览",
-      "sourceSummary": "Welcome to the Theatre of Life",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-20": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8249-2026-11-20": {
-      "sourceTitle": "Vague Transparency from the Fotovague Collective",
-      "titleZh": "来自Fotovague Collective的“模糊的透明”",
-      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10379-2026-11-20": {
-      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
-      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-20": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6393-2026-11-20": {
-      "sourceTitle": "OK? Ok, ok…",
-      "titleZh": "行行行",
-      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-19T19:00:47.960654Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-10460-2026-11-21": {
       "sourceTitle": "Handmade for the Holidays: Hand Sewing Workshop",
       "titleZh": "节日手工坊：手缝工坊",
@@ -627,6 +507,86 @@
       "sourceSummary": "Come join this friendly community singing group facilitated by Leo Abisaab.",
       "summaryZh": "",
       "translatedAt": "2026-11-20T03:24:17.257659Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-21": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-21": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-21": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8249-2026-11-21": {
+      "sourceTitle": "Vague Transparency from the Fotovague Collective",
+      "titleZh": "来自Fotovague Collective的“模糊的透明”",
+      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5193-2026-11-23": {
+      "sourceTitle": "Theatre of Life Exhibition",
+      "titleZh": "“人生剧场”展览",
+      "sourceSummary": "Welcome to the Theatre of Life",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-21": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-21": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习前线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8272-2026-11-21": {
+      "sourceTitle": "Floating Christmas Tree",
+      "titleZh": "漂浮圣诞树",
+      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6393-2026-11-23": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2546-2026-11-24": {
+      "sourceTitle": "Come and get techie: Newtown Library",
+      "titleZh": "来体验科技：纽敦图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-20T18:38:03.518773Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

@@ -1,26 +1,24 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-20T03:24:03.224950Z",
-  "feedCheckedAt": "2026-11-20T03:24:17.062Z",
+  "checkedAt": "2026-11-20T18:37:50.026874Z",
+  "feedCheckedAt": "2026-11-20T18:38:03.346Z",
   "feedStatus": "ok",
-  "events": 97,
+  "events": 96,
   "news": 17,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-20T03:24:03.224950Z",
+  "lastScheduledRunAt": "2026-11-20T18:37:50.026874Z",
   "changes": {
-    "new": 3,
+    "new": 5,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 9,
     "notObserved": 0
   },
   "coverage": {
     "sourceCount": 25,
-    "failed": [
-      "USYD SRC · 本科生权益"
-    ],
+    "failed": [],
     "partial": [
       "悉尼大学 What's On",
       "USU 学生会",
@@ -31,6 +29,7 @@
       "NSW Government · 节庆活动",
       "Transport for NSW · 出行警报",
       "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动",
       "USU · Official public event calendar"
@@ -44,6 +43,7 @@
       "NSW Government · 节庆活动",
       "Transport for NSW · 出行警报",
       "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动"
     ],
@@ -51,6 +51,7 @@
       "USU 学生会",
       "SUPRA 研究生协会",
       "USYD Students · 学生服务",
+      "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动"
     ],
@@ -92,9 +93,11 @@
         "channelsWithRecords": [],
         "maxChannelRecordCount": 0,
         "zeroChannels": [
+          "USYD SRC · 本科生权益",
           "SRC · 本科生代表组织活动"
         ],
         "partialChannels": [
+          "USYD SRC · 本科生权益",
           "SRC · 本科生代表组织活动"
         ],
         "hasExtractedRecords": false
