@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-21T03:15:14.140Z",
-  "archivedAt": "2026-11-21T03:15:01.581088Z",
+  "checkedAt": "2026-11-21T17:36:48.215Z",
+  "archivedAt": "2026-11-21T17:36:38.027745Z",
   "timezone": "Australia/Sydney",
-  "today": "2026-11-21",
+  "today": "2026-11-22",
   "status": "ok",
   "summary": {
-    "events": 96,
+    "events": 95,
     "news": 17,
     "high": 0,
     "recommended": 12,
-    "fromWebsite": 34,
+    "fromWebsite": 33,
     "fromCityDiscovery": 61,
     "fromGPT": 1,
     "gptEnriched": 0,
     "successfulSources": 3,
     "failedSources": 0,
-    "fetchMs": 12035
+    "fetchMs": 9737
   },
   "coverage": {
     "sourceCount": 25,
@@ -64,7 +64,7 @@
           "USU · 全部公开活动",
           "USU · Official public event calendar"
         ],
-        "maxChannelRecordCount": 4,
+        "maxChannelRecordCount": 5,
         "zeroChannels": [
           "USU 学生会"
         ],
@@ -135,7 +135,7 @@
       "url": "https://whatson.sydney.edu.au/events",
       "status": "partial",
       "message": "已通过官方公开活动查询接口读取 29 条未来活动（10 页）；结果较多，已达到安全分页上限",
-      "checkedAt": "2026-11-21T03:15:14.092Z",
+      "checkedAt": "2026-11-21T17:36:48.180Z",
       "recordCount": 29
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://usu.edu.au/events/usu-events/",
       "status": "partial",
       "message": "页面可访问，但未能可靠识别新增公开活动",
-      "checkedAt": "2026-11-21T03:15:03.578Z",
+      "checkedAt": "2026-11-21T17:36:40.047Z",
       "recordCount": 0
     },
     {
@@ -151,7 +151,7 @@
       "url": "https://nsw.nteu.au/sydney/news/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-21T03:15:04.823Z",
+      "checkedAt": "2026-11-21T17:36:41.046Z",
       "recordCount": 0
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://nteufightback.org/strike/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-21T03:15:03.596Z",
+      "checkedAt": "2026-11-21T17:36:39.892Z",
       "recordCount": 0
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://supra.net.au/events/",
       "status": "partial",
       "message": "已验证来源可以访问；此来源暂未建立可靠的活动提取，不能视作完成监测。",
-      "checkedAt": "2026-11-21T03:15:04.805Z",
+      "checkedAt": "2026-11-21T17:36:40.673Z",
       "recordCount": 0
     },
     {
@@ -176,7 +176,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "官网可访问，但尚未解析到符合条件的活动。",
-      "checkedAt": "2026-11-21T03:15:05.504Z"
+      "checkedAt": "2026-11-21T17:36:40.958Z"
     },
     {
       "name": "Service NSW · 官方资讯",
@@ -184,7 +184,7 @@
       "status": "ok",
       "recordCount": 5,
       "message": "已自动提取 5 则官方资讯（发布日不是活动日期）",
-      "checkedAt": "2026-11-21T03:15:03.535Z"
+      "checkedAt": "2026-11-21T17:36:39.914Z"
     },
     {
       "name": "NSW Government · 节庆活动",
@@ -192,7 +192,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-21T03:15:04.588Z"
+      "checkedAt": "2026-11-21T17:36:39.972Z"
     },
     {
       "name": "Transport for NSW · 出行警报",
@@ -200,7 +200,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-21T03:15:05.025Z"
+      "checkedAt": "2026-11-21T17:36:41.010Z"
     },
     {
       "name": "USYD Students · 学生服务",
@@ -208,7 +208,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-21T03:15:04.447Z"
+      "checkedAt": "2026-11-21T17:36:40.847Z"
     },
     {
       "name": "USYD SRC · 本科生权益",
@@ -216,7 +216,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-21T03:15:04.449Z"
+      "checkedAt": "2026-11-21T17:36:40.795Z"
     },
     {
       "name": "SUPRA · 研究生权益",
@@ -224,7 +224,7 @@
       "status": "partial",
       "recordCount": 0,
       "message": "来源可访问，尚未完成结构化内容收录；仅供查询和后续接入",
-      "checkedAt": "2026-11-21T03:15:04.762Z"
+      "checkedAt": "2026-11-21T17:36:40.801Z"
     },
     {
       "name": "USU · 全部公开活动",
@@ -232,7 +232,7 @@
       "status": "ok",
       "recordCount": 1,
       "message": "已读取 2 个官方活动页面，解析到 1 条日程",
-      "checkedAt": "2026-11-21T03:15:03.782Z"
+      "checkedAt": "2026-11-21T17:36:40.053Z"
     },
     {
       "name": "Transport for NSW · 官方新闻",
@@ -240,7 +240,7 @@
       "status": "ok",
       "recordCount": 12,
       "message": "解析 12 条交通消息，注意新闻日期不等于出行事故发生日",
-      "checkedAt": "2026-11-21T03:15:06.207Z"
+      "checkedAt": "2026-11-21T17:36:42.605Z"
     },
     {
       "name": "SUPRA · 活动接口",
@@ -248,7 +248,7 @@
       "status": "ok",
       "recordCount": 4,
       "message": "已读取官方活动接口；研究生专属活动不代表 CET 语言班可参加",
-      "checkedAt": "2026-11-21T03:15:04.524Z"
+      "checkedAt": "2026-11-21T17:36:41.079Z"
     },
     {
       "name": "SRC · 本科生代表组织活动",
@@ -256,31 +256,31 @@
       "status": "partial",
       "recordCount": 0,
       "message": "网页可访问，但没有识别到未来日期明确的活动",
-      "checkedAt": "2026-11-21T03:15:04.357Z"
+      "checkedAt": "2026-11-21T17:36:40.699Z"
     },
     {
       "name": "City of Sydney · Workshops",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events",
       "status": "ok",
       "recordCount": 47,
-      "message": "Official event-search JSON returned 50 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "message": "Official event-search JSON returned 55 matches; only verified upcoming start dates are included; this is not exhaustive",
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "City of Sydney · Technology",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events",
       "status": "ok",
-      "recordCount": 15,
-      "message": "Official event-search JSON returned 15 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "recordCount": 14,
+      "message": "Official event-search JSON returned 14 matches; only verified upcoming start dates are included; this is not exhaustive",
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "City of Sydney · Coding",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events",
       "status": "ok",
-      "recordCount": 21,
-      "message": "Official event-search JSON returned 21 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "recordCount": 22,
+      "message": "Official event-search JSON returned 22 matches; only verified upcoming start dates are included; this is not exhaustive",
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "City of Sydney · Seminars",
@@ -288,15 +288,15 @@
       "status": "ok",
       "recordCount": 5,
       "message": "Official event-search JSON returned 5 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "City of Sydney · Festivals",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events",
       "status": "ok",
-      "recordCount": 38,
-      "message": "Official event-search JSON returned 38 matches; only verified upcoming start dates are included; this is not exhaustive",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "recordCount": 30,
+      "message": "Official event-search JSON returned 30 matches; only verified upcoming start dates are included; this is not exhaustive",
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "University of Sydney · Chau Chak Wing Museum",
@@ -304,7 +304,7 @@
       "status": "ok",
       "recordCount": 6,
       "message": "7 structured listings parsed; 6 upcoming verified start dates; multi-day activities are not expanded into unverified sessions",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "University of Sydney · Sydney Ideas",
@@ -312,49 +312,30 @@
       "status": "ok",
       "recordCount": 1,
       "message": "46 structured listings parsed; 1 upcoming verified start dates; multi-day activities are not expanded into unverified sessions",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "USU · Official public event calendar",
       "url": "https://usu.edu.au/events/",
       "status": "partial",
-      "recordCount": 4,
+      "recordCount": 5,
       "message": "Read 9 event cards. Added only single-date official entries or explicitly confirmed Mon–Thu Exam Ready sessions; other ranges intentionally not expanded.",
-      "checkedAt": "2026-11-21T03:15:02.734Z"
+      "checkedAt": "2026-11-21T17:36:39.206Z"
     },
     {
       "name": "GPT-reviewed public discoveries (GitHub)",
       "url": "https://github.com/Dreaminmaster/-usyd-guide-deploy/blob/main/radar/ai-discoveries.json",
       "status": "ok",
       "recordCount": 1,
-      "checkedAt": "2026-11-21T03:15:02.949Z",
+      "checkedAt": "2026-11-21T17:36:39.367Z",
       "message": "Official or organiser source required. Public events only, no personal data."
     }
   ],
   "events": [
     {
-      "id": "usyd-11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc-2026-11-21",
-      "title": "Book Launch: Motherhood, Labour and Care in the 21st Century",
-      "date": "2026-11-21",
-      "time": "18:00–20:00",
-      "location": "Gleebooks Upstairs- 49 Glebe Point Rd Glebe",
-      "category": "culture",
-      "priority": "low",
-      "score": 50,
-      "summary": "Join Dr. Sheree Gregory and Professor Kate Huppatz at Gleebooks, for an in conversation discussion with Professor Gaby Ramia, as they celebrate the release of Motherhood, Labour and Care in the 21st Century. 费用说明：free",
-      "eligibility": "公开活动；具体参加要求请查看官网",
-      "registration": "请打开官方链接核实报名、名额与费用",
-      "confidence": "confirmed",
-      "sourceName": "University of Sydney What’s On",
-      "url": "https://whatson.sydney.edu.au/event/11c2fdd0-38b1-4890-8909-2cb7ce1e6fbc/Book-Launch%3A-Motherhood%2C-Labour-and-Care-in-the-21st-Century",
-      "verified": "2026-11-21",
-      "feedSource": "university",
-      "priorityReason": "Advertised free; This week"
-    },
-    {
-      "id": "city-7428-2026-11-21",
+      "id": "city-7428-2026-11-22",
       "title": "with, together:greens & browns - Shelley Watters,Emily Simek",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "time": "12:00–15:00",
       "location": "Buchanan St",
       "category": "culture",
@@ -366,15 +347,15 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/with-together-greens-and-browns-shelley-watters-emily-simek",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
     {
-      "id": "city-5817-2026-11-21",
+      "id": "city-5817-2026-11-22",
       "title": "Culture Alive Festivals",
-      "date": "2026-11-21",
-      "time": "10:00–18:00",
+      "date": "2026-11-22",
+      "time": "10:00–17:00",
       "location": "Darling Harbour",
       "category": "culture",
       "priority": "low",
@@ -385,33 +366,14 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/culture-alive-festivals",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
     {
-      "id": "city-10703-2026-11-21",
-      "title": "Stanmore Music Festival",
-      "date": "2026-11-21",
-      "time": "11:00–22:00",
-      "location": "Stanmore Railway Station",
-      "category": "culture",
-      "priority": "low",
-      "score": 31,
-      "summary": "Free music festival with over 80 acts across nine stages near Stanmore Railway Station.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/stanmore-music-festival-1000-performers-9-stages-free",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-4128-2026-11-21",
+      "id": "city-4128-2026-11-22",
       "title": "Curtains Jazz Festival",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "time": "17:00–23:59",
       "location": "10 Phillip St",
       "category": "culture",
@@ -423,14 +385,14 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
     {
-      "id": "city-7375-2026-11-21",
+      "id": "city-7375-2026-11-22",
       "title": "Head On Photo Festival 2026",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "time": "11:00–16:00",
       "location": "Paddington Reservoir Gardens",
       "category": "culture",
@@ -442,178 +404,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-8249-2026-11-21",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "date": "2026-11-21",
-      "time": "10:00–18:00",
-      "location": "89 Chandos St",
-      "category": "culture",
-      "priority": "low",
-      "score": 18,
-      "summary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-7958-2026-11-21",
-      "title": "Modernism and World Revolution",
-      "date": "2026-11-21",
-      "time": "10:00–18:00",
-      "location": "317 Pacific Hwy",
-      "category": "culture",
-      "priority": "low",
-      "score": 18,
-      "summary": "Exhibition and Symposium on Modernism and World Revolution",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-6384-2026-11-21",
-      "title": "Dream Horse",
-      "date": "2026-11-21",
-      "time": "00:00–23:59",
-      "location": "City of Sydney Creative Studios",
-      "category": "culture",
-      "priority": "low",
-      "score": 18,
-      "summary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-10460-2026-11-21",
-      "title": "Handmade for the Holidays: Hand Sewing Workshop",
-      "date": "2026-11-21",
-      "time": "13:00–16:00",
-      "location": "Green Square Public School and Community Spaces",
-      "category": "academic",
-      "priority": "low",
-      "score": 15,
-      "summary": "Get into the festive spirit with a little creativity, colour and handmade magic!",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/festive-hand-sewing-workshop",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-5583-2026-11-21",
-      "title": "Frontline yoga at the Anzac Memorial",
-      "date": "2026-11-21",
-      "time": "17:30–18:30",
-      "location": "Anzac Memorial",
-      "category": "culture",
-      "priority": "low",
-      "score": 15,
-      "summary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-8272-2026-11-21",
-      "title": "Floating Christmas Tree",
-      "date": "2026-11-21",
-      "time": "00:00–23:59",
-      "location": "Cockle Bay Wharf",
-      "category": "culture",
-      "priority": "low",
-      "score": 15,
-      "summary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/floating-christmas-tree",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-6270-2026-11-21",
-      "title": "Latin Nights - Block Party at Hay St",
-      "date": "2026-11-21",
-      "time": "18:00–23:45",
-      "location": "13 Hay St",
-      "category": "culture",
-      "priority": "low",
-      "score": 15,
-      "summary": "Salsa, bachata, live music and DJs take over two dance floors every Saturday night at Hay St Market.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/latin-nights-block-party-at-hay-st",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-10379-2026-11-21",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "date": "2026-11-21",
-      "time": "15:00–23:59",
-      "location": "Zephyr",
-      "category": "culture",
-      "priority": "low",
-      "score": 15,
-      "summary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "verified": "2026-11-21",
-      "feedSource": "city-discovery",
-      "priorityReason": "Classified by source, date and relevance"
-    },
-    {
-      "id": "city-10501-2026-11-21",
-      "title": "The Ralph Lauren holiday experience",
-      "date": "2026-11-21",
-      "time": "10:00–20:00",
-      "location": "First Fleet Park",
-      "category": "culture",
-      "priority": "low",
-      "score": 15,
-      "summary": "A festive woodland escape.",
-      "eligibility": "Check organiser attendance rules",
-      "registration": "Check booking conditions on the original event page",
-      "confidence": "confirmed",
-      "sourceName": "City of Sydney What's On",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -632,7 +423,45 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/5-moons-mca",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-8249-2026-11-22",
+      "title": "Vague Transparency from the Fotovague Collective",
+      "date": "2026-11-22",
+      "time": "10:00–18:00",
+      "location": "89 Chandos St",
+      "category": "culture",
+      "priority": "low",
+      "score": 18,
+      "summary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-7958-2026-11-22",
+      "title": "Modernism and World Revolution",
+      "date": "2026-11-22",
+      "time": "10:00–18:00",
+      "location": "317 Pacific Hwy",
+      "category": "culture",
+      "priority": "low",
+      "score": 18,
+      "summary": "Exhibition and Symposium on Modernism and World Revolution",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -651,7 +480,64 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/stitched-together",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-5583-2026-11-22",
+      "title": "Frontline yoga at the Anzac Memorial",
+      "date": "2026-11-22",
+      "time": "17:30–18:30",
+      "location": "Anzac Memorial",
+      "category": "culture",
+      "priority": "low",
+      "score": 15,
+      "summary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-8272-2026-11-22",
+      "title": "Floating Christmas Tree",
+      "date": "2026-11-22",
+      "time": "00:00–23:59",
+      "location": "Cockle Bay Wharf",
+      "category": "culture",
+      "priority": "low",
+      "score": 15,
+      "summary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/floating-christmas-tree",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-10379-2026-11-22",
+      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "date": "2026-11-22",
+      "time": "15:00–23:59",
+      "location": "Zephyr",
+      "category": "culture",
+      "priority": "low",
+      "score": 15,
+      "summary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -670,7 +556,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney Union (USU)",
       "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -689,7 +575,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -708,7 +594,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -727,7 +613,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-surry-hills-library",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -746,7 +632,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/intro-to-ukulele",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -765,7 +651,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/studiorcc-beginner-singing-group-lessons-10-week-program",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -784,7 +670,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-kxx",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -803,7 +689,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/studiorcc-ableton-live-12-10-week-beginner-course",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -822,7 +708,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-moore-park",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -841,7 +727,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/forms-and-case-management-help-in-mandarin-and-hokkien",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -882,7 +768,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney Union (USU)",
       "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -901,7 +787,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/56920707-1705-4404-9f26-4d88161b70a0/Sydney-Ideas-%E2%80%93-Conversations-for-Good%3A-Across-generations",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -920,7 +806,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney · Sydney Ideas",
       "url": "https://www.sydney.edu.au/engage/events-sponsorships/sydney-ideas/2026/conversations-for-good-generations.html",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -939,7 +825,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-redfern-community-centre",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -958,7 +844,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/inner-west-disability-forum-community-festival-showcase",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -977,7 +863,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-baroque-table-still-life-photography-exhibition",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -996,7 +882,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/food-preservation-workshop-with-tafe",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1015,7 +901,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-sewing-sessions",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1034,7 +920,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1053,7 +939,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-glebe-library",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1072,7 +958,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-customs-house",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1091,7 +977,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/english-class-for-seniors",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1110,7 +996,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1129,7 +1015,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-newtown-library",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1148,7 +1034,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bachata-classes-in-kings-cross",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1167,7 +1053,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1186,7 +1072,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-sydney-photo-challenge-event-the-rocks",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1205,7 +1091,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-group-for-chinese-speaking-seniors",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1224,7 +1110,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/musical-bingo-and-usd1-dogs",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1243,7 +1129,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney Union (USU)",
       "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1262,7 +1148,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/how-to-package-your-knowledge-into-a-signature-program",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1281,7 +1167,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/come-and-get-techie-green-square-library",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1300,7 +1186,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/guitar-bass-beginner-group-lesson",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1319,7 +1205,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/sale-season-sorted-build-your-brand-system-with-canva",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1338,7 +1224,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1357,7 +1243,64 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/paul-loh-and-andrei-dolnikov-parallax",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-10544-2026-11-25",
+      "title": "Wrap the Community in Support",
+      "date": "2026-11-25",
+      "time": "00:00–23:59",
+      "location": "Circular Quay",
+      "category": "culture",
+      "priority": "low",
+      "score": 15,
+      "summary": "A public art installation at Circular Quay raises awareness of domestic and family violence.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/wrap-the-community-in-support",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-10636-2026-11-25",
+      "title": "The West Sydney Jam: Jeida Woods",
+      "date": "2026-11-25",
+      "time": "19:00–22:00",
+      "location": "Sydney",
+      "category": "culture",
+      "priority": "low",
+      "score": 15,
+      "summary": "Jeida Woods performs new unreleased songs with the West Sydney Jam house band at Albion Hotel Parramatta.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-west-sydney-jam-jeida-woods",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-7557-2026-11-25",
+      "title": "The Business Show Australia",
+      "date": "2026-11-25",
+      "time": "10:00–17:00",
+      "location": "ICC Sydney",
+      "category": "academic",
+      "priority": "low",
+      "score": 15,
+      "summary": "The ultimate event for entrepreneurs and business owners looking to connect and scale up!",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-business-show-australia",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1376,7 +1319,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/8bf12ce5-e0dd-459e-b499-d74f6a61f95a/Misconduct-policies-in-light-of-increased-generative-AI-use",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free; This week"
     },
@@ -1395,7 +1338,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/6076702d-2e29-42bd-bc9b-0c5f5eea97b7/The-Warren-Centre-presents%3A-Empowering-Communities-with-Communication-%26-AI",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free; This week"
     },
@@ -1414,7 +1357,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/922f8b13-ce8a-4755-a336-6cbb4067210f/AI-and-Medicine%3A-Breakthrough%2C-Opportunity%2C-or-Public-Health-Hazard%3F",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free; This week"
     },
@@ -1433,7 +1376,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/migration-webinar-for-coursework-students-18/",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "Student support / visas; This week"
     },
@@ -1452,7 +1395,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney Union (USU)",
       "url": "https://usu.edu.au/events/exam-ready-2026-s2",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1471,7 +1414,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/tech-fundamentals-ai-literacy",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1490,7 +1433,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/57802ce2-86f2-4c3e-a105-f363bea6c12b/SydneyMSK-Annual-Scientific-Meeting",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -1509,7 +1452,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/86036b79-c253-4cb7-901a-fe3cc42f0000/Exploring-the-role-of-intermediaries-in-criminal-justice-processes",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "This week"
     },
@@ -1528,7 +1471,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/november-supra-council-meeting-5/",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "This week"
     },
@@ -1547,7 +1490,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney · Chau Chak Wing Museum",
       "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/aroney-democracy-lecture-2026.html",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1566,7 +1509,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/1492b2d2-5ad8-4eb8-bcba-51832693945a/Cabaret%2C-Cocktails-%26-Karaoke-at-the-Seymour-%7C-Friday-27-November",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "This week"
     },
@@ -1585,7 +1528,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/96266268-b834-46dc-a8bd-896eaf998bd9/Manfredo-Lament-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free; This week"
     },
@@ -1604,7 +1547,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney · Chau Chak Wing Museum",
       "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1623,7 +1566,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-christmas-wreath-making-workshop-at-martin-place",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1642,7 +1585,7 @@
       "confidence": "confirmed",
       "sourceName": "City of Sydney What's On",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/double-bay-christmas-festival",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "city-discovery",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1654,14 +1597,14 @@
       "location": "Chau Chak Wing Museum",
       "category": "culture",
       "priority": "low",
-      "score": 39,
+      "score": 45,
       "summary": "Come celebrate and learn about Oceanic culture, history and music. Dance. Weave. Listen. Yarn. Eat. Explore.",
       "eligibility": "Check organiser attendance and registration requirements",
       "registration": "See the original University of Sydney event page",
       "confidence": "confirmed",
       "sourceName": "University of Sydney · Chau Chak Wing Museum",
       "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/sugarfest.html",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1680,7 +1623,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/d9a37489-d6b3-420c-8953-51367df9655d/Artificial-Intelligence-and-Human-Creativity",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -1699,7 +1642,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney · Chau Chak Wing Museum",
       "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/ithaca-beyond-the-odyssey.html",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1718,7 +1661,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/53746926-f79b-47ef-9dc1-a45c71da1256/Microeconomics-Theory-seminar-%7C-Jonathan-Newton-%7C-Kyoto-Institute-of-Economic-Research",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1737,7 +1680,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/eca3b500-a9ba-44a2-8f5d-7621847aee15/15th-Annual-Warren-Hogan-Memorial-Lecture",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1756,7 +1699,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1775,7 +1718,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/0ed2cd81-df6a-43e4-922c-13eaa43c42a9/ITLS-Seminar-Series%3A-Leadership%2C-Policy-and-Research%3A-Professor-Emeritus-Avishai-(Avi)-Ceder",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -1794,7 +1737,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/ca049a09-28ca-4ee8-8a91-6781e7721e64/DHIN-End-of-Year-Celebration",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1813,7 +1756,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1832,7 +1775,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/3cff93e7-1cc5-4297-bf05-e8c6a5c0db3c/Microeconometrics-%26-Public-Policy-seminar-%7C-Annika-Herr-%7C-Leibniz-University-Hannover",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1851,7 +1794,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/0c76154d-ba3e-4daa-af2f-a3e91f87eb69/Yasmina-Sadiki-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1870,7 +1813,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1889,7 +1832,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/87264f29-3417-4976-b017-beb4079bdcc4/CHIME-2026-%3A-Ecological-Dimensions-of-Chinese-Music",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "General event"
     },
@@ -1908,7 +1851,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney · Chau Chak Wing Museum",
       "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/seidler-sessions.html",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -1927,7 +1870,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/8e3d6ba8-1d17-4f6a-9d1c-f7937e2f53e2/RIAH-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -1946,7 +1889,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/a04cfa5f-d729-45e3-95f4-5a5723845ed9/Sydney-University-Choir's-2026-Sydney-Sings-Concert%3A-From-Leipzig-to-London%3A-Christmas-Concert",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Arts and culture"
     },
@@ -1965,9 +1908,47 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney Union",
       "url": "https://usu.edu.au/events/city-of-sydney-summer-open-day",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "community",
       "priorityReason": "Student union / local"
+    },
+    {
+      "id": "city-10373-2026-12-05",
+      "title": "2026 Mudgin-Gal Women's Festival",
+      "date": "2026-12-05",
+      "time": "10:00–15:00",
+      "location": "National Centre of Indigenous Excellence",
+      "category": "culture",
+      "priority": "low",
+      "score": 25,
+      "summary": "Celebrate Aboriginal women's strength and culture with performances, workshops and storytelling.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/2026-mudgin-gal-womens-festival",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
+    },
+    {
+      "id": "city-6445-2026-12-05",
+      "title": "Vine Church Christmas Festival",
+      "date": "2026-12-05",
+      "time": "15:00–21:00",
+      "location": "Corner Albion + Flinders streets",
+      "category": "culture",
+      "priority": "low",
+      "score": 25,
+      "summary": "Markets, Food Trucks, Kids' Fun + Live Music.",
+      "eligibility": "Check organiser attendance rules",
+      "registration": "Check booking conditions on the original event page",
+      "confidence": "confirmed",
+      "sourceName": "City of Sydney What's On",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vine-church-christmas-festival",
+      "verified": "2026-11-22",
+      "feedSource": "city-discovery",
+      "priorityReason": "Classified by source, date and relevance"
     },
     {
       "id": "usyd-c974666e-bd35-4d44-9987-1ea2b36eca99-2026-12-06",
@@ -1984,7 +1965,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/c974666e-bd35-4d44-9987-1ea2b36eca99/Sunday-Free-Carillon-Recital",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -2003,7 +1984,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/9fdb51a0-83f0-4e97-8252-e2376eed2d3d/Carillon-Recital-and-Free-Tour",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -2022,7 +2003,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney · Chau Chak Wing Museum",
       "url": "https://www.sydney.edu.au/museum/whats-on/talks-and-events/reimagining-heritage-and-museums-climate-emergency.html",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "usyd-calendar",
       "priorityReason": "Classified by source, date and relevance"
     },
@@ -2041,7 +2022,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/a289711c-2a6a-42e8-a9ba-b1c0758a67c2/Faculty-of-Engineering-Dean's-Lecture-Series-with-Dr-Alan-Finkel-AC",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "AI and machine learning; Advertised free"
     },
@@ -2060,7 +2041,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/cd86264e-5cc5-43ff-8b13-fea6ea7f3eb3/Hey%2C-Love-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -2079,7 +2060,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/9f1e0444-c589-49b6-a76b-71fb3679fdd1/Jerome-Blaz%C3%A9-%7C-Seymour-Sounds-(Free-Event)",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free"
     },
@@ -2098,7 +2079,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/869963cd-67ca-4dfa-ac06-2d465b7c699e/Sunday-Free-Carillon-Recital",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -2117,7 +2098,7 @@
       "confidence": "confirmed",
       "sourceName": "University of Sydney What’s On",
       "url": "https://whatson.sydney.edu.au/event/953cab38-d23e-4f42-bff0-d84b14dd320d/Carillon-Recital-and-Free-Tour",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "university",
       "priorityReason": "Advertised free; Arts and culture"
     },
@@ -2136,7 +2117,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/migration-webinar-for-485-visa-applicants-9/",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "Student support / visas"
     },
@@ -2155,7 +2136,7 @@
       "confidence": "confirmed",
       "sourceName": "SUPRA · Postgraduate representative association",
       "url": "https://supra.net.au/event/december-supra-council-meeting-3/",
-      "verified": "2026-11-21",
+      "verified": "2026-11-22",
       "feedSource": "associations",
       "priorityReason": "General event"
     }
