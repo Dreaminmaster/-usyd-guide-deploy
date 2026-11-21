@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-20T18:38:03.518773Z",
+  "updatedAt": "2026-11-21T03:15:14.233168Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 73,
+  "count": 83,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -587,6 +587,86 @@
       "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
       "summaryZh": "",
       "translatedAt": "2026-11-20T18:38:03.518773Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-21": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10501-2026-11-21": {
+      "sourceTitle": "The Ralph Lauren holiday experience",
+      "titleZh": "Ralph Lauren假日体验",
+      "sourceSummary": "A festive woodland escape.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2547-2026-11-24": {
+      "sourceTitle": "Come and get techie: Customs House Library",
+      "titleZh": "来感受科技魅力：海关大楼图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2550-2026-11-24": {
+      "sourceTitle": "Come and get techie: Glebe Library",
+      "titleZh": "来体验科技：格莱贝图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5088-2026-11-24": {
+      "sourceTitle": "Musical bingo and $1 dogs",
+      "titleZh": "音乐宾果游戏和 1 美元的热狗",
+      "sourceSummary": "Your ultimate Tuesday night out",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5655-2026-11-24": {
+      "sourceTitle": "English class for seniors",
+      "titleZh": "老年人英语课",
+      "sourceSummary": "Free weekly class suitable for beginner and intermediate level learners",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6103-2026-11-24": {
+      "sourceTitle": "Fun social dance",
+      "titleZh": "有趣的社交舞",
+      "sourceSummary": "Learn dance steps for the top dance songs of all times.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7145-2026-11-24": {
+      "sourceTitle": "Food preservation workshop with TAFE - Booked out",
+      "titleZh": "TAFE食品保鲜工作坊——已订满",
+      "sourceSummary": "Learn the basics of food preservation in this 8-week course",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7516-2026-11-24": {
+      "sourceTitle": "Free Bachata Classes in Kings Cross",
+      "titleZh": "国王十字区的免费巴恰塔舞课程",
+      "sourceSummary": "Discover Bachata with free trial classes in Kings Cross! No experience or partner needed",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7934-2026-11-24": {
+      "sourceTitle": "Learn to read music and sing",
+      "titleZh": "学习识谱和唱歌",
+      "sourceSummary": "No experience is needed to join this free singing and theory class",
+      "summaryZh": "",
+      "translatedAt": "2026-11-21T03:15:14.233168Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

@@ -1,1 +1,16 @@
-{}
+{
+  "city-10544-2026-11-25": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-21T03:15:01.581088Z",
+    "title": "Wrap the Community in Support",
+    "date": "2026-11-25",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/wrap-the-community-in-support"
+  },
+  "city-10636-2026-11-25": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-21T03:15:01.581088Z",
+    "title": "The West Sydney Jam: Jeida Woods",
+    "date": "2026-11-25",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-west-sydney-jam-jeida-woods"
+  }
+}

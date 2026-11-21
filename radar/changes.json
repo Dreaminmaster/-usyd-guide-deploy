@@ -1,160 +1,51 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-20T18:37:50.026874Z",
-  "sourceCheckedAt": "2026-11-20T18:38:03.346Z",
+  "checkedAt": "2026-11-21T03:15:01.581088Z",
+  "sourceCheckedAt": "2026-11-21T03:15:14.140Z",
   "hasBaseline": true,
   "latest": [
     {
-      "kind": "possible_reschedule",
-      "id": "city-4128-2026-11-21",
-      "title": "Curtains Jazz Festival",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7375-2026-11-21",
-      "title": "Head On Photo Festival 2026",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8249-2026-11-21",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7958-2026-11-21",
-      "title": "Modernism and World Revolution",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5583-2026-11-21",
-      "title": "Frontline yoga at the Anzac Memorial",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8272-2026-11-21",
-      "title": "Floating Christmas Tree",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/floating-christmas-tree",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10379-2026-11-21",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5193-2026-11-23",
-      "title": "Theatre of Life Exhibition",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-6393-2026-11-23",
-      "title": "OK? Ok, ok…",
-      "oldDate": "2026-11-20",
-      "date": "2026-11-23",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
       "kind": "new",
-      "id": "city-7035-2026-11-25",
-      "title": "How to package your knowledge into a signature program",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/how-to-package-your-knowledge-into-a-signature-program",
+      "id": "city-6384-2026-11-21",
+      "title": "Dream Horse",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
       "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
+      "detectedAt": "2026-11-21T03:15:01.581088Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-7517-2026-11-25",
-      "title": "Free Salsa Classes in Kings Cross",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-salsa-classes-in-woolloomooloo",
+      "id": "city-10501-2026-11-21",
+      "title": "The Ralph Lauren holiday experience",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
       "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7738-2026-11-25",
-      "title": "Paul Loh & Andrei Dolnikov - Parallax",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/paul-loh-and-andrei-dolnikov-parallax",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10544-2026-11-25",
-      "title": "Wrap the Community in Support",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/wrap-the-community-in-support",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10636-2026-11-25",
-      "title": "The West Sydney Jam: Jeida Woods",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-west-sydney-jam-jeida-woods",
-      "priority": "low",
-      "detectedAt": "2026-11-20T18:37:50.026874Z",
+      "detectedAt": "2026-11-21T03:15:01.581088Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-6384-2026-11-21",
+      "title": "Dream Horse",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
+      "priority": "low",
+      "detectedAt": "2026-11-21T03:15:01.581088Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10501-2026-11-21",
+      "title": "The Ralph Lauren holiday experience",
+      "date": "2026-11-21",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
+      "priority": "low",
+      "detectedAt": "2026-11-21T03:15:01.581088Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "possible_reschedule",
       "id": "city-4128-2026-11-21",
@@ -438,16 +329,6 @@
       "title": "Fair Trade Festive Markets",
       "date": "2026-11-20",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/fair-trade-festive-markets",
-      "priority": "low",
-      "detectedAt": "2026-11-19T19:00:34.527492Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10501-2026-11-21",
-      "title": "The Ralph Lauren holiday experience",
-      "date": "2026-11-21",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
       "priority": "low",
       "detectedAt": "2026-11-19T19:00:34.527492Z",
       "notice": "First observed in Radar snapshot"
@@ -1187,23 +1068,13 @@
       "priority": "low",
       "detectedAt": "2026-11-16T20:31:16.715657Z",
       "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "new",
-      "id": "city-6384-2026-11-17",
-      "title": "Dream Horse",
-      "date": "2026-11-17",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
-      "priority": "low",
-      "detectedAt": "2026-11-16T20:31:16.715657Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 5,
+    "new": 2,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 9,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
