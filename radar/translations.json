@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-22T02:16:50.396246Z",
+  "updatedAt": "2026-11-22T17:52:03.194837Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 86,
+  "count": 84,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -381,14 +381,6 @@
       "translatedAt": "2026-11-17T19:12:32.819613Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-8459-2026-11-22": {
-      "sourceTitle": "Stitched Together",
-      "titleZh": "缝合在一起",
-      "sourceSummary": "A celebration of our community’s amazing achievements at our denim upcycling workshops!",
-      "summaryZh": "",
-      "translatedAt": "2026-11-20T03:24:17.257659Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-3718-2026-11-23": {
       "sourceTitle": "Forms and case management help in Mandarin and Hokkien",
       "titleZh": "提供普通话和闽南语的表格填写和个案管理帮助",
@@ -533,38 +525,6 @@
       "translatedAt": "2026-11-21T03:15:14.233168Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-7428-2026-11-22": {
-      "sourceTitle": "with, together:greens & browns - Shelley Watters,Emily Simek",
-      "titleZh": "与……一起：绿色与棕色 - Shelley Watters、Emily Simek",
-      "sourceSummary": "an expansive, collaborative project that explores gardening as a context for art-making mediated by technology",
-      "summaryZh": "这是一个广泛的协作项目，旨在探索将园艺作为艺术创作的背景，并以技术作为媒介。",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-4128-2026-11-22": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5817-2026-11-22": {
-      "sourceTitle": "Culture Alive Festivals",
-      "titleZh": "文化活力节",
-      "sourceSummary": "Take a trip around the globe with free festivals celebrating food, music and culture.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-22": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-10373-2026-12-05": {
       "sourceTitle": "2026 Mudgin-Gal Women's Festival",
       "titleZh": "2026年Mudgin-Gal妇女节",
@@ -579,62 +539,6 @@
       "sourceSummary": "Markets, Food Trucks, Kids' Fun + Live Music.",
       "summaryZh": "",
       "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-22": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8249-2026-11-22": {
-      "sourceTitle": "Vague Transparency from the Fotovague Collective",
-      "titleZh": "来自Fotovague Collective的“模糊的透明”",
-      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10379-2026-11-22": {
-      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
-      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-22": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6384-2026-11-22": {
-      "sourceTitle": "Dream Horse",
-      "titleZh": "梦幻骏马",
-      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T02:16:50.396246Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10501-2026-11-22": {
-      "sourceTitle": "The Ralph Lauren holiday experience",
-      "titleZh": "Ralph Lauren假日体验",
-      "sourceSummary": "A festive woodland escape.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T02:16:50.396246Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8272-2026-11-22": {
-      "sourceTitle": "Floating Christmas Tree",
-      "titleZh": "漂浮圣诞树",
-      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T02:16:50.396246Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-8016-2026-11-24": {
@@ -691,6 +595,86 @@
       "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
       "summaryZh": "",
       "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7428-2026-11-28": {
+      "sourceTitle": "with, together:greens & browns - Shelley Watters,Emily Simek",
+      "titleZh": "与……一起：绿色和棕色 - Shelley Watters、Emily Simek",
+      "sourceSummary": "an expansive, collaborative project that explores gardening as a context for art-making mediated by technology",
+      "summaryZh": "这是一个广泛的协作项目，旨在探索以园艺为背景、以技术为媒介的艺术创作。",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-23": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-23": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8249-2026-11-23": {
+      "sourceTitle": "Vague Transparency from the Fotovague Collective",
+      "titleZh": "来自Fotovague Collective的“模糊的透明”",
+      "sourceSummary": "A contemporary and street photography exhibition as part of the Head On Photography Festival.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-25": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-23": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-23": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8272-2026-11-23": {
+      "sourceTitle": "Floating Christmas Tree",
+      "titleZh": "漂浮圣诞树",
+      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10318-2026-11-25": {
+      "sourceTitle": "Older Women Count: Mural Dedication",
+      "titleZh": "“老年女性很重要”：壁画揭幕仪式",
+      "sourceSummary": "Join us to dedicate our new mural created in collaboration between OWN NSW, Inner West Council, and artist Sam McAleer.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10636-2026-11-25": {
+      "sourceTitle": "The West Sydney Jam: Jeida Woods",
+      "titleZh": "西悉尼即兴演出：Jeida Woods",
+      "sourceSummary": "Jeida Woods performs new unreleased songs with the West Sydney Jam house band at Albion Hotel Parramatta.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T17:52:03.194837Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
