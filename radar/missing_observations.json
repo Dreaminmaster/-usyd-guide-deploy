@@ -1,1 +1,44 @@
-{}
+{
+  "city-10636-2026-11-25": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-22T02:16:40.578392Z",
+    "title": "The West Sydney Jam: Jeida Woods",
+    "date": "2026-11-25",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-west-sydney-jam-jeida-woods"
+  },
+  "city-7557-2026-11-25": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-22T02:16:40.578392Z",
+    "title": "The Business Show Australia",
+    "date": "2026-11-25",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-business-show-australia"
+  },
+  "supra-262129-2026-11-26": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-22T02:16:40.578392Z",
+    "title": "Migration webinar for coursework students",
+    "date": "2026-11-26",
+    "url": "https://supra.net.au/event/migration-webinar-for-coursework-students-18/"
+  },
+  "supra-262104-2026-11-26": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-22T02:16:40.578392Z",
+    "title": "November SUPRA Council meeting",
+    "date": "2026-11-26",
+    "url": "https://supra.net.au/event/november-supra-council-meeting-5/"
+  },
+  "supra-263132-2026-12-17": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-22T02:16:40.578392Z",
+    "title": "Migration webinar for 485 visa applicants",
+    "date": "2026-12-17",
+    "url": "https://supra.net.au/event/migration-webinar-for-485-visa-applicants-9/"
+  },
+  "supra-262106-2026-12-17": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-22T02:16:40.578392Z",
+    "title": "December SUPRA Council meeting",
+    "date": "2026-12-17",
+    "url": "https://supra.net.au/event/december-supra-council-meeting-3/"
+  }
+}

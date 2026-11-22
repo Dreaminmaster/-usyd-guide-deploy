@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-21T17:36:48.286607Z",
+  "updatedAt": "2026-11-22T02:16:50.396246Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 78,
+  "count": 86,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -365,14 +365,6 @@
       "translatedAt": "2026-11-17T04:33:16.607511Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "supra-262129-2026-11-26": {
-      "sourceTitle": "Migration webinar for coursework students",
-      "titleZh": "针对修读课程的学生举办的迁移网络研讨会",
-      "sourceSummary": "Thursday 26 November 2026 2–4pm Zoom Join SUPRA Legal Service to find out about student visas and the different visa options available after your studies – tailored specifically for coursework students! Questions about any area of migration law will be taken b",
-      "summaryZh": "2026年11月26日（星期四）下午2点至4点 Zoom 加入悉尼大学研究生代表协会（SUPRA）法律服务，了解学生签证以及学业结束后可选择的不同签证类型——专为授课型学生量身定制！将接受有关移民法任何领域的问题。",
-      "translatedAt": "2026-11-17T19:12:32.819613Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-7734-2026-11-26": {
       "sourceTitle": "Tech fundamentals - AI literacy",
       "titleZh": "技术基础 - 人工智能素养",
@@ -387,14 +379,6 @@
       "sourceSummary": "Provider Density and Quality in German Home Health Care 费用说明：free",
       "summaryZh": "德国居家医疗护理服务提供者的密度和质量",
       "translatedAt": "2026-11-17T19:12:32.819613Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-262104-2026-11-26": {
-      "sourceTitle": "November SUPRA Council meeting",
-      "titleZh": "11月SUPRA理事会会议",
-      "sourceSummary": "Thursday 26 November 2026 6:30pm Zoom Join us for our monthly SUPRA Council meeting! Find out what your student representatives have been working on, participate in discussions and get to know your representatives! All postgrads welcome. Email secretary@supra.",
-      "summaryZh": "2026年11月26日（星期四）下午6:30 Zoom欢迎参加我们的SUPRA理事会月度会议！了解学生代表一直在开展哪些工作，参与讨论，并认识你的代表！欢迎所有研究生参加。请发送电子邮件至secretary@supra.",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-8459-2026-11-22": {
@@ -627,6 +611,86 @@
       "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
       "summaryZh": "",
       "translatedAt": "2026-11-21T17:36:48.286607Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-22": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10501-2026-11-22": {
+      "sourceTitle": "The Ralph Lauren holiday experience",
+      "titleZh": "Ralph Lauren假日体验",
+      "sourceSummary": "A festive woodland escape.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8272-2026-11-22": {
+      "sourceTitle": "Floating Christmas Tree",
+      "titleZh": "漂浮圣诞树",
+      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8016-2026-11-24": {
+      "sourceTitle": "Social group for Chinese speaking seniors",
+      "titleZh": "华人老年人社交团体",
+      "sourceSummary": "Join this friendly group of older people each week for coffee and conversations",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8017-2026-11-24": {
+      "sourceTitle": "Social sewing sessions",
+      "titleZh": "社交缝纫课",
+      "sourceSummary": "Come along to sew and chat with friends.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8046-2026-11-24": {
+      "sourceTitle": "Ukulele class: Beginners to advanced",
+      "titleZh": "尤克里里课程：初级到高级",
+      "sourceSummary": "Strum your troubles away in this fun class for all ages and levels of experience",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8439-2026-11-24": {
+      "sourceTitle": "Sydney Photo Challenge – The Rocks (phones and cameras)",
+      "titleZh": "悉尼摄影挑战赛 – 岩石区（手机和相机）",
+      "sourceSummary": "Walk around Sydney's \"The Rocks\" area while taking photos",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10544-2026-11-25": {
+      "sourceTitle": "Wrap the Community in Support",
+      "titleZh": "为社区提供支持",
+      "sourceSummary": "A public art installation at Circular Quay raises awareness of domestic and family violence.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10624-2026-11-25": {
+      "sourceTitle": "Sale season sorted: build your Brand System with Canva",
+      "titleZh": "促销季准备就绪：使用 Canva 构建您的品牌系统",
+      "sourceSummary": "Hands-on session to build and scale your brand, so you're ready for sale season.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2549-2026-11-25": {
+      "sourceTitle": "Come and get techie: Green Square Library",
+      "titleZh": "来感受科技魅力：格林广场图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-22T02:16:50.396246Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

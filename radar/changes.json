@@ -1,160 +1,51 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-21T17:36:38.027745Z",
-  "sourceCheckedAt": "2026-11-21T17:36:48.215Z",
+  "checkedAt": "2026-11-22T02:16:40.578392Z",
+  "sourceCheckedAt": "2026-11-22T02:16:50.210Z",
   "hasBaseline": true,
   "latest": [
     {
-      "kind": "possible_reschedule",
-      "id": "city-7428-2026-11-22",
-      "title": "with, together:greens & browns - Shelley Watters,Emily Simek",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/with-together-greens-and-browns-shelley-watters-emily-simek",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5817-2026-11-22",
-      "title": "Culture Alive Festivals",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/culture-alive-festivals",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-4128-2026-11-22",
-      "title": "Curtains Jazz Festival",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7375-2026-11-22",
-      "title": "Head On Photo Festival 2026",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8249-2026-11-22",
-      "title": "Vague Transparency from the Fotovague Collective",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vague-transparency-from-the-fotovague-collective",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7958-2026-11-22",
-      "title": "Modernism and World Revolution",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5583-2026-11-22",
-      "title": "Frontline yoga at the Anzac Memorial",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8272-2026-11-22",
-      "title": "Floating Christmas Tree",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/floating-christmas-tree",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10379-2026-11-22",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "oldDate": "2026-11-21",
-      "date": "2026-11-22",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
       "kind": "new",
-      "id": "city-10544-2026-11-25",
-      "title": "Wrap the Community in Support",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/wrap-the-community-in-support",
+      "id": "city-6384-2026-11-22",
+      "title": "Dream Horse",
+      "date": "2026-11-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
       "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
+      "detectedAt": "2026-11-22T02:16:40.578392Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-10636-2026-11-25",
-      "title": "The West Sydney Jam: Jeida Woods",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-west-sydney-jam-jeida-woods",
+      "id": "city-10501-2026-11-22",
+      "title": "The Ralph Lauren holiday experience",
+      "date": "2026-11-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
       "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7557-2026-11-25",
-      "title": "The Business Show Australia",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-business-show-australia",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10373-2026-12-05",
-      "title": "2026 Mudgin-Gal Women's Festival",
-      "date": "2026-12-05",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/2026-mudgin-gal-womens-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6445-2026-12-05",
-      "title": "Vine Church Christmas Festival",
-      "date": "2026-12-05",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vine-church-christmas-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-21T17:36:38.027745Z",
+      "detectedAt": "2026-11-22T02:16:40.578392Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-6384-2026-11-22",
+      "title": "Dream Horse",
+      "date": "2026-11-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse",
+      "priority": "low",
+      "detectedAt": "2026-11-22T02:16:40.578392Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10501-2026-11-22",
+      "title": "The Ralph Lauren holiday experience",
+      "date": "2026-11-22",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
+      "priority": "low",
+      "detectedAt": "2026-11-22T02:16:40.578392Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "possible_reschedule",
       "id": "city-7428-2026-11-22",
@@ -1183,33 +1074,13 @@
       "priority": "low",
       "detectedAt": "2026-11-17T04:33:03.985170Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "usyd-cec7a2c2-807f-4b4d-a3e1-5cf67b1e2ab8-2026-11-17",
-      "title": "Microeconometrics & Public Policy seminar | Priyanka Goonetilleke | Texas A&M University School of Law",
-      "date": "2026-11-17",
-      "url": "https://whatson.sydney.edu.au/event/cec7a2c2-807f-4b4d-a3e1-5cf67b1e2ab8/Microeconometrics-%26-Public-Policy-seminar-%7C-Priyanka-Goonetilleke-%7C-Texas-A%26M-University-School-of-Law",
-      "priority": "low",
-      "detectedAt": "2026-11-17T04:33:03.985170Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10657-2026-11-18",
-      "title": "Community over Code",
-      "date": "2026-11-18",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/community-over-code-sydney-18-19-november-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-17T04:33:03.985170Z",
-      "notice": "First observed in Radar snapshot"
     }
   ],
   "counts": {
-    "new": 5,
+    "new": 2,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 9,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
