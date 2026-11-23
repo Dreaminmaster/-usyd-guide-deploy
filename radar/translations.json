@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-22T17:52:03.194837Z",
+  "updatedAt": "2026-11-23T02:51:29.396350Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 84,
+  "count": 94,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -675,6 +675,86 @@
       "sourceSummary": "Jeida Woods performs new unreleased songs with the West Sydney Jam house band at Albion Hotel Parramatta.",
       "summaryZh": "",
       "translatedAt": "2026-11-22T17:52:03.194837Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-262129-2026-11-26": {
+      "sourceTitle": "Migration webinar for coursework students",
+      "titleZh": "针对修读课程的学生举办的迁移网络研讨会",
+      "sourceSummary": "Thursday 26 November 2026 2–4pm Zoom Join SUPRA Legal Service to find out about student visas and the different visa options available after your studies – tailored specifically for coursework students! Questions about any area of migration law will be taken b",
+      "summaryZh": "2026年11月26日（星期四）下午2点至4点 Zoom 加入SUPRA法律服务，了解学生签证以及学业结束后可选择的不同签证类型——专为授课型学生量身定制！将接受有关移民法任何领域的问题。",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-museum-ancient-assyria-new-perspectives-2026-12-12": {
+      "sourceTitle": "Ancient Assyria: New Perspectives on an Ancient Culture",
+      "titleZh": "古亚述：对一种古老文化的新视角",
+      "sourceSummary": "We invite you to examine Assyrian history, art and archaeology through two lectures.",
+      "summaryZh": "我们诚邀您通过两场讲座来了解亚述的历史、艺术和考古。",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-262104-2026-11-26": {
+      "sourceTitle": "November SUPRA Council meeting",
+      "titleZh": "11月SUPRA理事会会议",
+      "sourceSummary": "Thursday 26 November 2026 6:30pm Zoom Join us for our monthly SUPRA Council meeting! Find out what your student representatives have been working on, participate in discussions and get to know your representatives! All postgrads welcome. Email secretary@supra.",
+      "summaryZh": "2026年11月26日（星期四）下午6:30 Zoom欢迎参加我们的每月一次的SUPRA理事会会议！了解学生代表一直在开展哪些工作，参与讨论，并认识你的代表！欢迎所有研究生参加。请发送电子邮件至secretary@supra.",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5709-2026-11-25": {
+      "sourceTitle": "Guitar/bass beginner & intermediate group lessons",
+      "titleZh": "吉他/贝斯初级和中级团体课程",
+      "sourceSummary": "Join this friendly 10 week course",
+      "summaryZh": "",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6261-2026-11-25": {
+      "sourceTitle": "Salsa Wednesdays at Hay St",
+      "titleZh": "海街周三萨尔萨舞之夜",
+      "sourceSummary": "Turn your midweek into a dance floor –  lesson, DJ and live Latin music.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7035-2026-11-25": {
+      "sourceTitle": "How to package your knowledge into a signature program",
+      "titleZh": "如何将您的知识打包成招牌课程",
+      "sourceSummary": "What if you could attract your ideal clients, simplify your business and charge what you're truly worth?",
+      "summaryZh": "",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7517-2026-11-25": {
+      "sourceTitle": "Free Salsa Classes in Kings Cross",
+      "titleZh": "国王十字区的免费萨尔萨舞课程",
+      "sourceSummary": "Discover the fun and energy of salsa with our Wednesday night classes in Kings Cross",
+      "summaryZh": "",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7557-2026-11-25": {
+      "sourceTitle": "The Business Show Australia",
+      "titleZh": "澳大利亚商业展",
+      "sourceSummary": "The ultimate event for entrepreneurs and business owners looking to connect and scale up!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7738-2026-11-25": {
+      "sourceTitle": "Paul Loh & Andrei Dolnikov - Parallax",
+      "titleZh": "Paul Loh和Andrei Dolnikov - Parallax",
+      "sourceSummary": "Join us for the launch of Parallax: Architectural Visualisation Now",
+      "summaryZh": "",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8462-2026-11-26": {
+      "sourceTitle": "Traditional Korean Sweets Workshop: Dried Persimmons",
+      "titleZh": "传统韩式甜品工坊：柿饼",
+      "sourceSummary": "Traditional Korean Sweets Workshop",
+      "summaryZh": "",
+      "translatedAt": "2026-11-23T02:51:29.396350Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
