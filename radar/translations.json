@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-23T22:04:32.759459Z",
+  "updatedAt": "2026-11-24T06:05:56.848326Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 88,
+  "count": 96,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -707,6 +707,70 @@
       "sourceSummary": "Enjoy a live choir performance and join in a community singing workshop with Sydney Street Choir.",
       "summaryZh": "",
       "translatedAt": "2026-11-23T22:04:32.759459Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-24": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10501-2026-11-24": {
+      "sourceTitle": "The Ralph Lauren holiday experience",
+      "titleZh": "Ralph Lauren假日体验",
+      "sourceSummary": "A festive woodland escape.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-2548-2026-11-26": {
+      "sourceTitle": "Come and get techie: Darling Square Library",
+      "titleZh": "来感受科技魅力：达令广场图书馆",
+      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
+      "summaryZh": "",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4215-2026-11-26": {
+      "sourceTitle": "Asphalt words and ocean dreams",
+      "titleZh": "柏油路上的文字和海洋的梦想",
+      "sourceSummary": "A cosy open mic for poets and writers in a brewery",
+      "summaryZh": "",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6702-2026-11-26": {
+      "sourceTitle": "Chinese painting for beginners to advanced",
+      "titleZh": "适合初学者到高级水平的中国画课程",
+      "sourceSummary": "A free weekly class for beginners, led by an experienced Mandarin speaking tutor.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10556-2026-12-07": {
+      "sourceTitle": "UNSW Art & Design | The Annual Graduate Exhibition",
+      "titleZh": "新南威尔士大学艺术与设计学院 | 年度研究生作品展",
+      "sourceSummary": "The Annual, Australia's largest showcase of graduate art and design returns from 7 -13 December.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-263132-2026-12-17": {
+      "sourceTitle": "Migration webinar for 485 visa applicants",
+      "titleZh": "针对485签证申请人的移民网络研讨会",
+      "sourceSummary": "Thursday 17 December 2026 2–4pm Zoom Need help preparing your 485 visa application? Join SUPRA Legal Service for a practical session covering what you need, how to prepare, and answers to common questions about 485 visas. Each section includes a short Q&A, and",
+      "summaryZh": "2026年12月17日（星期四）下午2–4点 Zoom会议需要帮助准备485签证申请吗？欢迎参加SUPRA法律服务处的实用讲座，了解您需要准备的材料、如何准备以及485签证常见问题的解答。每个部分都包括简短的问答环节，以及",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "supra-262106-2026-12-17": {
+      "sourceTitle": "December SUPRA Council meeting",
+      "titleZh": "12月SUPRA理事会会议",
+      "sourceSummary": "Official SUPRA event. See source for eligibility, registration and costs.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-24T06:05:56.848326Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
