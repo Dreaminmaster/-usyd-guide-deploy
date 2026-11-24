@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-24T06:05:42.044476Z",
-  "feedCheckedAt": "2026-11-24T06:05:56.750Z",
+  "checkedAt": "2026-11-24T20:41:03.762372Z",
+  "feedCheckedAt": "2026-11-24T20:41:14.202Z",
   "feedStatus": "ok",
-  "events": 97,
-  "news": 17,
+  "events": 93,
+  "news": 16,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-24T06:05:42.044476Z",
+  "lastScheduledRunAt": "2026-11-24T20:41:03.762372Z",
   "changes": {
-    "new": 3,
+    "new": 14,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 11,
     "notObserved": 0
   },
   "coverage": {
@@ -31,6 +31,7 @@
       "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动",
+      "University of Sydney · Sydney Ideas",
       "USU · Official public event calendar"
     ],
     "zeroExtracted": [
@@ -43,14 +44,17 @@
       "USYD Students · 学生服务",
       "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
-      "SRC · 本科生代表组织活动"
+      "SRC · 本科生代表组织活动",
+      "University of Sydney · Sydney Ideas",
+      "GPT-reviewed public discoveries (GitHub)"
     ],
     "campusZeroExtracted": [
       "SUPRA 研究生协会",
       "USYD Students · 学生服务",
       "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
-      "SRC · 本科生代表组织活动"
+      "SRC · 本科生代表组织活动",
+      "University of Sydney · Sydney Ideas"
     ],
     "providerCoverage": {
       "USU": {
@@ -60,7 +64,7 @@
           "USU · 全部公开活动",
           "USU · Official public event calendar"
         ],
-        "maxChannelRecordCount": 4,
+        "maxChannelRecordCount": 3,
         "zeroChannels": [],
         "partialChannels": [
           "USU · Official public event calendar"
