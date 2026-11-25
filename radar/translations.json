@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-25T04:54:40.299069Z",
+  "updatedAt": "2026-11-25T19:57:49.856756Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 77,
+  "count": 67,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -177,8 +177,8 @@
       "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第3天",
       "titleZh": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第3天",
       "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-06T02:30:52.471850Z",
+      "summaryZh": "CHIME成立于1990年，是一家面向全球中国音乐学者和学生的平台。第29届会议由中国研究中心赞助，由悉尼大学悉尼音乐学院主办。",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-04": {
@@ -195,14 +195,6 @@
       "sourceSummary": "Celebrate DHIN’s 2026 achievements with a short presentation, networking, drinks, and catering provided. 费用说明：free",
       "summaryZh": "通过简短的演讲、社交、饮品和餐饮，庆祝 DHIN 在 2026 年取得的成就。",
       "translatedAt": "2026-11-14T22:31:23.085360Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usu-exam-ready-2026-11-25": {
-      "sourceTitle": "Exam Ready: free meals and snacks",
-      "titleZh": "备考：免费餐食和零食",
-      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
-      "summaryZh": "USU会员12:00可享免费午餐；USYD学生17:30可享免费社区晚餐。所有优惠售完即止。",
-      "translatedAt": "2026-11-13T02:39:24.242251Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-exam-ready-2026-11-26": {
@@ -301,43 +293,11 @@
       "translatedAt": "2026-11-21T17:36:48.286607Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10624-2026-11-25": {
-      "sourceTitle": "Sale season sorted: build your Brand System with Canva",
-      "titleZh": "促销季准备就绪：使用 Canva 构建您的品牌系统",
-      "sourceSummary": "Hands-on session to build and scale your brand, so you're ready for sale season.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T02:16:50.396246Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-2549-2026-11-25": {
-      "sourceTitle": "Come and get techie: Green Square Library",
-      "titleZh": "来感受科技魅力：格林广场图书馆",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the library",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T02:16:50.396246Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-7428-2026-11-28": {
       "sourceTitle": "with, together:greens & browns - Shelley Watters,Emily Simek",
       "titleZh": "与……一起：绿色和棕色 - Shelley Watters、Emily Simek",
       "sourceSummary": "an expansive, collaborative project that explores gardening as a context for art-making mediated by technology",
       "summaryZh": "这是一个广泛的协作项目，旨在探索以园艺为背景、以技术为媒介的艺术创作。",
-      "translatedAt": "2026-11-22T17:52:03.194837Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-25": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T17:52:03.194837Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10318-2026-11-25": {
-      "sourceTitle": "Older Women Count: Mural Dedication",
-      "titleZh": "“老年女性很重要”：壁画揭幕仪式",
-      "sourceSummary": "Join us to dedicate our new mural created in collaboration between OWN NSW, Inner West Council, and artist Sam McAleer.",
-      "summaryZh": "",
       "translatedAt": "2026-11-22T17:52:03.194837Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -354,46 +314,6 @@
       "titleZh": "11月SUPRA理事会会议",
       "sourceSummary": "Thursday 26 November 2026 6:30pm Zoom Join us for our monthly SUPRA Council meeting! Find out what your student representatives have been working on, participate in discussions and get to know your representatives! All postgrads welcome. Email secretary@supra.",
       "summaryZh": "2026年11月26日（星期四）下午6:30 Zoom欢迎参加我们的每月一次的SUPRA理事会会议！了解学生代表一直在开展哪些工作，参与讨论，并认识你的代表！欢迎所有研究生参加。请发送电子邮件至secretary@supra.",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5709-2026-11-25": {
-      "sourceTitle": "Guitar/bass beginner & intermediate group lessons",
-      "titleZh": "吉他/贝斯初级和中级团体课程",
-      "sourceSummary": "Join this friendly 10 week course",
-      "summaryZh": "",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6261-2026-11-25": {
-      "sourceTitle": "Salsa Wednesdays at Hay St",
-      "titleZh": "海街周三萨尔萨舞之夜",
-      "sourceSummary": "Turn your midweek into a dance floor –  lesson, DJ and live Latin music.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7035-2026-11-25": {
-      "sourceTitle": "How to package your knowledge into a signature program",
-      "titleZh": "如何将您的知识打包成招牌课程",
-      "sourceSummary": "What if you could attract your ideal clients, simplify your business and charge what you're truly worth?",
-      "summaryZh": "",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7517-2026-11-25": {
-      "sourceTitle": "Free Salsa Classes in Kings Cross",
-      "titleZh": "国王十字区的免费萨尔萨舞课程",
-      "sourceSummary": "Discover the fun and energy of salsa with our Wednesday night classes in Kings Cross",
-      "summaryZh": "",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7738-2026-11-25": {
-      "sourceTitle": "Paul Loh & Andrei Dolnikov - Parallax",
-      "titleZh": "Paul Loh和Andrei Dolnikov - Parallax",
-      "sourceSummary": "Join us for the launch of Parallax: Architectural Visualisation Now",
-      "summaryZh": "",
       "translatedAt": "2026-11-23T02:51:29.396350Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -477,70 +397,6 @@
       "translatedAt": "2026-11-24T06:05:56.848326Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-4128-2026-11-25": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-25": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5193-2026-11-25": {
-      "sourceTitle": "Theatre of Life Exhibition",
-      "titleZh": "“人生舞台”展览",
-      "sourceSummary": "Welcome to the Theatre of Life",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7221-2026-11-25": {
-      "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
-      "titleZh": "澳大利亚巴洛克风格静物摄影展",
-      "sourceSummary": "A contemporary still life photography exhibition presented as part of the Head On Photo Festival Open Program.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10379-2026-11-25": {
-      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
-      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-25": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5655-2026-11-25": {
-      "sourceTitle": "English class for seniors",
-      "titleZh": "老年人英语课",
-      "sourceSummary": "Free weekly class suitable for beginner and intermediate level learners",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6393-2026-11-25": {
-      "sourceTitle": "OK? Ok, ok…",
-      "titleZh": "行行行",
-      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-a768cb90-5bc7-48a5-8910-c1b6fa548002-2026-11-29": {
       "sourceTitle": "SugarFest",
       "titleZh": "糖果节",
@@ -589,22 +445,6 @@
       "translatedAt": "2026-11-25T04:54:40.299069Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-12882-2026-11-25": {
-      "sourceTitle": "Portraits with a voice",
-      "titleZh": "有声肖像",
-      "sourceSummary": "An online exhibition featuring portraits and stories from people with lived experience of disability.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T04:54:40.299069Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8272-2026-11-25": {
-      "sourceTitle": "Floating Christmas Tree",
-      "titleZh": "漂浮圣诞树",
-      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T04:54:40.299069Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-3901-2026-11-26": {
       "sourceTitle": "DJ Nights",
       "titleZh": "DJ之夜",
@@ -619,6 +459,86 @@
       "sourceSummary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
       "summaryZh": "",
       "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-26": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-26": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6997-2026-12-09": {
+      "sourceTitle": "Tech & Creative Holiday Camps for ages 5–12",
+      "titleZh": "面向5–12岁儿童的科技与创意假日营",
+      "sourceSummary": "Hands-on activities in coding, robotics, Minecraft, Roblox, animation, crafting and more for fun learning these holidays",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12882-2026-11-26": {
+      "sourceTitle": "Portraits with a voice",
+      "titleZh": "有声肖像",
+      "sourceSummary": "An online exhibition featuring portraits and stories from people with lived experience of disability.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5193-2026-11-26": {
+      "sourceTitle": "Theatre of Life Exhibition",
+      "titleZh": "“人生剧场”展览",
+      "sourceSummary": "Welcome to the Theatre of Life",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6384-2026-11-26": {
+      "sourceTitle": "Dream Horse",
+      "titleZh": "梦幻骏马",
+      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7221-2026-11-26": {
+      "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
+      "titleZh": "澳大利亚巴洛克静物摄影展",
+      "sourceSummary": "A contemporary still life photography exhibition presented as part of the Head On Photo Festival Open Program.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-26": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-26": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10501-2026-11-26": {
+      "sourceTitle": "The Ralph Lauren holiday experience",
+      "titleZh": "Ralph Lauren假日体验",
+      "sourceSummary": "A festive woodland escape.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T19:57:49.856756Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-25T04:54:28.192814Z",
-  "feedCheckedAt": "2026-11-25T04:54:40.123Z",
+  "checkedAt": "2026-11-25T19:57:38.501408Z",
+  "feedCheckedAt": "2026-11-25T19:57:49.714Z",
   "feedStatus": "ok",
   "events": 96,
   "news": 16,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-25T04:54:28.192814Z",
+  "lastScheduledRunAt": "2026-11-25T19:57:38.501408Z",
   "changes": {
-    "new": 19,
+    "new": 13,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 10,
     "notObserved": 0
   },
   "coverage": {
@@ -31,7 +31,6 @@
       "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动",
-      "City of Sydney · Coding",
       "University of Sydney · Sydney Ideas",
       "USU · Official public event calendar"
     ],
@@ -46,7 +45,6 @@
       "USYD SRC · 本科生权益",
       "SUPRA · 研究生权益",
       "SRC · 本科生代表组织活动",
-      "City of Sydney · Coding",
       "University of Sydney · Sydney Ideas",
       "GPT-reviewed public discoveries (GitHub)"
     ],
@@ -108,17 +106,16 @@
         "channelsWithRecords": [
           "City of Sydney · Workshops",
           "City of Sydney · Technology",
+          "City of Sydney · Coding",
           "City of Sydney · Seminars",
           "City of Sydney · Festivals"
         ],
-        "maxChannelRecordCount": 47,
+        "maxChannelRecordCount": 48,
         "zeroChannels": [
-          "City of Sydney · What's On",
-          "City of Sydney · Coding"
+          "City of Sydney · What's On"
         ],
         "partialChannels": [
-          "City of Sydney · What's On",
-          "City of Sydney · Coding"
+          "City of Sydney · What's On"
         ],
         "hasExtractedRecords": true
       }
