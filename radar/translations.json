@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-24T20:41:14.292753Z",
+  "updatedAt": "2026-11-25T04:54:40.299069Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
   "count": 77,
@@ -229,30 +229,6 @@
       "translatedAt": "2026-11-14T02:29:04.578049Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-museum-sugarfest-2026-11-29": {
-      "sourceTitle": "SugarFest",
-      "titleZh": "糖果节",
-      "sourceSummary": "Come celebrate and learn about Oceanic culture, history and music. Dance. Weave. Listen. Yarn. Eat. Explore.",
-      "summaryZh": "来庆祝并了解大洋洲文化、历史和音乐。舞蹈。编织。聆听。闲聊。美食。探索。",
-      "translatedAt": "2026-11-14T02:29:04.578049Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-museum-ithaca-beyond-the-odyssey-2026-12-01": {
-      "sourceTitle": "Ithaca beyond the Odyssey",
-      "titleZh": "《奥德赛》之外的伊萨卡",
-      "sourceSummary": "Hear about new maritime archaeological research into the Greek island of Ithaca, the famed homeland of Odysseus.",
-      "summaryZh": "了解对希腊伊萨卡岛（奥德修斯的著名故乡）进行的新海洋考古研究。",
-      "translatedAt": "2026-11-14T02:29:04.578049Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-museum-seidler-sessions-2026-12-05": {
-      "sourceTitle": "Seidler Session 5: Seidler, the Sydney Opera House and thin-shell concrete structures",
-      "titleZh": "Seidler系列课程第5讲：Seidler、悉尼歌剧院和薄壳混凝土结构",
-      "sourceSummary": "Emeritus Professor James Weirick keynote.",
-      "summaryZh": "荣誉退休教授James Weirick的主旨演讲。",
-      "translatedAt": "2026-11-14T02:29:04.578049Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-10613-2026-11-28": {
       "sourceTitle": "Free Christmas Wreath Making Workshop at Martin Place",
       "titleZh": "马丁广场免费圣诞花环制作工坊",
@@ -267,14 +243,6 @@
       "sourceSummary": "Celebrate Christmas in Double Bay with Conrad Sewell, Paulini, Shannon Noll, festive markets, live music and fireworks!",
       "summaryZh": "",
       "translatedAt": "2026-11-14T16:37:42.975602Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-museum-reimagining-heritage-and-museums-climate-emergency-2026-12-08": {
-      "sourceTitle": "Reimagining heritage and museums for the climate emergency",
-      "titleZh": "为应对气候紧急情况，重新构想文化遗产和博物馆",
-      "sourceSummary": "A panel that asks how, might museums and the cultural sector support actions for climate empowerment?",
-      "summaryZh": "一个讨论小组，探讨博物馆和文化部门如何支持气候赋能行动。",
-      "translatedAt": "2026-11-14T22:31:58.631018Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-922f8b13-ce8a-4755-a336-6cbb4067210f-2026-11-26": {
@@ -333,14 +301,6 @@
       "translatedAt": "2026-11-21T17:36:48.286607Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10544-2026-11-25": {
-      "sourceTitle": "Wrap the Community in Support",
-      "titleZh": "为社区提供支持",
-      "sourceSummary": "A public art installation at Circular Quay raises awareness of domestic and family violence.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T02:16:50.396246Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-10624-2026-11-25": {
       "sourceTitle": "Sale season sorted: build your Brand System with Canva",
       "titleZh": "促销季准备就绪：使用 Canva 构建您的品牌系统",
@@ -381,27 +341,11 @@
       "translatedAt": "2026-11-22T17:52:03.194837Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10636-2026-11-25": {
-      "sourceTitle": "The West Sydney Jam: Jeida Woods",
-      "titleZh": "西悉尼即兴演出：Jeida Woods",
-      "sourceSummary": "Jeida Woods performs new unreleased songs with the West Sydney Jam house band at Albion Hotel Parramatta.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-22T17:52:03.194837Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "supra-262129-2026-11-26": {
       "sourceTitle": "Migration webinar for coursework students",
       "titleZh": "针对修读课程的学生举办的迁移网络研讨会",
       "sourceSummary": "Thursday 26 November 2026 2–4pm Zoom Join SUPRA Legal Service to find out about student visas and the different visa options available after your studies – tailored specifically for coursework students! Questions about any area of migration law will be taken b",
       "summaryZh": "2026年11月26日（星期四）下午2点至4点 Zoom 加入SUPRA法律服务，了解学生签证以及学业结束后可选择的不同签证类型——专为授课型学生量身定制！将接受有关移民法任何领域的问题。",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-museum-ancient-assyria-new-perspectives-2026-12-12": {
-      "sourceTitle": "Ancient Assyria: New Perspectives on an Ancient Culture",
-      "titleZh": "古亚述：对一种古老文化的新视角",
-      "sourceSummary": "We invite you to examine Assyrian history, art and archaeology through two lectures.",
-      "summaryZh": "我们诚邀您通过两场讲座来了解亚述的历史、艺术和考古。",
       "translatedAt": "2026-11-23T02:51:29.396350Z",
       "provider": "MyMemory (free, best effort)"
     },
@@ -441,14 +385,6 @@
       "sourceTitle": "Free Salsa Classes in Kings Cross",
       "titleZh": "国王十字区的免费萨尔萨舞课程",
       "sourceSummary": "Discover the fun and energy of salsa with our Wednesday night classes in Kings Cross",
-      "summaryZh": "",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7557-2026-11-25": {
-      "sourceTitle": "The Business Show Australia",
-      "titleZh": "澳大利亚商业展",
-      "sourceSummary": "The ultimate event for entrepreneurs and business owners looking to connect and scale up!",
       "summaryZh": "",
       "translatedAt": "2026-11-23T02:51:29.396350Z",
       "provider": "MyMemory (free, best effort)"
@@ -565,14 +501,6 @@
       "translatedAt": "2026-11-24T20:41:14.292753Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-6384-2026-11-25": {
-      "sourceTitle": "Dream Horse",
-      "titleZh": "梦幻骏马",
-      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-7221-2026-11-25": {
       "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
       "titleZh": "澳大利亚巴洛克风格静物摄影展",
@@ -585,14 +513,6 @@
       "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
       "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
       "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10501-2026-11-25": {
-      "sourceTitle": "The Ralph Lauren holiday experience",
-      "titleZh": "Ralph Lauren假日体验",
-      "sourceSummary": "A festive woodland escape.",
       "summaryZh": "",
       "translatedAt": "2026-11-24T20:41:14.292753Z",
       "provider": "MyMemory (free, best effort)"
@@ -619,6 +539,86 @@
       "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
       "summaryZh": "",
       "translatedAt": "2026-11-24T20:41:14.292753Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-a768cb90-5bc7-48a5-8910-c1b6fa548002-2026-11-29": {
+      "sourceTitle": "SugarFest",
+      "titleZh": "糖果节",
+      "sourceSummary": "Celebrate Oceanic culture, history and community with a vibrant day of live music, dance, weaving, food and family-friendly activities. 费用说明：free",
+      "summaryZh": "通过充满活力的现场音乐、舞蹈、编织、美食和适合家庭的活动，庆祝大洋洲的文化、历史和社区。",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-89a6b7c5-f115-4d70-9080-2f65cb8aad42-2026-11-27": {
+      "sourceTitle": "Jazz and Democracy: The 2026 Nicholas Aroney Democracy Lecture",
+      "titleZh": "爵士乐与民主：2026年尼古拉斯·阿罗尼民主讲座",
+      "sourceSummary": "Can jazz teach us about democracy? Join Dr Wesley Watkins for an engaging musical presentation connecting jazz, democratic values and civic responsibility. 费用说明：paid",
+      "summaryZh": "爵士乐能教给我们民主吗？与Wesley Watkins博士一起观看一场引人入胜的音乐表演，将爵士乐、民主价值观和公民责任联系起来。",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-9173b6d2-371b-4421-b46e-9a155dfdec7c-2026-12-01": {
+      "sourceTitle": "Ithaca Beyond The Odyssey",
+      "titleZh": "《奥德赛》之外的伊萨卡",
+      "sourceSummary": "Hear from Nicholas Flynn about new maritime archaeological research into the Greek island of Ithaca, the famed homeland of Odysseus. 费用说明：paid",
+      "summaryZh": "听尼古拉斯·弗林（Nicholas Flynn）讲述对希腊伊萨卡岛（奥德修斯著名的故乡）进行的新海上考古研究。",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-25df16c4-0929-4d93-8684-0f9681923e18-2026-12-05": {
+      "sourceTitle": "Seidler Session 5: Seidler, the Sydney Opera House and thin-shell concrete structures",
+      "titleZh": "Seidler系列课程第5讲：Seidler、悉尼歌剧院和薄壳混凝土结构",
+      "sourceSummary": "James Weirick keynote on Seidler, the Sydney Opera House and thin-shell concrete structures 费用说明：paid",
+      "summaryZh": "James Weirick关于Seidler、悉尼歌剧院和薄壳混凝土结构的专题演讲",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-b95f6d92-da92-44ff-940a-6f585d439fae-2026-12-08": {
+      "sourceTitle": "Reimagining heritage and museums for the climate emergency",
+      "titleZh": "为应对气候紧急情况，重新构想文化遗产和博物馆",
+      "sourceSummary": "How can museums help shape a more sustainable future? Join an international panel exploring the role of cultural heritage in climate action and environmental justice. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-2f308ec5-c381-4753-9af4-0d1f02b5f681-2026-12-12": {
+      "sourceTitle": "Ancient Assyria: New Perspectives on an Ancient Culture",
+      "titleZh": "古亚述：对一种古老文化的全新视角",
+      "sourceSummary": "Join us for two talks examining Assyrian history, art and archaeology, from ancient cuneiform writing to the enduring legacy of Assyrian civilisation. 费用说明：paid",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12882-2026-11-25": {
+      "sourceTitle": "Portraits with a voice",
+      "titleZh": "有声肖像",
+      "sourceSummary": "An online exhibition featuring portraits and stories from people with lived experience of disability.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8272-2026-11-25": {
+      "sourceTitle": "Floating Christmas Tree",
+      "titleZh": "漂浮圣诞树",
+      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-3901-2026-11-26": {
+      "sourceTitle": "DJ Nights",
+      "titleZh": "DJ之夜",
+      "sourceSummary": "Thursdays just got better!",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6269-2026-11-26": {
+      "sourceTitle": "Line Dancing Thursdays at Hay St",
+      "titleZh": "周四在Hay St跳排舞",
+      "sourceSummary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-25T04:54:40.299069Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
