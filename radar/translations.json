@@ -1,42 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-26T04:10:48.570402Z",
+  "updatedAt": "2026-11-26T19:40:18.318527Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 75,
+  "count": 55,
   "entries": {
-    "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
-      "sourceTitle": "Misconduct policies in light of increased generative AI use",
-      "titleZh": "生成式 AI 使用增长背景下的学术不端政策",
-      "sourceSummary": "A/Prof Mohammad Hosseini, Northwestern University, presents this Evidence Policy and Influence Collaborative Seminar 费用说明：free",
-      "summaryZh": "西北大学副教授Mohammad Hosseini主持本次“证据、政策与影响力”协作研讨会",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "human-reviewed initial title translation"
-    },
-    "usyd-6076702d-2e29-42bd-bc9b-0c5f5eea97b7-2026-11-26": {
-      "sourceTitle": "The Warren Centre presents: Empowering Communities with Communication & AI",
-      "titleZh": "沃伦中心呈现：通过沟通和人工智能赋予社区权力",
-      "sourceSummary": "We explore the critical intersection of telecomms infrastructure, data sovereignty, and Artificial Intelligence (AI) within humanitarian contexts in the Pacific Islands. Our speakers will address unique geographical and energy-related constraints while showcas",
-      "summaryZh": "我们探讨了电信基础设施、数据主权和人工智能（ AI ）在太平洋岛屿人道主义背景下的关键交叉点。我们的演讲者将讨论独特的地理和能源相关的限制，同时展示",
-      "translatedAt": "2026-11-04T18:02:09.277544Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-57802ce2-86f2-4c3e-a105-f363bea6c12b-2026-11-26": {
-      "sourceTitle": "SydneyMSK Annual Scientific Meeting",
-      "titleZh": "悉尼MSK年度科学会议",
-      "sourceSummary": "We warmly invite you to the 2026 Sydney Musculoskeletal Research Centre (SydneyMSK) Annual Scientific Meeting (ASM). The ASM is the major research symposium for SydneyMSK, providing a showcase of research activities and achievements across the centre and servi",
-      "summaryZh": "我们诚挚地邀请您参加2026年悉尼肌肉骨骼研究中心（SydneyMSK）年度科学会议（ASM）。ASM是SydneyMSK的主要研究研讨会，旨在展示整个中心和服务部门的研究活动和成果。",
-      "translatedAt": "2026-11-14T16:37:42.975602Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-86036b79-c253-4cb7-901a-fe3cc42f0000-2026-11-26": {
-      "sourceTitle": "Exploring the role of intermediaries in criminal justice processes",
-      "titleZh": "探索中介在刑事司法程序中的作用",
-      "sourceSummary": "Criminal Law CPD Series 2026-27: Webinar 8 of 8 This webinar is part of the 2026/27 Criminal Law CPD Series, which features eight recorded webinars led by experts from the University of Sydney and the legal profession. CPD areas: Professional skills; Ethics & ",
-      "summaryZh": "2026-27年度刑法CPD系列：第8期网络研讨会（共8期） 本次网络研讨会是2026/27年度刑法CPD系列的一部分，该系列包括由悉尼大学和法律界的专家主讲的八期录播网络研讨会。CPD领域：专业技能；道德与",
-      "translatedAt": "2026-11-18T18:52:40.885809Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-d9a37489-d6b3-420c-8953-51367df9655d-2026-11-30": {
       "sourceTitle": "Artificial Intelligence and Human Creativity",
       "titleZh": "人工智能与人类创造力",
@@ -197,14 +165,6 @@
       "translatedAt": "2026-11-14T22:31:23.085360Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usu-exam-ready-2026-11-26": {
-      "sourceTitle": "Exam Ready: free meals and snacks",
-      "titleZh": "备考：免费餐食和零食",
-      "sourceSummary": "Free lunch at 12:00 for USU members; free community dinner at 17:30 for USYD students. All offers until sold out.",
-      "summaryZh": "USU会员12:00可享免费午餐；USYD学生17:30可享免费社区晚餐。所有优惠售完即止。",
-      "translatedAt": "2026-11-13T04:36:45.558567Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-museum-aroney-democracy-lecture-2026-2026-11-27": {
       "sourceTitle": "Jazz and Democracy",
       "titleZh": "爵士乐与民主",
@@ -237,14 +197,6 @@
       "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-922f8b13-ce8a-4755-a336-6cbb4067210f-2026-11-26": {
-      "sourceTitle": "AI and Medicine: Breakthrough, Opportunity, or Public Health Hazard?",
-      "titleZh": "人工智能与医学：突破、机遇还是公共卫生隐患？",
-      "sourceSummary": "AI and Medicine: Breakthrough, Opportunity, or Public Health Hazard? 26.11.2026, 3-5 pm The University of Sydney, Camperdown Campus 费用说明：free",
-      "summaryZh": "人工智能与医学：突破、机遇还是公共卫生隐患？2026年11月26日，下午3点至5点，悉尼大学坎珀当校区",
-      "translatedAt": "2026-11-17T04:33:16.607511Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-53746926-f79b-47ef-9dc1-a45c71da1256-2026-12-01": {
       "sourceTitle": "Microeconomics Theory seminar | Jonathan Newton | Kyoto Institute of Economic Research",
       "titleZh": "微观经济学理论研讨会 | Jonathan Newton | 京都经济研究所",
@@ -259,14 +211,6 @@
       "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
       "summaryZh": "",
       "translatedAt": "2026-11-17T04:33:16.607511Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7734-2026-11-26": {
-      "sourceTitle": "Tech fundamentals - AI literacy",
-      "titleZh": "技术基础 - 人工智能素养",
-      "sourceSummary": "Artificial intelligence (AI) is changing the information landscape",
-      "summaryZh": "人工智能 (AI) 正在改变信息格局",
-      "translatedAt": "2026-11-17T19:12:32.819613Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-3cff93e7-1cc5-4297-bf05-e8c6a5c0db3c-2026-12-03": {
@@ -301,30 +245,6 @@
       "translatedAt": "2026-11-22T17:52:03.194837Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "supra-262129-2026-11-26": {
-      "sourceTitle": "Migration webinar for coursework students",
-      "titleZh": "针对修读课程的学生举办的迁移网络研讨会",
-      "sourceSummary": "Thursday 26 November 2026 2–4pm Zoom Join SUPRA Legal Service to find out about student visas and the different visa options available after your studies – tailored specifically for coursework students! Questions about any area of migration law will be taken b",
-      "summaryZh": "2026年11月26日（星期四）下午2点至4点 Zoom 加入SUPRA法律服务，了解学生签证以及学业结束后可选择的不同签证类型——专为授课型学生量身定制！将接受有关移民法任何领域的问题。",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "supra-262104-2026-11-26": {
-      "sourceTitle": "November SUPRA Council meeting",
-      "titleZh": "11月SUPRA理事会会议",
-      "sourceSummary": "Thursday 26 November 2026 6:30pm Zoom Join us for our monthly SUPRA Council meeting! Find out what your student representatives have been working on, participate in discussions and get to know your representatives! All postgrads welcome. Email secretary@supra.",
-      "summaryZh": "2026年11月26日（星期四）下午6:30 Zoom欢迎参加我们的每月一次的SUPRA理事会会议！了解学生代表一直在开展哪些工作，参与讨论，并认识你的代表！欢迎所有研究生参加。请发送电子邮件至secretary@supra.",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8462-2026-11-26": {
-      "sourceTitle": "Traditional Korean Sweets Workshop: Dried Persimmons",
-      "titleZh": "传统韩式甜品工坊：柿饼",
-      "sourceSummary": "Traditional Korean Sweets Workshop",
-      "summaryZh": "",
-      "translatedAt": "2026-11-23T02:51:29.396350Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usu-campus-on-screen-film-festival-2026-12-03": {
       "sourceTitle": "Campus on Screen Film Festival",
       "titleZh": "校园银幕电影节",
@@ -339,38 +259,6 @@
       "sourceSummary": "来自 USU 官方活动日历。门票、活动详情与参加资格以官方页面为准。",
       "summaryZh": "",
       "translatedAt": "2026-11-23T22:04:32.759459Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10509-2026-11-26": {
-      "sourceTitle": "Sing with Sydney Street Choir",
-      "titleZh": "与悉尼街头合唱团一起唱歌",
-      "sourceSummary": "Enjoy a live choir performance and join in a community singing workshop with Sydney Street Choir.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-23T22:04:32.759459Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-2548-2026-11-26": {
-      "sourceTitle": "Come and get techie: Darling Square Library",
-      "titleZh": "来感受科技魅力：达令广场图书馆",
-      "sourceSummary": "Got a burning tech question? Get 1:1 tech help at the Library",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T06:05:56.848326Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-4215-2026-11-26": {
-      "sourceTitle": "Asphalt words and ocean dreams",
-      "titleZh": "柏油路上的文字和海洋的梦想",
-      "sourceSummary": "A cosy open mic for poets and writers in a brewery",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T06:05:56.848326Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6702-2026-11-26": {
-      "sourceTitle": "Chinese painting for beginners to advanced",
-      "titleZh": "适合初学者到高级水平的中国画课程",
-      "sourceSummary": "A free weekly class for beginners, led by an experienced Mandarin speaking tutor.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-24T06:05:56.848326Z",
       "provider": "MyMemory (free, best effort)"
     },
     "city-10556-2026-12-07": {
@@ -445,92 +333,12 @@
       "translatedAt": "2026-11-25T04:54:40.299069Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-3901-2026-11-26": {
-      "sourceTitle": "DJ Nights",
-      "titleZh": "DJ之夜",
-      "sourceSummary": "Thursdays just got better!",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T04:54:40.299069Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6269-2026-11-26": {
-      "sourceTitle": "Line Dancing Thursdays at Hay St",
-      "titleZh": "周四在Hay St跳排舞",
-      "sourceSummary": "Boots on, Sydney. Free line dancing, country DJs, food and drinks every Thursday night at Hay St.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T04:54:40.299069Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-4128-2026-11-26": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-26": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-6997-2026-12-09": {
       "sourceTitle": "Tech & Creative Holiday Camps for ages 5–12",
       "titleZh": "面向5–12岁儿童的科技与创意假日营",
       "sourceSummary": "Hands-on activities in coding, robotics, Minecraft, Roblox, animation, crafting and more for fun learning these holidays",
       "summaryZh": "",
       "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-12882-2026-11-26": {
-      "sourceTitle": "Portraits with a voice",
-      "titleZh": "有声肖像",
-      "sourceSummary": "An online exhibition featuring portraits and stories from people with lived experience of disability.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5193-2026-11-26": {
-      "sourceTitle": "Theatre of Life Exhibition",
-      "titleZh": "“人生剧场”展览",
-      "sourceSummary": "Welcome to the Theatre of Life",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7221-2026-11-26": {
-      "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
-      "titleZh": "澳大利亚巴洛克静物摄影展",
-      "sourceSummary": "A contemporary still life photography exhibition presented as part of the Head On Photo Festival Open Program.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-26": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10379-2026-11-26": {
-      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
-      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usu-usyd-store-black-friday-sale-2026-2026-11-26": {
-      "sourceTitle": "USYD Store Black Friday Sale",
-      "titleZh": "悉尼大学商店黑色星期五特惠",
-      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-usyd-store-black-friday-sale-2026-2026-11-27": {
@@ -557,52 +365,84 @@
       "translatedAt": "2026-11-26T04:10:48.570402Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10544-2026-11-26": {
+    "city-4128-2026-11-27": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-27": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12882-2026-11-27": {
+      "sourceTitle": "Portraits with a voice",
+      "titleZh": "有声肖像",
+      "sourceSummary": "An online exhibition featuring portraits and stories from people with lived experience of disability.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5193-2026-11-27": {
+      "sourceTitle": "Theatre of Life Exhibition",
+      "titleZh": "“人生剧场”展览",
+      "sourceSummary": "Welcome to the Theatre of Life",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7221-2026-11-27": {
+      "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
+      "titleZh": "澳大利亚巴洛克静物摄影展",
+      "sourceSummary": "A contemporary still life photography exhibition presented as part of the Head On Photo Festival Open Program.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-27": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-27": {
+      "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
+      "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
+      "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10544-2026-11-27": {
       "sourceTitle": "Wrap the Community in Support",
       "titleZh": "为社区提供支持",
       "sourceSummary": "A public art installation at Circular Quay raises awareness of domestic and family violence.",
       "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-11824-2026-11-26": {
+    "city-11805-2026-11-27": {
+      "sourceTitle": "The Christmas Confidential at The Rocks",
+      "titleZh": "The Rocks 的圣诞机密",
+      "sourceSummary": "A free Christmas performance by an Aussie icon, with festive favourites and Sydney Harbour views.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-11824-2026-11-27": {
       "sourceTitle": "Christmas under the lucky stars at Market City",
-      "titleZh": "在Market City的幸运星下欢度圣诞",
+      "titleZh": "在 Market City 幸运星下欢度圣诞",
       "sourceSummary": "Spectacular Christmas light installation and festive experiences at Market City in Sydney's Chinatown.",
       "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-26": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6393-2026-11-26": {
-      "sourceTitle": "OK? Ok, ok…",
-      "titleZh": "行行行",
-      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7346-2026-11-26": {
-      "sourceTitle": "Santa’s Sydney sleigh ride and tree lighting",
-      "titleZh": "圣诞老人的悉尼雪橇之旅和圣诞树亮灯仪式",
-      "sourceSummary": "Psst! Guess who’s coming to town.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7438-2026-11-26": {
-      "sourceTitle": "Free Salsa Classes in Surry Hills",
-      "titleZh": "萨里山的免费萨尔萨舞课程",
-      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
-      "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "translatedAt": "2026-11-26T19:40:18.318527Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

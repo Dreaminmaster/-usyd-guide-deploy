@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-26T04:10:36.124095Z",
-  "feedCheckedAt": "2026-11-26T04:10:48.355Z",
+  "checkedAt": "2026-11-26T19:40:04.481424Z",
+  "feedCheckedAt": "2026-11-26T19:40:18.147Z",
   "feedStatus": "ok",
-  "events": 100,
+  "events": 91,
   "news": 16,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-26T04:10:36.124095Z",
+  "lastScheduledRunAt": "2026-11-26T19:40:04.481424Z",
   "changes": {
-    "new": 10,
+    "new": 12,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 0,
+    "possibleReschedule": 14,
     "notObserved": 0
   },
   "coverage": {
@@ -64,7 +64,7 @@
           "USU · 全部公开活动",
           "USU · Official public event calendar"
         ],
-        "maxChannelRecordCount": 7,
+        "maxChannelRecordCount": 6,
         "zeroChannels": [],
         "partialChannels": [
           "USU · Official public event calendar"
@@ -76,7 +76,7 @@
         "channelsWithRecords": [
           "SUPRA · 活动接口"
         ],
-        "maxChannelRecordCount": 4,
+        "maxChannelRecordCount": 2,
         "zeroChannels": [
           "SUPRA 研究生协会",
           "SUPRA · 研究生权益"
@@ -110,7 +110,7 @@
           "City of Sydney · Seminars",
           "City of Sydney · Festivals"
         ],
-        "maxChannelRecordCount": 47,
+        "maxChannelRecordCount": 46,
         "zeroChannels": [
           "City of Sydney · What's On"
         ],
