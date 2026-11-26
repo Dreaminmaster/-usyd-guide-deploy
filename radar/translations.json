@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-25T19:57:49.856756Z",
+  "updatedAt": "2026-11-26T04:10:48.570402Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 67,
+  "count": 75,
   "entries": {
     "usyd-8bf12ce5-e0dd-459e-b499-d74f6a61f95a-2026-11-26": {
       "sourceTitle": "Misconduct policies in light of increased generative AI use",
@@ -501,14 +501,6 @@
       "translatedAt": "2026-11-25T19:57:49.856756Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-6384-2026-11-26": {
-      "sourceTitle": "Dream Horse",
-      "titleZh": "梦幻骏马",
-      "sourceSummary": "A site-specific exhibition that transforms the street-facing vitrine into an oversized toy box for everyone.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-7221-2026-11-26": {
       "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
       "titleZh": "澳大利亚巴洛克静物摄影展",
@@ -533,12 +525,84 @@
       "translatedAt": "2026-11-25T19:57:49.856756Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10501-2026-11-26": {
-      "sourceTitle": "The Ralph Lauren holiday experience",
-      "titleZh": "Ralph Lauren假日体验",
-      "sourceSummary": "A festive woodland escape.",
+    "usu-usyd-store-black-friday-sale-2026-2026-11-26": {
+      "sourceTitle": "USYD Store Black Friday Sale",
+      "titleZh": "悉尼大学商店黑色星期五特惠",
+      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
       "summaryZh": "",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-usyd-store-black-friday-sale-2026-2026-11-27": {
+      "sourceTitle": "USYD Store Black Friday Sale · 第2天",
+      "titleZh": "USYD Store Black Friday Sale · 第2天",
+      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-usyd-store-black-friday-sale-2026-2026-11-28": {
+      "sourceTitle": "USYD Store Black Friday Sale · 第3天",
+      "titleZh": "USYD Store Black Friday Sale · 第3天",
+      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usu-usyd-store-black-friday-sale-2026-2026-11-29": {
+      "sourceTitle": "USYD Store Black Friday Sale · 第4天",
+      "titleZh": "USYD Store Black Friday Sale · 第4天",
+      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10544-2026-11-26": {
+      "sourceTitle": "Wrap the Community in Support",
+      "titleZh": "为社区提供支持",
+      "sourceSummary": "A public art installation at Circular Quay raises awareness of domestic and family violence.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-11824-2026-11-26": {
+      "sourceTitle": "Christmas under the lucky stars at Market City",
+      "titleZh": "在Market City的幸运星下欢度圣诞",
+      "sourceSummary": "Spectacular Christmas light installation and festive experiences at Market City in Sydney's Chinatown.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-26": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习一线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6393-2026-11-26": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7346-2026-11-26": {
+      "sourceTitle": "Santa’s Sydney sleigh ride and tree lighting",
+      "titleZh": "圣诞老人的悉尼雪橇之旅和圣诞树亮灯仪式",
+      "sourceSummary": "Psst! Guess who’s coming to town.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7438-2026-11-26": {
+      "sourceTitle": "Free Salsa Classes in Surry Hills",
+      "titleZh": "萨里山的免费萨尔萨舞课程",
+      "sourceSummary": "Discover the fun and energy of salsa with our Thursday night classes in Surry Hills",
+      "summaryZh": "",
+      "translatedAt": "2026-11-26T04:10:48.570402Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

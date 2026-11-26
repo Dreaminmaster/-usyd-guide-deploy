@@ -1,23 +1,44 @@
 {
-  "city-5707-2026-11-29": {
+  "city-6384-2026-11-26": {
     "observations": 1,
-    "firstMissingAt": "2026-11-25T19:57:38.501408Z",
-    "title": "100 women 100 stories concert",
-    "date": "2026-11-29",
-    "url": "https://whatson.cityofsydney.nsw.gov.au/events/100-women-100-stories-concert"
+    "firstMissingAt": "2026-11-26T04:10:36.124095Z",
+    "title": "Dream Horse",
+    "date": "2026-11-26",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/dream-horse"
   },
-  "city-7223-2026-11-29": {
+  "city-10501-2026-11-26": {
     "observations": 1,
-    "firstMissingAt": "2026-11-25T19:57:38.501408Z",
-    "title": "Rosebery Christmas Concert",
-    "date": "2026-11-29",
-    "url": "https://whatson.cityofsydney.nsw.gov.au/events/rosebery-christmas-concert"
+    "firstMissingAt": "2026-11-26T04:10:36.124095Z",
+    "title": "The Ralph Lauren holiday experience",
+    "date": "2026-11-26",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience"
   },
-  "city-10520-2026-11-30": {
+  "city-8417-2026-11-26": {
     "observations": 1,
-    "firstMissingAt": "2026-11-25T19:57:38.501408Z",
-    "title": "A World Away - Christmas at South Eveleigh",
-    "date": "2026-11-30",
-    "url": "https://whatson.cityofsydney.nsw.gov.au/events/a-world-away-christmas-at-south-eveleigh"
+    "firstMissingAt": "2026-11-26T04:10:36.124095Z",
+    "title": "Bondi's Twilight Christmas Gift Markets",
+    "date": "2026-11-26",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/bondis-twilight-christmas-gift-markets"
+  },
+  "city-8494-2026-11-26": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-26T04:10:36.124095Z",
+    "title": "Canopy of Light",
+    "date": "2026-11-26",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/pitt-st-mall-canopy-of-light"
+  },
+  "city-7399-2026-11-26": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-26T04:10:36.124095Z",
+    "title": "Martin Place Christmas tree",
+    "date": "2026-11-26",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/martin-place-christmas-tree"
+  },
+  "city-10316-2026-11-28": {
+    "observations": 1,
+    "firstMissingAt": "2026-11-26T04:10:36.124095Z",
+    "title": "Celebrate Glebe Christmas Fair with On Point Optical",
+    "date": "2026-11-28",
+    "url": "https://whatson.cityofsydney.nsw.gov.au/events/glebe-christmas-street-fair-style-event"
   }
 }
