@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-26T19:40:18.318527Z",
+  "updatedAt": "2026-11-27T04:17:37.315977Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 55,
+  "count": 61,
   "entries": {
     "usyd-d9a37489-d6b3-420c-8953-51367df9655d-2026-11-30": {
       "sourceTitle": "Artificial Intelligence and Human Creativity",
@@ -123,38 +123,6 @@
       "sourceSummary": "Our 2026 Sydney Sings concert features two brilliant German composers who succeeded at the English Court in London, the great G. F. Handel and his admirer, C.P.E. Bach, the second son of J.S. Bach. 费用说明：paid",
       "summaryZh": "我们的2026年悉尼歌唱音乐会（Sydney Sings）将上演两位杰出德国作曲家的作品，他们曾在伦敦的英国宫廷取得成功，他们就是伟大的乔治·弗里德里希·亨德尔（G. F. Handel）和他的崇拜者、约翰·塞巴斯蒂安·巴赫（J.S. Bach）的次子卡尔·菲利普·埃马努埃尔·巴赫（C.P.E. Bach）。",
       "translatedAt": "2026-11-14T22:31:58.631018Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-01": {
-      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music",
-      "titleZh": "CHIME 2026 ：中国音乐的生态维度",
-      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
-      "summaryZh": "CHIME成立于1990年的欧洲，是面向中国音乐学者和学生的全球性平台。第29届会议由中国研究中心赞助，由悉尼大学悉尼音乐学院主办。",
-      "translatedAt": "2026-11-23T22:04:32.759459Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-02": {
-      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第2天",
-      "titleZh": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第2天",
-      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
-      "summaryZh": "CHIME成立于1990年，是一家面向全球中国音乐学者和学生的平台。第29届会议由中国研究中心赞助，由悉尼大学悉尼音乐学院主办。",
-      "translatedAt": "2026-11-24T20:41:14.292753Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-03": {
-      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第3天",
-      "titleZh": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第3天",
-      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
-      "summaryZh": "CHIME成立于1990年，是一家面向全球中国音乐学者和学生的平台。第29届会议由中国研究中心赞助，由悉尼大学悉尼音乐学院主办。",
-      "translatedAt": "2026-11-25T19:57:49.856756Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-87264f29-3417-4976-b017-beb4079bdcc4-2026-12-04": {
-      "sourceTitle": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第4天",
-      "titleZh": "CHIME 2026 : Ecological Dimensions of Chinese Music · 第4天",
-      "sourceSummary": "CHIME, founded in Europe in 1990, is a worldwide platform for scholars and students of Chinese music. The 29th conference is sponsored by the China Studies Centre and hosted by the Sydney Conservatorium of Music at the University of Sydney. 费用说明：paid",
-      "summaryZh": "",
-      "translatedAt": "2026-11-06T02:30:52.471850Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-ca049a09-28ca-4ee8-8a91-6781e7721e64-2026-12-02": {
@@ -443,6 +411,86 @@
       "sourceSummary": "Spectacular Christmas light installation and festive experiences at Market City in Sydney's Chinatown.",
       "summaryZh": "",
       "translatedAt": "2026-11-26T19:40:18.318527Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "usyd-ff453615-c4a7-4ca5-87fa-a1a0106fe3c7-2026-12-16": {
+      "sourceTitle": "The Howard Lecture: Sir David W. C. MacMillan",
+      "titleZh": "霍华德讲座：大卫·W.C.麦克米伦爵士",
+      "sourceSummary": "Get ready to dive into cutting-edge biomedical breakthroughs with Nobel Laureate Sir Dave MacMillan sharing his latest research and ideas. 费用说明：free",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12862-2026-12-03": {
+      "sourceTitle": "OLC Art Exhibition",
+      "titleZh": "OLC 艺术展",
+      "sourceSummary": "Celebrate creativity and community at the Ozanam Learning Centre's 6th Annual Art Exhibition.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10501-2026-11-27": {
+      "sourceTitle": "The Ralph Lauren holiday experience",
+      "titleZh": "Ralph Lauren假日体验",
+      "sourceSummary": "A festive woodland escape.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12921-2026-11-27": {
+      "sourceTitle": "Sydney Town Hall Christmas lights show",
+      "titleZh": "悉尼市政厅圣诞灯光秀",
+      "sourceSummary": "Sydney Town Hall transforms into a festive wonderland with lights, animations and Christmas scenes.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-3421-2026-11-27": {
+      "sourceTitle": "Computer and mobile phone help",
+      "titleZh": "电脑和手机帮助",
+      "sourceSummary": "Come for help to solve your digital problems",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-27": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆（Anzac Memorial）练习前线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6240-2026-11-27": {
+      "sourceTitle": "Community toy reuse volunteer session",
+      "titleZh": "社区玩具再利用志愿者活动",
+      "sourceSummary": "Give pre-loved toys a second life! Join us to clean, sort and prepare donated toys for reuse. Ages 11+",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6393-2026-11-27": {
+      "sourceTitle": "OK? Ok, ok…",
+      "titleZh": "行行行",
+      "sourceSummary": "Part of the Transience series by Wong Ching Yee (Jenny) 黃靜儀. The assemblage has had many lives and continues to evolve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7739-2026-11-27": {
+      "sourceTitle": "Sarah A Bendall - The Women Who Clothed the Stuart Queens",
+      "titleZh": "莎拉·A·本德尔（Sarah A Bendall）——为斯图亚特王朝女王们制作衣饰的女性",
+      "sourceSummary": "Sarah A. Bendall in conversation with John Gagne",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8270-2026-11-27": {
+      "sourceTitle": "Latin Nights by the Bay",
+      "titleZh": "海湾畔的拉丁之夜",
+      "sourceSummary": "We are bringing back the dance heat with another season of Latin Nights by the Bay",
+      "summaryZh": "",
+      "translatedAt": "2026-11-27T04:17:37.315977Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

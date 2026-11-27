@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-26T19:40:04.481424Z",
-  "feedCheckedAt": "2026-11-26T19:40:18.147Z",
+  "checkedAt": "2026-11-27T04:17:25.415283Z",
+  "feedCheckedAt": "2026-11-27T04:17:37.210Z",
   "feedStatus": "ok",
-  "events": 91,
-  "news": 16,
+  "events": 88,
+  "news": 15,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-26T19:40:04.481424Z",
+  "lastScheduledRunAt": "2026-11-27T04:17:25.415283Z",
   "changes": {
-    "new": 12,
+    "new": 6,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 14,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "coverage": {
@@ -110,7 +110,7 @@
           "City of Sydney · Seminars",
           "City of Sydney · Festivals"
         ],
-        "maxChannelRecordCount": 46,
+        "maxChannelRecordCount": 48,
         "zeroChannels": [
           "City of Sydney · What's On"
         ],
