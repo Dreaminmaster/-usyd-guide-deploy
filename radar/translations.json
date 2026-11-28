@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-28T03:56:44.691533Z",
+  "updatedAt": "2026-11-28T18:15:42.055138Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 59,
+  "count": 44,
   "entries": {
     "usyd-d9a37489-d6b3-420c-8953-51367df9655d-2026-11-30": {
       "sourceTitle": "Artificial Intelligence and Human Creativity",
@@ -59,14 +59,6 @@
       "sourceSummary": "Come hear the 54 bells of the University of Sydney’s historic carillon, played by one of our carillonists. 费用说明：free",
       "summaryZh": "来听听悉尼大学历史悠久的钟琴，由我们的钟琴师之一演奏54个钟声。",
       "translatedAt": "2026-11-14T22:31:58.631018Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "usyd-96266268-b834-46dc-a8bd-896eaf998bd9-2026-11-28": {
-      "sourceTitle": "Manfredo Lament | Seymour Sounds (Free Event)",
-      "titleZh": "Manfredo Lament | Seymour Sounds （免费活动）",
-      "sourceSummary": "Seymour Sounds is designed for those who want to hear the music breathe. Across six weeks, we are re-opening our courtyard to host an intimate series of back-to-back live sets from the heavyweights and rising stars of Sydney’s vibrant nu jazz and neo-soul scen",
-      "summaryZh": "Seymour Sounds专为那些希望聆听音乐律动的人士打造。在为期六周的时间里，我们将重新开放我们的庭院，举办一系列亲密无间的连续现场演出，悉尼活力四射的新爵士和新灵魂乐坛的重量级人物和新星将轮番登场。",
-      "translatedAt": "2026-11-14T16:37:42.975602Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usyd-eca3b500-a9ba-44a2-8f5d-7621847aee15-2026-12-01": {
@@ -125,30 +117,6 @@
       "translatedAt": "2026-11-14T22:31:23.085360Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usyd-museum-seidler-sessions-2026-11-28": {
-      "sourceTitle": "Seidler Session 4: Architects on Seidler’s Legacy",
-      "titleZh": "悉乐系列讲座第四讲：建筑师眼中的悉乐遗产",
-      "sourceSummary": "Andrew Andersons, Ed Lippmann and Peter Lonergan in conversation.",
-      "summaryZh": "Andrew Andersons、Ed Lippmann和Peter Lonergan正在交谈。",
-      "translatedAt": "2026-11-14T02:29:04.578049Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10613-2026-11-28": {
-      "sourceTitle": "Free Christmas Wreath Making Workshop at Martin Place",
-      "titleZh": "马丁广场免费圣诞花环制作工坊",
-      "sourceSummary": "Make your own dried-flower Christmas wreath at this free workshop at the Martin Place Christmas Markets.",
-      "summaryZh": "在马丁广场圣诞市场的免费工作坊中，亲手制作干花圣诞花环。",
-      "translatedAt": "2026-11-20T18:38:03.518773Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6699-2026-11-28": {
-      "sourceTitle": "Double Bay Christmas Festival",
-      "titleZh": "双湾圣诞节",
-      "sourceSummary": "Celebrate Christmas in Double Bay with Conrad Sewell, Paulini, Shannon Noll, festive markets, live music and fireworks!",
-      "summaryZh": "",
-      "translatedAt": "2026-11-14T16:37:42.975602Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usyd-53746926-f79b-47ef-9dc1-a45c71da1256-2026-12-01": {
       "sourceTitle": "Microeconomics Theory seminar | Jonathan Newton | Kyoto Institute of Economic Research",
       "titleZh": "微观经济学理论研讨会 | Jonathan Newton | 京都经济研究所",
@@ -187,14 +155,6 @@
       "sourceSummary": "Markets, Food Trucks, Kids' Fun + Live Music.",
       "summaryZh": "",
       "translatedAt": "2026-11-21T17:36:48.286607Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7428-2026-11-28": {
-      "sourceTitle": "with, together:greens & browns - Shelley Watters,Emily Simek",
-      "titleZh": "与……一起：绿色和棕色 - Shelley Watters、Emily Simek",
-      "sourceSummary": "an expansive, collaborative project that explores gardening as a context for art-making mediated by technology",
-      "summaryZh": "这是一个广泛的协作项目，旨在探索以园艺为背景、以技术为媒介的艺术创作。",
-      "translatedAt": "2026-11-22T17:52:03.194837Z",
       "provider": "MyMemory (free, best effort)"
     },
     "usu-campus-on-screen-film-festival-2026-12-03": {
@@ -285,14 +245,6 @@
       "translatedAt": "2026-11-25T19:57:49.856756Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "usu-usyd-store-black-friday-sale-2026-2026-11-28": {
-      "sourceTitle": "USYD Store Black Friday Sale · 第3天",
-      "titleZh": "USYD Store Black Friday Sale · 第3天",
-      "sourceSummary": "已核对 USU 公开活动日期；详情、报名资格和费用请以官方页面为准。",
-      "summaryZh": "",
-      "translatedAt": "2026-11-26T04:10:48.570402Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "usu-usyd-store-black-friday-sale-2026-2026-11-29": {
       "sourceTitle": "USYD Store Black Friday Sale · 第4天",
       "titleZh": "USYD Store Black Friday Sale · 第4天",
@@ -317,46 +269,6 @@
       "translatedAt": "2026-11-27T04:17:37.315977Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-4128-2026-11-28": {
-      "sourceTitle": "Curtains Jazz Festival",
-      "titleZh": "库尔蒂内斯爵士音乐节",
-      "sourceSummary": "Live Jazz at Curtains Jazz Club",
-      "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7375-2026-11-28": {
-      "sourceTitle": "Head On Photo Festival 2026",
-      "titleZh": "2026年Head On摄影节",
-      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-12882-2026-11-28": {
-      "sourceTitle": "Portraits with a voice",
-      "titleZh": "有声肖像",
-      "sourceSummary": "An online exhibition featuring portraits and stories from people with lived experience of disability.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7221-2026-11-28": {
-      "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
-      "titleZh": "澳大利亚巴洛克静物摄影展",
-      "sourceSummary": "A contemporary still life photography exhibition presented as part of the Head On Photo Festival Open Program.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-7958-2026-11-28": {
-      "sourceTitle": "Modernism and World Revolution",
-      "titleZh": "现代主义与世界革命",
-      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
-      "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
-      "provider": "MyMemory (free, best effort)"
-    },
     "city-5193-2026-11-30": {
       "sourceTitle": "Theatre of Life Exhibition",
       "titleZh": "“人生剧场”展览",
@@ -365,116 +277,84 @@
       "translatedAt": "2026-11-27T19:30:15.196181Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10379-2026-11-28": {
+    "city-7428-2026-11-29": {
+      "sourceTitle": "with, together:greens & browns - Shelley Watters,Emily Simek",
+      "titleZh": "与……一起：绿色和棕色 - Shelley Watters、Emily Simek",
+      "sourceSummary": "an expansive, collaborative project that explores gardening as a context for art-making mediated by technology",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-4128-2026-11-29": {
+      "sourceTitle": "Curtains Jazz Festival",
+      "titleZh": "库尔蒂内斯爵士音乐节",
+      "sourceSummary": "Live Jazz at Curtains Jazz Club",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7375-2026-11-29": {
+      "sourceTitle": "Head On Photo Festival 2026",
+      "titleZh": "2026年Head On摄影节",
+      "sourceSummary": "Photography exhibitions across Bondi, Paddington and Sydney CBD, featuring emerging and established artists.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10614-2026-12-12": {
+      "sourceTitle": "Christmas Latch-Hook Workshop with The Social Outfit",
+      "titleZh": "The Social Outfit 圣诞节绒钩编织工坊",
+      "sourceSummary": "Make a mini latch-hook rug at this free workshop with The Social Outfit at the Martin Place Christmas Markets.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12882-2026-11-29": {
+      "sourceTitle": "Portraits with a voice",
+      "titleZh": "有声肖像",
+      "sourceSummary": "An online exhibition featuring portraits and stories from people with lived experience of disability.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7221-2026-11-29": {
+      "sourceTitle": "Australian Baroque Table Still Life Photography Exhibition",
+      "titleZh": "澳大利亚巴洛克静物摄影展",
+      "sourceSummary": "A contemporary still life photography exhibition presented as part of the Head On Photo Festival Open Program.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-7958-2026-11-29": {
+      "sourceTitle": "Modernism and World Revolution",
+      "titleZh": "现代主义与世界革命",
+      "sourceSummary": "Exhibition and Symposium on Modernism and World Revolution",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10379-2026-11-29": {
       "sourceTitle": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
       "titleZh": "VERÃO：Zephyr Sky Bar的巴西风情体验",
       "sourceSummary": "Enjoy Brazilian-inspired cocktails, bites, live percussion and DJs at Zephyr Sky Bar's rooftop experience.",
       "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10409-2026-11-28": {
-      "sourceTitle": "Your music, your way: Connection and wellbeing",
-      "titleZh": "您的音乐，您的方式：联结与幸福感",
-      "sourceSummary": "Celebrate IDPwD with an inclusive, accessible music experience exploring rhythm, music and sound.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10535-2026-11-28": {
-      "sourceTitle": "Guided ride - Figs, fountains and green streets",
-      "titleZh": "导览骑行：无花果、喷泉和绿化街道",
-      "sourceSummary": "A relaxed 10 km group ride exploring Sydney’s parks, cycleways and green streets from Wimbo Park.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10544-2026-11-28": {
+    "city-10544-2026-11-29": {
       "sourceTitle": "Wrap the Community in Support",
       "titleZh": "为社区提供支持",
       "sourceSummary": "A public art installation at Circular Quay raises awareness of domestic and family violence.",
       "summaryZh": "",
-      "translatedAt": "2026-11-27T19:30:15.196181Z",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
       "provider": "MyMemory (free, best effort)"
     },
-    "city-10316-2026-11-28": {
-      "sourceTitle": "Celebrate Glebe Christmas Fair with On Point Optical",
-      "titleZh": "与On Point Optical一起庆祝格利布圣诞集市",
-      "sourceSummary": "Be styled in unique eyewear ready for Christmas",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-10501-2026-11-28": {
-      "sourceTitle": "The Ralph Lauren holiday experience",
-      "titleZh": "Ralph Lauren假日体验",
-      "sourceSummary": "A festive woodland escape.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-11823-2026-11-28": {
-      "sourceTitle": "The Burrow",
-      "titleZh": "陋居",
-      "sourceSummary": "Monthly house and disco party with top DJs and a premium sound system at Yulli’s Brews.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-11824-2026-11-28": {
+    "city-11824-2026-11-29": {
       "sourceTitle": "Christmas under the lucky stars at Market City",
       "titleZh": "在Market City的幸运星下欢度圣诞",
       "sourceSummary": "Spectacular Christmas light installation and festive experiences at Market City in Sydney's Chinatown.",
       "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-12878-2026-11-28": {
-      "sourceTitle": "Pet Santa Photos",
-      "titleZh": "宠物圣诞老人照片",
-      "sourceSummary": "Free Christmas photos with Santa for pets, plus treats and donations for Sydney Dogs and Cats Home.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-12921-2026-11-28": {
-      "sourceTitle": "Sydney Town Hall Christmas lights show",
-      "titleZh": "悉尼市政厅圣诞灯光秀",
-      "sourceSummary": "Sydney Town Hall transforms into a festive wonderland with lights, animations and Christmas scenes.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-5583-2026-11-28": {
-      "sourceTitle": "Frontline yoga at the Anzac Memorial",
-      "titleZh": "在澳新军团纪念馆体验一线瑜伽",
-      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6270-2026-11-28": {
-      "sourceTitle": "Latin Nights - Block Party at Hay St",
-      "titleZh": "拉丁之夜 - 海伊街街区派对",
-      "sourceSummary": "Salsa, bachata, live music and DJs take over two dance floors every Saturday night at Hay St Market.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-6425-2026-11-28": {
-      "sourceTitle": "Martin Place Christmas Markets",
-      "titleZh": "马丁广场圣诞集市",
-      "sourceSummary": "Sydney's most enchanting Christmas market experience, in the heart of the city and open late until Christmas Eve.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
-      "provider": "MyMemory (free, best effort)"
-    },
-    "city-8272-2026-11-28": {
-      "sourceTitle": "Floating Christmas Tree",
-      "titleZh": "漂浮圣诞树",
-      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
-      "summaryZh": "",
-      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "translatedAt": "2026-11-28T18:15:42.055138Z",
       "provider": "MyMemory (free, best effort)"
     }
   }
