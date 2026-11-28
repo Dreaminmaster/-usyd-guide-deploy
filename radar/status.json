@@ -1,27 +1,28 @@
 {
   "schema": 2,
-  "checkedAt": "2026-11-27T19:29:58.737830Z",
-  "feedCheckedAt": "2026-11-27T19:30:15.014Z",
+  "checkedAt": "2026-11-28T03:56:33.662151Z",
+  "feedCheckedAt": "2026-11-28T03:56:44.471Z",
   "feedStatus": "ok",
   "events": 84,
   "news": 15,
   "sourceCount": 25,
   "archiveMethod": "GitHub Actions",
   "runEvent": "schedule",
-  "lastScheduledRunAt": "2026-11-27T19:29:58.737830Z",
+  "lastScheduledRunAt": "2026-11-28T03:56:33.662151Z",
   "changes": {
-    "new": 10,
+    "new": 4,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 12,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "coverage": {
     "sourceCount": 25,
-    "failed": [],
+    "failed": [
+      "NTEU 教职员工工会"
+    ],
     "partial": [
       "悉尼大学 What's On",
-      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
       "SUPRA 研究生协会",
       "City of Sydney · What's On",
@@ -35,7 +36,6 @@
       "USU · Official public event calendar"
     ],
     "zeroExtracted": [
-      "NTEU 教职员工工会",
       "NTEU 工业行动动态",
       "SUPRA 研究生协会",
       "City of Sydney · What's On",
@@ -110,7 +110,7 @@
           "City of Sydney · Seminars",
           "City of Sydney · Festivals"
         ],
-        "maxChannelRecordCount": 44,
+        "maxChannelRecordCount": 48,
         "zeroChannels": [
           "City of Sydney · What's On"
         ],

@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-27T19:30:15.196181Z",
+  "updatedAt": "2026-11-28T03:56:44.691533Z",
   "provider": "MyMemory",
   "notice": "Public event translations; verify crucial details at organiser.",
-  "count": 49,
+  "count": 59,
   "entries": {
     "usyd-d9a37489-d6b3-420c-8953-51367df9655d-2026-11-30": {
       "sourceTitle": "Artificial Intelligence and Human Creativity",
@@ -395,6 +395,86 @@
       "sourceSummary": "A public art installation at Circular Quay raises awareness of domestic and family violence.",
       "summaryZh": "",
       "translatedAt": "2026-11-27T19:30:15.196181Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10316-2026-11-28": {
+      "sourceTitle": "Celebrate Glebe Christmas Fair with On Point Optical",
+      "titleZh": "与On Point Optical一起庆祝格利布圣诞集市",
+      "sourceSummary": "Be styled in unique eyewear ready for Christmas",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-10501-2026-11-28": {
+      "sourceTitle": "The Ralph Lauren holiday experience",
+      "titleZh": "Ralph Lauren假日体验",
+      "sourceSummary": "A festive woodland escape.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-11823-2026-11-28": {
+      "sourceTitle": "The Burrow",
+      "titleZh": "陋居",
+      "sourceSummary": "Monthly house and disco party with top DJs and a premium sound system at Yulli’s Brews.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-11824-2026-11-28": {
+      "sourceTitle": "Christmas under the lucky stars at Market City",
+      "titleZh": "在Market City的幸运星下欢度圣诞",
+      "sourceSummary": "Spectacular Christmas light installation and festive experiences at Market City in Sydney's Chinatown.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12878-2026-11-28": {
+      "sourceTitle": "Pet Santa Photos",
+      "titleZh": "宠物圣诞老人照片",
+      "sourceSummary": "Free Christmas photos with Santa for pets, plus treats and donations for Sydney Dogs and Cats Home.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-12921-2026-11-28": {
+      "sourceTitle": "Sydney Town Hall Christmas lights show",
+      "titleZh": "悉尼市政厅圣诞灯光秀",
+      "sourceSummary": "Sydney Town Hall transforms into a festive wonderland with lights, animations and Christmas scenes.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-5583-2026-11-28": {
+      "sourceTitle": "Frontline yoga at the Anzac Memorial",
+      "titleZh": "在澳新军团纪念馆体验一线瑜伽",
+      "sourceSummary": "Australia's first and only national yoga program for first responders, emergency services and military veterans",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6270-2026-11-28": {
+      "sourceTitle": "Latin Nights - Block Party at Hay St",
+      "titleZh": "拉丁之夜 - 海伊街街区派对",
+      "sourceSummary": "Salsa, bachata, live music and DJs take over two dance floors every Saturday night at Hay St Market.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-6425-2026-11-28": {
+      "sourceTitle": "Martin Place Christmas Markets",
+      "titleZh": "马丁广场圣诞集市",
+      "sourceSummary": "Sydney's most enchanting Christmas market experience, in the heart of the city and open late until Christmas Eve.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
+      "provider": "MyMemory (free, best effort)"
+    },
+    "city-8272-2026-11-28": {
+      "sourceTitle": "Floating Christmas Tree",
+      "titleZh": "漂浮圣诞树",
+      "sourceSummary": "The perfect backdrop for your festive photos and magical moments this Christmas.",
+      "summaryZh": "",
+      "translatedAt": "2026-11-28T03:56:44.691533Z",
       "provider": "MyMemory (free, best effort)"
     }
   }

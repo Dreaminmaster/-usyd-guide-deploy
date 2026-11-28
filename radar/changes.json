@@ -1,243 +1,91 @@
 {
   "schema": 1,
-  "checkedAt": "2026-11-27T19:29:58.737830Z",
-  "sourceCheckedAt": "2026-11-27T19:30:15.014Z",
+  "checkedAt": "2026-11-28T03:56:33.662151Z",
+  "sourceCheckedAt": "2026-11-28T03:56:44.471Z",
   "hasBaseline": true,
   "latest": [
     {
-      "kind": "possible_reschedule",
-      "id": "city-4128-2026-11-28",
-      "title": "Curtains Jazz Festival",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7375-2026-11-28",
-      "title": "Head On Photo Festival 2026",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-12882-2026-11-28",
-      "title": "Portraits with a voice",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/portraits-with-a-voice",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7221-2026-11-28",
-      "title": "Australian Baroque Table Still Life Photography Exhibition",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/australian-baroque-table-still-life-photography-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7958-2026-11-28",
-      "title": "Modernism and World Revolution",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/modernism-and-world-revolution",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5583-2026-11-28",
-      "title": "Frontline yoga at the Anzac Memorial",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/frontline-yoga-at-the-anzac-memorial",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10544-2026-11-28",
-      "title": "Wrap the Community in Support",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/wrap-the-community-in-support",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-8272-2026-11-28",
-      "title": "Floating Christmas Tree",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/floating-christmas-tree",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-11824-2026-11-28",
-      "title": "Christmas under the lucky stars at Market City",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/christmas-under-the-lucky-stars-at-market-city-2",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-10379-2026-11-28",
-      "title": "VERÃO, the Brazilian-Inspired Experience at Zephyr Sky Bar",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/vero-the-brazilian-inspired-experience-at-zephyr-sky-bar",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5193-2026-11-30",
-      "title": "Theatre of Life Exhibition",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-6393-2026-11-30",
-      "title": "OK? Ok, ok…",
-      "oldDate": "2026-11-27",
-      "date": "2026-11-30",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ok-ok-ok",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
       "kind": "new",
-      "id": "city-10510-2026-12-01",
-      "title": "Speaking Up: Workshop for carers of people with disability",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/speaking-up-workshop-for-carers-of-people-with-disability",
+      "id": "city-10501-2026-11-28",
+      "title": "The Ralph Lauren holiday experience",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
       "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-7145-2026-12-01",
-      "title": "Food preservation workshop with TAFE - Booked out",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/food-preservation-workshop-with-tafe",
+      "id": "city-12921-2026-11-28",
+      "title": "Sydney Town Hall Christmas lights show",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-town-hall-christmas-lights-show",
       "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-8017-2026-12-01",
-      "title": "Social sewing sessions",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-sewing-sessions",
+      "id": "city-9383-2026-11-28",
+      "title": "Homegrown Christmas at The Rocks",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/homegrown-christmas-at-the-rocks",
       "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
       "notice": "First observed in Radar snapshot"
     },
     {
       "kind": "new",
-      "id": "city-7934-2026-12-01",
-      "title": "Learn to read music and sing",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/learn-to-read-music-and-sing",
+      "id": "city-10316-2026-11-28",
+      "title": "Celebrate Glebe Christmas Fair with On Point Optical",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/glebe-christmas-street-fair-style-event",
       "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-5655-2026-12-01",
-      "title": "English class for seniors",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/english-class-for-seniors",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-8046-2026-12-01",
-      "title": "Ukulele class: Beginners to advanced",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/ukulele-class",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-7516-2026-12-01",
-      "title": "Free Bachata Classes in Kings Cross",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/free-bachata-classes-in-kings-cross",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-6103-2026-12-01",
-      "title": "Fun social dance",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/social-dance-in-ultimo-community-centre",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-2617-2026-12-01",
-      "title": "Healthy Ageing Hub",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/healthy-ageing-hub",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10674-2026-12-01",
-      "title": "Aboriginal & Torres Strait Islander Community Event",
-      "date": "2026-12-01",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/16-days-of-activism-aboriginal-torres-strait-islander",
-      "priority": "low",
-      "detectedAt": "2026-11-27T19:29:58.737830Z",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
       "notice": "First observed in Radar snapshot"
     }
   ],
   "history": [
+    {
+      "kind": "new",
+      "id": "city-10501-2026-11-28",
+      "title": "The Ralph Lauren holiday experience",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/the-ralph-lauren-holiday-experience",
+      "priority": "low",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-12921-2026-11-28",
+      "title": "Sydney Town Hall Christmas lights show",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-town-hall-christmas-lights-show",
+      "priority": "low",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-9383-2026-11-28",
+      "title": "Homegrown Christmas at The Rocks",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/homegrown-christmas-at-the-rocks",
+      "priority": "low",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
+      "notice": "First observed in Radar snapshot"
+    },
+    {
+      "kind": "new",
+      "id": "city-10316-2026-11-28",
+      "title": "Celebrate Glebe Christmas Fair with On Point Optical",
+      "date": "2026-11-28",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/events/glebe-christmas-street-fair-style-event",
+      "priority": "low",
+      "detectedAt": "2026-11-28T03:56:33.662151Z",
+      "notice": "First observed in Radar snapshot"
+    },
     {
       "kind": "possible_reschedule",
       "id": "city-4128-2026-11-28",
@@ -496,16 +344,6 @@
       "title": "Homegrown Christmas at The Rocks",
       "date": "2026-11-27",
       "url": "https://whatson.cityofsydney.nsw.gov.au/events/homegrown-christmas-at-the-rocks",
-      "priority": "low",
-      "detectedAt": "2026-11-27T04:17:25.415283Z",
-      "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "new",
-      "id": "city-10316-2026-11-28",
-      "title": "Celebrate Glebe Christmas Fair with On Point Optical",
-      "date": "2026-11-28",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/glebe-christmas-street-fair-style-event",
       "priority": "low",
       "detectedAt": "2026-11-27T04:17:25.415283Z",
       "notice": "First observed in Radar snapshot"
@@ -1243,46 +1081,13 @@
       "priority": "low",
       "detectedAt": "2026-11-25T04:54:28.192814Z",
       "notice": "First observed in Radar snapshot"
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-4128-2026-11-25",
-      "title": "Curtains Jazz Festival",
-      "oldDate": "2026-11-24",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/curtains-jazz-festival",
-      "priority": "low",
-      "detectedAt": "2026-11-24T20:41:03.762372Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-7375-2026-11-25",
-      "title": "Head On Photo Festival 2026",
-      "oldDate": "2026-11-24",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/head-on-photo-festival-2026",
-      "priority": "low",
-      "detectedAt": "2026-11-24T20:41:03.762372Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
-    },
-    {
-      "kind": "possible_reschedule",
-      "id": "city-5193-2026-11-25",
-      "title": "Theatre of Life Exhibition",
-      "oldDate": "2026-11-24",
-      "date": "2026-11-25",
-      "url": "https://whatson.cityofsydney.nsw.gov.au/events/theatre-of-life-exhibition",
-      "priority": "low",
-      "detectedAt": "2026-11-24T20:41:03.762372Z",
-      "notice": "Date differs across public snapshots; verify at organiser."
     }
   ],
   "counts": {
-    "new": 10,
+    "new": 4,
     "newlyObserved": 0,
     "updated": 0,
-    "possibleReschedule": 12,
+    "possibleReschedule": 0,
     "notObserved": 0
   },
   "warning": "A missing listing is NOT confirmation of cancellation. See original organiser."
